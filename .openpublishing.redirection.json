@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "lifecycle-data/browse/listings/index.yml",
+      "redirect_url": "/lifecycle/browse/",
+      "redirect_document_id⁯": false
+    }
+  ]
+}
