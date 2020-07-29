@@ -1,8 +1,13 @@
 {
   "redirections": [
     {
+      "source_path": "lifecycle-data/browse/index.yml",
+      "redirect_url": "/lifecycle/products/",
+      "redirect_document_id⁯": false
+    },
+    {
       "source_path": "lifecycle-data/browse/listings/index.yml",
-      "redirect_url": "/lifecycle/browse/",
+      "redirect_url": "/lifecycle/products/",
       "redirect_document_id⁯": false
     }
   ]
