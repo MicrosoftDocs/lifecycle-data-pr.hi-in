@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कॉमर्स सर्वर 2007
+  description: माइक्रोसॉफ्ट कॉमर्स सर्वर 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821070"
+name: माइक्रोसॉफ्ट कॉमर्स सर्वर 2007
+summary: >
+  माइक्रोसॉफ्ट कॉमर्स सर्वर 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, एंटरप्राइज, मानक
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/16/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 2
+  startDate: 05/29/2008
+  endDate: 07/12/2016
+- version: Service Pack 1
+  startDate: 06/22/2007
+  endDate: 07/14/2009
+- version: Original Release
+  startDate: 06/16/2006
+  endDate: 07/08/2008
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* एंटरप्राइज़\n* मानक"

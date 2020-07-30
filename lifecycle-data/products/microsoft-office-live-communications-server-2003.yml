@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस लाइव कम्युनिकेशंस सर्वर 2003
+  description: माइक्रोसॉफ्ट ऑफिस लाइव कम्युनिकेशंस सर्वर 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7f369f1316b72fd8eaebbe3b48dc0311474e947e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821385"
+name: माइक्रोसॉफ्ट ऑफिस लाइव कम्युनिकेशंस सर्वर 2003
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस लाइव कम्युनिकेशंस सर्वर 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/13/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 11/13/2003
+  endDate: 01/14/2014
+content: ''

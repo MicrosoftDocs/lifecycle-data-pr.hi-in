@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे एकीकृत पहुंच गेटवे २०१०
+  description: माइक्रोसॉफ्ट सबसे आगे एकीकृत एक्सेस गेटवे 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 250585910905b7c124d4f2ad3685d04e3bd64a03
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821037"
+name: माइक्रोसॉफ्ट सबसे आगे एकीकृत पहुंच गेटवे २०१०
+summary: >+
+  माइक्रोसॉफ्ट सबसे आगे एकीकृत एक्सेस गेटवे 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/26/2010
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 4
+  startDate: 11/20/2013
+  endDate: 04/14/2020
+- version: Service Pack 3
+  startDate: 02/18/2013
+  endDate: 01/13/2015
+- version: Service Pack 2
+  startDate: 08/06/2012
+  endDate: 04/08/2014
+- version: Service Pack 1
+  startDate: 12/10/2010
+  endDate: 10/08/2013
+- version: Original Release
+  startDate: 01/26/2010
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

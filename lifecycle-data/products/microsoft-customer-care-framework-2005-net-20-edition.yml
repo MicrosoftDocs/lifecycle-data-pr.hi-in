@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2005 .NET 2.0 संस्करण
+  description: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2005 .NET 2.0 संस्करण फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c319c9a4362d847d9ac7fe80a48a13b3d7209cdd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821060"
+name: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2005 .NET 2.0 संस्करण
+summary: >
+  माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2005 .NET 2.0 संस्करण [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- customer-care-framework
+policyType: fixed
+supportDates:
+  start: 11/11/2006
+  end: 01/10/2012
+  extendedEnd: 01/10/2017
+releases:
+- version: Original Release
+  startDate: 11/11/2006
+  endDate: 01/10/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"
