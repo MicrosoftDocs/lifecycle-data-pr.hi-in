@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे २०१०
+  description: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821041"
+name: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे २०१०
+summary: >
+  माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/01/2009
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 10/04/2011
+  endDate: 04/14/2020
+- version: Service Pack 1
+  startDate: 06/07/2010
+  endDate: 01/08/2013
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"

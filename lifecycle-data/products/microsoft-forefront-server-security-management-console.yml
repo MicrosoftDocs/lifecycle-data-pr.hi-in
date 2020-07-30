@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन सांत्वना
+  description: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन कंसोल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821042"
+name: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन सांत्वना
+summary: >+
+  माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन कंसोल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/10/2008
+  end: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 01/10/2008
+  endDate: 04/08/2014
+content: ''
