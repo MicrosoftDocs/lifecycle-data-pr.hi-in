@@ -1,0 +1,58 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज 10 IoT एंटरप्राइज
+  description: विंडोज 10 आईओटी एंटरप्राइज आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
+  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "879081"
+name: विंडोज 10 IoT एंटरप्राइज
+summary: >
+  विंडोज 10 आईओटी एंटरप्राइज [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > माइक्रोसॉफ्ट 14 अक्टूबर, २०२५ तक कम से एक विंडोज 10 अर्ध वार्षिक चैनल का समर्थन जारी रखेगा ।
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Version 2004
+  startDate: 05/27/2020
+  endDate: 12/14/2021
+- version: Version 1909
+  startDate: 11/12/2019
+  endDate: 05/10/2022
+- version: Version 1903
+  startDate: 08/29/2019
+  endDate: 12/08/2020
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 05/11/2021
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/10/2020
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 10/13/2020
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/08/2019
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/09/2019
+- version: Version 1511
+  startDate: 11/10/2015
+  endDate: 10/10/2017
+- version: Version 1507
+  startDate: 07/29/2015
+  endDate: 05/09/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज 10 आईओटी एंटरप्राइज का अवलोकन](/windows/iot-core/windows-iot-enterprise)\n* [विंडोज जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [विंडोज एक सेवा के रूप में (WaaS)](/windows/deployment/update/waas-quick-start)\n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> जब तक आस्थगित नहीं किया जाता है, तब तक मुख्यधारा की सहायता तिथि के सूचीबद्ध अंत से पहले बाद के विंडोज 10 अर्ध-वार्षिक चैनल फीचर अपडेट स्थापित किए जा सकते हैं।"
