@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: अभिव्यक्ति 2
+  description: अभिव्यक्ति 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820480"
+name: अभिव्यक्ति 2
+summary: "अभिव्यक्ति 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: ब्लेंड, डिजाइन, एन्कोडर, स्टूडियो, वेब\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मिश्रण\n* डिजाइन\n* एनकोडर\n* स्टूडियो\n* वेब"

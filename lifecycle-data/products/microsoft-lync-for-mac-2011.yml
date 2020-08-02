@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: मैक 2011 के लिए माइक्रोसॉफ्ट Lync
+  description: मैक 2011 के लिए माइक्रोसॉफ्ट Lync फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 207ed38b1b2ea1ec21b7f89d565df627ab2e7c42
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820465"
+name: मैक 2011 के लिए माइक्रोसॉफ्ट Lync
+summary: >+
+  मैक 2011 के लिए माइक्रोसॉफ्ट Lync [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [मैक पर व्यापार के लिए स्काइप](https://www.microsoft.com/download/details.aspx?id=54108)\n\n> [!NOTE]\n> मैक 2011 के लिए माइक्रोसॉफ्ट Lync के लिए समर्थन बढ़ाया गया है जैसा कि सभी ग्राहकों को मैक पर व्यवसाय के लिए स्काइप के लिए जीवनचक्र संक्रमण समय रेखा प्रदान करने के लिए दिखाया गया है।"

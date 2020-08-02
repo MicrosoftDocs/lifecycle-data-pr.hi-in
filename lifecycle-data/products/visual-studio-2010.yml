@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2010
+  description: विजुअल स्टूडियो 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820562"
+name: Visual Studio 2010
+summary: >+
+  विजुअल स्टूडियो 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, सभी, एएसपी .NET एमवीसी 4, एक्सप्रेस, एफ # 2.0 रनटाइम, लैब मैनेजमेंट, परफॉर्मेंस टूल्स, प्रीमियम, प्रोफेशनल, रिमोट डेबगर, एसडीके, शेल (इंटीग्रेटेड), शेल (आइसोलेड), टीम एजेंट्स, टीम एक्सप्लोरर, टेस्ट प्रोफेशनल, टूल्स फॉर ऑफिस सिस्टम 4.0 रनटाइम, अल्टीमेट, वीबी एक्सप्रेस, विजुअल सी # एक्सप्रेस, विजुअल सी ++ एक्सप्रेस, विजुअल वेब एक्सप्रेस, विजुअलाइजेशन & मॉडलिंग
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* सभी\n* एएसपी .नेट एमवीसी 4\n* एक्सप्रेस\n* F# 2.0 रनटाइम\n* लैब प्रबंधन\n* प्रदर्शन उपकरण\n* प्रीमियम\n* पेशेवर\n* रिमोट डिबगर\n* Sdk\n* शेल (एकीकृत)\n* शेल (अलग)\n* टीम एजेंट\n* टीम एक्सप्लोरर\n* टेस्ट प्रोफेशनल\n* कार्यालय प्रणाली के लिए उपकरण 4.0 रनटाइम\n* अंतिम\n* वीबी एक्सप्रेस\n* विजुअल सी # एक्सप्रेस\n* विजुअल सी ++ एक्सप्रेस\n* विजुअल वेब डेवलपर एक्सप्रेस\n* मॉडलिंग एसडीके & विज़ुअलाइज़ेशन"

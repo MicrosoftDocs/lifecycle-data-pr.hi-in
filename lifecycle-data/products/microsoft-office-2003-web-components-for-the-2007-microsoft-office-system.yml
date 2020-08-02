@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कार्यालय 2003 2007 माइक्रोसॉफ्ट कार्यालय प्रणाली के लिए वेब घटक
+  description: माइक्रोसॉफ्ट ऑफिस 2003 2007 माइक्रोसॉफ्ट ऑफिस सिस्टम के लिए वेब कंपोनेंट्स कंपोनेंट लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820463"
+name: माइक्रोसॉफ्ट कार्यालय 2003 2007 माइक्रोसॉफ्ट कार्यालय प्रणाली के लिए वेब घटक
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस 2003 2007 माइक्रोसॉफ्ट ऑफिस सिस्टम के लिए वेब कंपोनेंट्स [कंपोनेंट](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 01/27/2007
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"

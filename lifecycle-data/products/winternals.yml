@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंटरनल्स
+  description: विंटरनल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करते हैं।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820543"
+name: विंटरनल्स
+summary: >+
+  विंटरनल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करते हैं।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रशासक का पाक 5.0, डिफ्रग मैनेजर 3.0, प्रोटेक्शन मैनेजर 2.0, रिकवरी मैनेजर 3.0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट अधिग्रहण के लिए जीवन चक्र नीति](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> पहले डी-समर्थित संस्करणों को शामिल नहीं करता है। इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* प्रशासक पाक 5.0\n* डिफ्रॉग मैनेजर 3.0\n* संरक्षण प्रबंधक 2.0\n* रिकवरी मैनेजर 3.0"
