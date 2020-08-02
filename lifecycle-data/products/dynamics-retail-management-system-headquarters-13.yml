@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
+  description: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820730"
+name: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
+summary: >+
+  डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मुख्यालय, स्टोर संचालन
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/31/2006
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 01/31/2006
+  endDate: 04/12/2011
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मुख्यालय\n* स्टोर संचालन"

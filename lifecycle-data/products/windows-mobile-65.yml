@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज मोबाइल 6.5
+  description: विंडोज मोबाइल 6.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28da232d32da22a3b3ad4d3bf76e3bcf17609a1e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820905"
+name: विंडोज मोबाइल 6.5
+summary: >
+  विंडोज मोबाइल 6.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: व्यावसायिक, मानक
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/10/2009
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 09/10/2009
+  endDate: 01/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर\n* मानक"

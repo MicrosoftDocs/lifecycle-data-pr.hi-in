@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज एम्बेडेड स्टैंडर्ड 7
+  description: विंडोज एम्बेडेड स्टैंडर्ड 7 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820914"
+name: विंडोज एम्बेडेड स्टैंडर्ड 7
+summary: >+
+  विंडोज एम्बेडेड स्टैंडर्ड 7 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/29/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 10/11/2022
+  endDate: 10/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 10/12/2021
+  endDate: 10/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 10/13/2020
+  endDate: 10/12/2021
+- version: Service Pack 1
+  startDate: 02/28/2011
+  endDate: 10/13/2020
+- version: Original Release
+  startDate: 07/29/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अद्यतन कार्यक्रम (ESU)- चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अपडेट ओईएम के माध्यम से उपलब्ध हैं](/lifecycle/faq/extended-security-updates)\n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * विस्तारित सुरक्षा अपडेट (ईयू) विंडोज एम्बेडेड स्टैंडर्ड 7 के लिए ओईएम के माध्यम से समर्थन के अंत में एक अतिरिक्त तीन साल तक के लिए उपलब्ध हैं । अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें.\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"

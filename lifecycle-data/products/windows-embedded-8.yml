@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज एम्बेडेड 8
+  description: विंडोज एम्बेडेड 8 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820925"
+name: विंडोज एम्बेडेड 8
+summary: >+
+  विंडोज एम्बेडेड 8 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रो, स्टैंडर्ड
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 01/12/2016
+  extendedEnd: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n* [विंडोज एम्बेडेड 8.1](/lifecycle/products/windows-embedded-81-pro?branch=live)\n\n> [!NOTE]\n> ग्राहकों को समर्थित रहने के लिए विंडोज Emdedded 8.1 पर माइग्रेट करना होगा।\n\n## <a name=\"editions\"></a>संस्करण \n* प्रो\n* मानक"

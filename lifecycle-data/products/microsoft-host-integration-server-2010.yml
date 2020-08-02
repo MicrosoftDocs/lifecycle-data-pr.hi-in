@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2010
+  description: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2a46293719b430954ce5a27c1cea86948dfd35cd
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820719"
+name: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2010
+summary: >
+  माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन 12 जनवरी, 2021 को समाप्त होता है। नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/14/2010
+  end: 01/12/2016
+  extendedEnd: 01/12/2021
+releases:
+- version: Original Release
+  startDate: 11/14/2010
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [माइग्रेशन की अतिरिक्त जानकारी](/host-integration-server/install-and-config-guides/his-migration-tool-2020)"
