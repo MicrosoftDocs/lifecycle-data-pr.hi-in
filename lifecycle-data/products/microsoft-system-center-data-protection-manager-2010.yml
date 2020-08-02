@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा संरक्षण प्रबंधक 2010
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820989"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा संरक्षण प्रबंधक 2010
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर 2016 के लिए विंडोज डिफेंडर
+  description: विंडोज सर्वर 2016 के लिए विंडोज डिफेंडर घटक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820927"
+name: विंडोज सर्वर 2016 के लिए विंडोज डिफेंडर
+summary: >+
+  विंडोज सर्वर 2016 के लिए विंडोज डिफेंडर [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/15/2016
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज सर्वर 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> यह घटक अपने मूल उत्पाद, विंडोज सर्वर 2016 के जीवनचक्र का पालन करता है।"

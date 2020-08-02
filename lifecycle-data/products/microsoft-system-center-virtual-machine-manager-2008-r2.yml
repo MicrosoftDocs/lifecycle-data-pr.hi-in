@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर वर्चुअल मशीन मैनेजर 2008 R2
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर वर्चुअल मशीन मैनेजर 2008 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 22408e59250bdbf53a2ac31b15505a4e4cc6cd57
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820980"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर वर्चुअल मशीन मैनेजर 2008 R2
+summary: >
+  माइक्रोसॉफ्ट सिस्टम सेंटर वर्चुअल मशीन मैनेजर 2008 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/22/2009
+  end: 04/08/2014
+  extendedEnd: 04/09/2019
+releases:
+- version: Service Pack 1
+  startDate: 03/24/2011
+  endDate: 04/09/2019
+- version: Original Release
+  startDate: 11/22/2009
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

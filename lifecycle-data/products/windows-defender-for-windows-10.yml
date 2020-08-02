@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज 10 के लिए विंडोज डिफेंडर
+  description: विंडोज 10 के लिए विंडोज डिफेंडर घटक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4bebd1c04c81844b3d0dde309f7fd75b1856fdf6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820928"
+name: विंडोज 10 के लिए विंडोज डिफेंडर
+summary: >+
+  विंडोज 10 के लिए विंडोज डिफेंडर [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 07/29/2015
+  end: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 07/29/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज 10](/lifecycle/products/?terms=windows%2010)\n\n> [!NOTE]\n> इस रिलीज को एक घटक के रूप में जाना जाता है जो अपने मूल उत्पाद, विंडोज 10 के जीवनचक्र का पालन करता है।"

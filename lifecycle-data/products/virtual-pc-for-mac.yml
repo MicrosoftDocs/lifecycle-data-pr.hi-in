@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: मैक के लिए वर्चुअल पीसी
+  description: मैक के लिए वर्चुअल पीसी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cf556aeada0feade9a260e41c921b5f0ac6638e7
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820934"
+name: मैक के लिए वर्चुअल पीसी
+summary: >+
+  मैक के लिए वर्चुअल पीसी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/12/2003
+  end: 04/13/2010
+releases:
+- version: Original Release
+  startDate: 11/12/2003
+  endDate: 01/13/2009
+content: "\n\n> [!NOTE]\n> वर्जन 5.01, वर्जन 5.02, वर्जन 5.03, वर्जन 5.04, वर्जन 6.01, वर्जन 6.02, वर्जन 6.1, वर्जन 6.1.1 अपडेट, वर्जन 7, वर्जन 7.01"

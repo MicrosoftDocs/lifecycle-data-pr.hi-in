@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस प्रबंधक 2008
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस मैनेजर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820985"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस प्रबंधक 2008
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस मैनेजर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/14/2008
+  end: 07/09/2013
+  extendedEnd: 07/10/2018
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2008
+  endDate: 07/10/2018
+- version: Original Release
+  startDate: 05/14/2008
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
