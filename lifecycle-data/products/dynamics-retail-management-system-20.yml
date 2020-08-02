@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 2.0
+  description: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820735"
+name: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 2.0
+summary: >+
+  डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मुख्यालय, स्टोर संचालन
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 07/31/2007
+  end: 07/10/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Service Pack 5
+  startDate: 11/26/2013
+  endDate: 07/13/2021
+- version: Service Pack 4
+  startDate: 03/03/2011
+  endDate: 10/13/2015
+- version: Service Pack 3
+  startDate: 04/17/2009
+  endDate: 04/10/2012
+- version: Service Pack 2
+  startDate: 05/23/2008
+  endDate: 07/13/2010
+- version: Service Pack 1
+  startDate: 07/31/2007
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मुख्यालय\n* स्टोर संचालन"

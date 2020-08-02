@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस एक्सेस 2003
+  description: माइक्रोसॉफ्ट ऑफिस एक्सेस 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c987fede8716021d406466d7e02305cfe63b81ae
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820701"
+name: माइक्रोसॉफ्ट ऑफिस एक्सेस 2003
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस एक्सेस 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/27/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 11/27/2003
+  endDate: 04/08/2014
+content: ''

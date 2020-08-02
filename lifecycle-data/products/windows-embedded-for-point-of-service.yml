@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: प्वाइंट ऑफ सर्विस के लिए एम्बेडेड विंडोज
+  description: प्वाइंट ऑफ सर्विस के लिए एम्बेडेड विंडोज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820918"
+name: प्वाइंट ऑफ सर्विस के लिए एम्बेडेड विंडोज
+summary: >
+  प्वाइंट ऑफ सर्विस के लिए एम्बेडेड विंडोज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/06/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 10/07/2008
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 06/06/2005
+  endDate: 10/12/2010
+content: "\n## <a name=\"links\"></a>लिंक \n* [प्वाइंट ऑफ सर्विस सपोर्ट के लिए एम्बेडेड विंडोज](https://support.microsoft.com/help/18581)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Home Server
+  description: विंडोज होम सर्वर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7858655cfe6489b145f6ec8ef4d2d113c0a1e22b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820909"
+name: Windows Home Server
+summary: >+
+  विंडोज होम सर्वर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/11/2007
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 10/11/2007
+  endDate: 01/08/2013
+content: ''
