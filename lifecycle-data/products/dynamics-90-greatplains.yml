@@ -1,0 +1,44 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स 9.0 ग्रेटप्लाइंस
+  description: डायनेमिक्स 9.0 ग्रेटप्लाइंस फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820493"
+name: डायनेमिक्स 9.0 ग्रेटप्लाइंस
+summary: >
+  डायनेमिक्स 9.0 ग्रेटप्लाइंस [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/19/2005
+  end: 01/11/2011
+  extendedEnd: 01/11/2011
+releases:
+- version: Service Pack 4
+  startDate: 10/09/2008
+  endDate: 01/11/2011
+- version: Service Pack 3
+  startDate: 10/03/2007
+  endDate: 10/12/2010
+- version: Service Pack 2
+  startDate: 12/01/2006
+  endDate: 10/13/2009
+- version: Service Pack 1
+  startDate: 05/26/2006
+  endDate: 01/08/2008
+- version: Original Release
+  startDate: 12/19/2005
+  endDate: 01/11/2011
+content: ''

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस सिस्टम संस्करण 2003 के लिए विजुअल स्टूडियो टूल्स
+  description: माइक्रोसॉफ्ट ऑफिस सिस्टम संस्करण 2003 के लिए विजुअल स्टूडियो टूल्स फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820558"
+name: माइक्रोसॉफ्ट ऑफिस सिस्टम संस्करण 2003 के लिए विजुअल स्टूडियो टूल्स
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस सिस्टम संस्करण 2003 के लिए विजुअल स्टूडियो [टूल्स फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 12/04/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/04/2003
+  endDate: 01/14/2014
+content: ''

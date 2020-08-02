@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस एक्सपी वेब कंपोनेंट्स इन ऑफिस 2003
+  description: माइक्रोसॉफ्ट ऑफिस एक्सपी वेब कंपोनेंट्स इन ऑफिस 2003 कंपोनेंट लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71e1eeae85bb7963657d0aa63bbe6361221ea7a6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820458"
+name: माइक्रोसॉफ्ट ऑफिस एक्सपी वेब कंपोनेंट्स इन ऑफिस 2003
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस एक्सपी वेब कंपोनेंट्स इन ऑफिस 2003 [कंपोनेंट](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 11/17/2003
+  end: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 11/17/2003
+  endDate: 04/08/2014
+content: ''

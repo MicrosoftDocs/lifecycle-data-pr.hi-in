@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Embedded
+  description: विंडोज एक्सपी एम्बेडेड फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820545"
+name: Windows XP Embedded
+summary: >
+  विंडोज एक्सपी एम्बेडेड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एम्बेडेड
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/30/2002
+  end: 01/11/2011
+  extendedEnd: 01/12/2016
+releases:
+- version: Service Pack 3
+  startDate: 11/14/2008
+  endDate: 01/12/2016
+- version: Service Pack 2
+  startDate: 01/18/2005
+  endDate: 01/11/2011
+- version: Service Pack 1
+  startDate: 10/22/2002
+  endDate: 04/10/2007
+- version: Original Release
+  startDate: 01/30/2002
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज एक्सपी एम्बेडेड समर्थन](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एम्बेडेड"
