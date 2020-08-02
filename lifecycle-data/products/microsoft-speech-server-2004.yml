@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट स्पीच सर्वर 2004
+  description: माइक्रोसॉफ्ट स्पीच सर्वर 2004 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 50ebb3b700a83d7d247d368d948c2ff051a14b18
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820678"
+name: माइक्रोसॉफ्ट स्पीच सर्वर 2004
+summary: >+
+  माइक्रोसॉफ्ट स्पीच सर्वर 2004 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 04/28/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 04/28/2004
+  endDate: 07/08/2014
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"

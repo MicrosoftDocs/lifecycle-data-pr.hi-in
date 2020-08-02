@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio 2010
+  description: विसियो 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bf96814151cea0f8a6d28a13d6b30e3de6c379a0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820565"
+name: Visio 2010
+summary: >+
+  विसियो 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, व्यावसायिक, मानक
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Service Pack 2
+  startDate: 07/19/2013
+  endDate: 10/13/2020
+- version: Service Pack 1
+  startDate: 06/28/2011
+  endDate: 10/14/2014
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 07/10/2012
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/DeployOffice/office-2010-end-support-roadmap)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* प्रीमियम\n* पेशेवर\n* मानक"

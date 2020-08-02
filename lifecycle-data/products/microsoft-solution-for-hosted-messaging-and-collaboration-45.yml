@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: होस्ट किए गए मैसेजिंग और सहयोग 4.5 के लिए माइक्रोसॉफ्ट समाधान
+  description: होस्ट किए गए मैसेजिंग और सहयोग 4.5 के लिए माइक्रोसॉफ्ट समाधान फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cbc7bce389f60d1972cae075005525780c82eed0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820679"
+name: होस्ट किए गए मैसेजिंग और सहयोग 4.5 के लिए माइक्रोसॉफ्ट समाधान
+summary: >+
+  होस्ट किए गए मैसेजिंग और सहयोग 4.5 के लिए माइक्रोसॉफ्ट समाधान [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/11/2008
+  end: 12/12/2011
+releases:
+- version: Original Release
+  startDate: 09/11/2008
+  endDate: 12/12/2011
+content: ''

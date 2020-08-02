@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कार्यालय फॉर्म सर्वर 2007
+  description: माइक्रोसॉफ्ट ऑफिस फॉर्म्स सर्वर 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 01af695d1e4122676e1fbf362392e8b032ccf71e
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820691"
+name: माइक्रोसॉफ्ट कार्यालय फॉर्म सर्वर 2007
+summary: "माइक्रोसॉफ्ट ऑफिस फॉर्म्स सर्वर 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें। \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 10/09/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Service Pack 3
+  startDate: 10/25/2011
+  endDate: 10/10/2017
+- version: Service Pack 2
+  startDate: 04/28/2009
+  endDate: 01/08/2013
+- version: Service Pack 1
+  startDate: 12/11/2007
+  endDate: 07/13/2010
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"

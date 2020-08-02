@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कार्यालय नाली 2007
+  description: माइक्रोसॉफ्ट ऑफिस ग्रूव 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b771dec5ab12ab49e3317d53aea8e91f5d95bd40
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820685"
+name: माइक्रोसॉफ्ट कार्यालय नाली 2007
+summary: "माइक्रोसॉफ्ट ऑफिस ग्रूव 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 07/10/2012
+  extendedEnd: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 10/10/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"
