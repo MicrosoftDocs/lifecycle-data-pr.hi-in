@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट रिपोर्ट दर्शक 2010 पुनर्वितरण योग्य
+  description: माइक्रोसॉफ्ट रिपोर्ट व्यूअर 2010 पुनर्वितरणीय फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820443"
+name: माइक्रोसॉफ्ट रिपोर्ट दर्शक 2010 पुनर्वितरण योग्य
+summary: >+
+  माइक्रोसॉफ्ट रिपोर्ट व्यूअर 2010 पुनर्वितरणीय [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 09/08/2020
+releases:
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 09/08/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"

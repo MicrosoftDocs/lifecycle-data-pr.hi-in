@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: सॉफ्टवेयर लाइसेंसिंग और प्रोटेक्शन सर्वर
+  description: सॉफ्टवेयर लाइसेंसिंग और प्रोटेक्शन सर्वर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820430"
+name: सॉफ्टवेयर लाइसेंसिंग और प्रोटेक्शन सर्वर
+summary: >
+  सॉफ्टवेयर लाइसेंसिंग और प्रोटेक्शन सर्वर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+
+  > [!IMPORTANT]
+
+  > सॉफ्टवेयर लाइसेंसिंग एंड प्रोटेक्शन सर्वर (एसएलपी) के विनिवेश के कारण, माइक्रोसॉफ्ट ने 24 सितंबर, 2009 तक एसएलपी का समर्थन किया।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2007
+  end: 09/24/2009
+  extendedEnd: 09/24/2009
+releases:
+- version: Original Release
+  startDate: 12/30/2007
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [सॉफ्टवेयर लाइसेंसिंग एंड प्रोटेक्शन सर्वर (एसएलपी)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज कम्युनिकेशन फाउंडेशन रिया सर्विसेज
+  description: विंडोज कम्युनिकेशन फाउंडेशन रिया सर्विसेज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3876aae1488148f489c9c4c46dfd24bb89fd9480
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820396"
+name: विंडोज कम्युनिकेशन फाउंडेशन रिया सर्विसेज
+summary: >+
+  विंडोज कम्युनिकेशन फाउंडेशन रिया सर्विसेज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+products:
+- dotnet
+policyType: fixed
+supportDates:
+  start: 08/12/2010
+  end: 09/08/2015
+  extendedEnd: 09/08/2020
+releases:
+- version: Original Release
+  startDate: 08/12/2010
+  endDate: 09/08/2020
+content: ''
