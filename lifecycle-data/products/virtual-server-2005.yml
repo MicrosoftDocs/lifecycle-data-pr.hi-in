@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: वर्चुअल सर्वर 2005
+  description: वर्चुअल सर्वर 2005 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820569"
+name: वर्चुअल सर्वर 2005
+summary: >+
+  वर्चुअल सर्वर 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, मैनेजमेंट पैक, स्टैंडर्ड
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/29/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/29/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मैनेजमेंट पैक\n* मानक"

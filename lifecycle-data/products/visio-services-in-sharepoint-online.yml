@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: शेयरपॉइंट ऑनलाइन में विसियो सेवाएं
+  description: शेयरपॉइंट ऑनलाइन में विसियो सेवाएं आधुनिक जीवनचक्र नीति का पालन करती हैं।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820566"
+name: शेयरपॉइंट ऑनलाइन में विसियो सेवाएं
+summary: >+
+  शेयरपॉइंट ऑनलाइन में विसियो सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं।
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/16/2010
+  end: 09/30/2020
+releases:
+- version: Original Release
+  startDate: 04/16/2010
+  endDate: 09/30/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"

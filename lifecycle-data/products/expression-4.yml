@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: अभिव्यक्ति 4
+  description: अभिव्यक्ति 4 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820479"
+name: अभिव्यक्ति 4
+summary: >+
+  अभिव्यक्ति 4 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डिजाइन, एनकोडर, स्टूडियो अल्टीमेट, वेब
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 08/26/2010
+  end: 09/08/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Original Release
+  startDate: 08/26/2010
+  endDate: 07/14/2020
+content: "\n\n> [!NOTE]\n> अभिव्यक्ति स्टूडियो अल्टीमेट 4 के लिए मुख्यधारा के समर्थन का अंत 13 अक्टूबर, 2015 है।\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइन\n* एनकोडर\n* स्टूडियो अल्टीमेट\n* वेब"
