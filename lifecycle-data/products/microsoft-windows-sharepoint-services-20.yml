@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट विंडोज शेयरपॉइंट सर्विसेज 2.0
+  description: माइक्रोसॉफ्ट विंडोज शेयरपॉइंट सर्विसेज 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820967"
+name: माइक्रोसॉफ्ट विंडोज शेयरपॉइंट सर्विसेज 2.0
+summary: "माइक्रोसॉफ्ट विंडोज शेयरपॉइंट सर्विसेज 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है । \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/03/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 06/03/2003
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज शेयरपॉइंट सर्विसेज 2.0 डेवलपर दस्तावेज](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [विंडोज शेयरपॉइंट सर्विसेज 2.0 उत्पाद दस्तावेज](/previous-versions/tn-archive/cc288501(v=office.12))"

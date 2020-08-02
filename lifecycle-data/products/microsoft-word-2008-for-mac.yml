@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: मैक के लिए माइक्रोसॉफ्ट वर्ड 2008
+  description: मैक के लिए माइक्रोसॉफ्ट वर्ड 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 275b237ac46d4769b7d8fbc434351c0cb156b638
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820960"
+name: मैक के लिए माइक्रोसॉफ्ट वर्ड 2008
+summary: >+
+  मैक के लिए माइक्रोसॉफ्ट वर्ड 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''

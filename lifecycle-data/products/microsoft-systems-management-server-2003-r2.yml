@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम्स मैनेजमेंट सर्वर 2003 R2
+  description: माइक्रोसॉफ्ट सिस्टम्स मैनेजमेंट सर्वर 2003 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820974"
+name: माइक्रोसॉफ्ट सिस्टम्स मैनेजमेंट सर्वर 2003 R2
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम्स मैनेजमेंट सर्वर 2003 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/25/2006
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 08/25/2006
+  endDate: 07/08/2008
+content: ''
