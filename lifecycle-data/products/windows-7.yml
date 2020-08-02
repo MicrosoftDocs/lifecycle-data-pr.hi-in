@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7
+  description: विंडोज 7 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820403"
+name: Windows 7
+summary: "विंडोज 7 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, एंटरप्राइज एन, होम बेसिक, होम प्रीमियम, होम प्रीमियम एन, प्रोफेशनल, एंबेडेड सिस्टम के लिए प्रोफेशनल, प्रोफेशनल एन, स्टार्टर, स्टार्टर एन, अल्टीमेट, अल्टीमेट फॉर एम्बेडेड सिस्टम्स, अल्टीमेट एन\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें। \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/22/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 01/11/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/12/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> '* विस्तारित सुरक्षा अपडेट (ईयू) विंडोज 7 पेशेवर, एंटरप्राइज और पेशेवर के लिए विशिष्ट वॉल्यूम लाइसेंसिंग कार्यक्रमों के माध्यम से उपलब्ध हैं, जो समर्थन के अंत में एक अतिरिक्त तीन साल तक इस उत्पाद के एम्बेडेड सिस्टम संस्करणों के लिए हैं। अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [विंडोज 7 से विंडोज 10 में अपग्रेड करना](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [विस्तारित सुरक्षा अद्यतन कार्यक्रम (ईयू)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* एंटरप्राइज एन\n* होम बेसिक\n* होम प्रीमियम\n* होम प्रीमियम एन\n* पेशेवर\n* एम्बेडेड सिस्टम के लिए पेशेवर\n* प्रोफेशनल एन\n* स्टार्टर\n* स्टार्टर एन\n* अंतिम\n* एम्बेडेड सिस्टम के लिए अंतिम\n* अंतिम एन"

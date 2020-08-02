@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर 2019 के लिए विंडोज सर्वर अपडेट सेवाएं
+  description: विंडोज सर्वर 2019 के लिए विंडोज सर्वर अपडेट सेवाएं घटक जीवन चक्र नीति का पालन करती हैं।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9ef2f54a3fe3a1de1d28984b691c0b1ed189d9db
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820394"
+name: विंडोज सर्वर 2019 के लिए विंडोज सर्वर अपडेट सेवाएं
+summary: >+
+  विंडोज सर्वर 2019 के लिए विंडोज सर्वर अपडेट सेवाएं [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करती हैं।
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 03/04/2019
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज सर्वर 2019](/lifecycle/products/windows-server-2019)\n\n> [!NOTE]\n> यह घटक अपने मूल उत्पाद, विंडोज सर्वर 2019 के जीवनचक्र का पालन करता है।"

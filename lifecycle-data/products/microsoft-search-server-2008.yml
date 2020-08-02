@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सर्च सर्वर 2008
+  description: माइक्रोसॉफ्ट सर्च सर्वर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8cc4d7be772a82fb4a16297daa58a2cc779aa3ab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "820442"
+name: माइक्रोसॉफ्ट सर्च सर्वर 2008
+summary: "माइक्रोसॉफ्ट सर्च सर्वर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: एक्सप्रेस, मानक\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 06/03/2008
+  end: 07/09/2013
+  extendedEnd: 07/10/2018
+releases:
+- version: Original Release
+  startDate: 06/03/2008
+  endDate: 07/10/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सप्रेस\n* मानक"
