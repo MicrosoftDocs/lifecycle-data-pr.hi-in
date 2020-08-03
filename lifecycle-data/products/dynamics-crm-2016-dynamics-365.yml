@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365)
+  description: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/30/2020
+  ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
+  ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/30/2020
+  ms.locfileid: "878783"
+name: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365)
+summary: >+
+  डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 11/30/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: December 2016 Service Pack (ver 8.2)
+  startDate: 12/16/2016
+  endDate: 01/13/2026
+- version: Service Pack 1 (ver 8.1)
+  startDate: 05/23/2016
+  endDate: 01/08/2019
+- version: Original Release (ver 8.0)
+  startDate: 11/30/2015
+  endDate: 07/10/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [डायनेमिक्स 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
