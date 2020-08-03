@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिंक फ्रेमवर्क 1.0
+  description: माइक्रोसॉफ्ट सिंक फ्रेमवर्क 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821002"
+name: माइक्रोसॉफ्ट सिंक फ्रेमवर्क 1.0
+summary: >
+  माइक्रोसॉफ्ट सिंक फ्रेमवर्क 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 11/04/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 1
+  startDate: 06/29/2010
+  endDate: 01/08/2019
+- version: Original Release
+  startDate: 11/04/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> सिंक फ्रेमवर्क 1.0 एसपी1 समर्थन उस तारीख को समाप्त होता है जब तक कि शेयरपॉइंट सर्वर 2010, 2013, 2016 या 2019 के घटक के रूप में वितरित न किया जाए। घटकों को उनके मूल उत्पाद या मंच के समान समर्थन प्राप्त होता है।"

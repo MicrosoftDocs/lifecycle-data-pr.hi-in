@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस शेयरपॉइंट पोर्टल सर्वर 2003
+  description: माइक्रोसॉफ्ट ऑफिस शेयरपॉइंट पोर्टल सर्वर 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ddcdf5740b01da6e536d1d65bcde6a80f702e8e6
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821014"
+name: माइक्रोसॉफ्ट ऑफिस शेयरपॉइंट पोर्टल सर्वर 2003
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस शेयरपॉइंट पोर्टल सर्वर 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/23/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 09/18/2007
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 10/18/2005
+  endDate: 10/14/2008
+- version: Service Pack 1
+  startDate: 10/18/2004
+  endDate: 01/09/2007
+- version: Original Release
+  startDate: 11/23/2003
+  endDate: 01/10/2006
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
