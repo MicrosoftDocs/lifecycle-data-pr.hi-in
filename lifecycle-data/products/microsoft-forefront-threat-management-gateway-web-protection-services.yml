@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे वेब संरक्षण सेवाएं
+  description: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे वेब प्रोटेक्शन सर्विसेज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है ।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c4c69a070513e336ed8305b8f6a37c2bf5972d1c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821039"
+name: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे वेब संरक्षण सेवाएं
+summary: >+
+  माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे वेब प्रोटेक्शन सर्विसेज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है ।
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/01/2009
+  end: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 12/01/2009
+  endDate: 12/31/2015
+content: "\n## <a name=\"links\"></a>लिंक \n* [सबसे आगे रोडमैप](https://blogs.technet.microsoft.com/hybridcloud/2012/09/12/important-changes-to-forefront-product-roadmaps/)\n\n> [!NOTE]\n> सबसे आगे ब्रांड के तहत सुरक्षा उत्पादों का रोडमैप बदल गया है।यह उत्पाद 31 दिसंबर, 2015 तक बंद कर दिया गया है।"

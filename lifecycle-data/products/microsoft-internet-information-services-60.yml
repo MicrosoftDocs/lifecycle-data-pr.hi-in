@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 6.0
+  description: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 6.0 घटक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9fa80841324fc24ce8644f57af455c1a512c817f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821035"
+name: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 6.0
+summary: >+
+  माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 6.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 05/28/2003
+releases:
+- version: Original Release
+  startDate: 05/28/2003
+content: "\n\n> [!NOTE]\n> इस रिलीज को एक घटक के रूप में जाना जाता है जो अपने मूल प्रमुख उत्पाद, विंडोज सर्वर 2003 के समर्थन जीवनचक्र का अनुसरण करता है"
