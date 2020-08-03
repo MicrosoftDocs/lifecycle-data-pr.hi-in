@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: सिस्टम सेंटर 2019 डेटा प्रोटेक्शन मैनेजर
+  description: सिस्टम सेंटर 2019 डेटा प्रोटेक्शन मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 32b0f510b582e9c918a5e47ca02792837028cc91
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869873"
+name: सिस्टम सेंटर 2019 डेटा प्रोटेक्शन मैनेजर
+summary: >+
+  सिस्टम सेंटर 2019 डेटा प्रोटेक्शन मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला वर्चुअल वान
+  description: नीला वर्चुअल वान आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f6c8e8b638b9bb6a65bd3213cc23c61ad3c39b0b
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869821"
+name: नीला वर्चुअल वान
+summary: >+
+  नीला वर्चुअल वान [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/03/2018
+releases:
+- version: Original Release
+  startDate: 09/03/2018
+content: ''

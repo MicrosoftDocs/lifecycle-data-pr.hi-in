@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो 2017
+  description: विजुअल स्टूडियो 2017 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869861"
+name: विजुअल स्टूडियो 2017
+summary: >+
+  विजुअल स्टूडियो 2017 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मैक के लिए एजेंट, बिल्ड टूल्स, कम्युनिटी, एंटरप्राइज, फीडबैक क्लाइंट, इंटेलीट्रेस स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, प्रोफेशनल, रिमोट टूल्स, टीम एक्सप्लोरर, टेस्ट प्रोफेशनल, विजुअल सी ++ पुनर्वितरणीय
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/07/2017
+  end: 04/12/2022
+  extendedEnd: 04/13/2027
+releases:
+- version: Version 15.9
+  startDate: 11/13/2018
+  endDate: 04/13/2027
+- version: Version 15.0
+  startDate: 03/07/2017
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* उपकरण बनाएं\n* समुदाय\n* एंटरप्राइज़\n* फीडबैक क्लाइंट\n* मैक के लिए\n* इंटेलीट्रेस स्टैंडअलोन कलेक्टर\n* प्रदर्शन उपकरण\n* पेशेवर\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* टेस्ट प्रोफेशनल\n* विजुअल सी ++ पुनर्वितरण योग्य"

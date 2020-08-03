@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर IoT 2019
+  description: विंडोज सर्वर IoT 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869839"
+name: विंडोज सर्वर IoT 2019
+summary: >+
+  विंडोज सर्वर IoT 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, अनिवार्य, मानक, दूरसंचार
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> विंडोज सर्वर IoT 2019 के सभी संस्करण विंडोज सर्वर 2019 जीवनचक्र का पालन करते हैं।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* अत्यावश्यक वस्तुएं\n* मानक\n* दूरसंचार"

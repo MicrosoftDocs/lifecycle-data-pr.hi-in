@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2016
+  description: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3ee70f1721ef994d1bbba7618623db190d82651
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869789"
+name: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2016
+summary: >+
+  माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/31/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 12/31/2016
+  endDate: 01/11/2027
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"

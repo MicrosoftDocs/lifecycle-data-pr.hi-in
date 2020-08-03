@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: सिल्वरलाइट 5
+  description: सिल्वरलाइट 5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869890"
+name: सिल्वरलाइट 5
+summary: >+
+  सिल्वरलाइट 5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2011
+  end: 10/12/2021
+releases:
+- version: Original Release
+  startDate: 12/09/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिल्वरलाइट 5 10/12/2021 के माध्यम से यहां सूचीबद्ध ब्राउज़रों का समर्थन करेगा, या अंतर्निहित ब्राउज़रों के जीवनचक्र के माध्यम से, जो भी छोटा है ।](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [सिल्वरलाइट एंड ऑफ सपोर्ट](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> माइक्रोसॉफ्ट टूल्स के लिए समर्थन समाप्त करने से पहले न्यूनतम 12 महीने की अधिसूचना प्रदान करेगा।"

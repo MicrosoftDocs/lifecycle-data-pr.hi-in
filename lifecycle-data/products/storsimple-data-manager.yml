@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: StorSimple डेटा मैनेजर
+  description: StorSimple डेटा प्रबंधक फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cca889145816fcf7bde921df52a32be61a97a54d
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869864"
+name: StorSimple डेटा मैनेजर
+summary: >+
+  StorSimple डेटा प्रबंधक [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 01/18/2018
+  end: 07/01/2020
+  extendedEnd: 12/31/2022
+releases:
+- version: Original Release
+  startDate: 01/18/2018
+content: ''

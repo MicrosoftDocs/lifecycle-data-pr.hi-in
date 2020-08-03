@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स 365 कॉमर्स
+  description: डायनेमिक्स 365 कॉमर्स आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: caa3896b6ce5390654a79c694a018b6e5471d0ec
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869827"
+name: डायनेमिक्स 365 कॉमर्स
+summary: >+
+  डायनेमिक्स 365 कॉमर्स [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/01/2017
+releases:
+- version: Original Release
+  startDate: 07/01/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट डायनेमिक्स 365 रोडमैप](https://roadmap.dynamics.com/)\n* [नाम परिवर्तन के बारे में अधिक जानकारी के लिए](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> गतिशीलता 365 खुदरा अब गतिशीलता 365 वाणिज्य है"
