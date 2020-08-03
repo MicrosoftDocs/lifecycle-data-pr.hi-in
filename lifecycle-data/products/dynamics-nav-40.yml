@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स एनएवी 4.0
+  description: डायनेमिक्स एनएवी 4.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821169"
+name: डायनेमिक्स एनएवी 4.0
+summary: "डायनेमिक्स एनएवी 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है । \n"
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/12/2004
+  end: 01/12/2010
+releases:
+- version: Service Pack 3
+  startDate: 10/23/2006
+  endDate: 01/12/2010
+- version: Service Pack 2
+  startDate: 04/26/2006
+  endDate: 01/08/2008
+- version: Service Pack 1
+  startDate: 11/01/2005
+  endDate: 07/10/2007
+- version: Original Release
+  startDate: 12/12/2004
+  endDate: 01/12/2010
+content: ''

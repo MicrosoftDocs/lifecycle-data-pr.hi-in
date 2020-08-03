@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस प्रोजेक्ट 2003
+  description: माइक्रोसॉफ्ट ऑफिस प्रोजेक्ट 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 51b9bd9785cbcecf7248ab770a4a2423ad6135a1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821366"
+name: माइक्रोसॉफ्ट ऑफिस प्रोजेक्ट 2003
+summary: "माइक्रोसॉफ्ट ऑफिस प्रोजेक्ट 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: व्यावसायिक, मानक\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 11/17/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 3
+  startDate: 09/17/2007
+  endDate: 04/08/2014
+- version: Service Pack 2
+  startDate: 09/26/2005
+  endDate: 10/14/2008
+- version: Service Pack 1
+  startDate: 07/27/2004
+  endDate: 10/10/2006
+- version: Original Release
+  startDate: 11/17/2003
+  endDate: 07/27/2005
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर\n* मानक"

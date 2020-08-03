@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: बिजटॉल सर्वर 2010
+  description: बिजटॉल सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821313"
+name: बिजटॉल सर्वर 2010
+summary: >+
+  बिजटॉल सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, मानक
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/14/2010
+  end: 01/12/2016
+  extendedEnd: 01/12/2021
+releases:
+- version: Original Release
+  startDate: 11/14/2010
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [संस्करण की जानकारी](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* एंटरप्राइज़\n* मानक"

@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट इंटेलिजेंट एप्लीकेशन गेटवे 2007
+  description: माइक्रोसॉफ्ट इंटेलिजेंट एप्लीकेशन गेटवे 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821135"
+name: माइक्रोसॉफ्ट इंटेलिजेंट एप्लीकेशन गेटवे 2007
+summary: >
+  माइक्रोसॉफ्ट इंटेलिजेंट एप्लीकेशन गेटवे 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/01/2007
+  end: 07/10/2012
+  extendedEnd: 07/11/2017
+releases:
+- version: Service Pack 2
+  startDate: 11/27/2008
+  endDate: 07/11/2017
+- version: Service Pack 1
+  startDate: 09/03/2007
+  endDate: 01/12/2010
+- version: Original Release
+  startDate: 06/01/2007
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट इंटेलिजेंट एप्लीकेशन गेटवे 2007 रोडमैप](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

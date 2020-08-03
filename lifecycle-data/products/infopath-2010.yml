@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: InfoPath 2010
+  description: इंफोपाथ 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89a24a2dbfa198829abde7e854cfb1a775c8f6e2
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821138"
+name: InfoPath 2010
+summary: >+
+  इंफोपाथ 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"

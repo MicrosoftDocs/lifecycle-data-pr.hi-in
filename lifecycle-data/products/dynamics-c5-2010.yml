@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: गतिशीलता C5 2010
+  description: गतिशीलता C5 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 42e669783f2448e3ff9834c2ec8d0924b65b408b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821187"
+name: गतिशीलता C5 2010
+summary: >+
+  गतिशीलता C5 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/30/2009
+  end: 01/13/2015
+releases:
+- version: Service Pack 2
+  startDate: 04/15/2013
+  endDate: 01/13/2015
+- version: Service Pack 1
+  startDate: 02/28/2012
+  endDate: 07/08/2014
+- version: Original Release
+  startDate: 11/30/2009
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"

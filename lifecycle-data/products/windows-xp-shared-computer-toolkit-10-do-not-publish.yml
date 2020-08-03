@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज एक्सपी साझा कंप्यूटर टूलकिट 1.0
+  description: विंडोज एक्सपी साझा कंप्यूटर टूलकिट 1.0 घटक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cda86dcb795ef79a185306ce5bc5517397457e53
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821266"
+name: विंडोज एक्सपी साझा कंप्यूटर टूलकिट 1.0
+summary: >+
+  विंडोज एक्सपी साझा कंप्यूटर टूलकिट 1.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 08/24/2005
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 08/24/2005
+  endDate: 01/10/2012
+content: ''
