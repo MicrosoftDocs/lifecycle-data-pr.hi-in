@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट उद्यम के लिए 365 ऐप्स
+  description: उद्यम के लिए माइक्रोसॉफ्ट 365 ऐप्स आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5ba40811a13f29fa2677ddd6dfa56571327df7be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855358"
+name: माइक्रोसॉफ्ट उद्यम के लिए 365 ऐप्स
+summary: >+
+  उद्यम के लिए माइक्रोसॉफ्ट 365 ऐप्स [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>लिंक \n* [ऑफिस कॉन्फ़िगरेशन सपोर्ट मैट्रिक्स](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [सर्विसिंग जानकारी](/DeployOffice/change-management-for-office-365-clients)\n\n> [!NOTE]\n> इस प्रोडक्ट को पहले ऑफिस 365 प्रोप्लस नाम दिया गया था।"

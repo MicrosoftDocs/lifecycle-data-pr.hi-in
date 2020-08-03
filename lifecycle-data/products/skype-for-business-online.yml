@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ऑनलाइन व्यापार के लिए स्काइप
+  description: बिजनेस ऑनलाइन के लिए स्काइप आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855595"
+name: ऑनलाइन व्यापार के लिए स्काइप
+summary: >
+  बिजनेस ऑनलाइन के लिए स्काइप [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > यह सेवा 31 जुलाई 2021 को सेवानिवृत्त होगी। माइग्रेशन मार्गदर्शन के लिए नीचे देखें।
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 05/01/2015
+  end: 07/31/2021
+releases:
+- version: Original Release
+  startDate: 05/01/2015
+  endDate: 07/31/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/MicrosoftTeams/upgrade-start-here)"

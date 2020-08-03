@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज एम्बेडेड हैंडहेल्ड 6.5
+  description: विंडोज एम्बेडेड हैंडहेल्ड 6.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855671"
+name: विंडोज एम्बेडेड हैंडहेल्ड 6.5
+summary: >
+  विंडोज एम्बेडेड हैंडहेल्ड 6.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/17/2010
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 12/17/2010
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [IoT प्रलेखन के लिए विंडोज](/windows/iot-core/)"

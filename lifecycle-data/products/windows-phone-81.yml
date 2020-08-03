@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज फोन 8.1
+  description: विंडोज फोन 8.1 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855498"
+name: विंडोज फोन 8.1
+summary: >
+  विंडोज फोन 8.1 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/11/2017
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/11/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज फोन 8.1 एफएक्यू](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> माइक्रोसॉफ्ट लाइफसाइकिल स्टार्ट डेट के बाद न्यूनतम ३६ महीने के लिए सिक्योरिटी अपडेट सहित ऑपरेटिंग सिस्टम के लिए अपडेट उपलब्ध कराएगा । ये अपडेट वृद्धिशील होंगे, प्रत्येक अपडेट के साथ इससे पहले के अपडेट पर बनाया गया था। ग्राहकों को समर्थित रहने के लिए प्रत्येक अपडेट इंस्टॉल करने की आवश्यकता होती है। इन वृद्धिशील अपडेट का वितरण मोबाइल ऑपरेटर या उस फोन निर्माता द्वारा नियंत्रित किया जा सकता है जिसमें से आपने अपना फोन खरीदा था, और इंस्टॉलेशन के लिए आवश्यक होगा कि आपके फोन में कोई पूर्व अपडेट हो। अद्यतन उपलब्धता भी देश, क्षेत्र और हार्डवेयर क्षमताओं के अनुसार भिन्न होगी।"

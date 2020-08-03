@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0
+  description: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 003a5a0de6b6aab0b3422c53f305f9a445cc76e9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855526"
+name: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0
+summary: >+
+  माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/10/2011
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 03/10/2011
+  endDate: 04/13/2021
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़"

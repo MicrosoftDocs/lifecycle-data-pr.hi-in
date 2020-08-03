@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2015
+  description: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ff7e78930b60209ffb1bee2ba4da54aa6504027
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855678"
+name: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2015
+summary: >+
+  विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 4
+  startDate: 04/11/2017
+  endDate: 10/14/2025
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 07/10/2018
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [उत्पाद की जानकारी - नीला देव ऑप्स](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी"

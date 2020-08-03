@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स मार्केटिंग
+  description: गतिशीलता विपणन आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 641933ec6025a979f820962706701c6034173ccb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855654"
+name: डायनेमिक्स मार्केटिंग
+summary: >+
+  गतिशीलता विपणन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 05/30/2014
+  end: 05/15/2018
+releases:
+- version: Original Release
+  startDate: 05/30/2014
+  endDate: 05/15/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://cloudblogs.microsoft.com/dynamics365/bdm/2017/08/18/microsoft-dynamics-marketing-service-will-be-discontinued-and-learn-whats-coming-next/?source=crm)"

@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio पोर्टल v7.x
+  description: Adxstudio पोर्टल्स v7.x फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31e5f05143bc1b8c2436858f605645a602450a2e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855383"
+name: Adxstudio पोर्टल v7.x
+summary: >
+  Adxstudio पोर्टल्स v7.x [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है और समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+- version: v.6x or prior
+  startDate: 09/29/2015
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)"

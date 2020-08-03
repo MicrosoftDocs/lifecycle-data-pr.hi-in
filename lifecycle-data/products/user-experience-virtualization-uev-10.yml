@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: उपयोगकर्ता अनुभव वर्चुअलाइजेशन (यूई-वी) 1.0
+  description: उपयोगकर्ता अनुभव वर्चुअलाइजेशन (यूई-वी) 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855257"
+name: उपयोगकर्ता अनुभव वर्चुअलाइजेशन (यूई-वी) 1.0
+summary: >+
+  उपयोगकर्ता अनुभव वर्चुअलाइजेशन (यूई-वी) 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/03/2013
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Service Pack 1
+  startDate: 04/01/2013
+  endDate: 01/10/2023
+- version: Original Release
+  startDate: 01/03/2013
+  endDate: 04/08/2014
+content: ''

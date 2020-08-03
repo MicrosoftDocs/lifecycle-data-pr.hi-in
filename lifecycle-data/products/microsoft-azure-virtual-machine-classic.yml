@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट नीला वर्चुअल मशीन (क्लासिक) (प्रकाशन से पहले नीला के साथ पुष्टि-तारीख ग्रिड पर कोई अंतिम तिथि)
+  description: माइक्रोसॉफ्ट नीला वर्चुअल मशीन (क्लासिक) (प्रकाशन से पहले नीला के साथ पुष्टि-तारीख ग्रिड पर कोई अंतिम तिथि) आधुनिक जीवन चक्र नीति का पालन करता है ।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855534"
+name: माइक्रोसॉफ्ट नीला वर्चुअल मशीन (क्लासिक) (प्रकाशन से पहले नीला के साथ पुष्टि-तारीख ग्रिड पर कोई अंतिम तिथि)
+summary: >+
+  माइक्रोसॉफ्ट नीला वर्चुअल मशीन (क्लासिक) (प्रकाशन से पहले नीला के साथ पुष्टि-तारीख ग्रिड पर कोई अंतिम तिथि) [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है ।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+  end: 03/01/2023
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+  endDate: 03/01/2023
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/azure/virtual-machines/classic-vm-deprecation)"

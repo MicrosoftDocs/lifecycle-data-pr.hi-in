@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज 10 मोबाइल एंटरप्राइज, नवंबर 2015 में जारी
+  description: नवंबर 2015 में जारी विंडोज 10 मोबाइल एंटरप्राइज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0299ce6896a2fc30f3000e41d4d09469358fd1c8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855241"
+name: विंडोज 10 मोबाइल एंटरप्राइज, नवंबर 2015 में जारी
+summary: >
+  नवंबर 2015 में जारी विंडोज 10 मोबाइल एंटरप्राइज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 11/16/2015
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 11/16/2015
+  endDate: 01/09/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [डिवाइस ओएस लाइफसाइकिल एफएक्यू](/lifecycle/faq/device-operating-systems)\n* [विंडोज 10 मोबाइल 10 दिसंबर, 2019 को समर्थन समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)"

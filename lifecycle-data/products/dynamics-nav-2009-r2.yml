@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: गतिशीलता एनएवी 2009 R2
+  description: डायनेमिक्स एनएवी 2009 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855555"
+name: गतिशीलता एनएवी 2009 R2
+summary: >+
+  डायनेमिक्स एनएवी 2009 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 03/15/2011
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+  endDate: 01/14/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> एनएवी 2009 के लिए समर्थन तिथियों के अंत को दिखाया गया है।"

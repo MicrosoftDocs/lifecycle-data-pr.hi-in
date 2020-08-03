@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SQL Server Management Studio
+  description: एसक्यूएल सर्वर मैनेजमेंट स्टूडियो आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f75480af28215773c8d23bc06a30408940015a5c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855630"
+name: SQL Server Management Studio
+summary: >+
+  एसक्यूएल सर्वर मैनेजमेंट स्टूडियो [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 05/27/2016
+releases:
+- version: Original Release
+  startDate: 05/27/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/sql/ssms/support-policy?view)"

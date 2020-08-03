@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0
+  description: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855341"
+name: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0
+summary: >+
+  माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/01/2015
+  end: 04/13/2021
+  extendedEnd: 04/14/2026
+releases:
+- version: Original Release
+  startDate: 11/01/2015
+  endDate: 04/14/2026
+content: ''

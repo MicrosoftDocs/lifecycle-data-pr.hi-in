@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज एम्बेडेड पीओएसरेडी 7
+  description: विंडोज एम्बेडेड पीओएसरेडी 7 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 61f2ed95175d81f6e33f8435e70b3b45a01094f5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855579"
+name: विंडोज एम्बेडेड पीओएसरेडी 7
+summary: >+
+  विंडोज एम्बेडेड पीओएसरेडी 7 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/10/2011
+  end: 10/11/2016
+  extendedEnd: 10/12/2021
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 10/10/2023
+  endDate: 10/14/2024
+- version: Extended Security Update Year 2*
+  startDate: 10/11/2022
+  endDate: 10/10/2023
+- version: Extended Security Update Year 1*
+  startDate: 10/12/2021
+  endDate: 10/08/2022
+- version: Original Release
+  startDate: 09/10/2011
+  endDate: 10/12/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अपडेट कार्यक्रम (ईयू) - चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अपडेट ओईएम के माध्यम से उपलब्ध हैं।](/lifecycle/faq/extended-security-updates)\n* [विंडोज आईओटी एम्बेडेड मोड](/windows/iot-core/develop-your-app/embeddedmode)"

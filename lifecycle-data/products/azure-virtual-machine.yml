@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला वर्चुअल मशीन
+  description: नीला वर्चुअल मशीन आधुनिक जीवनचक्र नीति का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855441"
+name: नीला वर्चुअल मशीन
+summary: >+
+  नीला वर्चुअल मशीन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

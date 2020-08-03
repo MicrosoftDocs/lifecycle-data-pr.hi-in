@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एक्सचेंज सर्वर 2016
+  description: एक्सचेंज सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7d83d6853298231fb4bd84b90ccf197a8029e8a2
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855437"
+name: एक्सचेंज सर्वर 2016
+summary: >+
+  एक्सचेंज सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 10/01/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 10/01/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग दिशानिर्देश](/Exchange/new-features/updates?redirectedfrom)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"

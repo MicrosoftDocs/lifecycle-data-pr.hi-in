@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट रिपोर्ट दर्शक 2012 रनटाइम
+  description: माइक्रोसॉफ्ट रिपोर्ट व्यूअर 2012 रनटाइम फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855520"
+name: माइक्रोसॉफ्ट रिपोर्ट दर्शक 2012 रनटाइम
+summary: >+
+  माइक्रोसॉफ्ट रिपोर्ट व्यूअर 2012 रनटाइम [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/13/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 07/13/2014
+  endDate: 07/12/2022
+content: ''

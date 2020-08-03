@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस ऑडिट एंड कंट्रोल मैनेजमेंट सर्वर 2013
+  description: माइक्रोसॉफ्ट ऑफिस ऑडिट एंड कंट्रोल मैनेजमेंट सर्वर 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 96d9fdc88fbd6ccfcd2a97e1b0a0703c2532411d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855648"
+name: माइक्रोसॉफ्ट ऑफिस ऑडिट एंड कंट्रोल मैनेजमेंट सर्वर 2013
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस ऑडिट एंड कंट्रोल मैनेजमेंट सर्वर 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/16/2013
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 07/16/2013
+  endDate: 10/10/2023
+content: ''

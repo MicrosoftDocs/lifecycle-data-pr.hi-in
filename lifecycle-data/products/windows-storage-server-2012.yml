@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज स्टोरेज सर्वर 2012
+  description: विंडोज स्टोरेज सर्वर 2012 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ff27c05566c461244c14b45f75ef07a6ad47f6db
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855229"
+name: विंडोज स्टोरेज सर्वर 2012
+summary: >+
+  विंडोज स्टोरेज सर्वर 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक, कार्यसमूह
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/30/2012
+  end: 10/09/2018
+  extendedEnd: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ ग्राहकों को प्रदान करने के लिए बढ़ाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* कार्यसमूह"

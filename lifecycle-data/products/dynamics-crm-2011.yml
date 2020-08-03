@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 2011
+  description: डायनेमिक्स सीआरएम 2011 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b0598408582a54cda647bf2c81147a104f54f216
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855573"
+name: डायनेमिक्स सीआरएम 2011
+summary: >+
+  डायनेमिक्स सीआरएम 2011 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/18/2011
+  end: 07/12/2016
+  extendedEnd: 07/13/2021
+releases:
+- version: Original Release (ver 5.0)
+  startDate: 05/18/2011
+  endDate: 07/13/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"

@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स जीपी 2016
+  description: डायनेमिक्स जीपी 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a2fcedc81e89f4dbdaaf6178f4c4ace466bd73f7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855377"
+name: डायनेमिक्स जीपी 2016
+summary: >+
+  डायनेमिक्स जीपी 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/01/2016
+  end: 07/13/2021
+  extendedEnd: 07/14/2026
+releases:
+- version: Original Release
+  startDate: 05/01/2016
+  endDate: 07/14/2026
+content: "\n## <a name=\"links\"></a>लिंक \n* [अतिरिक्त जानकारी और माइग्रेशन मार्गदर्शन](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [उत्पाद की जानकारी](/dynamics-gp/)"

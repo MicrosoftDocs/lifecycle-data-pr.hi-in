@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला पावर बीआई कार्यक्षेत्र संग्रह
+  description: नीला पावर बीआई कार्यक्षेत्र संग्रह आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855208"
+name: नीला पावर बीआई कार्यक्षेत्र संग्रह
+summary: >
+  नीला पावर बीआई कार्यक्षेत्र संग्रह [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- sql-server
+policyType: modern-online
+supportDates:
+  start: 03/31/2016
+  end: 07/30/2018
+releases:
+- version: Original Release
+  startDate: 03/31/2016
+  endDate: 07/30/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

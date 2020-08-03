@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट शेयरपॉइंट और एसएपी के लिए ड्यूट एंटरप्राइज
+  description: माइक्रोसॉफ्ट शेयरपॉइंट और एसएपी के लिए ड्यूट एंटरप्राइज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855484"
+name: माइक्रोसॉफ्ट शेयरपॉइंट और एसएपी के लिए ड्यूट एंटरप्राइज
+summary: >
+  माइक्रोसॉफ्ट शेयरपॉइंट और एसएपी के लिए ड्यूट एंटरप्राइज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। यह उत्पाद एसएपी द्वारा बेचा और समर्थित है।
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/16/2011
+  end: 12/31/2017
+  extendedEnd: 12/31/2017
+releases:
+- version: version 2.0
+  startDate: 10/14/2012
+  endDate: 12/31/2017
+- version: Original Release
+  startDate: 03/16/2011
+  endDate: 12/31/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [एसएपी सपोर्ट](https://support.sap.com/index.html)"

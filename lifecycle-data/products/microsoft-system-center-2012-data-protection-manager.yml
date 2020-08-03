@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 डेटा प्रोटेक्शन मैनेजर
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 डेटा प्रोटेक्शन मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a3667b8180199cea7d42f522b7be36abcf2e4a45
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855422"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 डेटा प्रोटेक्शन मैनेजर
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम सेंटर 2012 डेटा प्रोटेक्शन मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [सिस्टम सेंटर संसाधन](https://www.microsoft.com/system-center/resources)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

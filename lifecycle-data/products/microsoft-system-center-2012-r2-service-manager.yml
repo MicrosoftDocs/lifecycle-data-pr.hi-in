@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 सेवा प्रबंधक
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 आर2 सर्विस मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b3c895b5725deb96794d7dbad255bd1fab5e88b6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855512"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 सेवा प्रबंधक
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम सेंटर 2012 आर2 सर्विस मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [सिस्टम सेंटर संसाधन](https://www.microsoft.com/system-center/resources)"

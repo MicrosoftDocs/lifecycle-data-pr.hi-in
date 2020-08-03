@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: इंटरनेट एक्सप्लोरर 9
+  description: इंटरनेट एक्सप्लोरर 9 घटक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855359"
+name: इंटरनेट एक्सप्लोरर 9
+summary: >+
+  इंटरनेट एक्सप्लोरर 9 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 03/15/2011
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)\n* [इंटरनेट एक्सप्लोरर लाइफसाइकिल पॉलिसी एफएक्यू](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12 जनवरी, 2016 से शुरू, केवल एक समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध इंटरनेट एक्सप्लोरर का सबसे वर्तमान संस्करण तकनीकी सहायता और सुरक्षा अपडेट प्राप्त करेगा।"

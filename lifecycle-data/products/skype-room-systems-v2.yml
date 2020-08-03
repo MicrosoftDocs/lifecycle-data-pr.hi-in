@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: स्काइप रूम सिस्टम v2
+  description: स्काइप रूम सिस्टम v2 आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1b100edccfa58c69264c6e9584cc7f08e1332419
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855593"
+name: स्काइप रूम सिस्टम v2
+summary: >+
+  स्काइप रूम सिस्टम v2 [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 11/18/2016
+releases:
+- version: Original Release
+  startDate: 11/18/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

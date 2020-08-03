@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे एंडपॉइंट प्रोटेक्शन 2010
+  description: माइक्रोसॉफ्ट सबसे आगे एंडपॉइंट प्रोटेक्शन 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855517"
+name: माइक्रोसॉफ्ट सबसे आगे एंडपॉइंट प्रोटेक्शन 2010
+summary: >
+  माइक्रोसॉफ्ट सबसे आगे एंडपॉइंट प्रोटेक्शन 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [सर्विसिंग जानकारी](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> ग्राहकों को पूरी तरह से समर्थित होने के लिए नवीनतम एंटी-मैलवेयर प्लेटफ़ॉर्म अपडेट के साथ चालू रहना होगा। सबसे आगे एंडपॉइंट प्रोटेक्शन 2010 मुख्यधारा और विस्तारित समर्थन दोनों के लिए सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 के रूप में एक ही जीवनचक्र नीति द्वारा कवर किया गया है।"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला कंटेनर सेवा
+  description: नीला कंटेनर सेवा आधुनिक जीवनचक्र नीति का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855207"
+name: नीला कंटेनर सेवा
+summary: >+
+  नीला कंटेनर सेवा [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 04/18/2016
+  end: 01/31/2020
+releases:
+- version: Original Release
+  startDate: 04/18/2016
+  endDate: 01/31/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/azure/aks/acs-aks-migration)"

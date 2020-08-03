@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.6.2
+  description: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.6.2 घटक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 540a9f5bd250e9fdcd2683abaabad018190d34d6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855315"
+name: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.6.2
+summary: >+
+  माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.6.2 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 08/02/2016
+releases:
+- version: Original Release
+  startDate: 08/02/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-462)\n* [.NET फ्रेमवर्क लाइफसाइकिल एफएक्यू](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET फ्रेमवर्क विंडोज ओएस का एक घटक है। घटकों को उनके मूल उत्पाद या मंच के समान समर्थन प्राप्त होता है।"
