@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज 10 आईओटी कोर
+  description: विंडोज 10 आईओटी कोर आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855500"
+name: विंडोज 10 आईओटी कोर
+summary: >
+  विंडोज 10 आईओटी कोर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > माइक्रोसॉफ्ट 14 अक्टूबर, २०२५ तक कम से एक विंडोज 10 अर्ध वार्षिक चैनल का समर्थन जारी रखेगा ।
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/windows/iot-core/windows-iot-core)\n* [विंडोज जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [विंडोज एक सेवा के रूप में (WaaS)](/windows/deployment/update/waas-quick-start)\n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> जब तक आस्थगित नहीं किया जाता है, तब तक मुख्यधारा की सहायता तिथि के सूचीबद्ध अंत से पहले बाद के विंडोज 10 अर्ध-वार्षिक चैनल फीचर अपडेट स्थापित किए जा सकते हैं।"

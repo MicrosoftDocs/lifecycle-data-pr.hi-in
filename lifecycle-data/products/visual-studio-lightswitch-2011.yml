@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो लाइटस्विच 2011
+  description: विजुअल स्टूडियो लाइटस्विच 2011 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12d219b05d3e82323d3d5d7b6dae25393afc1afb
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855456"
+name: विजुअल स्टूडियो लाइटस्विच 2011
+summary: >+
+  विजुअल स्टूडियो लाइटस्विच 2011 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/30/2011
+  end: 01/10/2017
+  extendedEnd: 01/11/2022
+releases:
+- version: Original Release
+  startDate: 10/30/2011
+  endDate: 01/11/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइटस्विच](/visualstudio/productinfo/visual-studio-lightswitch-support-announcement)\n* [पावर ऐप्स](https://powerapps.microsoft.com/)\n\n> [!NOTE]\n> विजुअल स्टूडियो 2015 विजुअल स्टूडियो की आखिरी रिलीज है जिसमें लाइटस्विच टूलिंग शामिल है। हम किसी भी नए एप्लिकेशन विकास के लिए Microsoft PowerApps का उपयोग करने की सलाह देते हैं।"

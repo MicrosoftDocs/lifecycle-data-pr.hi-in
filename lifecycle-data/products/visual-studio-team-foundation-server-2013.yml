@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2013
+  description: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855588"
+name: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2013
+summary: >+
+  विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी, रिलीज प्रबंधन
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 10/11/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> TFS 2013 के लिए रिलीज प्रबंधन सर्वर के लिए, अपडेट 4 को 4/9/2024 तक पॉलिसी दिशानिर्देशों के अनुसार समर्थित किया जाएगा।\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* रिलीज प्रबंधन"

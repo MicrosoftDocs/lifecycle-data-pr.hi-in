@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: सिस्टम सेंटर 2016 वर्चुअल मशीन मैनेजर
+  description: सिस्टम सेंटर 2016 वर्चुअल मशीन मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855510"
+name: सिस्टम सेंटर 2016 वर्चुअल मशीन मैनेजर
+summary: >+
+  सिस्टम सेंटर 2016 वर्चुअल मशीन मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 10/28/2016
+  end: 01/11/2022
+  extendedEnd: 01/11/2027
+releases:
+- version: Original Release
+  startDate: 10/28/2016
+  endDate: 01/11/2027
+content: ''

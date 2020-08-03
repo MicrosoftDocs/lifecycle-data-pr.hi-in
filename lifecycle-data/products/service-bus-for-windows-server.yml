@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर के लिए सेवा बस
+  description: विंडोज सर्वर के लिए सेवा बस घटक जीवन चक्र नीति का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855415"
+name: विंडोज सर्वर के लिए सेवा बस
+summary: >
+  विंडोज सर्वर के लिए सेवा बस [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करती है।
+
+
+
+  > [!IMPORTANT]
+
+  > जब सर्विस बस 1.1 शेयरपॉइंट सर्वर 2016 या शेयरपॉइंट सर्वर 2013 का घटक है, तो इसे संबंधित शेयरपॉइंट सर्वर संस्करण की समर्थन तिथियों के अंत के अनुसार समर्थित किया जाएगा।
+products:
+- windows
+policyType: component
+supportDates:
+  start: 10/18/2012
+  end: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: ''

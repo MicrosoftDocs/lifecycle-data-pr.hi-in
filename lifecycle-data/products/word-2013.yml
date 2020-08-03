@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: शब्द 2013
+  description: शब्द 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e7c96fe1f740c49274802ccde5dcafb29c8d96be
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855287"
+name: शब्द 2013
+summary: >+
+  शब्द 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/11/2023
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"

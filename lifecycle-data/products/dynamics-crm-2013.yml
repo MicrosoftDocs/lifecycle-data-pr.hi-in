@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 2013
+  description: डायनेमिक्स सीआरएम 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b99e79e86ea72c260c063f842ff64af888f4024c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855571"
+name: डायनेमिक्स सीआरएम 2013
+summary: >+
+  डायनेमिक्स सीआरएम 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 01/12/2014
+  end: 01/08/2019
+  extendedEnd: 01/09/2024
+releases:
+- version: Service Pack 1 (ver 6.1)
+  startDate: 05/07/2014
+  endDate: 01/09/2024
+- version: Original Release (ver 6.0)
+  startDate: 01/12/2014
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2917899/microsoft-dynamics-crm-2013-updates-and-hotfixes)"

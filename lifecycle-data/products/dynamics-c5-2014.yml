@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: गतिशीलता C5 2014
+  description: डायनेमिक्स C5 2014 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e4f0556a8fd84b688392121720ac06d2b6945eec
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855472"
+name: गतिशीलता C5 2014
+summary: >+
+  डायनेमिक्स C5 2014 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/29/2013
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 12/29/2013
+  endDate: 01/09/2018
+content: ''

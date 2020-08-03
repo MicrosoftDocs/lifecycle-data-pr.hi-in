@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला सेवा कपड़े
+  description: नीला सेवा कपड़ा आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855202"
+name: नीला सेवा कपड़े
+summary: >+
+  नीला सेवा कपड़ा [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/26/2016
+releases:
+- version: Original Release
+  startDate: 09/26/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/service-fabric/service-fabric-support)\n* [समर्थित संस्करण](/azure/service-fabric/service-fabric-versions)"

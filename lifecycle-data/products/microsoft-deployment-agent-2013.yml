@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट तैनाती एजेंट 2013
+  description: माइक्रोसॉफ्ट तैनाती एजेंट 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d81680178f3fc6d72450bbf62cbf11ccb7ef8dc5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855345"
+name: माइक्रोसॉफ्ट तैनाती एजेंट 2013
+summary: >+
+  माइक्रोसॉफ्ट तैनाती एजेंट 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n\n> [!NOTE]\n> तैनाती एजेंट २०१३ के लिए, अद्यतन 4 4/9/2024 तक नीति दिशा निर्देशों के अनुसार समर्थित किया जाएगा ।"

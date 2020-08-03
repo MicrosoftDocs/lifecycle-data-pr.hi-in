@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर 2016 नैनो सर्वर स्थापना विकल्प
+  description: विंडोज सर्वर 2016 नैनो सर्वर इंस्टॉलेशन विकल्प आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855665"
+name: विंडोज सर्वर 2016 नैनो सर्वर स्थापना विकल्प
+summary: >+
+  विंडोज सर्वर 2016 नैनो सर्वर इंस्टॉलेशन विकल्प [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, मानक
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/15/2016
+  end: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 10/09/2018
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/windows-server/get-started/nano-in-semi-annual-channel)\n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* मानक"

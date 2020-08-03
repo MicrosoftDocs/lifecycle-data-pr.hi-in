@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो कोड
+  description: विजुअल स्टूडियो कोड आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855591"
+name: विजुअल स्टूडियो कोड
+summary: >+
+  विजुअल स्टूडियो कोड [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- vs
+policyType: modern-online
+supportDates:
+  start: 04/14/2016
+releases:
+- version: Original Release
+  startDate: 04/14/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-mac)"

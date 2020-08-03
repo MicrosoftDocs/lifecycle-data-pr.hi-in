@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज स्टोरेज सर्वर 2016
+  description: विंडोज स्टोरेज सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f29c2a9498dac1ce791c1b9f1967d132a0bdec98
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855403"
+name: विंडोज स्टोरेज सर्वर 2016
+summary: >+
+  विंडोज स्टोरेज सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक, कार्यसमूह
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/15/2016
+  end: 01/11/2022
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n* [उत्पाद की जानकारी](/windows-server/storage/whats-new-in-storage)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* कार्यसमूह"

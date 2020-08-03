@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर के लिए ऐपफैब्रिक 1.1
+  description: विंडोज सर्वर के लिए ऐपफैब्रिक 1.1 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 64fa9cde8a1c3dffe62eac74d0c43c0cf7911fa7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855382"
+name: विंडोज सर्वर के लिए ऐपफैब्रिक 1.1
+summary: >+
+  विंडोज सर्वर के लिए ऐपफैब्रिक 1.1 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/11/2012
+  end: 04/11/2017
+  extendedEnd: 04/12/2022
+releases:
+- version: Original Release
+  startDate: 02/11/2012
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र विस्तार](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)"

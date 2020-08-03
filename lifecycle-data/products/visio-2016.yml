@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विसियो 2016
+  description: विसियो 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 5354506665e61cfd1a1d5d1f8f67afbe607f32f6
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855508"
+name: विसियो 2016
+summary: >+
+  विसियो 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: व्यावसायिक, मानक
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर\n* मानक"

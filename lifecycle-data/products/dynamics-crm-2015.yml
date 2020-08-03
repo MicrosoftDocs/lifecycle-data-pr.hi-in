@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 2015
+  description: डायनेमिक्स सीआरएम 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8ed74b140e6c7efc0913db1aced0cac171298a8b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855658"
+name: डायनेमिक्स सीआरएम 2015
+summary: >+
+  डायनेमिक्स सीआरएम 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 02/11/2015
+  end: 01/14/2020
+  extendedEnd: 01/14/2025
+releases:
+- version: Original Release (ver 7.0)
+  startDate: 02/11/2015
+  endDate: 01/14/2025
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन जानकारी](https://support.microsoft.com/help/3018363/microsoft-dynamics-crm-2015-updates-and-hotfixes)"

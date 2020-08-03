@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: वननोट 2016
+  description: OneNote 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 83108e00815fae4b6a914e47cb25f84822cace1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855266"
+name: वननोट 2016
+summary: >+
+  OneNote 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/22/2015
+  end: 10/10/2023
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>लिंक \n* [आपका वननोट - माइक्रोसॉफ्ट टेक समुदाय](https://techcommunity.microsoft.com/t5/Office-365-Blog/Your-OneNote/ba-p/954922)\n\n> [!NOTE]\n> मुख्यधारा के समर्थन को जैसा दिखाया गया है, बढ़ाया गया है । अधिक जानने के लिए यहां जाएं ।"

@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट मशीन लर्निंग सर्वर (माइक्रोसॉफ्ट आर सर्वर)
+  description: माइक्रोसॉफ्ट मशीन लर्निंग सर्वर (माइक्रोसॉफ्ट आर सर्वर) आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 800ea9f3a33e2ea7ba45314ebd7986ebcb047bd8
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855322"
+name: माइक्रोसॉफ्ट मशीन लर्निंग सर्वर (माइक्रोसॉफ्ट आर सर्वर)
+summary: >+
+  माइक्रोसॉफ्ट मशीन लर्निंग सर्वर (माइक्रोसॉफ्ट आर सर्वर) [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 01/01/2016
+releases:
+- version: Original Release
+  startDate: 01/01/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/machine-learning-server/resources-servicing-support)"

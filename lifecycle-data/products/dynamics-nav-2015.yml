@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स एनएवी 2015
+  description: डायनेमिक्स एनएवी 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d8e88321e72a0c59e0d5f43b938b8eb14b912a58
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855552"
+name: डायनेमिक्स एनएवी 2015
+summary: >+
+  डायनेमिक्स एनएवी 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/17/2014
+  end: 01/14/2020
+  extendedEnd: 01/14/2025
+releases:
+- version: Original Release
+  startDate: 12/17/2014
+  endDate: 01/14/2025
+content: ''

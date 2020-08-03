@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: वित्त और संचालन के लिए गतिशीलता 365
+  description: वित्त और संचालन के लिए गतिशीलता 365 आधुनिक जीवनचक्र नीति का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855480"
+name: वित्त और संचालन के लिए गतिशीलता 365
+summary: >+
+  वित्त और संचालन के लिए गतिशीलता 365 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 02/19/2016
+releases:
+- version: Original Release
+  startDate: 02/19/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट डायनेमिक्स 365 रोडमैप](https://roadmap.dynamics.com/)\n* [सर्विसिंग जानकारी](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [सिस्टम आवश्यकताएँ](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़"

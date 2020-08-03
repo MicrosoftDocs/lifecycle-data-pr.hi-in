@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज नीला पैक (सर्वर 2012 R2)
+  description: विंडोज नीला पैक (सर्वर 2012 आर 2) घटक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 67fdcd0c4b53dc8faf194a6e062a108fa8f8391e
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855238"
+name: विंडोज नीला पैक (सर्वर 2012 R2)
+summary: >+
+  विंडोज नीला पैक (सर्वर 2012 आर 2) [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: विंडोज सर्वर 2012 R2 पर
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 01/14/2014
+  end: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज नीला पैक वेब साइट्स V2 समर्थन जीवन चक्र तिथियां](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [विंडोज सर्वर उत्पाद जानकारी के लिए विंडोज नीला पैक](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>संस्करण \n* विंडोज सर्वर 2012 R2 पर"

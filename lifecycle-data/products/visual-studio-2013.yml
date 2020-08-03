@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visual Studio 2013
+  description: विजुअल स्टूडियो 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855679"
+name: Visual Studio 2013
+summary: >+
+  विजुअल स्टूडियो 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, सभी, समुदाय, एक्सप्रेस फॉर वेब, एक्सप्रेस फॉर विंडोज, एक्सप्रेस फॉर विंडोज डेस्कटॉप, इंटेलीट्रेस कलेक्टर, मॉडलिंग एसडीके, मल्टीबाइट एमएफसी लाइब्रेरी, प्रीमियम, प्रोफेशनल, रिलीज मैनेजमेंट, रिमोट टूल्स, एसडीके, शेल (इंटीग्रेटेड), शेल (आइस्ड), टीम एक्सप्लोरर, टेस्ट प्रोफेशनल, अल्टीमेट, विजुअल सी + + रेडिस्ट्रिब्यूटेबल, वेब टूल्स एक्सटेंशन
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* सभी\n* समुदाय\n* वेब के लिए एक्सप्रेस\n* विंडोज के लिए एक्सप्रेस\n* विंडोज डेस्कटॉप के लिए एक्सप्रेस\n* इंटेलीट्रेस कलेक्टर\n* मॉडलिंग एसडीके\n* मल्टीबाइट एमएफसी लाइब्रेरी\n* प्रीमियम\n* पेशेवर\n* रिलीज प्रबंधन\n* रिमोट टूल्स\n* Sdk\n* शेल (एकीकृत)\n* शेल (अलग)\n* टीम एक्सप्लोरर\n* टेस्ट प्रोफेशनल\n* अंतिम\n* विजुअल सी ++ पुनर्वितरण योग्य\n* वेब टूल्स एक्सटेंशन"

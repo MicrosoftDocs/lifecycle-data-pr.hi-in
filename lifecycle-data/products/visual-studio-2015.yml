@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विजुअल स्टूडियो 2015
+  description: विजुअल स्टूडियो 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "855457"
+name: विजुअल स्टूडियो 2015
+summary: >+
+  विजुअल स्टूडियो 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, समुदाय, उद्यम, वेब के लिए एक्सप्रेस, विंडोज 10 के लिए एक्सप्रेस, विंडोज डेस्कटॉप के लिए एक्सप्रेस, मॉडलिंग एसडीके, पेशेवर, रिलीज प्रबंधन, रिमोट टूल्स, एसडीके, शेल (एकीकृत), शेल (अलग), टेस्ट प्रोफेशनल, विजुअल सी + + पुनर्वितरणीय
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* समुदाय\n* एंटरप्राइज़\n* वेब के लिए एक्सप्रेस\n* विंडोज 10 के लिए एक्सप्रेस\n* विंडोज डेस्कटॉप के लिए एक्सप्रेस\n* मॉडलिंग एसडीके\n* पेशेवर\n* रिलीज प्रबंधन\n* रिमोट टूल्स\n* Sdk\n* शेल (एकीकृत)\n* शेल (अलग)\n* टेस्ट प्रोफेशनल\n* विजुअल सी ++ पुनर्वितरण योग्य"
