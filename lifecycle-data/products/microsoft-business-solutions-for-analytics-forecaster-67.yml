@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एनालिटिक्स फोरस्टर 6.7 के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस
+  description: एनालिटिक्स फोरस्टर 6.7 के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821087"
+name: एनालिटिक्स फोरस्टर 6.7 के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस
+summary: >+
+  एनालिटिक्स फोरस्टर 6.7 के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 01/30/2005
+  end: 04/13/2010
+  extendedEnd: 04/14/2015
+releases:
+- version: Original Release
+  startDate: 01/30/2005
+  endDate: 04/14/2015
+content: ''

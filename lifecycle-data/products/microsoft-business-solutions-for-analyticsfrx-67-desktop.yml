@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एनालिटिक्स के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस--FRx 6.7 डेस्कटॉप
+  description: एनालिटिक्स के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस--FRx ६.७ डेस्कटॉप फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821084"
+name: एनालिटिक्स के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस--FRx 6.7 डेस्कटॉप
+summary: >+
+  एनालिटिक्स के लिए माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस--FRx ६.७ डेस्कटॉप [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> FRx समर्थन उस तिथि को समाप्त होता है जब तक कि गतिशीलता उत्पाद के घटक के रूप में वितरित न किया जाए। जब एक गतिशीलता उत्पाद के साथ वितरित किया जाता है, तो गतिशीलता जीवनचक्र FRx तिथियों को ओवरराइड करता है।"

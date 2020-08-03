@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 2.5
+  description: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 2.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821065"
+name: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 2.5
+summary: >+
+  माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 2.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: ऑर्डर हैंडलिंग स्टैंडर्ड बिजनेस इवेंट 2.5, सर्वर, सेवा प्रदाता
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 07/26/2005
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Original Release
+  startDate: 07/26/2005
+  endDate: 10/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* ऑर्डर हैंडलिंग स्टैंडर्ड बिजनेस इवेंट 2.5\n* सर्वर\n* सर्विस प्रोवाइडर"

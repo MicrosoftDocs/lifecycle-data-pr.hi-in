@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
+  description: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलेटर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b4e8c14f0cc9d8a023d62d4c8ed6521eed1f40a4
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821100"
+name: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
+summary: >+
+  स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलेटर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2006
+  end: 10/12/2010
+  extendedEnd: 10/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 09/25/2006
+  endDate: 10/13/2015
+- version: Original Release
+  startDate: 06/21/2006
+  endDate: 10/14/2008
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
