@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट ऑफिस 2003 प्रूफिंग टूल्स
+  description: माइक्रोसॉफ्ट ऑफिस 2003 प्रूफिंग टूल्स फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821403"
+name: माइक्रोसॉफ्ट ऑफिस 2003 प्रूफिंग टूल्स
+summary: >+
+  माइक्रोसॉफ्ट ऑफिस 2003 प्रूफिंग टूल्स [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 12/08/2003
+  end: 01/13/2009
+  extendedEnd: 01/14/2014
+releases:
+- version: Original Release
+  startDate: 12/08/2003
+  endDate: 01/14/2014
+content: ''

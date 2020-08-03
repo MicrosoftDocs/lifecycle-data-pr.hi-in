@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एचपीसी पैक 2008
+  description: एचपीसी पैक 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821146"
+name: एचपीसी पैक 2008
+summary: >
+  एचपीसी पैक 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/29/2008
+  end: 04/14/2015
+  extendedEnd: 04/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 05/12/2010
+  endDate: 04/14/2014
+- version: Service Pack 1
+  startDate: 08/12/2009
+  endDate: 07/10/2012
+- version: Original Release
+  startDate: 12/29/2008
+  endDate: 10/11/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 1.2
+  description: डायनेमिक्स सीआरएम 1.2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6b796f6d5794f461409c95641410a4e47f71cf3a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821185"
+name: डायनेमिक्स सीआरएम 1.2
+summary: >+
+  डायनेमिक्स सीआरएम 1.2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/31/2003
+  end: 01/09/2007
+releases:
+- version: Original Release
+  startDate: 10/31/2003
+  endDate: 01/09/2007
+content: ''

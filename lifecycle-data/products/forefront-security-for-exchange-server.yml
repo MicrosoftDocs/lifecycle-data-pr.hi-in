@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एक्सचेंज सर्वर के लिए सबसे आगे सुरक्षा
+  description: एक्सचेंज सर्वर के लिए सबसे आगे सुरक्षा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821153"
+name: एक्सचेंज सर्वर के लिए सबसे आगे सुरक्षा
+summary: >
+  एक्सचेंज सर्वर के लिए सबसे आगे सुरक्षा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+
+  > [!IMPORTANT]
+
+  > सबसे आगे ब्रांड के तहत सुरक्षा उत्पादों का रोडमैप बदल गया है। यह उत्पाद 31 दिसंबर, 2015 तक बंद कर दिया गया है।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/08/2007
+  extendedEnd: 12/31/2015
+releases:
+- version: Service Pack 2
+  startDate: 06/30/2009
+  endDate: 12/31/2015
+- version: Service Pack 1
+  startDate: 11/29/2007
+  endDate: 07/13/2010
+- version: Original Release
+  startDate: 03/08/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/security/business/explore/cybersecurity)"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.0
+  description: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.0 घटक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e43bfc52befb82fbb52ee258076d2ebb53e53e35
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821405"
+name: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.0
+summary: >+
+  माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- dotnet
+policyType: component
+supportDates:
+  start: 03/31/2010
+  end: 01/12/2016
+releases:
+- version: Original Release
+  startDate: 03/31/2010
+  endDate: 01/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - .NET फ्रेमवर्क](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-4)\n\n> [!NOTE]\n> .NET फ्रेमवर्क 4, 4.5 और 4.5.1 के लिए समर्थन 12 जनवरी, 2016 को समाप्त हुआ।"

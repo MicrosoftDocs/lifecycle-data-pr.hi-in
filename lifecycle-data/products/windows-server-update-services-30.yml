@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज सर्वर अपडेट सेवाएं 3.0
+  description: विंडोज सर्वर अपडेट सेवाएं 3.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती हैं।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821267"
+name: विंडोज सर्वर अपडेट सेवाएं 3.0
+summary: >
+  विंडोज सर्वर अपडेट सेवाएं 3.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती हैं।
+
+
+
+  > [!IMPORTANT]
+
+  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/10/2007
+  end: 07/10/2012
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 08/25/2009
+  endDate: 01/14/2020
+- version: Service Pack 1
+  startDate: 04/17/2008
+  endDate: 10/12/2010
+- version: Original Release
+  startDate: 07/10/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> समर्थन 7/11/2017 से 1/14/2020 तक बढ़ाया गया था ।"

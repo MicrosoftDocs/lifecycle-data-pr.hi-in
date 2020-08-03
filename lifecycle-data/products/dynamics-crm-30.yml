@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: डायनेमिक्स सीआरएम 3.0
+  description: डायनेमिक्स सीआरएम 3.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c3ce2d0115f8129eb5f590a867fdef61ef896782
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821182"
+name: डायनेमिक्स सीआरएम 3.0
+summary: >+
+  डायनेमिक्स सीआरएम 3.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 12/01/2005
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 12/01/2005
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-dynamics-crm-3-0-support-lifecycle-announcement)"

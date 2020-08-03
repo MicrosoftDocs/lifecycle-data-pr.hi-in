@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: बिजटॉल सर्वर 2009
+  description: BizTalk सर्वर 2009 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 89280d62397e3c5dbfaaf332c7f8618eb2713d0d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821315"
+name: बिजटॉल सर्वर 2009
+summary: >
+  BizTalk सर्वर 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, मानक
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/21/2009
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/21/2009
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [संस्करण की जानकारी](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* एंटरप्राइज़\n* मानक"

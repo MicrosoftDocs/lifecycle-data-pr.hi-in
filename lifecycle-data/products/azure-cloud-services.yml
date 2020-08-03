@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला क्लाउड सेवाएं
+  description: नीला बादल सेवाएं आधुनिक जीवनचक्र नीति का पालन करती हैं।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821321"
+name: नीला क्लाउड सेवाएं
+summary: >+
+  नीला बादल सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/27/2008
+releases:
+- version: Original Release
+  startDate: 10/27/2008
+content: "\n## <a name=\"links\"></a>लिंक \n* [नीला अतिथि ओएस सहायकता और सेवानिवृत्ति नीति की जानकारी](/azure/cloud-services/cloud-services-guestos-retirement-policy)"
