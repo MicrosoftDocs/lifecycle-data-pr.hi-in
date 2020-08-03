@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: वित्तीय सेवाओं के लिए माइक्रोसॉफ्ट BizTalk त्वरक 1.0
+  description: वित्तीय सेवाओं के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dbacf7590c1aa3b0736935e033bbc6c3d2968dab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821116"
+name: वित्तीय सेवाओं के लिए माइक्रोसॉफ्ट BizTalk त्वरक 1.0
+summary: >+
+  वित्तीय सेवाओं के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट एंटीजन
+  description: माइक्रोसॉफ्ट एंटीजन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821122"
+name: माइक्रोसॉफ्ट एंटीजन
+summary: >+
+  माइक्रोसॉफ्ट एंटीजन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एक्सचेंज के लिए 9.0, एंटरप्राइज मैनेजर 9.0, एसएमटीपी गेटवे, स्पैम मैनेजर के लिए
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/17/2006
+  end: 04/08/2014
+  extendedEnd: 12/31/2015
+releases:
+- version: Original Release
+  startDate: 07/17/2006
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> सबसे आगे ब्रांड के तहत सुरक्षा उत्पादों का रोडमैप बदल गया है।यह उत्पाद 31 दिसंबर, 2015 तक बंद कर दिया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सचेंज के लिए 9.0\n* एंटरप्राइज मैनेजर 9.0\n* एसएमटीपी गेटवे के लिए\n* स्पैम प्रबंधक"

@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.5
+  description: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग होस्टिंग 4.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 3cb5049ed11ed567b8b7c1f3bd51de8b00b27ee8
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821113"
+name: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.5
+summary: >
+  विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग होस्टिंग 4.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: विंडोज डेस्कटॉप के लिए
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन की जानकारी देखें.
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद और माइग्रेशन की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* विंडोज डेस्कटॉप के लिए"

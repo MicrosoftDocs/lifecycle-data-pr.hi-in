@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: स्विफ्ट 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
+  description: स्विफ्ट 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलरेटर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 430961859e38f41832f860e11b1ed4a870f63869
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821105"
+name: स्विफ्ट 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
+summary: >+
+  स्विफ्ट 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलरेटर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 09/25/2004
+  end: 10/13/2009
+  extendedEnd: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 09/25/2004
+  endDate: 10/14/2014
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़"

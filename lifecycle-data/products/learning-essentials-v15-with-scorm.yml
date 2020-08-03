@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: स्कोर्स्म के साथ अनिवार्य v1.5 सीखना
+  description: स्कोर्स्म के साथ अनिवार्य v1.5 सीखना घटक जीवनचक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821124"
+name: स्कोर्स्म के साथ अनिवार्य v1.5 सीखना
+summary: >+
+  स्कोर्स्म के साथ अनिवार्य v1.5 सीखना [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 12/06/2006
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 12/06/2006
+  endDate: 01/10/2012
+content: ''

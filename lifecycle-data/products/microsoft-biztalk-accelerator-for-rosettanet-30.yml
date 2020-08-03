@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: रोसेटानेट 3.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर
+  description: रोसेटानेट 3.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: a05bb75568c10e4fe532eddbfd12ce767ac91714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "821104"
+name: रोसेटानेट 3.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर
+summary: >+
+  रोसेटानेट 3.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलरेटर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 02/22/2005
+  end: 04/13/2010
+  extendedEnd: 04/14/2015
+releases:
+- version: Original Release
+  startDate: 02/22/2005
+  endDate: 04/14/2015
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
