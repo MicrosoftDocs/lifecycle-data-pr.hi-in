@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट जीनोमिक्स
+  description: माइक्रोसॉफ्ट जीनोमिक्स आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869795"
+name: माइक्रोसॉफ्ट जीनोमिक्स
+summary: >+
+  माइक्रोसॉफ्ट जीनोमिक्स [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 11/01/2017
+releases:
+- version: Original Release
+  startDate: 11/01/2017
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/genomics/version-release-history-genomics)"

@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2012 समानांतर डेटा वेयरहाउस (एनालिटिक्स प्लेटफॉर्म सिस्टम)
+  description: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2012 समानांतर डेटा वेयरहाउस (एनालिटिक्स प्लेटफॉर्म सिस्टम) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 78651a46cb453708bccc394e512756a7c24b599d
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869937"
+name: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2012 समानांतर डेटा वेयरहाउस (एनालिटिक्स प्लेटफॉर्म सिस्टम)
+summary: >
+  माइक्रोसॉफ्ट एसक्यूएल सर्वर 2012 समानांतर डेटा वेयरहाउस (एनालिटिक्स प्लेटफॉर्म सिस्टम) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+
+  > [!IMPORTANT]
+
+  > एसक्यूएल सर्वर 2012 समानांतर डेटा वेयरहाउस (पीडीडब्ल्यू) को एपीएस (एनालिटिक्स प्लेटफॉर्म सिस्टम) के रूप में रीब्रांड किया गया है
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 07/12/2013
+  end: 10/08/2019
+  extendedEnd: 10/08/2024
+releases:
+- version: Original Release
+  startDate: 07/12/2013
+  endDate: 10/08/2024
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](https://www.microsoft.com/sql-server/analytics-platform-system)"

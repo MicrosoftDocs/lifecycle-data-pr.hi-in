@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: एसक्यूएल सर्वर 2017
+  description: एसक्यूएल सर्वर 2017 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8eb60aa5e94d8c064f0bb06f4bfb11782141d320
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869935"
+name: एसक्यूएल सर्वर 2017
+summary: >+
+  एसक्यूएल सर्वर 2017 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: लिनक्स (सभी संस्करणों) पर, विंडोज पर (सभी संस्करण)
+
+products:
+- sql-server
+policyType: fixed
+supportDates:
+  start: 09/29/2017
+  end: 10/11/2022
+  extendedEnd: 10/12/2027
+releases:
+- version: Original Release
+  startDate: 09/29/2017
+  endDate: 10/12/2027
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> एसक्यूएल सर्वर 2017 से शुरू होकर, कोई सर्विस पैक जारी नहीं किया जाएगा।\n\n## <a name=\"editions\"></a>संस्करण \n* लिनक्स पर (सभी संस्करण)\n* विंडोज पर (सभी संस्करण)"

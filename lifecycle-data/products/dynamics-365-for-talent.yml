@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: प्रतिभा के लिए गतिशीलता 365
+  description: प्रतिभा के लिए गतिशीलता 365 आधुनिक जीवनचक्र नीति का पालन करती है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "869828"
+name: प्रतिभा के लिए गतिशीलता 365
+summary: >+
+  प्रतिभा के लिए गतिशीलता 365 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: जहाज पर
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 07/31/2017
+  end: 02/02/2022
+releases:
+- version: Original Release
+  startDate: 07/31/2017
+  endDate: 02/02/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [माइग्रेशन मार्गदर्शन](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> आकर्षित और जहाज पर क्षुधा 2 फरवरी, २०२२ को सेवानिवृत्त हो जाएगा ।  कोर एचआर 1 फरवरी, 2020 को गतिशीलता 365 मानव संसाधन के रूप में फिर से लॉन्च किया गया, अधिक जानकारी के लिए माइग्रेशन मार्गदर्शन देखें।\n\n## <a name=\"editions\"></a>संस्करण \n* जहाज"
