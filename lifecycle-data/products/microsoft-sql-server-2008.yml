@@ -2,19 +2,19 @@
 metadata:
   title: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008
   description: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821004"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882217"
 name: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008
 summary: >
   माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, एंटरप्राइज, एक्सप्रेस, एक्सप्रेस विद एडवांस्ड सर्विसेज, स्टैंडर्ड, स्टैंडर्ड एडिशन फॉर स्मॉल बिजनेस, वेब, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, डेवलपर, एंटरप्राइज, एक्सप्रेस, एक्सप्रेस विद एडवांस्ड सर्विसेज, स्टैंडर्ड, स्टैंडर्ड एडिशन फॉर स्मॉल बिजनेस, वेब, वर्कग्रुप
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> विस्तारित सुरक्षा अपडेट (ईयू) डेटासेंटर, स्टैंडर्ड, एंटरप्राइज, वेब, वर्कग्रुप और इस उत्पाद के एम्बेडेड संस्करणों के लिए उपलब्ध हैं, जो समर्थन के अंत में अतिरिक्त तीन साल तक हैं।\n\n## <a name=\"links\"></a>लिंक \n* [विस्तारित सुरक्षा अद्यतन कार्यक्रम (ईयू)](/lifecycle/faq/extended-security-updates)\n* [एसक्यूएल रिलीज सर्विसेज ब्लॉग](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [माइग्रेशन मार्गदर्शन](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> केवल IA64 के लिए, SP3 7/9/2019 तक समर्थित किया जाएगा ।\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* एंटरप्राइज़\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* मानक\n* लघु व्यवसाय के लिए मानक संस्करण\n* वेब\n* कार्यसमूह"
+content: "> [!TIP]\n> विस्तारित सुरक्षा अपडेट (ईयू) इस उत्पाद के डेटासेंटर, स्टैंडर्ड, एंटरप्राइज, वेब और वर्कग्रुप संस्करणों के लिए उपलब्ध हैं, जो समर्थन के अंत में एक अतिरिक्त तीन साल तक हैं।\nरिलीज-------------------------------स्टार्ट डेट----एंड डेट\n\nविस्तारित सुरक्षा अद्यतन वर्ष 3---07/13/2021---07/12/2022\n\nविस्तारित सुरक्षा अद्यतन वर्ष 2---07/14/2021---07/13/2021\n\nविस्तारित सुरक्षा अद्यतन वर्ष 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [विस्तारित सुरक्षा अद्यतन कार्यक्रम (ईयू)](/lifecycle/faq/extended-security-updates)\n* [एसक्यूएल रिलीज सर्विसेज ब्लॉग](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> केवल IA64 के लिए, SP3 7/9/2019 तक समर्थित किया जाएगा ।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेवलपर\n* एंटरप्राइज़\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* मानक\n* लघु व्यवसाय के लिए मानक संस्करण\n* वेब\n* कार्यसमूह"
