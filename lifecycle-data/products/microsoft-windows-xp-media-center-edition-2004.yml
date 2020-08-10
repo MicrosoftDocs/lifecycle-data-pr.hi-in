@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट विंडोज एक्सपी मीडिया सेंटर संस्करण 2004
+  description: माइक्रोसॉफ्ट विंडोज एक्सपी मीडिया सेंटर एडिशन 2004 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/05/2020
+  ms.openlocfilehash: 8dc0603e1db4f759c1d882a09a6b3d95ea08cbec
+  ms.sourcegitcommit: cc83950a649c02cedd0a5a869702e8e5605d18ec
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/05/2020
+  ms.locfileid: "883449"
+name: माइक्रोसॉफ्ट विंडोज एक्सपी मीडिया सेंटर संस्करण 2004
+summary: >+
+  माइक्रोसॉफ्ट विंडोज एक्सपी मीडिया सेंटर एडिशन 2004 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मीडिया सेंटर
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/27/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 10/27/2003
+  endDate: 10/10/2006
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मीडिया सेंटर"
