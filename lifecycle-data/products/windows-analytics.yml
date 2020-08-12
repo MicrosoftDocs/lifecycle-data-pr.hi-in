@@ -2,13 +2,13 @@
 metadata:
   title: विंडोज एनालिटिक्स
   description: विंडोज एनालिटिक्स आधुनिक जीवनचक्र नीति का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e35970134232ac66d6cae3e03ce5f0dcb3ceb0b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/11/2020
+  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
+  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869845"
+  ms.lasthandoff: 08/11/2020
+  ms.locfileid: "887857"
 name: विंडोज एनालिटिक्स
 summary: >
   विंडोज एनालिटिक्स [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
@@ -23,6 +23,7 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
+  end: 01/31/2020
 releases:
 - version: Original Release
   startDate: 03/02/2017
