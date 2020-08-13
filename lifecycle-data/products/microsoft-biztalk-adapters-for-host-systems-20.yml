@@ -2,13 +2,13 @@
 metadata:
   title: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
   description: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एडाप्टर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f80e0cf76eebd3d54f478080a80929cb15778886
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821095"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893500"
 name: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
 summary: >+
   होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एडाप्टर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

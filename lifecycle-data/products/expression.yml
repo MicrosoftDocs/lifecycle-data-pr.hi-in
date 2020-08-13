@@ -2,13 +2,13 @@
 metadata:
   title: अभिव्यक्ति
   description: अभिव्यक्ति फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ee3c7cfc6f62fb00775e13137084c8e509ac5d8c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/12/2020
+  ms.openlocfilehash: c81accb05bdbd957a699685c83074735956a009e
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "867367"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893389"
 name: अभिव्यक्ति
 summary: "अभिव्यक्ति [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: ब्लेंड, डिजाइन, एन्कोडर, स्टूडियो\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
 products:

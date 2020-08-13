@@ -2,13 +2,13 @@
 metadata:
   title: एसक्यूएल सर्वर 2016
   description: एसक्यूएल सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1b41e2eeed9a3b7fa2038070a84e468866dd633c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855460"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892760"
 name: एसक्यूएल सर्वर 2016
 summary: >+
   एसक्यूएल सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

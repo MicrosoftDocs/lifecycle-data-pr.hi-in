@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट विजुअल सी ++ .NET 2003
+  description: माइक्रोसॉफ्ट विजुअल सी ++ .NET 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8129ecc7473fbc671871af3c9ebf8fcbeab44160
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893996"
+name: माइक्रोसॉफ्ट विजुअल सी ++ .NET 2003
+summary: >+
+  माइक्रोसॉफ्ट विजुअल सी ++ .NET 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/10/2003
+  end: 10/14/2008
+  extendedEnd: 10/08/2013
+releases:
+- version: Original Release
+  startDate: 07/10/2003
+  endDate: 10/08/2013
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
