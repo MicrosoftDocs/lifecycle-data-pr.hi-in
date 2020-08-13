@@ -2,20 +2,15 @@
 metadata:
   title: माइक्रोसॉफ्ट ऑफिस कम्युनिकेशंस सर्वर 2007 R2
   description: माइक्रोसॉफ्ट ऑफिस कम्युनिकेशंस सर्वर 2007 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 33d9d5fff1c61fcf44480c75e2a2f7ff3bd72fc9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
+  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821399"
+  ms.lasthandoff: 08/07/2020
+  ms.locfileid: "885831"
 name: माइक्रोसॉफ्ट ऑफिस कम्युनिकेशंस सर्वर 2007 R2
-summary: >+
-  माइक्रोसॉफ्ट ऑफिस कम्युनिकेशंस सर्वर 2007 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
-
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: XMPP गेटवे
-
+summary: "माइक्रोसॉफ्ट ऑफिस कम्युनिकेशंस सर्वर 2007 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, एंटरप्राइज, एक्सपीपीपी गेटवे\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। माइग्रेशन गाइडेंस देखें। \n"
 products:
 - office
 policyType: fixed
@@ -27,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP गेटवे 9/28/2009 को जारी किया गया ।\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सपीपीपी गेटवे"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP गेटवे 9/28/2009 को जारी किया गया ।\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* एंटरप्राइज़\n* एक्सपीपीपी गेटवे"
