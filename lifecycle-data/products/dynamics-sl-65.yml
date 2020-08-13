@@ -2,13 +2,13 @@
 metadata:
   title: डायनेमिक्स एसएल 6.5
   description: डायनेमिक्स एसएल 6.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/12/2020
-  ms.openlocfilehash: cb726b8c90053c30c1a408fd0c7ba36da615f597
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 08/13/2020
+  ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
+  ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891727"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "894835"
 name: डायनेमिक्स एसएल 6.5
 summary: >+
   डायनेमिक्स एसएल 6.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -19,7 +19,7 @@ products:
 policyType: fixed-mainstream-only
 supportDates:
   start: 01/14/2006
-  end: 04/12/2011
+  end: 04/21/2011
 releases:
 - version: Service Pack 3
   startDate: 01/07/2009
