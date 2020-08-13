@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Powershell
+  description: पावरशेल आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 08/07/2020
+  ms.openlocfilehash: 0f8cb9112144a4c13bb9bf329fbe8535e3623834
+  ms.sourcegitcommit: d4150c5bd247ae5ba671483e50bb9414edb04248
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/08/2020
+  ms.locfileid: "885967"
+name: Powershell
+summary: >+
+  पावरशेल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 01/19/2018
+releases:
+- version: PowerShell 7.x
+  startDate: 03/04/2020
+  endDate: 12/03/2022
+- version: PowerShell Core 6.2
+  startDate: 03/28/2019
+  endDate: 09/04/2020
+- version: PowerShell Core 6.1
+  startDate: 09/13/2018
+  endDate: 09/28/2019
+- version: PowerShell 6.x
+  startDate: 01/19/2018
+  endDate: 09/04/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://aka.ms/pslifecycle)\n\n> [!NOTE]\n> सर्विसिंग जानकारी लिंक पर विस्तृत पावरशेल लाइफसाइकिल जानकारी देखें।"
