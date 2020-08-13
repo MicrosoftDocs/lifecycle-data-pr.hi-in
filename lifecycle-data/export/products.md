@@ -1,13 +1,13 @@
 ---
 title: निर्यात उत्पाद
 description: निर्यात उत्पाद जीवनचक्र जानकारी
-ms.date: 08/11/2020
-ms.openlocfilehash: fc05add6eb3bf3cb01f6c7e0985c334647a163d7
-ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
+ms.date: 08/12/2020
+ms.openlocfilehash: 4a3e2de9614fe0850cb0353468a6ad9f88857d8c
+ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "887820"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "891697"
 ---
 # <a name="export"></a>निर्यात
 

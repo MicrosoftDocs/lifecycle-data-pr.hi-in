@@ -2,17 +2,19 @@
 metadata:
   title: क्लाउड प्लेटफ़ॉर्म सिस्टम
   description: क्लाउड प्लेटफ़ॉर्म सिस्टम फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 931caf3fc06338dfa6ec97f0a7bc079c9be6a4a9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 132fd3832cd1d0927fe7ce6af7eb8e0a21e8d308
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855485"
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891881"
 name: क्लाउड प्लेटफ़ॉर्म सिस्टम
 summary: >+
   क्लाउड प्लेटफ़ॉर्म सिस्टम [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
 
 products:
 - azure
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> क्लाउड प्लेटफ़ॉर्म सिस्टम के लिए समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ सभी ग्राहकों को प्रदान करने के लिए दिखाए गए रूप में बढ़ाया गया है।\n> [!NOTE]\n> क्लाउड प्लेटफ़ॉर्म सिस्टम स्टैंडर्ड 18 सितंबर, 2017 को लॉन्च किया गया।"
+content: "\n\n> [!NOTE]\n> क्लाउड प्लेटफ़ॉर्म सिस्टम के लिए समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ सभी ग्राहकों को प्रदान करने के लिए दिखाए गए रूप में बढ़ाया गया है।\n> [!NOTE]\n> क्लाउड प्लेटफ़ॉर्म सिस्टम स्टैंडर्ड 18 सितंबर, 2017 को लॉन्च किया गया।\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
