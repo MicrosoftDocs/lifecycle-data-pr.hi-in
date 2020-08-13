@@ -2,13 +2,13 @@
 metadata:
   title: इंटरनेट एक्सप्लोरर 9
   description: इंटरनेट एक्सप्लोरर 9 घटक जीवन चक्र नीति का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855359"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893611"
 name: इंटरनेट एक्सप्लोरर 9
 summary: >+
   इंटरनेट एक्सप्लोरर 9 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।

@@ -2,13 +2,13 @@
 metadata:
   title: माइक्रोसॉफ्ट ऑफिस वननोट 2003
   description: माइक्रोसॉफ्ट ऑफिस वननोट 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: aa3ff879f7c4a2c03e1608ef0ef9a9d87b070f7a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3e15412772e534095db735abb6c2e51bdcc5d7b1
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821381"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893352"
 name: माइक्रोसॉफ्ट ऑफिस वननोट 2003
 summary: >+
   माइक्रोसॉफ्ट ऑफिस वननोट 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -33,5 +33,5 @@ releases:
   endDate: 10/10/2006
 - version: Original Release
   startDate: 11/19/2003
-  endDate: 10/11/2005
+  endDate: 07/26/2005
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
