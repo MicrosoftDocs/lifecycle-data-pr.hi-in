@@ -18,7 +18,9 @@
   ],
   "notification_subscribers": [
     "v-cajona@microsoft.com",
-    "pamelast@microsoft.com"
+    "pamelast@microsoft.com",
+    "helenam@microsoft.com",
+    "v-isboua@microsoft.com"
   ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
