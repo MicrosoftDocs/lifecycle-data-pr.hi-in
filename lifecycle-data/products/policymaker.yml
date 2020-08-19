@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Policymaker
+  description: पॉलिसीमेकर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904157"
+name: Policymaker
+summary: >+
+  पॉलिसीमेकर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: आवेदन सुरक्षा, आउटलुक संस्करण, पेशेवर 9.0, रजिस्ट्री एक्सटेंशन 2.0, शेयर मैनेजर 1.0, सॉफ्टवेयर अपडेट 1.0, सॉफ्टवेयर अपडेट 2.0, स्टैंडर्ड 1.0, स्टैंडर्ड 2.0
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* आवेदन सुरक्षा\n* आउटलुक संस्करण\n* व्यावसायिक 9.0\n* रजिस्ट्री एक्सटेंशन 2.0\n* शेयर मैनेजर 1.0\n* सॉफ्टवेयर अपडेट 1.0\n* सॉफ्टवेयर अपडेट 2.0\n* मानक 1.0\n* मानक 2.0"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिल्वरलाइट 2
+  description: माइक्रोसॉफ्ट सिल्वरलाइट 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904165"
+name: माइक्रोसॉफ्ट सिल्वरलाइट 2
+summary: >+
+  माइक्रोसॉफ्ट सिल्वरलाइट 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/10/2008
+  end: 10/12/2010
+releases:
+- version: Original Release
+  startDate: 10/10/2008
+  endDate: 10/12/2010
+content: "\n\n> [!NOTE]\n> उपकरणों के लिए समर्थन अधिसूचना की तारीख के बाद 12 महीने से कम नहीं समाप्त होता है ।"

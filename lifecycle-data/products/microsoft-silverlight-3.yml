@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिल्वरलाइट 3
+  description: माइक्रोसॉफ्ट सिल्वरलाइट 3 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 9aa16f68b129b3f9450812a33c02a1682b06a629
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904163"
+name: माइक्रोसॉफ्ट सिल्वरलाइट 3
+summary: >+
+  माइक्रोसॉफ्ट सिल्वरलाइट 3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/09/2009
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 07/09/2009
+  endDate: 04/12/2011
+content: "\n\n> [!NOTE]\n> उपकरणों के लिए समर्थन अधिसूचना की तारीख के बाद 12 महीने से कम नहीं समाप्त होता है ।"

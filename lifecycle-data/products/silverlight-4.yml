@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Silverlight 4
+  description: सिल्वरलाइट 4 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 9635d31459c8a470c63cc90e216e4237ce7c6ca1
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904153"
+name: Silverlight 4
+summary: >+
+  सिल्वरलाइट 4 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- silverlight
+policyType: fixed-mainstream-only
+supportDates:
+  start: 04/15/2010
+  end: 01/08/2013
+releases:
+- version: Original Release
+  startDate: 04/15/2010
+  endDate: 01/08/2013
+content: "\n\n> [!NOTE]\n> माइक्रोसॉफ्ट टूल्स के लिए समर्थन समाप्त करने से पहले न्यूनतम 12 महीने की अधिसूचना प्रदान करेगा।"
