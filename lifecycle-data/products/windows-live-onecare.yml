@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज लाइव वनकेयर
+  description: विंडोज लाइव वनकेयर आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: f37abdbbca933797a22116b3c1aaf794ac0cd1a2
+  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "902782"
+name: विंडोज लाइव वनकेयर
+summary: >+
+  विंडोज लाइव वनकेयर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+products:
+- windows
+policyType: modern-online
+supportDates:
+  start: 09/04/2007
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 09/04/2007
+  endDate: 04/12/2011
+content: ''

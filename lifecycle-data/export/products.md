@@ -1,27 +1,27 @@
 ---
 title: जीवनचक्र डेटा निर्यात
 description: निर्यात उत्पाद जीवनचक्र जानकारी
-ms.date: 08/18/2020
-ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
-ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
+ms.date: 08/19/2020
+ms.openlocfilehash: d116baffd1a01f45fafeb184fddda1a0736e694a
+ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "902404"
+ms.lasthandoff: 08/19/2020
+ms.locfileid: "902637"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="de896-103">जीवनचक्र डेटा निर्यात</span><span class="sxs-lookup"><span data-stu-id="de896-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="cec4f-103">जीवनचक्र डेटा निर्यात</span><span class="sxs-lookup"><span data-stu-id="cec4f-103">Lifecycle data export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="de896-104">इस पृष्ठ के विकास के तहत है।</span><span class="sxs-lookup"><span data-stu-id="de896-104">This page is under development.</span></span>
+> <span data-ttu-id="cec4f-104">इस पृष्ठ के विकास के तहत है।</span><span class="sxs-lookup"><span data-stu-id="cec4f-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="de896-105">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="de896-105">Export all products</span></span>
-<span data-ttu-id="de896-106">नीचे क्लिक करके सभी उत्पादों के लिए जीवनचक्र डेटा निर्यात करें:</span><span class="sxs-lookup"><span data-stu-id="de896-106">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="cec4f-105">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="cec4f-105">Export all products</span></span>
+<span data-ttu-id="cec4f-106">नीचे क्लिक करके सभी उत्पादों के लिए जीवनचक्र डेटा निर्यात करें:</span><span class="sxs-lookup"><span data-stu-id="cec4f-106">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="de896-107">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="de896-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="cec4f-107">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="cec4f-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="de896-108">परिवार और समूह द्वारा निर्यात उत्पाद</span><span class="sxs-lookup"><span data-stu-id="de896-108">Export products by Family and Group</span></span>
-<span data-ttu-id="de896-109">एक परिवार का चयन करें और फिर निर्यात करने के लिए एक समूह ।</span><span class="sxs-lookup"><span data-stu-id="de896-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="de896-110">नोट: समूह मूल्य चुने जाने पर निर्यात शुरू हो जाएगा.</span><span class="sxs-lookup"><span data-stu-id="de896-110">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="cec4f-108">परिवार और समूह द्वारा निर्यात उत्पाद</span><span class="sxs-lookup"><span data-stu-id="cec4f-108">Export products by Family and Group</span></span>
+<span data-ttu-id="cec4f-109">एक परिवार का चयन करें और फिर निर्यात करने के लिए एक समूह ।</span><span class="sxs-lookup"><span data-stu-id="cec4f-109">Select a Family and then a Group to export.</span></span> <span data-ttu-id="cec4f-110">नोट: समूह मूल्य चुने जाने पर निर्यात शुरू हो जाएगा.</span><span class="sxs-lookup"><span data-stu-id="cec4f-110">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="परिवार" title2="समूह"]
 > - [(.नेट । सभी)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "902404"
 > - [(विंडोज । सुरक्षा)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(विंडोज । सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="de896-168">समर्थन तिथि के अंत तक निर्यात उत्पाद</span><span class="sxs-lookup"><span data-stu-id="de896-168">Export products by end of support date</span></span>
-<span data-ttu-id="de896-169">समर्थन के अंत तक पहुंचने वाले उत्पादों को देखने के लिए एक वर्ष का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="de896-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="de896-170">नोट: वर्ष मूल्य का चयन होने पर निर्यात शुरू हो जाएगा.</span><span class="sxs-lookup"><span data-stu-id="de896-170">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="cec4f-168">समर्थन तिथि के अंत तक निर्यात उत्पाद</span><span class="sxs-lookup"><span data-stu-id="cec4f-168">Export products by end of support date</span></span>
+<span data-ttu-id="cec4f-169">समर्थन के अंत तक पहुंचने वाले उत्पादों को देखने के लिए एक वर्ष का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="cec4f-169">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="cec4f-170">नोट: वर्ष मूल्य का चयन होने पर निर्यात शुरू हो जाएगा.</span><span class="sxs-lookup"><span data-stu-id="cec4f-170">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))

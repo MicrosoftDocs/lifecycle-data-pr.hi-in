@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज मीडिया एन्कोडर 9 श्रृंखला
+  description: विंडोज मीडिया एनकोडर 9 श्रृंखला फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 155a9a5c7b4177f6c51651324a6f5cff219d6069
+  ms.sourcegitcommit: 7058ee1673709d6dd4bed24f043690e0da2c6bb4
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "902780"
+name: विंडोज मीडिया एन्कोडर 9 श्रृंखला
+summary: >+
+  विंडोज मीडिया एनकोडर 9 श्रृंखला [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: 64 बिट, मानक
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/15/2002
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 11/15/2002
+  endDate: 01/13/2015
+content: "\n\n> [!NOTE]\n> विंडोज मीडिया एनकोडर 9 सीरीज x64 संस्करण 15 सितंबर, 2005 को जारी किया गया।\n\n## <a name=\"editions\"></a>संस्करण \n* 64bit\n* मानक"
