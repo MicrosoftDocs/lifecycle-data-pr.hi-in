@@ -1,27 +1,27 @@
 ---
-title: निर्यात उत्पाद
+title: जीवनचक्र डेटा निर्यात
 description: निर्यात उत्पाद जीवनचक्र जानकारी
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899804"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902404"
 ---
-# <a name="export"></a>निर्यात
+# <a name="lifecycle-data-export"></a>जीवनचक्र डेटा निर्यात
 
 > [!IMPORTANT]
 > इस पृष्ठ के विकास के तहत है।
 
 ## <a name="export-all-products"></a>सभी उत्पादों का निर्यात करें
-बिना किसी फिल्टर के सभी उत्पादों का निर्यात करें।
+नीचे क्लिक करके सभी उत्पादों के लिए जीवनचक्र डेटा निर्यात करें:
 
 > [!div class="nextstepaction"]
 > [सभी उत्पादों का निर्यात करें](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>श्रेणी के अकांन निर्यात उत्पाद
-निर्यात करने के लिए एक समूह का चयन करें:
+## <a name="export-products-by-family-and-group"></a>परिवार और समूह द्वारा निर्यात उत्पाद
+एक परिवार का चयन करें और फिर निर्यात करने के लिए एक समूह । नोट: समूह मूल्य चुने जाने पर निर्यात शुरू हो जाएगा. 
 
 > [!div class="op_multi_selector" title1="परिवार" title2="समूह"]
 > - [(.नेट । सभी)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899804"
 > - [(विंडोज । सुरक्षा)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(विंडोज । सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>समर्थन वर्ष के अंत तक निर्यात उत्पाद
-उस वर्ष में सेवा समाप्त करने वाले उत्पादों के निर्यात के लिए एक वर्ष का चयन करें:
+## <a name="export-products-by-end-of-support-date"></a>समर्थन तिथि के अंत तक निर्यात उत्पाद
+समर्थन के अंत तक पहुंचने वाले उत्पादों को देखने के लिए एक वर्ष का चयन करें। नोट: वर्ष मूल्य का चयन होने पर निर्यात शुरू हो जाएगा.
 
 > [!div class="op_single_selector"]
 > - [2002](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
