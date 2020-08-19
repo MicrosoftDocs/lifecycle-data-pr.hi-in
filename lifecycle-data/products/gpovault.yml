@@ -3,18 +3,18 @@ metadata:
   title: जीपीओवॉल्ट
   description: जीपीओवाल्ट फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
   ms.date: 08/19/2020
-  ms.openlocfilehash: 53a695653e0c7ea800e0b2f78d8a0ec9be49e9c7
-  ms.sourcegitcommit: cdc82d954cf43f559efedf304d3b044b29dda561
+  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903330"
+  ms.locfileid: "903729"
 name: जीपीओवॉल्ट
 summary: >+
   जीपीओवाल्ट [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: 1.0, 1.0 एंटरप्राइज, 2.0, एंटरप्राइज 2.0
+  यह निम्नलिखित संस्करणों पर लागू होता है: 1.0, 2.0, एंटरप्राइज 1.0, एंटरप्राइज 2.0
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है। \n\n## <a name=\"editions\"></a>संस्करण \n* 1.0\n* 1.0 एंटरप्राइज\n* 2.0\n* एंटरप्राइज 2.0"
+content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है। \n\n## <a name=\"editions\"></a>संस्करण \n* 1.0\n* 2.0\n* एंटरप्राइज 1.0\n* एंटरप्राइज 2.0"

@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट वर्क्स
+  description: माइक्रोसॉफ्ट वर्क्स फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904162"
+name: माइक्रोसॉफ्ट वर्क्स
+summary: >+
+  माइक्रोसॉफ्ट वर्क्स [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 10/25/2003
+  end: 01/08/2013
+releases:
+- version: MIcrosoft Works Plus 2008
+  startDate: 11/14/2007
+  endDate: 01/08/2013
+- version: Microsoft Works 9
+  startDate: 09/28/2007
+  endDate: 10/09/2012
+- version: Microsoft Works Suite 2006
+  startDate: 12/16/2005
+  endDate: 01/13/2009
+- version: Microsoft Works Suite 2005
+  startDate: 03/31/2005
+  endDate: 04/08/2008
+- version: Microsoft Works 8
+  startDate: 10/08/2004
+  endDate: 01/12/2010
+- version: Microsoft Works Suite 2004
+  startDate: 10/25/2003
+  endDate: 01/09/2007
+content: "\n\n> [!NOTE]\n> इस लिस्टिंग में 2003 और 2007 के बीच जारी किए गए सभी माइक्रोसॉफ्ट वर्क्स उत्पाद शामिल हैं।"

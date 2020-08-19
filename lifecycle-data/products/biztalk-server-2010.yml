@@ -2,13 +2,13 @@
 metadata:
   title: बिजटॉल सर्वर 2010
   description: बिजटॉल सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 4eaeb3eeb55e6f077e3ebafd96e68d56daf1dbcc
-  ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
+  ms.date: 08/19/2020
+  ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/14/2020
-  ms.locfileid: "894910"
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "903692"
 name: बिजटॉल सर्वर 2010
 summary: >+
   बिजटॉल सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस बिजनेस पोर्टल
+  description: माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस बिजनेस पोर्टल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 2b4116c3d6461616b1e36ab86d5606900be3ec6c
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904164"
+name: माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस बिजनेस पोर्टल
+summary: >+
+  माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस बिजनेस पोर्टल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 07/18/2003
+  end: 01/08/2008
+releases:
+- version: Business Solutions Business Portal 2.5
+  startDate: 08/01/2004
+  endDate: 01/08/2008
+- version: Business Solutions Business Portal 2.0
+  startDate: 01/01/2004
+  endDate: 04/10/2007
+- version: Business Solutions Business Portal 1.2
+  startDate: 07/18/2003
+  endDate: 12/31/2004
+content: "\n\n> [!NOTE]\n> माइक्रोसॉफ्ट बिजनेस सॉल्यूशंस बिजनेस पोर्टल 2.5 को केवल तभी समर्थित किया गया था जब या तो ग्रेट प्लेन्स 8.0 या सोलोमन 6.0 के साथ उपयोग किया जाता है।"
