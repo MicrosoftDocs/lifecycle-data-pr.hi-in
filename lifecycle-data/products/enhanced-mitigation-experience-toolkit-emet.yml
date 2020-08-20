@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: उन्नत शमन अनुभव टूलकिट (ईमेट)
+  description: बढ़ी हुई शमन अनुभव टूलकिट (ईमेट) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 3dbfe94571aa33f4f48608ce2078f978d4901ae8
+  ms.sourcegitcommit: f2f920f4a81a356fb71402238234768a9e90fd51
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905301"
+name: उन्नत शमन अनुभव टूलकिट (ईमेट)
+summary: >+
+  बढ़ी हुई शमन अनुभव टूलकिट (ईमेट) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2016
+  end: 12/30/2016
+  extendedEnd: 07/31/2018
+releases:
+- version: Original Release
+  startDate: 12/30/2016
+  endDate: 07/31/2018
+content: ''
