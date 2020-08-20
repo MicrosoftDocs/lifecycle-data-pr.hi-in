@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट एक्टिवसिंक 4.5
+  description: माइक्रोसॉफ्ट एक्टिवसिंक 4.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 8c9156fcf25fc972f32e727f305a5ecaececde1c
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904909"
+name: माइक्रोसॉफ्ट एक्टिवसिंक 4.5
+summary: >+
+  माइक्रोसॉफ्ट एक्टिवसिंक 4.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 05/12/2007
+  end: 07/10/2012
+releases:
+- version: Original Release
+  startDate: 05/12/2007
+  endDate: 07/10/2012
+content: ''
