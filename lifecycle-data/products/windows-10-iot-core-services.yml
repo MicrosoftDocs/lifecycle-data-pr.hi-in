@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 10 आईओटी कोर सेवाएं
-  description: विंडोज 10 आईओटी कोर सेवाएं आधुनिक जीवनचक्र नीति का पालन करती हैं।
+  title: Windows 10 IoT कोर सेवाएं
+  description: Windows 10 IoT Core सेवाएं आधुनिक जीवनचक्र नीति का पालन करती हैं.
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e64958c91092f2890a4d871de3fd7b96614d65
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869849"
-name: विंडोज 10 आईओटी कोर सेवाएं
+name: Windows 10 IoT कोर सेवाएं
 summary: >+
-  विंडोज 10 आईओटी कोर सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं।
+  Windows 10 IoT Core सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज 10 आईओटी कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> विंडोज 10 आईओटी कोर सर्विसेज एक सेवा के रूप में सॉफ्टवेयर समर्थन प्रदान करने वाली सदस्यता है, जिसमें डिवाइस अपडेट सेंटर के साथ अपडेट नियंत्रण और डिवाइस हेल्थ सत्यापन के साथ बेहतर सुरक्षा शामिल है, जब तक आप विंडोज 10 IoT कोर सॉफ्टवेयर का समर्थित संस्करण चला रहे हैं।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows 10 IoT कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core सेवाएं, एक सेवा के रूप में सॉफ्टवेयर समर्थन प्रदान करने वाली सदस्यता है, जिसमें डिवाइस अपडेट सेंटर के साथ अपडेट नियंत्रण और डिवाइस हेल्थ सत्यापन के साथ बेहतर सुरक्षा शामिल है, ये Windows 10 IoT Core सॉफ्टवेयर के समर्थित संस्करण के साथ उपलब्ध हैं."

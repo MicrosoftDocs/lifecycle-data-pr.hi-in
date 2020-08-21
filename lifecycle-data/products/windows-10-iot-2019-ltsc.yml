@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 10 आईओटी 2019 एलटीसी
-  description: विंडोज 10 आईओटी 2019 एलटीसी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows 10 IoT 2019 LTSC
+  description: Windows 10 IoT 2019 LTSC फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869852"
-name: विंडोज 10 आईओटी 2019 एलटीसी
+name: Windows 10 IoT 2019 LTSC
 summary: >+
-  विंडोज 10 आईओटी 2019 एलटीसी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows 10 IoT 2019 LTSC [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: कोर, एंटरप्राइज
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज 10 आईओटी कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [उन्होंने विंडोज 10 अक्टूबर अपडेट (संस्करण 1809) को 13 नवंबर, 2018 को फिर से जारी किया गया था। समर्थन तिथियों को तदनुसार समायोजित किया गया है।](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [विंडोज एक सेवा के रूप में (WaaS)](/windows/deployment/update/waas-quick-start)\n* [विंडोज 10 एलटीएससी एफएक्यू](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = विंडोज 10 दीर्घकालिक सर्विसिंग चैनल\n\n## <a name=\"editions\"></a>संस्करण \n* कोर\n* एंटरप्राइज़"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows 10 IoT कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [Windows 10 अक्टूबर अद्यतन (संस्करण 1809) नवंबर 13, 2018 को फिर से जारी किया गया था. .समर्थन तिथियों को उसके अनुसार समायोजित किया गया है.](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = Windows 10 दीर्घकालिक सर्विसिंग चैनल\n\n## <a name=\"editions\"></a>संस्करण \n* कोर\n* Enterprise"

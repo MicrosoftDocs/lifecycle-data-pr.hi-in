@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365)
-  description: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics CRM 2016 (Dynamics 365)
+  description: Dynamics CRM 2016 (Dynamics 365) नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/30/2020
   ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
   ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878783"
-name: डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365)
+name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
-  डायनेमिक्स सीआरएम 2016 (डायनेमिक्स 365) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics CRM 2016 (Dynamics 365) [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release (ver 8.0)
   startDate: 11/30/2015
   endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [डायनेमिक्स 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2925359/microsoft-dynamics-crm-online-releases)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

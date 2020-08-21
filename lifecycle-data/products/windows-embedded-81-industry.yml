@@ -2,19 +2,19 @@
 metadata:
   title: विंडोज एम्बेडेड 8.1 उद्योग
   description: विंडोज एम्बेडेड 8.1 उद्योग फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 06229993442080153b64e34bc290b48b6fc1e05d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855673"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906917"
 name: विंडोज एम्बेडेड 8.1 उद्योग
 summary: >+
   विंडोज एम्बेडेड 8.1 उद्योग [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, प्रो
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, प्रो, साइडलोडिंग
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](https://support.microsoft.co/help/18581)\n* [विंडोज एम्बेडेड 8.1 एफएक्यू](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* प्रो"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](https://support.microsoft.co/help/18581)\n* [विंडोज एम्बेडेड 8.1 एफएक्यू](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* प्रो\n* साइडलोडिंग"

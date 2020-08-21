@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विजुअल स्टूडियो 2019
-  description: विजुअल स्टूडियो 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Visual Studio 2019
+  description: Visual Studio 2019 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3bb4a3be253fe45b27fa6baa8f165dc2fbb3ffd1
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869859"
-name: विजुअल स्टूडियो 2019
+name: Visual Studio 2019
 summary: >+
-  विजुअल स्टूडियो 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Visual Studio 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मैक के लिए एजेंट, बिल्ड टूल्स, कम्युनिटी, एंटरप्राइज, इंटेलीट्रेस स्टैंडअलोन कलेक्टर, प्रदर्शन उपकरण, पेशेवर, रिमोट टूल्स, टीम एक्सप्लोरर, विजुअल सी ++ पुनर्वितरणीय
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, बिल्ड टूल्स, कम्यूनिटी, एंटरप्राइज, Mac के लिए, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, प्रोफेशनल, रिमोट टूल्स, Team एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* उपकरण बनाएं\n* समुदाय\n* एंटरप्राइज़\n* मैक के लिए\n* इंटेलीट्रेस स्टैंडअलोन कलेक्टर\n* प्रदर्शन उपकरण\n* पेशेवर\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* विजुअल सी ++ पुनर्वितरण योग्य"
+content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* Visual C++ पुनर्वितरण योग्य"

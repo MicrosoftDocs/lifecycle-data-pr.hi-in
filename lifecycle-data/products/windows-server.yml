@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows Server
-  description: विंडोज सर्वर आधुनिक जीवनचक्र नीति का पालन करता है।
+  description: Windows Server आधुनिक जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869943"
 name: Windows Server
 summary: >+
-  विंडोज सर्वर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Windows Server [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, स्टैंडर्ड
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज सर्वर सर्विसिंग चैनल: एलटीएससी और सैक](/windows-server/get-started-19/servicing-channels-19)\n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> विंडोज 10 अक्टूबर अपडेट (संस्करण 1809) को 13 नवंबर, 2018 को फिर से जारी किया गया था। समर्थन तिथियों को तदनुसार समायोजित किया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Server सर्विसिंग चैनल: LTSC और SAC](/windows-server/get-started-19/servicing-channels-19)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows 10 अक्टूबर अद्यतन (संस्करण 1809) नवंबर 13, 2018 को फिर से जारी किया गया था. समर्थन तिथियों को उसके अनुसार नियमित किया गया आई।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Standard"

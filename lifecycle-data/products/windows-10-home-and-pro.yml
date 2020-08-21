@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 10 होम और प्रो
-  description: विंडोज 10 होम और प्रो आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Windows 10 Home and Pro
+  description: Windows 10 Home and Pro आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879163"
-name: विंडोज 10 होम और प्रो
+name: Windows 10 Home and Pro
 summary: >
-  विंडोज 10 होम और प्रो [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Windows 10 Home and Pro [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: होम, प्रो, प्रो फॉर एजुकेशन, प्रो फॉर वर्कस्टेशन, प्रोफेशनल
+  यह निम्नलिखित संस्करणों पर लागू होता है: Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > माइक्रोसॉफ्ट 14 अक्टूबर, २०२५ तक कम से एक विंडोज 10 अर्ध वार्षिक चैनल का समर्थन जारी रखेगा ।
+  > Microsoft 14 अक्टूबर, 2025 तक कम से कम एक  Windows 10 अर्धवार्षिक चैनल का समर्थन जारी रखेगा.
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज एक सेवा के रूप में (WaaS)](/windows/deployment/update/waas-quick-start)\n* [विंडोज जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> वर्कस्टेशन के लिए प्रो पहले संस्करण 1703 के साथ जारी\n> [!NOTE]\n> जब तक आस्थगित नहीं किया जाता है, तब तक मुख्यधारा की सहायता तिथि के सूचीबद्ध अंत से पहले बाद के विंडोज 10 अर्ध-वार्षिक चैनल फीचर अपडेट स्थापित किए जा सकते हैं।\n\n## <a name=\"editions\"></a>संस्करण \n* घर\n* प्रो\n* शिक्षा के लिए प्रो\n* वर्कस्टेशन के लिए प्रो\n* पेशेवर"
+content: "\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows का जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation सबसे पहले संस्करण 1703 के साथ रिलीज़ हुआ था\n> [!NOTE]\n> अस्थगित न होने तक, अनुवर्ती Windows 10 अर्धवार्षिक चैनल सुविधा अद्यतन को मेनस्ट्रीम समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है.\n\n## <a name=\"editions\"></a>संस्करण \n* होम\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

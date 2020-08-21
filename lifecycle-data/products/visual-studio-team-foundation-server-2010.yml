@@ -2,17 +2,19 @@
 metadata:
   title: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2010
   description: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 7f7de1b78c00f878d13a9e9bd1af80d1f1d541e2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820561"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906799"
 name: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2010
 summary: >+
   विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, बाहरी कनेक्टर
 
 products:
 - vs
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [नीला देव ऑप्स](https://azure.microsoft.com/services/devops/migrate/)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [नीला देव ऑप्स](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* बाहरी कनेक्टर"
