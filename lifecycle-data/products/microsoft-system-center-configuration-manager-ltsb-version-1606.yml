@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर (LTSB - संस्करण 1606)
+  description: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर (LTSB - संस्करण 1606) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/20/2020
+  ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905868"
+name: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर (LTSB - संस्करण 1606)
+summary: >+
+  माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर (LTSB - संस्करण 1606) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 10/12/2016
+  end: 10/12/2021
+  extendedEnd: 01/12/2027
+releases:
+- version: Original Release
+  startDate: 10/12/2016
+  endDate: 01/12/2027
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग और समर्थन जानकारी](/sccm/core/understand/learn-more-editions)"
