@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स जीपी 2010
-  description: डायनेमिक्स जीपी 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics GP 2010
+  description: Dynamics GP 2010 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82eb406f32eb22016a6f4e97fa3d802c6d1dd896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821173"
-name: डायनेमिक्स जीपी 2010
+name: Dynamics GP 2010
 summary: >+
-  डायनेमिक्स जीपी 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics GP 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:

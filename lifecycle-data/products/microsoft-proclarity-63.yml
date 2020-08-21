@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट प्रोक्लेरिटी 6.3
-  description: माइक्रोसॉफ्ट प्रोक्लेरिटी 6.3 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft ProClarity 6.3
+  description: Microsoft ProClarity 6.3 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820445"
-name: माइक्रोसॉफ्ट प्रोक्लेरिटी 6.3
+name: Microsoft ProClarity 6.3
 summary: >+
-  माइक्रोसॉफ्ट प्रोक्लेरिटी 6.3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft ProClarity 6.3  [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एनालिटिक्स सर्वर, डेस्कटॉप प्रोफेशनल, शेयरपॉइंट व्यूअर
+  यह निम्नलिखित संस्करणों पर लागू होता है: Analytics Server, Desktop Professional, SharePoint Viewer
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एनालिटिक्स सर्वर\n* डेस्कटॉप प्रोफेशनल\n* शेयरपॉइंट व्यूअर"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Analytics Server\n* Desktop Professional\n* SharePoint Viewer"

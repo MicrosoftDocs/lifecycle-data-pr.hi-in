@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स एक्स 2009
-  description: डायनेमिक्स एक्स 2009 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics AX 2009
+  description: Dynamics AX 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820490"
-name: डायनेमिक्स एक्स 2009
+name: Dynamics AX 2009
 summary: >+
-  डायनेमिक्स एक्स 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics AX 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [डायनेमिक्स 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> मुख्यधारा के समर्थन को जैसा दिखाया गया है, बढ़ाया गया है ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> दिखाए गए अनुसार मेनस्ट्रीम सपोर्ट को बढ़ा दिया गया है।"

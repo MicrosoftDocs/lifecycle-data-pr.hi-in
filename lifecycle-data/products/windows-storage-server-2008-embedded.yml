@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज स्टोरेज सर्वर 2008 एम्बेडेड
-  description: विंडोज स्टोरेज सर्वर 2008 एम्बेडेड फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Storage Server 2008 एम्बेडेड
+  description: Windows Storage Server 2008 एम्बेडेड फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820547"
-name: विंडोज स्टोरेज सर्वर 2008 एम्बेडेड
+name: Windows Storage Server 2008 एम्बेडेड
 summary: >+
-  विंडोज स्टोरेज सर्वर 2008 एम्बेडेड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Storage Server 2008 एम्बेडेड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: 32 बिट, 64 बिट, बेसिक, बेसिक 32-बिट, एंटरप्राइज, स्टैंडर्ड, वर्कग्रुप
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/19/2009
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> यह उत्पाद समर्थन के अंत तक पहुंच गया है। माइग्रेशन मार्गदर्शन के लिए नीचे देखें।\n\n## <a name=\"editions\"></a>संस्करण \n* 32bit\n* 64bit\n* बुनियादी\n* बेसिक 32-बिट\n* एंटरप्राइज़\n* मानक\n* कार्यसमूह"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> इस उत्पाद का समर्थन खत्म होने वाला है। माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n\n## <a name=\"editions\"></a>संस्करण \n* 32 बिट\n* 64 बिट\n* बेसिक\n* बेसिक 32-बिट\n* Enterprise\n* Standard\n* वर्कग्रुप"

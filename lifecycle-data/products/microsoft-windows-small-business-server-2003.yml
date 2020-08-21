@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट विंडोज स्मॉल बिजनेस सर्वर 2003
-  description: माइक्रोसॉफ्ट विंडोज स्मॉल बिजनेस सर्वर 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Windows Small Business Server 2003
+  description: Microsoft Windows Small Business Server 2003 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8ac087fd1710a2deb48d9507f342d447d9c96b2c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820965"
-name: माइक्रोसॉफ्ट विंडोज स्मॉल बिजनेस सर्वर 2003
+name: Microsoft Windows Small Business Server 2003
 summary: >+
-  माइक्रोसॉफ्ट विंडोज स्मॉल बिजनेस सर्वर 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Windows Small Business Server 200 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड
 
 products:
 - windows
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 12/16/2003
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है। कृपया समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें।\n> [!NOTE]\n> विंडोज स्मॉल बिजनेस सर्वर 2003 स्टैंडर्ड एडिशन के लिए शुरुआत की तारीख 16 दिसंबर, 2003 है। \n\n## <a name=\"editions\"></a>संस्करण \n* प्रीमियम\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.\n> [!NOTE]\n> Windows Small Business Server 2003 मानक संस्करण के शुरुआत की तारीख 16 दिसंबर, 2003 है. \n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"

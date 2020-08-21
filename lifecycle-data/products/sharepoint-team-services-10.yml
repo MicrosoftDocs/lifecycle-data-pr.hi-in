@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: SharePoint Team Services 1.0
-  description: शेयरपॉइंट टीम सर्विसेज 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  description: SharePoint Team Services 1.0 फिक्स्ड लाइफसाइकल नीति का पालन करती है.
   ms.date: 07/28/2020
   ms.openlocfilehash: c9fe198170cb3b6572c22de85f46c21d81756bf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820416"
 name: SharePoint Team Services 1.0
 summary: >+
-  शेयरपॉइंट टीम सर्विसेज 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  SharePoint टीम सर्विसेज़ 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करती है.
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2001
   endDate: 12/31/2002
-content: "\n## <a name=\"links\"></a>लिंक \n* [शेयरपॉइंट टीम सर्विसेज 1.0 के लिए डेवलपर दस्तावेज](/previous-versions/office/developer/sharepoint-team-services/dd588683(v=office.11))\n* [शेयरपॉइंट टीम सर्विसेज 1.0 के लिए उत्पाद दस्तावेज](/previous-versions/tn-archive/cc767972(v=technet.10))"
+content: "\n## <a name=\"links\"></a>लिंक \n* [SharePoint टीम सर्विसेज 1.0 के लिए डेवलपर दस्तावेज](/previous-versions/office/developer/sharepoint-team-services/dd588683(v=office.11))\n* [SharePoint टीम सर्विसेज 1.0 के लिए उत्पाद दस्तावेज](/previous-versions/tn-archive/cc767972(v=technet.10))"

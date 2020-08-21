@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एम्बेडेड स्टैंडर्ड 7
-  description: विंडोज एम्बेडेड स्टैंडर्ड 7 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Embedded Standard 7
+  description: Windows Embedded Standard 7 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820914"
-name: विंडोज एम्बेडेड स्टैंडर्ड 7
+name: Windows एम्बेडेड स्टैंडर्ड 7
 summary: >+
-  विंडोज एम्बेडेड स्टैंडर्ड 7 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Embedded Standard 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - windows
@@ -39,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अद्यतन कार्यक्रम (ESU)- चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अपडेट ओईएम के माध्यम से उपलब्ध हैं](/lifecycle/faq/extended-security-updates)\n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ' * विस्तारित सुरक्षा अपडेट (ईयू) विंडोज एम्बेडेड स्टैंडर्ड 7 के लिए ओईएम के माध्यम से समर्थन के अंत में एक अतिरिक्त तीन साल तक के लिए उपलब्ध हैं । अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें.\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अद्यतन कार्यक्रम (ESU) - चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अद्यतन OEM के माध्यम से उपलब्ध हैं](/lifecycle/faq/extended-security-updates)\n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन वर्ष तक, Windows Embedded Standard 7 के लिए विस्तारित सुरक्षा अद्यतन (ESU) OEM के माध्यम से उपलब्ध हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें.\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

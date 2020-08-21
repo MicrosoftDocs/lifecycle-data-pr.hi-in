@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Data Protection Manager 2007
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007
+  description: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820988"
-name: Microsoft System Center Data Protection Manager 2007
+name: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007
 summary: >
-  माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft सिस्टम केंद्र डेटा सुरक्षा प्रबंधक 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - msc
 policyType: fixed
