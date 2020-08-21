@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज सर्वर 2012 R2
-  description: विंडोज सर्वर 2012 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855247"
-name: विंडोज सर्वर 2012 R2
+name: Windows Server 2012 R2
 summary: >+
-  विंडोज सर्वर 2012 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एम्बेडेड सिस्टम, फाउंडेशन, मानक के लिए डेटासेंटर, अनिवार्य
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, एसेंशियल, एम्बेडेड सिस्टम के लिए, फाउंडेशन, स्टैंडर्ड
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ ग्राहकों को प्रदान करने के लिए बढ़ाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* अत्यावश्यक वस्तुएं\n* एम्बेडेड सिस्टम के लिए\n* फाउंडेशन\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* एम्बेडेड सिस्टम के लिए\n* Foundation\n* Standard"

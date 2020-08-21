@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट आइडेंटिटी मैनेजर 2016
-  description: माइक्रोसॉफ्ट आइडेंटिटी मैनेजर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Identity Manager 2016
+  description: Microsoft Identity Manager 2016 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 81b15d013b9c79646892295de5477fc3bd4b2dbc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855337"
-name: माइक्रोसॉफ्ट आइडेंटिटी मैनेजर 2016
+name: Microsoft आइडेंटिटी मैनेजर 2016
 summary: >+
-  माइक्रोसॉफ्ट आइडेंटिटी मैनेजर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Identity Manager 2016 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2015
   endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [नीला समर्थन माइक्रोसॉफ्ट पहचान प्रबंधक 2016 के लिए विस्तारित समर्थन के अंत के माध्यम से नीला विज्ञापन एकीकरण घटकों के लिए उपलब्ध है।](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [नीला समर्थन योजनाएं।](https://azure.microsoft.com/support/plans/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी](/microsoft-identity-manager/microsoft-identity-manager-2016)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [  Azure समर्थन, Microsoft Identity Manager 2016 के लिए विस्तारित समर्थन के अंत के माध्यम से, Azure AD एकीकरण घटकों के लिए उपलब्ध है.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure समर्थन प्लान.](https://azure.microsoft.com/support/plans/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी](/microsoft-identity-manager/microsoft-identity-manager-2016)"

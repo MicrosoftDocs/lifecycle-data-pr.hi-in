@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज सर्वर के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
-  description: विंडोज सर्वर के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
+  description: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज आधुनिक लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855519"
-name: विंडोज सर्वर के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
+name: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
 summary: >+
-  विंडोज सर्वर के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज [आधुनिक](/lifecycle/policies/modern) लाइफसाइकल नीति का पालन करता है.
 
 
 products:

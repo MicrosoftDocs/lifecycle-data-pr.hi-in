@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज सर्वर 2012 R2 के लिए विंडोज सर्वर अपडेट सेवाएं
-  description: विंडोज सर्वर 2012 आर2 के लिए विंडोज सर्वर अपडेट सेवाएं घटक जीवनचक्र नीति का पालन करती हैं।
+  title: Windows Server 2012 R2 के लिए Windows सर्वर अद्यतन सेवाएँ
+  description: Windows Server 2012 R2 के लिए Windows सर्वर अद्यतन सेवाएँ, घटक लाइफसाइकल नीति का अनुसरण करती हैं.
   ms.date: 07/28/2020
   ms.openlocfilehash: db602a56da102f56953ea16e19275df5aa653458
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855578"
-name: विंडोज सर्वर 2012 R2 के लिए विंडोज सर्वर अपडेट सेवाएं
+name: Windows Server 2012 R2 के लिए Windows सर्वर अद्यतन सेवाएँ
 summary: >+
-  विंडोज सर्वर 2012 आर2 के लिए विंडोज सर्वर अपडेट सेवाएं [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करती हैं।
+  Windows Server 2012 R2 के लिए Windows सर्वर अद्यतन सेवाएँ, [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकल नीति का अनुसरण करती हैं.
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "> [!TIP]\n> यह घटक अपने मूल उत्पाद, विंडोज सर्वर 2012 R2 के जीवनचक्र का पालन करता है\n\n## <a name=\"links\"></a>लिंक \n* [विंडोज सर्वर 2012 R2](/lifecycle/)"
+content: "> [!TIP]\n> यह घटक अपने पैरेंट उत्पाद, Windows Server 2012 R2 के लाइफसाइकल का अनुसरण करता है.\n\n## <a name=\"links\"></a>लिंक \n* [Windows Server 2012 R2](/lifecycle/)"

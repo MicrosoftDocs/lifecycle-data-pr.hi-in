@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट कॉमर्स सर्वर 2009 R2
-  description: माइक्रोसॉफ्ट कॉमर्स सर्वर 2009 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Commerce Server 2009 R2
+  description: Microsoft Commerce Server 2009 R2 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 64c43c28d793d17e85dbd9c69d8bbe6b30c8f233
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855346"
-name: माइक्रोसॉफ्ट कॉमर्स सर्वर 2009 R2
+name: Microsoft Commerce Server 2009 R2
 summary: >+
-  माइक्रोसॉफ्ट कॉमर्स सर्वर 2009 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Commerce Server 2009 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2011
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n* [गतिशीलता 365 वाणिज्य वास्तुकला अवलोकन](/dynamics365/commerce/commerce-architecture)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n* [Dynamics 365 Commerce की संरचना का अवलोकन](/dynamics365/commerce/commerce-architecture)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

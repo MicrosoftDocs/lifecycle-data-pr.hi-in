@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विजुअल स्टूडियो 2012
-  description: विजुअल स्टूडियो 2012 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Visual Studio 2012
+  description: Visual Studio 2012 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855409"
-name: विजुअल स्टूडियो 2012
+name: Visual Studio 2012
 summary: >+
-  विजुअल स्टूडियो 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Visual Studio 2012 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, समुदाय 2013, वेब के लिए एक्सप्रेस, विंडोज 8 के लिए एक्सप्रेस, विंडोज डेस्कटॉप के लिए एक्सप्रेस, इंटेलीट्रेस कलेक्टर, माइक्रोसॉफ्ट नीला उपकरण, प्रीमियम, पेशेवर, रिमोट टूल्स, शेल (एकीकृत), शेल (अलग), एसक्यूएल सर्वर डेटा टूल्स, टीम, एक्सप्लोरर टेस्ट प्रोफेशनल 2013, अल्टीमेट, विजुअल सी + + रेडिस्ट्रिब्यूटेबल, वेब टूल्स एक्सटेंशन
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, कम्यूनिटी 2013, वेब के लिए एक्सप्रेस, Windows 8 के लिए एक्सप्रेस, Windows डेस्कटॉप के लिए एक्सप्रेस, IntelliTrace कलेक्टर, Microsoft Azure टूल्स, प्रीमियम, प्रोफेशनल, रिमोट टूल्स, Shell (एकीकृत), Shell (अलग), SQL सर्वर डेटा टूल्स, टीम एक्सप्लोरर, परीक्षण प्रोफेशनल 2013, अल्टीमेट, Visual C++ पुनर्वितरण, वेब टूल्स एक्सटेंशन
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [विजुअल स्टूडियो प्रोडक्ट लाइफसाइकिल और सर्विसिंग](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंटों\n* समुदाय 2013\n* वेब के लिए एक्सप्रेस\n* विंडोज 8 के लिए एक्सप्रेस\n* विंडोज डेस्कटॉप के लिए एक्सप्रेस\n* इंटेलीट्रेस कलेक्टर\n* माइक्रोसॉफ्ट नीला उपकरण\n* प्रीमियम\n* पेशेवर\n* रिमोट टूल्स\n* शेल (एकीकृत)\n* शेल (अलग)\n* एसक्यूएल सर्वर डेटा टूल्स\n* टीम एक्सप्लोरर\n* टेस्ट प्रोफेशनल 2013\n* अंतिम\n* विजुअल सी ++ पुनर्वितरण योग्य\n* वेब टूल्स एक्सटेंशन"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Visual Stodio उत्पाद जीवनचक्र और सर्विसिंग](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* कम्यूनिटी 2013\n* वेब के लिए एक्सप्रेस\n* Windows 8 के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* IntelliTrace कलेक्टर\n* Microsoft Azure टूल्स\n* Premium\n* Professional\n* रिमोट टूल्स\n* Shell (एकीकृत)\n* Shell (अलग)\n* SQL Server डेटा टूल्स\n* टीम एक्सप्लोरर\n* Test Professional 2013\n* Ultimate\n* Visual C++ पुनर्वितरण योग्य\n* वेब टूल्स एक्सटेंशन"

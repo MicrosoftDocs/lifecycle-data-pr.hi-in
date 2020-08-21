@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला सूचना संरक्षण ग्राहक
-  description: नीला सूचना संरक्षण ग्राहक आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Azure सूचना संरक्षण क्लाइंट
+  description: Azure सूचना संरक्षण क्लाइंट आधुनिक जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855196"
-name: नीला सूचना संरक्षण ग्राहक
+name: Azure सूचना संरक्षण क्लाइंट
 summary: >+
-  नीला सूचना संरक्षण ग्राहक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Azure सूचना संरक्षण क्लाइंट [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2016
   endDate: 03/31/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> एक एकीकृत और सुव्यवस्थित ग्राहक अनुभव प्रदान करने के लिए, नीला सूचना संरक्षण ग्राहक (क्लासिक) और नीला पोर्टल में लेबल प्रबंधन 31 मार्च, २०२१ के रूप में बहिष्कृत किया जा रहा है । यह समय-सीमा सभी वर्तमान नीला सूचना संरक्षण ग्राहकों को माइक्रोसॉफ्ट सूचना संरक्षण एकीकृत लेबलिंग प्लेटफ़ॉर्म का उपयोग करके हमारे एकीकृत लेबलिंग समाधान में संक्रमण करने की अनुमति देती है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> एकीकृत और सुव्यवस्थित ग्राहक अनुभव प्रदान करने के लिए, Azure सूचना संरक्षण क्लाइंट (क्लासिक) और Azure पोर्टल में लेबल प्रबंधन 31मार्च, 2021 के उपरांत बहिष्कृत किए जा रहे है. यह समय-सीमा सभी वर्तमान Azure सूचना संरक्षण ग्राहकों को Microsoft सूचना संरक्षण एकीकृत लेबलिंग प्लेटफ़ॉर्म का उपयोग करके हमारे एकीकृत लेबलिंग समाधान में संक्रमण करने का अवसर देती है."

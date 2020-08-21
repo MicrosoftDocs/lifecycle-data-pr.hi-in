@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय
-  description: मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Mac 2011 के लिए Microsoft Office
+  description: Mac 2011 के लिए Microsoft Office निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855307"
-name: मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय
+name: Mac 2011 के लिए Microsoft Office
 summary: >+
-  मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Mac 2011 के लिए Microsoft Office [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: अकादमिक, गृह और व्यवसाय, घर और व्यवसाय गृह उपयोग कार्यक्रम, घर और छात्र, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय के लिए मुख्यधारा का समर्थन बढ़ाया गया है जैसा कि सभी ग्राहकों को मानक जीवनचक्र संक्रमण समयरेखा प्रदान करने के लिए दिखाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* शैक्षिक\n* घर और व्यापार\n* होम एंड बिजनेस होम यूज प्रोग्राम\n* घर और छात्र\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> सभी ग्राहकों को स्टैंडर्ड जीवनचक्र अवस्थांतर समयरेखा प्रदान करने के लिए Mac 2011 के लिए Microsoft Office का मेनस्ट्रीम समर्थन बढ़ाया गया है, जैसा कि दिखाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* अकादमिक\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"
