@@ -2,17 +2,19 @@
 metadata:
   title: Microsoft System Center Essentials 2010
   description: माइक्रोसॉफ्ट सिस्टम सेंटर अनिवार्य 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c657d727b62f52b45ba09ee02472b1d5e5c133bb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 469c101b597227f04b8e412e71b888037fc38577
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820588"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906251"
 name: Microsoft System Center Essentials 2010
 summary: >+
   माइक्रोसॉफ्ट सिस्टम सेंटर अनिवार्य 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, wSQL
 
 products:
 - msc
@@ -25,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: ''
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* डब्ल्यूएसक्यूएल"
