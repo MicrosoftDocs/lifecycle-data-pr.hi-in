@@ -2,17 +2,19 @@
 metadata:
   title: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस प्रबंधक 2008
   description: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस मैनेजर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820985"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906282"
 name: माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस प्रबंधक 2008
 summary: >+
   माइक्रोसॉफ्ट सिस्टम सेंटर मोबाइल डिवाइस मैनेजर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* डब्ल्यूएसक्यूएल"
