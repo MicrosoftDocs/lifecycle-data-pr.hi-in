@@ -2,19 +2,19 @@
 metadata:
   title: विंडोज 8
   description: विंडोज 8 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1204c4097b59cb5449cb8145f06b6d755b3a4d27
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855454"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906695"
 name: विंडोज 8
 summary: >
   विंडोज 8 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, एंटरप्राइज एन, एन, मीडिया सेंटर के साथ प्रो, पेशेवर, पेशेवर एन
+  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, एंटरप्राइज एन, एन, मीडिया सेंटर के साथ प्रो, पेशेवर, पेशेवर एन, एसएल
 
 
   > [!IMPORTANT]
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* एंटरप्राइज एन\n* एन\n* मीडिया सेंटर के साथ प्रो\n* पेशेवर\n* प्रोफेशनल एन"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* एंटरप्राइज एन\n* एन\n* मीडिया सेंटर के साथ प्रो\n* पेशेवर\n* प्रोफेशनल एन\n* Sl"

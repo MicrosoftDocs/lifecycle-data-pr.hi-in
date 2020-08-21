@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: स्टोरेज के लिए विंडोज सर्वर IoT 2019
-  description: भंडारण के लिए विंडोज सर्वर IoT 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: संग्रहण के लिए Windows Server IoT 2019
+  description: संग्रहण के लिए Windows Server IoT 2019 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869841"
-name: स्टोरेज के लिए विंडोज सर्वर IoT 2019
+name: संग्रहण के लिए Windows Server IoT 2019
 summary: >+
-  भंडारण के लिए विंडोज सर्वर IoT 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  संग्रहण के लिए Windows Server IoT 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक, कार्यसमूह
+  यह निम्नलिखित संस्करणों पर लागू होता है: स्टैंडर्ड, वर्कग्रुप
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/04/2019
   endDate: 01/09/2029
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* कार्यसमूह"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* वर्कग्रुप"
