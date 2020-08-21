@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
-  description: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग होस्टिंग 5.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
+  description: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855347"
-name: विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
+name: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
 summary: >+
-  विंडोज डेस्कटॉप के लिए माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन होस्टिंग होस्टिंग 5.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: विंडोज डेस्कटॉप के लिए
+  यह निम्नलिखित संस्करणों पर लागू होता है: Windows डेस्कटॉप के लिए
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* विंडोज डेस्कटॉप के लिए"
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Windows डेस्कटॉप के लिए"

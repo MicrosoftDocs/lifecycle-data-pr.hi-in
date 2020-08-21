@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज स्टोरेज सर्वर 2012 R2
-  description: विंडोज स्टोरेज सर्वर 2012 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Storage Server 2012 R2
+  description: Windows Storage Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855611"
-name: विंडोज स्टोरेज सर्वर 2012 R2
+name: Windows Storage Server 2012 R2
 summary: >+
-  विंडोज स्टोरेज सर्वर 2012 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Storage Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: अनिवार्य, मानक, कार्यसमूह
+  यह निम्नलिखित संस्करणों पर लागू होता है: एसेन्शियल्स, स्टैंडर्ड, वर्कग्रुप
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ ग्राहकों को प्रदान करने के लिए बढ़ाया गया है।\n> [!NOTE]\n> अनिवार्य संस्करण के लिए शुरू की तारीख 25 सितंबर, २०१४ है । \n\n## <a name=\"editions\"></a>संस्करण \n* अत्यावश्यक वस्तुएं\n* मानक\n* कार्यसमूह"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-2012r2-to-2019)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n> [!NOTE]\n> एसेन्शियल्स संस्करण की आरंभ तिथि 25 सितम्बर, 2014 है. \n\n## <a name=\"editions\"></a>संस्करण \n* Essentials\n* Standard\n* वर्कग्रुप"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 एंडपॉइंट प्रोटेक्शन
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 आर 2 एंडपॉइंट प्रोटेक्शन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft System Center 2012 R2 Endpoint Protection
+  description: Microsoft System Center 2012 R2 Endpoint Protection नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855302"
-name: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 एंडपॉइंट प्रोटेक्शन
+name: Microsoft System Center 2012 R2 Endpoint Protection
 summary: >+
-  माइक्रोसॉफ्ट सिस्टम सेंटर 2012 आर 2 एंडपॉइंट प्रोटेक्शन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft System Center 2012 R2 Endpoint Protection [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइक्रोसॉफ्ट एंडपॉइंट मैनेजर दस्तावेज](/mem/)\n\n> [!NOTE]\n> ग्राहकों को पूरी तरह से समर्थित होने के लिए नवीनतम एंटी-मैलवेयर प्लेटफ़ॉर्म अपडेट के साथ चालू रहना होगा।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Microsoft Endpoint Manager का दस्तावेज](/mem/)\n\n> [!NOTE]\n> ग्राहकों को पूरी तरह से समर्थित होने के लिए नवीनतम एंटी-मैलवेयर प्लेटफ़ॉर्म अपडेट के साथ रहना होगा."
