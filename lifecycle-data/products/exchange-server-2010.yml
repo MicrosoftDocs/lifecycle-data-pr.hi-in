@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Exchange Server 2010
-  description: एक्सचेंज सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  description: Exchange Server 2010 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5452228ee7f953f50a2f034c9cf646e7c85b53b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820484"
 name: Exchange Server 2010
 summary: >+
-  एक्सचेंज सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Exchange Server 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/09/2009
   endDate: 10/11/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [तिथि विस्तार](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> एक्सचेंज सर्वर 2010 के लिए जीवनचक्र बढ़ाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [तिथि विस्तार](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/Microsoft-Extending-End-of-Support-for-Exchange-Server-2010-to/ba-p/753591)\n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/exchange/2018/04/10/exchange-2010-end-of-support-is-coming/)\n\n> [!NOTE]\n> Exchange Server 2010 के लिए जीवनचक्र को विस्तारित किया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

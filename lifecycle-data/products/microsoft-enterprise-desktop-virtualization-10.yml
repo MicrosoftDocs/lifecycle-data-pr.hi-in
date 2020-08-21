@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0
-  description: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821049"
-name: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0
+name: Microsoft एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0
 summary: >
-  माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Enterprise Desktop Virtualization 1.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"

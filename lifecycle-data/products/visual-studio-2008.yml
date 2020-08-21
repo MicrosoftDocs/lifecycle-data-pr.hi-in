@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विजुअल स्टूडियो 2008
-  description: विजुअल स्टूडियो 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Visual Studio 2008
+  description: Visual Studio 2008 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820563"
-name: विजुअल स्टूडियो 2008
+name: Visual Studio 2008
 summary: >+
-  विजुअल स्टूडियो 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Visual Studio 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: सभी, प्रो डब्ल्यू/एमएसडीएन प्रीमियम, प्रोफेशनल, प्रोफेशनल डब्ल्यू/एमएसडीएन, टीम सुइट, टीम टेस्ट लोड एजेंट, वीबी एक्सप्रेस, विजुअल बेसिक एक्सप्रेस, विजुअल सी # एक्सप्रेस, विजुअल सी ++ एक्सप्रेस, विजुअल वेब डेवलपर एक्सप्रेस
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी, Pro w/MSDN Premium, Professional, Professional w/MSDN, टीम सुइट, टीम परिक्षण लोड एजेंट, VB एक्सप्रेस, Visual Basic एक्सप्रेस, Visual C# एक्सप्रेस, Visual C++ एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> विजुअल सी ++ एक्सप्रेस, विजुअल सी # एक्सप्रेस, वीबी एक्सप्रेस, विजुअल वेब डेवलपर एक्सप्रेस और विजुअल स्टूडियो टीम सिस्टम एडिशन शामिल हैं\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* प्रो डब्ल्यू/एमएसडीएन प्रीमियम\n* पेशेवर\n* पेशेवर w/MSDN \n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* वीबी एक्सप्रेस\n* विजुअल बेसिक एक्सप्रेस\n* विजुअल सी # एक्सप्रेस\n* विजुअल सी ++ एक्सप्रेस\n* विजुअल वेब डेवलपर एक्सप्रेस"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ एक्सप्रेस, Visual C# एक्सप्रेस, VB एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस, और Visual Studio Team System के संस्करण शामिल\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* VB एक्सप्रेस\n* Visual Basic एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"

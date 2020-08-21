@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट कार्यालय 2010
-  description: माइक्रोसॉफ्ट ऑफिस 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820703"
-name: माइक्रोसॉफ्ट कार्यालय 2010
+name: Microsoft Office 2010
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Office 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: ईएकेडमी, होम एंड बिजनेस, होम एंड स्टूडेंट, पर्सनल, प्रोफेशनल, प्रोफेशनल एकेडमिक, प्रोफेशनल प्लस, प्रोफेशनल प्लस होम यूज प्रोग्राम, स्टैंडर्ड, स्टार्टर
+  यह निम्नलिखित संस्करणों पर लागू होता है: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [कार्यालय २०१० समर्थन रोडमैप के अंत](/DeployOffice/office-2010-end-support-roadmap)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* ईएकेडमी\n* घर और व्यापार\n* घर और छात्र\n* व्यक्तिगत\n* पेशेवर\n* व्यावसायिक अकादमिक\n* प्रोफेशनल प्लस\n* प्रोफेशनल प्लस होम यूज प्रोग्राम\n* मानक\n* स्टार्टर"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Office 2010 समर्थन समाप्त का विवरण](/DeployOffice/office-2010-end-support-roadmap)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"

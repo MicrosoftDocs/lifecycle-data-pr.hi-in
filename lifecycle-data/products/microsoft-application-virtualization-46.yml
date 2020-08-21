@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन 4.6
-  description: माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन 4.6 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Application Virtualization 4.6
+  description: Microsoft Application Virtualization 4.6 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821118"
-name: माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन 4.6
+name: Microsoft एप्लीकेशन वर्चुअलाइजेशन 4.6
 summary: >+
-  माइक्रोसॉफ्ट एप्लीकेशन वर्चुअलाइजेशन 4.6 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Application Virtualization 4.6 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: रिमोट डेस्कटॉप सेवाओं के लिए, विंडोज डेस्कटॉप, सीक्वेंसर के लिए
+  यह निम्नलिखित संस्करणों पर लागू होता है: रिमोट डेस्कटॉप सेवाओं के लिए, Windows डेस्कटॉप, Sequencer के लिए
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद और माइग्रेशन की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> चूंकि ऐप-वी 4.6 क्लाइंट ऐप-वी 4.5 सर्वर का उपयोग करता है, इसलिए ऐप-वी 4.5 सर्वर को समर्थित ऐप-वी 4.6 क्लाइंट के साथ उपयोग करने पर ऐप-वी 4.6 की जीवनचक्र तिथियों के अनुसार समर्थित किया जाना जारी रहेगा।\n\n## <a name=\"editions\"></a>संस्करण \n* रिमोट डेस्कटॉप सेवाओं के लिए\n* विंडोज डेस्कटॉप के लिए\n* Sequencer"
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद और माइग्रेशन की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> चूंकि App-V 4.6 क्लाइंट App-V 4.5 सर्वर उपयोग करता है, तो समर्थित App-V 4.6 क्लाइंट के साथ उपयोग में होने पर App-V 4.5 सर्वर का समर्थन करना App-V 4.6 के लाइफसाइकल दिनांक तक जारी रहेगा.\n\n## <a name=\"editions\"></a>संस्करण \n* रिमोट डेस्कटॉप सेवाओं के लिए\n* Windows डेस्कटॉप के लिए\n* Sequencer"

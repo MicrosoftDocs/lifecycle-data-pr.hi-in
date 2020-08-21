@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट फोरस्टर 7.0
-  description: माइक्रोसॉफ्ट फोरस्टर 7.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Forecaster 7.0
+  description: Microsoft Forecaster 7.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821047"
-name: माइक्रोसॉफ्ट फोरस्टर 7.0
+name: Microsoft Forecaster 7.0
 summary: >+
-  माइक्रोसॉफ्ट फोरस्टर 7.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Forecaster 7.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> जब तक डायनेमिक्स उत्पाद के घटक के रूप में वितरित नहीं किया जाता है, तब तक इंगित तिथि पर फोरस्टर समर्थन समाप्त होता है। जब एक गतिशीलता उत्पाद के साथ वितरित, गतिशीलता जीवन चक्र तिथियां अर्थव्यवस्था की तारीख ओवरराइड ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> यदि डायनेमिक्स उत्पाद के घटक के रूप में वितरित नहीं हुआ है तो Forecaster का समर्थन इंगित की गयी तिथि पर समाप्त होता है. जब Dynamics उत्पाद के साथ वितरित होता है, Dynamics जीवनचक्र तिथियां Forecaster की तिथि को ओवरराइड करती हैं."

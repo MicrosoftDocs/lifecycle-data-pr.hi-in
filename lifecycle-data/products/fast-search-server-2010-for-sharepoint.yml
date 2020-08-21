@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: फास्ट सर्च सर्वर 2010 (शेयरपॉइंट के लिए, शेयरपॉइंट इंटरनेट साइटों के लिए)
-  description: फास्ट सर्च सर्वर 2010 (शेयरपॉइंट के लिए, शेयरपॉइंट इंटरनेट साइटों के लिए) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: FAST Search Server 2010 (SharePoint इंटरनेट साइट्स के लिए)
+  description: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821161"
-name: फास्ट सर्च सर्वर 2010 (शेयरपॉइंट के लिए, शेयरपॉइंट इंटरनेट साइटों के लिए)
+name: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए)
 summary: >+
-  फास्ट सर्च सर्वर 2010 (शेयरपॉइंट के लिए, शेयरपॉइंट इंटरनेट साइटों के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  FAST Search Server 2010 (SharePoint के लिए, SharePoint Internet Sites के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: शेयरपॉइंट के लिए, शेयरपॉइंट इंटरनेट साइटों के लिए
+  यह निम्न संस्करणों पर लागू होता है: SharePoint, SharePoint इंटरनेट साइट्स
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> पहले डी-समर्थित संस्करणों को शामिल नहीं करता है। इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* शेयरपॉइंट के लिए\n* शेयरपॉइंट इंटरनेट साइटों के लिए"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* SharePoint के लिए\n* SharePoint Internet Sites के लिए"

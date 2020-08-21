@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 R2
-  description: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft SQL Server 2008 R2
+  description: Microsoft SQL Server 2008 R2 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820583"
-name: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 R2
+name: Microsoft SQL Server 2008 R2
 summary: >+
-  माइक्रोसॉफ्ट एसक्यूएल सर्वर 2008 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft SQL Server 2008 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, डेवलपर, एंटरप्राइज, एक्सप्रेस, एक्सप्रेस विद एडवांस्ड सर्विसेज, एम्बेडेड सिस्टम, स्टैंडर्ड, स्टैंडर्ड एडिशन फॉर स्मॉल बिजनेस, वेब, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, डेवलपर, एंटरप्राइज, एक्सप्रेस, एडवांस्ड सर्विसेज के साथ एक्सप्रेस, एम्बेडेड सिस्टम्स के लिए, स्टैंडर्ड, स्मॉल बिजनेस के लिए स्टैंडर्ड एडिशन, वेब, वर्कग्रुप
 
 products:
 - sql-server
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विकल्पों का एसक्यूएल सर्वर अंत](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [एसक्यूएल सर्वर 2008 और विंडोज सर्वर 2008 समर्थन विकल्पों का अंत](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [विस्तारित सुरक्षा अद्यतन कार्यक्रम (ईयू)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> विस्तारित सुरक्षा अपडेट (ईयू) इस उत्पाद के डेटासेंटर, स्टैंडर्ड, एंटरप्राइज और एम्बेडेड संस्करणों के लिए उपलब्ध हैं, जो समर्थन के अंत में अतिरिक्त तीन साल तक हैं।\n> [!NOTE]\n> केवल IA64 के लिए, SP2 7/9/2019 तक समर्थित किया जाएगा । अधिक जानकारी के लिए एसक्यूएल रिलीज सर्विसेज ब्लॉग देखें।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेवलपर\n* एंटरप्राइज़\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* एम्बेडेड सिस्टम के लिए\n* मानक\n* लघु व्यवसाय के लिए मानक संस्करण\n* वेब\n* कार्यसमूह"
+content: "\n## <a name=\"links\"></a>लिंक \n* [SQL Server समर्थन समाप्ति विकल्प](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [SQL Server 2008 और Windows Server 2008 समर्थन समाप्ति विकल्प](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन साल तक, इस उत्पाद के डेटासेंटर, स्टैंडर्ड, एंटरप्राइज़ और एम्बेडेड संस्करणों के लिए विस्तारित सुरक्षा अपडेट्स (ESU) उपलब्ध हैं.\n> [!NOTE]\n> केवल IA64 के लिए, SP2 7/9/2019 तक समर्थित किया जाएगा. अधिक जानकारी के लिए SQL रिलीज सर्विसेज ब्लॉग देखें.\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेवलपर\n* Enterprise\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* एम्बेडेड सिस्टम के लिए\n* Standard\n* Small Business के लिए मानक संस्करण\n* वेब\n* वर्कग्रुप"

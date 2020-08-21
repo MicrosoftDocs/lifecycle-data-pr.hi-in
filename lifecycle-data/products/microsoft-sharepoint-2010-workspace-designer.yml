@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट शेयरपॉइंट 2010 (कार्यक्षेत्र, डिजाइनर)
-  description: माइक्रोसॉफ्ट शेयरपॉइंट 2010 (कार्यक्षेत्र, डिजाइनर) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर)
+  description: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820441"
-name: माइक्रोसॉफ्ट शेयरपॉइंट 2010 (कार्यक्षेत्र, डिजाइनर)
+name: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर)
 summary: >+
-  माइक्रोसॉफ्ट शेयरपॉइंट 2010 (कार्यक्षेत्र, डिजाइनर) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डिजाइनर, कार्यक्षेत्र
+  यह निम्नलिखित संस्करणों पर लागू होता है: डिजाइनर, वर्कस्पेस
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [डेवलपर दस्तावेज](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [उत्पाद दस्तावेज](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइनर\n* कार्यस्थान"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [डेवलपर दस्तावेज](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [उत्पाद दस्तावेज](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइनर\n* वर्कस्पेस"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.5
-  description: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft .NET Framework 3.5
+  description: Microsoft .NET Framework 3.5 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5b5899c1b89f49d5795e0514b17c0385346a671
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821407"
-name: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.5
+name: Microsoft .NET Framework 3.5
 summary: >+
-  माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft .NET Framework 3.5 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2007
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - .NET फ्रेमवर्क](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3.5 एसपी1 से पहले .NET फ्रेमवर्क 3.x संस्करणों के लिए समर्थन 12 जुलाई, 2011 को समाप्त हुआ। \n> [!NOTE]\n> विंडोज 10 संस्करण 1809, विंडोज सर्वर 2019 या बाद में चलने पर जीवनचक्र तिथियां .NET 3.5 एसपी1 पर लागू होती हैं। विंडोज के पुराने संस्करणों पर, .NET 3.5 एसपी 1 अंतर्निहित विंडोज ओएस के जीवनचक्र को अपनाता है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-35)\n\n> [!NOTE]\n> 3.5 SP1 से पहले के .NET Framework 3.x संस्करणों के लिये 12 जुलाई 2011 को समर्थन समाप्त हो गया है। \n> [!NOTE]\n> Windows 10 संस्करण 1809, Windows Server 2019 या इसके आगे के संस्करण में चलाने पर .NET 3.5 SP1 पर जीवनचक्र तिथियां लागू होंगी। Windows के पुराने संस्करणों पर, .NET 3.5 SP1 मूलभूत Windows OS के जीवनचक्र को अपनाता है।"

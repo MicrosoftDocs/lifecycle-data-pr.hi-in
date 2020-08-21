@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R2
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक 2007 R2
+  description: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R2 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0da71b9a2886e1a7012339ebef9a5fbe64f8811e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820994"
-name: माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R2
+name: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक 2007 R2
 summary: >
-  माइक्रोसॉफ्ट सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक 2007 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - msc
 policyType: fixed

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस आउटलुक 2007
-  description: माइक्रोसॉफ्ट ऑफिस आउटलुक 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office Outlook 2007
+  description: Microsoft Office Outlook 2007 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 055e54e56049aef38f71fd906c5af6438674032a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821373"
-name: माइक्रोसॉफ्ट ऑफिस आउटलुक 2007
+name: Microsoft Office Outlook 2007
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस आउटलुक 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Office Outlook 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: बिजनेस कॉन्टैक्ट मैनेजर के साथ स्टैंडर्ड, इंटरकनेक्ट के साथ
+  यह निम्नलिखित संस्करणों पर लागू होता है: स्टैंडर्ड, Business Contact Manager के साथ, इंटरकनेक्ट के साथ
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* बिजनेस कॉन्टैक्ट मैनेजर के साथ\n* इंटरकनेक्ट के साथ"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* Business Contact Manager के साथ\n* इंटरकनेक्ट के साथ"

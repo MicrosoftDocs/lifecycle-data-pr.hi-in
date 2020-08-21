@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक के लिए माइक्रोसॉफ्ट कार्यालय 2008
-  description: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office 2008 for Mac
+  description: Mac के लिए Microsoft Office 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820702"
-name: मैक के लिए माइक्रोसॉफ्ट कार्यालय 2008
-summary: "मैक के लिए माइक्रोसॉफ्ट ऑफिस 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: व्यापार, घर और छात्र, विशेष मीडिया संपादन\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+name: Microsoft Office 2008 for Mac
+summary: "Mac के लिए Microsoft Office 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2008
   endDate: 10/19/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> मैक विशेष मीडिया संस्करण के लिए कार्यालय 2008 के लिए शुरुआत की तारीख 12 मार्च, 2008 है।\n\n## <a name=\"editions\"></a>संस्करण \n* व्यापार\n* घर और छात्र\n* विशेष मीडिया संपादन"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mac के लिए Office 2008 के विशेष मीडिया संपादन की आरंभ तिथि 12, मार्च 2008 है.\n\n## <a name=\"editions\"></a>संस्करण \n* Business\n* Home and Student\n* विशेष मीडिया संपादन"

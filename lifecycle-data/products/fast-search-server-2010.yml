@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: फास्ट सर्च सर्वर 2010 (इंटरनेट साइटों के लिए, आंतरिक अनुप्रयोगों के लिए)
-  description: फास्ट सर्च सर्वर 2010 (इंटरनेट साइटों के लिए, आंतरिक अनुप्रयोगों के लिए) फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए)
+  description: FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए) निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821158"
-name: फास्ट सर्च सर्वर 2010 (इंटरनेट साइटों के लिए, आंतरिक अनुप्रयोगों के लिए)
+name: FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए)
 summary: >+
-  फास्ट सर्च सर्वर 2010 (इंटरनेट साइटों के लिए, आंतरिक अनुप्रयोगों के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: आंतरिक अनुप्रयोग, इंटरनेट साइटें
+  यह निम्नलिखित संस्करणों पर लागू होता है: आंतरिक ऐप्लिकेशन, इंटरनेट साइट्स
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [जीवनचक्र एफएक्यू - जनरल](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> पहले डी-समर्थित संस्करणों को शामिल नहीं करता है। इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* आंतरिक आवेदन\n* इंटरनेट साइटें"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [जीवनचक्र FAQ - सामान्य](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* आंतरिक ऐप्लिकेशन\n* इंटरनेट साइट्स"

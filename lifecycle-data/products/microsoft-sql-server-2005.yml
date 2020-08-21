@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2005
-  description: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2005 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820589"
-name: माइक्रोसॉफ्ट एसक्यूएल सर्वर 2005
+name: Microsoft SQL Server 2005
 summary: >
-  माइक्रोसॉफ्ट एसक्यूएल सर्वर 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft SQL Server 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: कॉम्पैक्ट, डेवलपर, एम्बेडेड, एंटरप्राइज, इटानियम-आधारित सिस्टम के लिए एंटरप्राइज, एंटरप्राइज X64, एक्सप्रेस, एक्सप्रेस विद एडवांस्ड सर्विसेज, स्टैंडर्ड, स्टैंडर्ड फॉर इटानियम-बेस्ड सिस्टम्स, स्टैंडर्ड X64, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: कॉम्पैक्ट, डेवलपर, एम्बेडेड, एंटरप्राइज, इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज, एंटरप्राइज X64, एक्सप्रेस, उन्नत सेवाओं के साथ एक्सप्रेस, स्टैंडर्ड, इटानियम-आधारित सिस्टम्स के किए स्टैंडर्ड, स्टैंडर्ड X64, वर्कग्रुप
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> माइक्रोसॉफ्ट एसक्यूएल सर्वर 2005 कॉम्पैक्ट संस्करण 19 फरवरी, 2007 को जारी किया गया।\n\n## <a name=\"editions\"></a>संस्करण \n* कॉम्पैक्ट\n* डेवलपर\n* एम्बेडेड\n* एंटरप्राइज़\n* इटानियम-आधारित सिस्टम के लिए उद्यम\n* एंटरप्राइज X64\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* मानक\n* इटानियम-आधारित सिस्टम के लिए मानक\n* स्टैंडर्ड X64\n* कार्यसमूह"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 कॉम्पैक्ट संस्करण 19 फरवरी, 2007 को जारी किया गया.\n\n## <a name=\"editions\"></a>संस्करण \n* कॉम्पैक्ट\n* डेवलपर\n* एम्बेडेड\n* Enterprise\n* इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज\n* Enterprise X64\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* Standard\n* इटैनियम-आधारित सिस्टम के लिए स्टैंडर्ड\n* स्टैंडर्ड X64\n* वर्कग्रुप"

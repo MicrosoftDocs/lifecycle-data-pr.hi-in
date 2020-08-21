@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस परफॉर्मेंसपॉइंट 2007
-  description: माइक्रोसॉफ्ट ऑफिस परफॉर्मेंसपॉइंट 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office PerformancePoint 2007
+  description: Microsoft Office PerformancePoint 2007 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d9c4030975b8cd865165db64c6857ef9090b1888
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821374"
-name: माइक्रोसॉफ्ट ऑफिस परफॉर्मेंसपॉइंट 2007
+name: Microsoft Office PerformancePoint 2007
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस परफॉर्मेंसपॉइंट 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Office PerformancePoint 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: प्रबंधन रिपोर्टर
+  यह निम्नलिखित संस्करणों पर लागू होता है: मैनेजमेंट रिपोर्टर
 
 products:
 - office

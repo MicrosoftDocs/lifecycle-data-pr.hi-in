@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2009
-  description: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2009 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Customer Care Framework 2009
+  description: Microsoft Customer Care Framework 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821056"
-name: माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2009
+name: Microsoft Customer Care Framework 2009
 summary: >
-  माइक्रोसॉफ्ट कस्टमर केयर फ्रेमवर्क 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Customer Care Framework 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - customer-care-framework
 policyType: fixed
