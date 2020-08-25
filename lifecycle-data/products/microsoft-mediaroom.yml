@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट मीडियारूम
+  description: माइक्रोसॉफ्ट मीडियारूम फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907292"
+name: माइक्रोसॉफ्ट मीडियारूम
+summary: >+
+  माइक्रोसॉफ्ट मीडियारूम [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: आवेदन सेवाएं 1.0, ग्राहक 2.0, ग्राहक 2.1, सर्वर 2.0, सर्वर 2.1
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> एरिक्सन ने २०१३ में माइक्रोसॉफ्ट मीडियारूम प्रॉडक्ट्स का अधिग्रहण किया था । अधिक जानकारी के लिए, कृपया [प्रेस विज्ञप्ति](http://www.ericsson.com/news/1691160)देखें । जिन ग्राहकों को समर्थन की आवश्यकता है, उनके लिए कृपया [यहां](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)जाएं ।\n> [!NOTE]\n> माइक्रोसॉफ्ट मीडियारूम क्लाइंट 2.1 27 दिसंबर, 2011 को जारी किया गया था। \n\n## <a name=\"editions\"></a>संस्करण \n* आवेदन सेवाएं 1.0\n* ग्राहक 2.0\n* ग्राहक 2.1\n* सर्वर 2.0\n* सर्वर 2.1"
