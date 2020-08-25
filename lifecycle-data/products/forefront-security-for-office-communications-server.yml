@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: कार्यालय संचार सर्वर के लिए सबसे आगे सुरक्षा
+  description: कार्यालय संचार सर्वर के लिए सबसे आगे सुरक्षा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5f0144e2e7f36644a959dccab8e1da4696e8c230
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908757"
+name: कार्यालय संचार सर्वर के लिए सबसे आगे सुरक्षा
+summary: >+
+  कार्यालय संचार सर्वर के लिए सबसे आगे सुरक्षा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 06/09/2009
+  extendedEnd: 12/31/2015
+releases:
+- version: RTM
+  startDate: 06/09/2009
+  endDate: 12/31/2015
+content: "\n\n> [!NOTE]\n> सबसे आगे ब्रांड के तहत सुरक्षा उत्पादों का रोडमैप बदल गया है। यह उत्पाद 31 दिसंबर, 2015 तक बंद कर दिया गया है।"
