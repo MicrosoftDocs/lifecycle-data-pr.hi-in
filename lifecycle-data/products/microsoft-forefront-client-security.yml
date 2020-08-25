@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा
+  description: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908760"
+name: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा
+summary: >+
+  माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/02/2007
+  extendedEnd: 07/14/2015
+releases:
+- version: Original Release
+  startDate: 08/02/2007
+  endDate: 07/14/2015
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> सबसे आगे ग्राहक सुरक्षा बंद कर दिया गया है। समर्थन 14 जुलाई, २०१५ को समाप्त हो रहा है । उत्पाद संस्करण के समर्थन के अंत के बाद एंटीमलवेयर और एंटीस्पीवेयर परिभाषा अपडेट अब उपलब्ध नहीं होंगे। कृपया प्रतिस्थापन के रूप में सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन का मूल्यांकन करें।"

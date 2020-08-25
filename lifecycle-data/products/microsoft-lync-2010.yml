@@ -2,13 +2,13 @@
 metadata:
   title: माइक्रोसॉफ्ट Lync 2010
   description: माइक्रोसॉफ्ट Lync 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a5d4651d05052e79c1c28309fc8ad530e584aec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 815ef4b3c8026b5d508d221acfc67cae25770bcd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855328"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907949"
 name: माइक्रोसॉफ्ट Lync 2010
 summary: >+
   माइक्रोसॉफ्ट Lync 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अटेंडेंट\n* सहभागी\n* ग्रुप चैट\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अटेंडेंट\n* सहभागी\n* ग्रुप चैट\n* Standard"

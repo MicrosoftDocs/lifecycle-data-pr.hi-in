@@ -2,19 +2,19 @@
 metadata:
   title: Excel 2010
   description: एक्सेल 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b87f39a5d41d37ea9ea0c6f9e9871319d92b89c9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/24/2020
+  ms.openlocfilehash: bc8805039d86091798248251f13a1af772825198
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821165"
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908474"
 name: Excel 2010
 summary: >+
   एक्सेल 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: होम एंड स्टूडेंट, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: होम एंड स्टूडेंट, मोबाइल, स्टैंडर्ड
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/DeployOffice/office-2010-end-support-roadmap)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* घर और छात्र\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/DeployOffice/office-2010-end-support-roadmap)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Student\n* मोबाइल\n* Standard"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट 2.0
+  description: माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908060"
+name: माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट 2.0
+summary: >+
+  माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/29/2012
+  end: 01/09/2018
+releases:
+- version: Original Release
+  startDate: 12/29/2012
+  endDate: 01/09/2018
+content: ''
