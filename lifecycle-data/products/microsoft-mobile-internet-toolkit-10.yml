@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: माइक्रोसॉफ्ट मोबाइल इंटरनेट टूलकिट 1.0
+  description: माइक्रोसॉफ्ट मोबाइल इंटरनेट टूलकिट 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/21/2020
+  ms.openlocfilehash: e9a9ce1f047d999f0d4cc8ce565d1611b2b7f748
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907218"
+name: माइक्रोसॉफ्ट मोबाइल इंटरनेट टूलकिट 1.0
+summary: >+
+  माइक्रोसॉफ्ट मोबाइल इंटरनेट टूलकिट 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/23/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 01/23/2003
+  endDate: 04/09/2013
+content: ''
