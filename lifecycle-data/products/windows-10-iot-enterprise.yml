@@ -2,13 +2,13 @@
 metadata:
   title: Windows 10 IoT एंटरप्राइज़
   description: Windows 10 IoT एंटरप्राइज़ आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 159055d404da77afef0694120dc1c2faf04a22e3
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 08/26/2020
+  ms.openlocfilehash: bf64867436379e937108f16080e401abba6ebca8
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879081"
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911221"
 name: Windows 10 IoT एंटरप्राइज़
 summary: >
   Windows 10 IoT एंटरप्राइज़ [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति  का अनुसरण करता है.
@@ -39,7 +39,7 @@ releases:
   endDate: 05/11/2021
 - version: Version 1803
   startDate: 04/30/2018
-  endDate: 11/10/2020
+  endDate: 05/11/2021
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 10/13/2020
