@@ -2,13 +2,13 @@
 metadata:
   title: SharePoint Team Services 1.0
   description: SharePoint Team Services 1.0 फिक्स्ड लाइफसाइकल नीति का पालन करती है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c9fe198170cb3b6572c22de85f46c21d81756bf0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 43ca2a43857a80e890336226a3db4e9a66d702fc
+  ms.sourcegitcommit: 1d4b9c590a93df7de84f28ee0a02ec6b51edf462
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820416"
+  ms.lasthandoff: 08/27/2020
+  ms.locfileid: "922767"
 name: SharePoint Team Services 1.0
 summary: >+
   SharePoint टीम सर्विसेज़ 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करती है.
