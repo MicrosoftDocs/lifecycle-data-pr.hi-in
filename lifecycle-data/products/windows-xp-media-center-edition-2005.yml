@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows XP Media Center सपांदन 2005
+  description: Microsoft Windows XP Media Center संपादन 2005, निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "892037"
+name: Windows XP Media Center सपांदन 2005
+summary: >+
+  Microsoft Windows XP Media Center संपादन 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: विस्तारक
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 12/30/2004
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Original Release
+  startDate: 12/30/2004
+  endDate: 04/08/2014
+content: "\n\n> [!NOTE]\n> Media Center विस्तारक ने केवल मेनस्ट्रीम समर्थन ऑफ़र किया, जो 12 जनवरी, 2010 को समाप्त होता है. \n\n## <a name=\"editions\"></a>संस्करण \n* विस्तारक"

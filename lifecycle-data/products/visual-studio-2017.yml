@@ -2,19 +2,19 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
+  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869861"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907105"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, बिल्ड टूल्स, कम्यूनिटी, एंटरप्राइज, फीडबैक क्लाइंट, Mac के लिए, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, प्रोफेशनल, रिमोट टूल्स, टीम एक्सप्लोरर, Test प्रोफेशनल, Visual C++ पुनर्वितरण
+  यह निम्नलिखित संपादनों पर लागू होता है: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* फीडबैक क्लाइंट\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* परीक्षण प्रोफेशनल\n* Visual C++ पुनर्वितरण योग्य"
+content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* ESM\n* फीडबैक क्लाइंट\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* PSM\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* परीक्षण प्रोफेशनल\n* Visual C++ पुनर्वितरण योग्य"

@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Microsoft Windows Small Business Server 2003 R2 '
+  description: Microsoft Windows Small Business Server 2003 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/12/2020
+  ms.openlocfilehash: a9142425395afa7e631f3f86fe250bd4a3c14e09
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893995"
+name: 'Microsoft Windows Small Business Server 2003 R2 '
+summary: >+
+  Microsoft Windows Small Business Server 2003 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 09/01/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Original Release
+  startDate: 09/01/2006
+  endDate: 04/12/2016
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n\n> [!NOTE]\n> इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.\n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"
