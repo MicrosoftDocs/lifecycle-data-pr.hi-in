@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला देवऑप्स सर्वर
+  description: नीला देवऑप्स सर्वर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 08/27/2020
+  ms.openlocfilehash: 8b92f5abaadb0973aa3b220683011ec4a9b03fb2
+  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/27/2020
+  ms.locfileid: "922968"
+name: नीला देवऑप्स सर्वर
+summary: >+
+  नीला देवऑप्स सर्वर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+products:
+- azure
+policyType: fixed
+supportDates:
+  start: 08/25/2020
+  end: 10/14/2025
+  extendedEnd: 10/08/2030
+releases:
+- version: Original Release
+  startDate: 08/25/2020
+  endDate: 10/08/2030
+content: ''
