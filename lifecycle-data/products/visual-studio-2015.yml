@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Visual Studio 2015
-  description: Visual Studio 2015 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  description: Visual Studio 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: f5ff344edadae9c856d0cfce3d88ac23e1fa6394
+  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855457"
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906843"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+  Visual Studio 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, कम्यूनिटी, एंटरप्राइज, वेब के लिए एक्सप्रेस, Windows 10 के लिए एक्सप्रेस, Windows डेस्कटॉप के लिए एक्सप्रेस, मॉडलिंग SDK, प्रोफेशनल, रिलीज प्रबंधन, रिमोट टूल्स, SDK, Shell (एकीकृत), Shell (अलग), परीक्षण प्रोफेशनल, Visual C++ पुनर्वितरण
+  यह निम्नलिखित संस्करणों पर लागू होता है: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, TPS, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/20/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* कम्यूनिटी\n* Enterprise\n* वेब के लिए एक्सप्रेस\n* Windows 10 के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* मॉडलिंग SDK\n* Professional\n* रिलीज प्रबंधन\n* रिमोट टूल्स\n* SDK\n* Shell (एकीकृत)\n* Shell (अलग)\n* परीक्षण प्रोफेशनल\n* Visual C++ पुनर्वितरण योग्य"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* कम्यूनिटी\n* Enterprise\n* ESM\n* वेब के लिए एक्सप्रेस\n* Windows 10 के लिए Express\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* मॉडलिंग SDK\n* Professional\n* PSM\n* रिलीज प्रबंधन\n* रिमोट टूल्स\n* SDK\n* Shell (एकीकृत)\n* Shell (अलग)\n* परीक्षण प्रोफेशनल\n* TPS\n* Visual C++ पुनर्वितरण योग्य"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server 2003 R2 (PG समीक्षा आवश्यक है)
+  description: Windows Server 2003 R2 (PG समीक्षा आवश्यक है) निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/13/2020
+  ms.openlocfilehash: 8678c0ae8e2f3fa1a94459baad951411c5f10fd1
+  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "905864"
+name: Windows Server 2003 R2 (PG समीक्षा आवश्यक है)
+summary: >+
+  Windows Server 2003 R2 (PG समीक्षा आवश्यक है) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डाटा सेन्टर, आँकड़ा सेन्टर (32-बिट x86), डाटा सेन्टर (x64), एंटरप्राइज़ (32-बिट x86), एंटरप्राइज़ X64, स्टैंडर्ड (32-बिट x86), स्टैंडर्ड X64
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Windows Server 2003 से Windows Server 2008 में नवीनीकृत करने के लिए समर्थित पथ](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [माइग्रेशन के लिए Windows Server 2003 मशीनें तैयार करें](/azure/migrate/prepare-windows-server-2003-migration)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* आँकड़ा सेन्टर (32-बिट x86)\n* आँकड़ा सेन्टर (x64)\n* एंटरप्राइज़ (32-बिट x86)\n* Enterprise X64\n* स्टैंडर्ड (32-बिट x86)\n* स्टैंडर्ड X64"

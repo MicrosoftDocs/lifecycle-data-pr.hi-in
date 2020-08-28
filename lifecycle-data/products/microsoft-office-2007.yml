@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office 2007
-  description: Microsoft Office 2007 फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a73d67d99002146bfa145d66037a0bb9080f684
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  description: Microsoft Office 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: c0763a56b447d205c916b2580626e636114ee67f
+  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820704"
+  ms.lasthandoff: 08/20/2020
+  ms.locfileid: "904730"
 name: Microsoft Office 2007
 summary: >+
-  Microsoft Office 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+  Microsoft Office 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: Basic, Enterprise, Home and Student, Professional, Professional Plus, Small Business, Standard, Ultimate
+  यह निम्नलिखित संस्करणों पर लागू होता है: Basic, Enterprise, Home and Student, Multi Language Pack, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* Enterprise\n* Home and Student\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* Enterprise\n* Home and Student\n* बहु-भाषा पैक\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"

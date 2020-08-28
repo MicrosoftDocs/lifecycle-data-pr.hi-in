@@ -2,13 +2,13 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Microsoft Visual Studio 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820429"
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893167"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n* [माइग्रेशन मार्गदर्शन](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual Studio उत्पाद की जानकारी](https://www.VisualStudio.com)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n> [!NOTE]\n> 2, मार्च 2007 को रिलीज़ हुए डेटाबेस पेशेवरों के लिए Microsoft Visual Studio 2005 टीम संस्करण.\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard\n* Standard Edition अकादमिक लायसेंस\n* डेटाबेस पेशेवरों के लिए टीम संस्करण\n* साफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण\n* साफ्टवेयर डेवलपर के लिए टीम संस्करण\n* साफ्टवेयर परीक्षकों के लिए टीम संस्करण\n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* Microsoft Office System के लिए टूल्स\n* VB एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual J# एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio उत्पाद की जानकारी](https://www.VisualStudio.com)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n> [!NOTE]\n> 2, मार्च 2007 को रिलीज़ हुए डेटाबेस पेशेवरों के लिए Microsoft Visual Studio 2005 टीम संस्करण.\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard\n* Standard Edition अकादमिक लायसेंस\n* डेटाबेस पेशेवरों के लिए टीम संस्करण\n* साफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण\n* साफ्टवेयर डेवलपर के लिए टीम संस्करण\n* साफ्टवेयर परीक्षकों के लिए टीम संस्करण\n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* Microsoft Office System के लिए टूल्स\n* VB एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual J# एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"
