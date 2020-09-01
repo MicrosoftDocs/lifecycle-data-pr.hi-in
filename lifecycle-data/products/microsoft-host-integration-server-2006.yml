@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Host Integration Server 2006
   description: Microsoft Host Integration Server 2006 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Developer,Standard
+  ms.openlocfilehash: b7da52c555619a2d4222ae264140f646fb161913
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820723"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933786"
 name: Microsoft Host Integration Server 2006
 summary: "Microsoft Host Integration Server 2006 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, स्टैंडर्ड\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:

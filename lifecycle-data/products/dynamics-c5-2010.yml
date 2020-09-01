@@ -2,19 +2,20 @@
 metadata:
   title: गतिशीलता C5 2010
   description: गतिशीलता C5 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 42e669783f2448e3ff9834c2ec8d0924b65b408b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f391af0a4393f73c8cdc73a17e71a011b8aaa7fc
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821187"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932010"
 name: गतिशीलता C5 2010
 summary: >+
   गतिशीलता C5 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - dynamics
@@ -32,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 11/30/2009
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

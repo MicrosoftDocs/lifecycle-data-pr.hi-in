@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office PowerPoint 2007
   description: Microsoft Office PowerPoint 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a5fabe576bb9e38f1f9ca7fd7fcdaed22819991
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 7fef8e5bb5edb4756fc96f4a53f37102d868a72e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821367"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932861"
 name: Microsoft Office PowerPoint 2007
 summary: >+
   Microsoft Office PowerPoint 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

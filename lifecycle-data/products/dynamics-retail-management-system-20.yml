@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics Retail Management System 2.0
   description: Dynamics Retail Management System 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: ed65c203ac5467c21346178a7a8827509e6e3daa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820735"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931973"
 name: Dynamics Retail Management System 2.0
 summary: >+
   Dynamics Retail Management System 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

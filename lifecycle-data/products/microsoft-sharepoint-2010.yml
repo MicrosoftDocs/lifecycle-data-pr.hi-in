@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SharePoint 2010 (इंटरनेट साइट्स के लिए)
   description: Microsoft SharePoint 2010 (इंटरनेट साइट्स के लिए) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Internet Sites Enterprise,for Internet Sites Standard
+  ms.openlocfilehash: 0ae859f98113ccfb93cb0436b955a815100a7381
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821005"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932528"
 name: Microsoft SharePoint 2010 (इंटरनेट साइट्स के लिए)
 summary: >+
   Microsoft SharePoint 2010 (इंटरनेट साइट्स के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.

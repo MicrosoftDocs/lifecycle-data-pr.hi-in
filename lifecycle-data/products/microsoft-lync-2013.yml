@@ -2,13 +2,14 @@
 metadata:
   title: Lync 2013
   description: Lync 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855325"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933342"
 name: Lync 2013
 summary: >+
   Lync 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> स्काइप फॉर बिजनेस 2015 क्लाइंट रिलीज Lync 2013 क्लाइंट के लिए एक अपडेट है और इसी उत्पाद जीवनचक्र का पालन करेगा।\nLync 2013 एसडीके के लिए शुरुआत की तारीख 23 फरवरी, 2013 है। \n\n## <a name=\"editions\"></a>संस्करण \n* Sdk\n* मानक"
+content: "\n\n> [!NOTE]\n> स्काइप फॉर बिजनेस 2015 क्लाइंट रिलीज Lync 2013 क्लाइंट के लिए एक अपडेट है और इसी उत्पाद जीवनचक्र का पालन करेगा।\nLync 2013 एसडीके के लिए शुरुआत की तारीख 23 फरवरी, 2013 है। \n\n## <a name=\"editions\"></a>संस्करण \n* SDK\n* Standard"

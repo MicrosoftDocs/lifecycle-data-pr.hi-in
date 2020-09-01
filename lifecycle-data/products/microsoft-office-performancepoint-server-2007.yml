@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office PerformancePoint Server 2007
   description: Microsoft Office PerformancePoint Server 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: da215a3c725cf1387921080e1df0a6df52747517
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: 32 Bit,64 Bit
+  ms.openlocfilehash: 08001bf6c51be433654a399aff63c3c80bf55a89
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821372"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932935"
 name: Microsoft Office PerformancePoint Server 2007
 summary: >+
   Microsoft Office PerformancePoint Server 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
