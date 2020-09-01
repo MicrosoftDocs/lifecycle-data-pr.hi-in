@@ -2,13 +2,14 @@
 metadata:
   title: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
   description: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Headquarters,Store Operations
+  ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820730"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931702"
 name: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
 summary: >+
   डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

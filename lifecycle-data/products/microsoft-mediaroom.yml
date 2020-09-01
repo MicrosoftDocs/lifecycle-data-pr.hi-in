@@ -2,13 +2,14 @@
 metadata:
   title: माइक्रोसॉफ्ट मीडियारूम
   description: माइक्रोसॉफ्ट मीडियारूम फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
-  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.date: 09/01/2020
+  keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
+  ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907292"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930604"
 name: माइक्रोसॉफ्ट मीडियारूम
 summary: >+
   माइक्रोसॉफ्ट मीडियारूम [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
