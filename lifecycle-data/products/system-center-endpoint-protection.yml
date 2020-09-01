@@ -2,13 +2,13 @@
 metadata:
   title: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन
   description: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन आधुनिक जीवनचक्र नीति का पालन करता है।
-  ms.date: 08/28/2020
-  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
-  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.date: 08/31/2020
+  ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
+  ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
   ms.translationtype: MT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/31/2020
-  ms.locfileid: "924651"
+  ms.locfileid: "924929"
 name: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन
 summary: >+
   सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 12/08/2015
-content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन संस्करणों के लिए समर्थन (जिसे पूर्व में कॉन्फ़िगरेशन मैनेजर वर्तमान शाखा कहा जाता था)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
+content: ''
