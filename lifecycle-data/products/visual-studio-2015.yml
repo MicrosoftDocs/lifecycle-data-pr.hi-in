@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: f5ff344edadae9c856d0cfce3d88ac23e1fa6394
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
+  ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906843"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937412"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

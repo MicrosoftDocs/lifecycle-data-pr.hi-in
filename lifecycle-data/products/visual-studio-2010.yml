@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 869c91d57c52f72cee768863c94c1641e3f433ea
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: b48b0cf13c8467530d6c24c5eb54371008e4dbdd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906991"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937523"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

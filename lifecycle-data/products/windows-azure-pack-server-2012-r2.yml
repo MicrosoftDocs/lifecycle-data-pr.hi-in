@@ -2,13 +2,14 @@
 metadata:
   title: Windows Azure पैक (सर्वर 2012 R2)
   description: Windows Azure पैक (सर्वर 2012 R2) कम्पोनेंट लाइफसाइकल नीति का अनुसरण करता है.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: e5e578924beb6eada37c05ac523dbcdf48445841
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: on Windows Server 2012 R2
+  ms.openlocfilehash: 70414fc5234140541a7193f29b07b4c298430272
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893994"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937005"
 name: Windows Azure पैक (सर्वर 2012 R2)
 summary: >+
   Windows Azure पैक (सर्वर 2012 R2) [कम्पोनेंट](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकल नीति का अनुसरण करता है.

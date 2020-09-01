@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2003
   description: Microsoft Office 2003 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Basic,Professional,Professional Enterprise,Small Business,Standard,Student and Teacher,Web Components
+  ms.openlocfilehash: 95e78ca50e366f9a9a5363d5df1dedbe94efcd17
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820707"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936825"
 name: Microsoft Office 2003
 summary: >+
   Microsoft Office 2003 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

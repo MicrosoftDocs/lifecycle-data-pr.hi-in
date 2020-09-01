@@ -2,13 +2,14 @@
 metadata:
   title: जीपीओवॉल्ट
   description: जीपीओवाल्ट फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/19/2020
-  ms.openlocfilehash: e45e18b2973a9555f95d973141a523dffa34da28
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
+  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903729"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936006"
 name: जीपीओवॉल्ट
 summary: >+
   जीपीओवाल्ट [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

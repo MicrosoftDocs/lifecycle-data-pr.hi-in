@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio Team Foundation Server 2013
   description: Visual Studio Team Foundation Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: All,Release Management
+  ms.openlocfilehash: 658de9ab3e9e60b8a72995c3b3ba4d48326d9b09
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855588"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937264"
 name: Visual Studio Team Foundation Server 2013
 summary: >+
   Visual Studio Team Foundation Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

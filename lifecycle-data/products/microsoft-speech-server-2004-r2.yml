@@ -2,19 +2,20 @@
 metadata:
   title: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2
   description: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fec0057e87207a97afdba55581f475ab1c6fb0d9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820584"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937042"
 name: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2
 summary: >+
   माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/22/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

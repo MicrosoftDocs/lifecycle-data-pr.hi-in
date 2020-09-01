@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 5393d8d0a5210f109a1bdfd96a90aeceed2c9d7e
-  ms.sourcegitcommit: b125c146eb503d123a9ec7f50c08922926fb7f0e
+  ms.date: 09/01/2020
+  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
+  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907105"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937375"
 name: Visual Studio 2017
 summary: >+
   Visual Studio 2017 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

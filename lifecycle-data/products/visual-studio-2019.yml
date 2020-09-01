@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: d5638d558c441faed42d3fdcfd2e5e9b8a89d2a5
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/01/2020
+  keywords: Agents,Build Tools,Community,Enterprise,ESGH,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSGH,PSM,Remote Tools,Team Explorer,Visual C++ Redistributable
+  ms.openlocfilehash: 944f1805bb73b6937043cdb30b72b59732fe5e1c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906880"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937301"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
