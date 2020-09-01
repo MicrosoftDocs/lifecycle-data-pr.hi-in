@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft ProClarity 6.3
   description: Microsoft ProClarity 6.3 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 317529e1a142906f2aebd67ada9a28a32a680b2a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Analytics Server,Desktop Professional,SharePoint Viewer
+  ms.openlocfilehash: 8f4a3b07dd210955b20261f569fb324520e6ac2e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820445"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929901"
 name: Microsoft ProClarity 6.3
 summary: >+
   Microsoft ProClarity 6.3  [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

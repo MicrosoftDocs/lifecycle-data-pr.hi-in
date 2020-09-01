@@ -2,13 +2,14 @@
 metadata:
   title: Exchange Server 2007
   description: Exchange Server 2007 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cd642c6d536ae4d72e91589eccec3e35bfa24298
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 3ff0fec2e4a78285c3e34360d90c3ca90e5ffd96
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820482"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931381"
 name: Exchange Server 2007
 summary: >+
   Exchange Server 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

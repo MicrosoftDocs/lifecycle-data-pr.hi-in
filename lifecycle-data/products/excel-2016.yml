@@ -2,19 +2,20 @@
 metadata:
   title: एक्सेल 2016
   description: एक्सेल 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6bd4e446cb6522d96c70332a2bfb3ebd6c295dfe
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: adc8a9314803f35736020adca73db52b6c1e3243
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855538"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "931492"
 name: एक्सेल 2016
 summary: >+
   एक्सेल 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

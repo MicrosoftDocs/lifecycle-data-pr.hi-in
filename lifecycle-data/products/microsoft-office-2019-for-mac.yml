@@ -2,13 +2,14 @@
 metadata:
   title: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019
   description: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/12/2020
-  ms.openlocfilehash: dae679faff1601ea2c617f4413d29e48299c750c
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "892575"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930419"
 name: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019
 summary: >+
   मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/10/2023
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* शैक्षिक\n* घर और व्यापार\n* घर और छात्र\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अकादमिक\n* Home and Business\n* Home and Student\n* Standard"

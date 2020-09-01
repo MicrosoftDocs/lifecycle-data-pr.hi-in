@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर)
   description: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9d766264fa0494c9507c44a8af4743f375e13c53
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Designer,Workspace
+  ms.openlocfilehash: 8bdab274ac3578ffa536b6dcd335249c6f17526f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820441"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929864"
 name: Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर)
 summary: >+
   Microsoft SharePoint 2010 (वर्कस्पेस, डिजाइनर) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

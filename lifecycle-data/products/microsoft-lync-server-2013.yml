@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Lync Server 2013
   description: Microsoft Lync Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b34b0e978d3da966e6a157c65ddd72a00a635db0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Persistent Chat Software Development Kit,Phone,SDK,Standard
+  ms.openlocfilehash: d6885f287ffa2bda2803e707d93db7ad5fdf5cb0
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820708"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930678"
 name: Microsoft Lync Server 2013
 summary: >+
   Microsoft Lync Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

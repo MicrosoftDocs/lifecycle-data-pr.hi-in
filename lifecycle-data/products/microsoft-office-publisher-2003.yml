@@ -2,13 +2,14 @@
 metadata:
   title: माइक्रोसॉफ्ट कार्यालय प्रकाशक 2003
   description: माइक्रोसॉफ्ट ऑफिस प्रकाशक 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821020"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930345"
 name: माइक्रोसॉफ्ट कार्यालय प्रकाशक 2003
 summary: >+
   माइक्रोसॉफ्ट ऑफिस प्रकाशक 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* डिजिटल इमेजिंग के साथ"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* डिजिटल इमेजिंग के साथ"
