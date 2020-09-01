@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820550"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939188"
 name: Windows Small Business Server 2008
 summary: "Windows Small Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n\nइस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.\n"
 products:

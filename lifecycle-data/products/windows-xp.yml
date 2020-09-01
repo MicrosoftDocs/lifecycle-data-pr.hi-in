@@ -2,13 +2,14 @@
 metadata:
   title: Windows XP
   description: Windows XP नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: b87864c5f60526582efd3d8d986ce63c0d203e39
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
+  ms.openlocfilehash: 170f3edab926203a3a5ff5573a613709588e974e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893759"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938781"
 name: Windows XP
 summary: >
   Windows XP [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

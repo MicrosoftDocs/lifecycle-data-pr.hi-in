@@ -2,13 +2,14 @@
 metadata:
   title: विंडोज मोबाइल 6.1
   description: विंडोज मोबाइल 6.1 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820388"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939817"
 name: विंडोज मोबाइल 6.1
 summary: >
   विंडोज मोबाइल 6.1 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -19,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अनुकूलन किट\n* पेशेवर\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अनुकूलन किट\n* Professional\n* Standard"

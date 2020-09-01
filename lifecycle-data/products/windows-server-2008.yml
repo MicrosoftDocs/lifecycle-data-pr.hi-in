@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Datacenter,Datacenter without Hyper-V,Enterprise,Enterprise without Hyper-V,for Itanium-Based Systems,Foundation,Standard,Standard without Hyper-V,Web
+  ms.openlocfilehash: 30b07c95bb7d37ab822e5e2238983fd70d918889
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821269"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939521"
 name: Windows Server 2008
 summary: >
   Windows Server 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.

@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2012 R2
   description: Windows Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Datacenter,Essentials,for Embedded Systems,Foundation,Standard
+  ms.openlocfilehash: 42ac3c78b1d65c205a93a1041fdc4f029edec3f5
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855247"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939484"
 name: Windows Server 2012 R2
 summary: >+
   Windows Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

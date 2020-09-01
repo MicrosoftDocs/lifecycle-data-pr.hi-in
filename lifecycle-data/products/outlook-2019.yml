@@ -2,19 +2,20 @@
 metadata:
   title: आउटलुक 2019
   description: आउटलुक 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d88a287bdaffb61b00e977e13a10c6b03487082a
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 8c38b0d1da85e6f534d902ac0349bdd657a68684
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869910"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938078"
 name: आउटलुक 2019
 summary: >+
   आउटलुक 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/24/2018
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

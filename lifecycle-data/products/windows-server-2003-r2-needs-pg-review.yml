@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2003 R2 (PG समीक्षा आवश्यक है)
   description: Windows Server 2003 R2 (PG समीक्षा आवश्यक है) निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/13/2020
-  ms.openlocfilehash: 8678c0ae8e2f3fa1a94459baad951411c5f10fd1
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.date: 09/01/2020
+  keywords: Datacenter,Datacenter (32-bit x86),Datacenter (x64),Enterprise (32-Bit x86),Enterprise X64,Standard (32-bit x86),Standard X64
+  ms.openlocfilehash: 9a06e12eee2db8c26c43f679cceda51ed7f3cec1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905864"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939632"
 name: Windows Server 2003 R2 (PG समीक्षा आवश्यक है)
 summary: >+
   Windows Server 2003 R2 (PG समीक्षा आवश्यक है) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

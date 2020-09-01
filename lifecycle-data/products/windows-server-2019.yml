@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2019
   description: Windows Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Datacenter,Essentials,Standard
+  ms.openlocfilehash: 8967355f6556b020b48bca6259870c05be45f09e
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869842"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939336"
 name: Windows Server 2019
 summary: >+
   Windows Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

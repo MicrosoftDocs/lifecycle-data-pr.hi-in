@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 IoT 2019 LTSC
   description: Windows 10 IoT 2019 LTSC फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 09/01/2020
+  keywords: Core,Enterprise
+  ms.openlocfilehash: 14d9c6c53748361e9ab051381cfe36ea267968d9
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869852"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938226"
 name: Windows 10 IoT 2019 LTSC
 summary: >+
   Windows 10 IoT 2019 LTSC [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.

@@ -2,13 +2,14 @@
 metadata:
   title: विंडोज वेब सर्वर 2008
   description: विंडोज वेब सर्वर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 5a30ae3c7d7139240f057b39103ef126f89a2d13
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 09e6cfcf06699c4c2c31c43a04906c7f6b543979
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908761"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938892"
 name: विंडोज वेब सर्वर 2008
 summary: >+
   विंडोज वेब सर्वर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
