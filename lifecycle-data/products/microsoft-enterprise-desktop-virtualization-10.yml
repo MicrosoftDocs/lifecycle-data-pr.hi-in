@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Enterprise Desktop Virtualization 1.0
   description: Microsoft Enterprise Desktop Virtualization 1.0 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 2e3879b453726a643faf1a53bfb51628d44ddd02
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821049"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933971"
 name: Microsoft एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 1.0
 summary: >
   Microsoft Enterprise Desktop Virtualization 1.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

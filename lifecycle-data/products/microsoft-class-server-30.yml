@@ -2,19 +2,20 @@
 metadata:
   title: माइक्रोसॉफ्ट क्लास सर्वर 3.0
   description: माइक्रोसॉफ्ट क्लास सर्वर 3.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d393a373e1a6b59165567eab05a2f777bdddece9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821076"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934637"
 name: माइक्रोसॉफ्ट क्लास सर्वर 3.0
 summary: >+
   माइक्रोसॉफ्ट क्लास सर्वर 3.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/20/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

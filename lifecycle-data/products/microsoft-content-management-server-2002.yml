@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Content Management Server 2002
   description: Microsoft Content Management Server 2002 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 368b887e1eb96fc0882b5ba1315e782beecf8586
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821061"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934082"
 name: Microsoft Content Management Server 2002
 summary: >+
   Microsoft Content Management Server 2002 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

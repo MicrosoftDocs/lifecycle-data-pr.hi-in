@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Application Virtualization 4.6
   description: Microsoft Application Virtualization 4.6 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 868274b4468e663afe8e1b9f36069490ab4da025
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Remote Desktop Services,for Windows Desktops,Sequencer
+  ms.openlocfilehash: e7ee52090b6e77209d2cc75b5862c21dfe4fe3dd
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821118"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935562"
 name: Microsoft एप्लीकेशन वर्चुअलाइजेशन 4.6
 summary: >+
   Microsoft Application Virtualization 4.6 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है।
