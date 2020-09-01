@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Windows XP Media Center संस्करण 2004
   description: Microsoft Windows XP Media Center संस्करण 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/26/2020
-  ms.openlocfilehash: c08e990342c6f3fb7e8a8b5ce930a6aaca9dfd68
-  ms.sourcegitcommit: 048e18070bb1f9d1ece6d9c7be3e27f4685123ef
+  ms.date: 09/01/2020
+  keywords: Media Center
+  ms.openlocfilehash: fdd6ddf0132301d7b1b1919a24eabb65c2cb32c9
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911555"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928865"
 name: Microsoft Windows XP Media Center संस्करण 2004
 summary: >+
   Microsoft Windows XP Media Center संस्करण 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -26,5 +27,5 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/27/2003
-  endDate: 04/08/2014
+  endDate: 10/10/2006
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मीडिया सेंटर"

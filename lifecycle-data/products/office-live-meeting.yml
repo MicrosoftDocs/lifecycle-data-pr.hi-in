@@ -2,15 +2,16 @@
 metadata:
   title: कार्यालय लाइव बैठक
   description: कार्यालय लाइव बैठक आधुनिक जीवनचक्र नीति का पालन करती है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c4b0ff8ddce1b4b699aae7631879845eed849bf4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820952"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928902"
 name: कार्यालय लाइव बैठक
-summary: "कार्यालय लाइव बैठक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: मानक\n\n> [!IMPORTANT]\n> इस सेवा के लिए समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें। \n"
+summary: "कार्यालय लाइव बैठक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n> [!IMPORTANT]\n> इस सेवा के लिए समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - office
 policyType: modern-online
@@ -21,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 04/10/2009
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.office.com/article/Live-Meeting-Server-End-of-Life-6af25745-1f4a-4bcd-8051-fd0766f53c4f)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

@@ -2,19 +2,20 @@
 metadata:
   title: माइक्रोसॉफ्ट वर्ड 2010
   description: माइक्रोसॉफ्ट वर्ड 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f4dc0eea07b8fda561c124386c9483135851e2c2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 23a0866d6135a39d7b7895604cc2c3687c5f578f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820956"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929013"
 name: माइक्रोसॉफ्ट वर्ड 2010
 summary: >+
   माइक्रोसॉफ्ट वर्ड 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: होम एंड स्टूडेंट, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Home and Student, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* घर और छात्र\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Student\n* Standard"

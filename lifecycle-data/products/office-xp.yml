@@ -2,13 +2,14 @@
 metadata:
   title: कार्यालय XP
   description: कार्यालय एक्सपी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/27/2020
-  ms.openlocfilehash: fd2a7430cd31be1b9ad81287f9c583fbc2eba5fe
-  ms.sourcegitcommit: 0adb28bbd953e938286d5b8fb03cab57a2d18b3b
+  ms.date: 09/01/2020
+  keywords: Developer,Professional,Proofing Tools,Standard,Web Components
+  ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/27/2020
-  ms.locfileid: "922842"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928791"
 name: कार्यालय XP
 summary: >+
   कार्यालय एक्सपी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
