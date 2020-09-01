@@ -2,13 +2,14 @@
 metadata:
   title: Windows 7
   description: Windows 7 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a1b1b370fe7d15abae83da62603b4522ea79a307
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N
+  ms.openlocfilehash: 22a494a93015d2e8af3ba5e5893dd2c85daedb3b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820403"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939965"
 name: Windows 7
 summary: "Windows 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:

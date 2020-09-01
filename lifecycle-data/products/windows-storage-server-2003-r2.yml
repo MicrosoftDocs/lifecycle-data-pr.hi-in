@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: विंडोज स्टोरेज सर्वर 2003 R2
+  description: विंडोज स्टोरेज सर्वर 2003 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
+  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "940856"
+name: विंडोज स्टोरेज सर्वर 2003 R2
+summary: "विंडोज स्टोरेज सर्वर 2003 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है.\nविंडोज सर्वर 2003 सर्विस पैक 1 के साथ भेज दिया गया यह उत्पाद। \n"
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/05/2006
+  end: 07/13/2010
+  extendedEnd: 07/14/2015
+releases:
+- version: Service Pack 2
+  startDate: 03/13/2007
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 03/05/2006
+  endDate: 04/14/2009
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

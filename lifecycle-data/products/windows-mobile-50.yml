@@ -2,13 +2,14 @@
 metadata:
   title: विंडोज मोबाइल 5.0
   description: विंडोज मोबाइल 5.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 17f50270e11da1808a849ea828b7f070156fb8fe
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Pocket PC,for Smartphones
+  ms.openlocfilehash: 7a07c670b79f79c4c1e9406cff7b89db9eaab660
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820405"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939854"
 name: विंडोज मोबाइल 5.0
 summary: >
   विंडोज मोबाइल 5.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -19,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed
