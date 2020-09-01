@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Project 2007
   description: Microsoft Office Project 2007 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 32d5bb282e3df4037d370cd51db620b9ab22722e
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: fe76f2f4ecc35a59ee8b1a90a3a91f057c80519c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "907875"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932787"
 name: Microsoft Office Project 2007
 summary: >+
   Microsoft Office Project 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

@@ -2,19 +2,20 @@
 metadata:
   title: बिजटॉक सर्वर 2016
   description: बिजटॉक सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 1442cb807ade39555954dc0f2fba82434027cb2c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855194"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932158"
 name: बिजटॉक सर्वर 2016
 summary: >+
   बिजटॉक सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, स्टैंडर्ड
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Standard"
