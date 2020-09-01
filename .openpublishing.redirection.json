@@ -9,6 +9,11 @@
       "source_path": "lifecycle-data/browse/listings/index.yml",
       "redirect_url": "/lifecycle/products/",
       "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "lifecycle-data/export/products.md",
+      "redirect_url": "/lifecycle/products/export",
+      "redirect_document_id⁯": false
     }
   ]
 }
