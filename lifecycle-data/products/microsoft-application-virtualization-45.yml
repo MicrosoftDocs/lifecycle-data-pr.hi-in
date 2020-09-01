@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Application Virtualization 4.5
   description: Microsoft Application Virtualization 4.5 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for Terminal Services,for Windows Desktops
+  ms.openlocfilehash: 2d8a71caede673b568a595526f4e1c9ce41a1778
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821120"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "935636"
 name: Microsoft Application Virtualization 4.5
 summary: >
   Microsoft Application Virtualization 4.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल पॉलिसी  का पालन करता है.

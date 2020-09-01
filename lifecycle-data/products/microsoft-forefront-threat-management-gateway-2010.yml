@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Forefront Threat Management Gateway 2010
   description: Microsoft Forefront Threat Management Gateway 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c28f728f916bfa317c1c81b4807c7aac16dd42bb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: b14bccc0637b191a7523238e5ee8b25c39183469
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821041"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933823"
 name: Microsoft Forefront Threat Management Gateway 2010
 summary: >
   Microsoft Forefront Threat Management Gateway 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.

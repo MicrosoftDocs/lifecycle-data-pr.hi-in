@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Server 2006
   description: Microsoft BizTalk Server 2006 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 08/25/2020
-  ms.openlocfilehash: 06f978de340282d2d7b25e4b2f4ef800b3b8da72
-  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,R2,Standard
+  ms.openlocfilehash: 6568f57b618005494f1df97488f880ee25f45a0d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/26/2020
-  ms.locfileid: "911258"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934711"
 name: Microsoft BizTalk Server 2006
 summary: >+
   Microsoft BizTalk Server 2006 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

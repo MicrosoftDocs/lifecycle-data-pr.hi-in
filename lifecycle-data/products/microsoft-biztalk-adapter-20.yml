@@ -2,13 +2,14 @@
 metadata:
   title: माइक्रोसॉफ्ट बिजटॉक एडाप्टर 2.0
   description: माइक्रोसॉफ्ट बिज़टॉक एडाप्टर 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 807011d58eb9c568bd6d71b1ce3e616a4451e0bd
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: for MSMQ,for mySAP Business Suite,for SAP
+  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894001"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934748"
 name: माइक्रोसॉफ्ट बिजटॉक एडाप्टर 2.0
 summary: >+
   माइक्रोसॉफ्ट बिज़टॉक एडाप्टर 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
