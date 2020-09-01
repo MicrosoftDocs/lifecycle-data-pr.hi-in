@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio 2008
   description: Visual Studio 2008 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: dda36bd66c9de69696c202177f1197c068e2f646
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820563"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937560"
 name: Visual Studio 2008
 summary: >+
   Visual Studio 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.

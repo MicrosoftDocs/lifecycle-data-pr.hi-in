@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2007
   description: Microsoft Office 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: c0763a56b447d205c916b2580626e636114ee67f
-  ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
+  ms.date: 09/01/2020
+  keywords: Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate
+  ms.openlocfilehash: 9ae47c5cee79a22aa61684c3dc132896aeacfc01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "904730"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936783"
 name: Microsoft Office 2007
 summary: >+
   Microsoft Office 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

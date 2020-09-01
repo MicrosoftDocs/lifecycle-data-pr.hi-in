@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office 2008 for Mac
   description: Mac के लिए Microsoft Office 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: abf5213b99b3f5ca6d64daa69ef50c3462fc9d35
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820702"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936746"
 name: Microsoft Office 2008 for Mac
 summary: "Mac के लिए Microsoft Office 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:

@@ -2,13 +2,14 @@
 metadata:
   title: मैक के लिए माइक्रोसॉफ्ट कार्यालय 2004
   description: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2004 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14513bc7089568baf86dfe8f775cc25658cda7f4
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Student and Teacher
+  ms.openlocfilehash: 12b63fa73b4b6a4bfc393cc62234147382a6d46a
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820461"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936844"
 name: मैक के लिए माइक्रोसॉफ्ट कार्यालय 2004
 summary: >+
   मैक के लिए माइक्रोसॉफ्ट ऑफिस 2004 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/13/2004
   endDate: 01/10/2012
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर\n* मानक\n* छात्र और शिक्षक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard\n* Student and Teacher"

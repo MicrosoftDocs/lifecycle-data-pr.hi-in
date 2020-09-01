@@ -2,13 +2,14 @@
 metadata:
   title: FAST Search Server 2010 (SharePoint इंटरनेट साइट्स के लिए)
   description: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: for SharePoint,for SharePoint Internet Sites
+  ms.openlocfilehash: c027838c1f802c0ed026d733a9412fe15980c093
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821161"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936154"
 name: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए)
 summary: >+
   FAST Search Server 2010 (SharePoint के लिए, SharePoint Internet Sites के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

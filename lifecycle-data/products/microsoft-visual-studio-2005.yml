@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Visual Studio 2005
   description: Microsoft Visual Studio 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 3d7b18b9c262c1ac5f159250ef8a1746f79221eb
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/01/2020
+  keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
+  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893167"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937597"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

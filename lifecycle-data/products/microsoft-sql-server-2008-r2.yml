@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: fab744b0945bef274e20d81e4c86df2c1e7f69d6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Datacenter,Developer,Enterprise,Express,Express with Advanced Services,for Embedded Systems,Standard,Standard Edition for Small Business,Web,Workgroup
+  ms.openlocfilehash: 338c0e474c0c8f93d36dd3c165920ef49f89f4ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820583"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937708"
 name: Microsoft SQL Server 2008 R2
 summary: >+
   Microsoft SQL Server 2008 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

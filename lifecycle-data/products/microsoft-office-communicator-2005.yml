@@ -2,15 +2,16 @@
 metadata:
   title: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2005
   description: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2005 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e2c6dc97b10a0fd56d9fff4d2d6578f511d9b0b7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 63747b4e26cc52df003704a5cda3a3bcd637a8c1
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821393"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936265"
 name: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2005
-summary: "माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: मानक\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+summary: "माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 08/13/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
