@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Windows Small Business Server 2003
   description: Microsoft Windows Small Business Server 2003 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8ac087fd1710a2deb48d9507f342d447d9c96b2c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: a30ff41cd8b25aecb89e4f4bfc243198cce3bdba
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820965"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "928939"
 name: Microsoft Windows Small Business Server 2003
 summary: >+
   Microsoft Windows Small Business Server 200 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

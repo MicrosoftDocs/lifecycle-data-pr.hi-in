@@ -2,13 +2,14 @@
 metadata:
   title: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 9.0
   description: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 9.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e21a4d7b031b3a982181f2bf975886672be36735
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Professional
+  ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820582"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "929309"
 name: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 9.0
 summary: >+
   माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 9.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/22/2004
   endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional"
