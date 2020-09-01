@@ -2,19 +2,20 @@
 metadata:
   title: परियोजना 2016
   description: परियोजना 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 83433460cac12bdaace5894520903d80636483ab
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855299"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926534"
 name: परियोजना 2016
 summary: >+
   परियोजना 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: व्यावसायिक, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Professional, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पेशेवर\n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard"

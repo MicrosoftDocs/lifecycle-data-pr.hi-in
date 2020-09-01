@@ -2,19 +2,20 @@
 metadata:
   title: पावरपॉइंट 2013
   description: पावरपॉइंट 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0fedb46f520e61546bca7e664f1bcb0f04d5b10d
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 04ce16dd515217f7697f3cf2cc1a0ad22cd3ea19
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855633"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926941"
 name: पावरपॉइंट 2013
 summary: >+
   पावरपॉइंट 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
