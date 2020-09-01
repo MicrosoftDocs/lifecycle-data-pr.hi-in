@@ -2,13 +2,14 @@
 metadata:
   title: Windows Vista
   description: Windows Vista फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: 5c98fe7339f950e080d2ae0450774abb13d9e7c6
-  ms.sourcegitcommit: 70c4608ec6344869c74ed63ff3f0e2ccb0dce3a0
+  ms.date: 09/01/2020
+  keywords: Business,Business N,Business N 64-bit,Enterprise,Enterprise X64,Home Basic,Home Basic 64-bit,Home Basic N,Home Basic N 64-bit,Home Premium,Home Premium 64-bit,Starter,Ultimate,Ultimate 64-bit
+  ms.openlocfilehash: 4ee6353668b69dd9b05e6ee202a37dcfebb0ce10
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903088"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938929"
 name: Windows Vista
 summary: >
   Windows Vista [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.

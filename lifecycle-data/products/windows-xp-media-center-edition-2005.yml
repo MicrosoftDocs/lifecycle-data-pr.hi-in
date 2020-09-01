@@ -2,13 +2,14 @@
 metadata:
   title: Windows XP Media Center सपांदन 2005
   description: Microsoft Windows XP Media Center संपादन 2005, निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 51d0bb29320a507fba4ea0c18e11bfa85f92dccf
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 09/01/2020
+  keywords: Extender
+  ms.openlocfilehash: 9fbcaff077300c23ca6656b1ab13accf396a042d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "892037"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938818"
 name: Windows XP Media Center सपांदन 2005
 summary: >+
   Microsoft Windows XP Media Center संपादन 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

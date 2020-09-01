@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2016
   description: Windows Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Datacenter,Essentials,MultiPoint Premium,Standard
+  ms.openlocfilehash: 17206dccdf2844a2daa1e1326679b812dd9f55eb
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855659"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939373"
 name: Windows Server 2016
 summary: >+
   Windows Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

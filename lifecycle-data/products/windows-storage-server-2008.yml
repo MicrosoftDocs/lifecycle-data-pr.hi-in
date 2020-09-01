@@ -2,13 +2,14 @@
 metadata:
   title: Windows Storage Server 2008
   description: Windows Storage Server 2008 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5fcd64fc253504e9ffb8db1c34a0597cc550b12b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Basic,Basic 32-Bit,Basic 64-bit,Basic Embedded,Basic Embedded 32-bit,Enterprise,Enterprise Embedded,Standard,Standard Embedded,Workgroup
+  ms.openlocfilehash: 8953fec16d2e39e18ff29a4e7ad1f297888f0b75
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820381"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939040"
 name: Windows Storage Server 2008
 summary: >
   Windows Storage Server 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.

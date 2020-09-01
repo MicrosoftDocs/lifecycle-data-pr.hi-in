@@ -2,13 +2,14 @@
 metadata:
   title: Winternals
   description: Winternals फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Administrator's Pak 5.0,Defrag Manager 3.0,Protection Manager 2.0,Recovery Manager 3.0
+  ms.openlocfilehash: 23c4939c233902db0803caa6a5de406ab138bcb4
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820543"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938707"
 name: Winternals
 summary: >+
   Winternals [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करते हैं.

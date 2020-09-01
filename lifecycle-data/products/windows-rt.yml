@@ -2,13 +2,14 @@
 metadata:
   title: विंडोज आरटी
   description: विंडोज आरटी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: daac7a0fd8d0dcca56b367088a8313e315fc1125
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: 8.0999999999999996
+  ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855613"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939706"
 name: विंडोज आरटी
 summary: >+
   विंडोज आरटी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

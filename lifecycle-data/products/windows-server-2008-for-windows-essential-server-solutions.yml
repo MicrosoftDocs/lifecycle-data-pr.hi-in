@@ -2,13 +2,14 @@
 metadata:
   title: Windows Essential Server समाधान के लिए Windows Server 2008
   description: Windows Essential Server समाधान के लिए Windows Server 2008 फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a0f008702c636963333da20217a32768124fe020
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Standard,without Hyper-V
+  ms.openlocfilehash: dd1f811a9e93cdfe97655a9cfd030cfffdbd1116
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820898"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939558"
 name: Windows Essential Server समाधान के लिए Windows Server 2008
 summary: >
   Windows Essential Server समाधान के लिए Windows Server 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

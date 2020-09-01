@@ -2,13 +2,14 @@
 metadata:
   title: Windows Storage Server 2012 R2
   description: Windows Storage Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4a27e9c473e898353e7d8d5f47cf6e19274320d8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Essentials,Standard,Workgroup
+  ms.openlocfilehash: 882550832ce3c5dc7b3a62ef17e1358df0445a9f
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855611"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939003"
 name: Windows Storage Server 2012 R2
 summary: >+
   Windows Storage Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

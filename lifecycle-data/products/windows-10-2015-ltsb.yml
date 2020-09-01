@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 2015 LTSB
   description: Windows 10 2015 LTSB फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 191d7db0755e317ae2faadd116b46046b90cd071
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: Enterprise
+  ms.openlocfilehash: 201717bb796cb84e455c4f4e81f0a1b32516e1c7
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855615"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938448"
 name: Windows 10 2015 LTSB
 summary: >+
   Windows 10 2015 LTSB [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/29/2015
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 अक्टूबर अपडेट (संस्करण 1809) पुनः रिलीज़](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n\n"
+content: "\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 अक्टूबर अपडेट (संस्करण 1809) पुनः रिलीज़](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n"

@@ -2,13 +2,14 @@
 metadata:
   title: Policymaker
   description: पॉलिसीमेकर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 08/19/2020
-  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/01/2020
+  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
+  ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904157"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938041"
 name: Policymaker
 summary: >+
   पॉलिसीमेकर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
