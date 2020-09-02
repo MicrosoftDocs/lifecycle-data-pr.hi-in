@@ -2,13 +2,14 @@
 metadata:
   title: शेयरपॉइंट सर्वर 2016
   description: शेयरपॉइंट सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b3049f78b9b57515f5a9b5966af4c72f30932824
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855600"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941733"
 name: शेयरपॉइंट सर्वर 2016
 summary: >+
   शेयरपॉइंट सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग की जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग की जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/sharepoint/sharepoint-server) और [डेवलपर](https://developer.microsoft.com/sharepoint/docs) दस्तावेज देखें"
