@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज मल्टीपॉइंट सर्वर 2012
-  description: विंडोज मल्टीपॉइंट सर्वर 2012 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows MultiPoint Server 2012
+  description: Windows MultiPoint Server 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 680c62e4b7aa1f0393f32386deb68f9c976b7c9b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855442"
-name: विंडोज मल्टीपॉइंट सर्वर 2012
+name: Windows MultiPoint Server 2012
 summary: >+
-  विंडोज मल्टीपॉइंट सर्वर 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows MultiPoint Server 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को मानक जीवनचक्र संक्रमण समयरेखा के साथ ग्राहकों को प्रदान करने के लिए बढ़ाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* प्रीमियम\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"

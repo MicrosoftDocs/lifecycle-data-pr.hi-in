@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 8 और 8.1 के लिए विंडोज डिफेंडर
-  description: विंडोज 8 और 8.1 के लिए विंडोज डिफेंडर घटक जीवन चक्र नीति का पालन करता है।
+  title: 'Windows 8 और 8.1 के लिए Windows Defender '
+  description: Windows 8 और 8.1 के लिए Windows Defender, घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855237"
-name: विंडोज 8 और 8.1 के लिए विंडोज डिफेंडर
+name: 'Windows 8 और 8.1 के लिए Windows Defender '
 summary: >+
-  विंडोज 8 और 8.1 के लिए विंडोज डिफेंडर [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+  Defender, [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज 8](/lifecycle/)\n\n> [!NOTE]\n> इस रिलीज को एक घटक के रूप में जाना जाता है जो अपने मूल उत्पाद के जीवनचक्र का पालन करता है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> इस रिलीज़ को एक ऐसे घटक के रूप में जाना जाता है, जो अपने पैरेंट उत्पाद के जीवनचक्र का अनुसरण करता है."

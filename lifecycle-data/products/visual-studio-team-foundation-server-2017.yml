@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2017
-  description: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2017 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Visual Studio टीम फाउंडेशन सर्वर 2017
+  description: Visual Studio टीम फाउंडेशन सर्वर 2017 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: f82a00b0f5bde434fc6b20afb923b8326d269512
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855677"
-name: विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2017
+name: Visual Studio टीम फाउंडेशन सर्वर 2017
 summary: >+
-  विजुअल स्टूडियो टीम फाउंडेशन सर्वर 2017 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Visual Studio टीम फाउंडेशन सर्वर 2017 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/16/2016
   endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी - नीला देव ऑप्स और टीएफएस](/azure/devops/server/whats-new?view=azure-devops)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी - Azure Dev Ops और TFS](/azure/devops/server/whats-new?view=azure-devops)"

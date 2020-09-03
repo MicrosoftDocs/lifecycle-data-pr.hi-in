@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 वर्चुअल मशीन मैनेजर
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 वर्चुअल मशीन मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft System Center 2012 Virtual Machine Manager
+  description: 'Microsoft System Center 2012 Virtual Machine Manager निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
   ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855639"
-name: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 वर्चुअल मशीन मैनेजर
-summary: >+
-  माइक्रोसॉफ्ट सिस्टम सेंटर 2012 वर्चुअल मशीन मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
-
-
+name: Microsoft System Center 2012 Virtual Machine Manager
+summary: "Microsoft System Center 2012 Virtual Machine Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:
 - msc
 policyType: fixed
@@ -28,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [सिस्टम सेंटर संसाधन](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [System Center संसाधन](https://www.microsoft.com/system-center/resources)"
