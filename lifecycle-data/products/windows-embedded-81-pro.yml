@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एम्बेडेड 8.1 प्रो
-  description: विंडोज एम्बेडेड 8.1 प्रो फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Embedded 8.1 Pro
+  description: Windows Embedded 8.1 Pro निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855674"
-name: विंडोज एम्बेडेड 8.1 प्रो
+name: Windows Embedded 8.1 Pro
 summary: >+
-  विंडोज एम्बेडेड 8.1 प्रो [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Embedded 8.1 Pro [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n* [विंडोज एम्बेडेड 8.1 एफएक्यू](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows Embedded 8.1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)"

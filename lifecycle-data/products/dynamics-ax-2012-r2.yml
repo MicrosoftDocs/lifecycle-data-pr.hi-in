@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स एक्स 2012 R2
-  description: डायनेमिक्स एक्स 2012 आर2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics AX 2012 R2
+  description: Dynamics AX 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855479"
-name: डायनेमिक्स एक्स 2012 R2
+name: Dynamics AX 2012 R2
 summary: >+
-  डायनेमिक्स एक्स 2012 आर2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics AX 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2013
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [डायनेमिक्स 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> मुख्यधारा के समर्थन को जैसा दिखाया गया है, बढ़ाया गया है ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> दिखाए गए अनुसार मेनस्ट्रीम सपोर्ट को बढ़ा दिया गया है।"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: शेयरपॉइंट डिजाइनर 2013
-  description: शेयरपॉइंट डिजाइनर 2013 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: SharePoint Designer 2013
+  description: SharePoint Designer 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ae676f0f1f60e3b034244349d273a177cf65662c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855511"
-name: शेयरपॉइंट डिजाइनर 2013
+name: SharePoint Designer 2013
 summary: >+
-  शेयरपॉइंट डिजाइनर 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  SharePoint Designer 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डिजाइनर
+  यह निम्नलिखित संस्करणों पर लागू होता है: Designer
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विवरण](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> शेयरपॉइंट सर्वर 2016 के साथ अनुकूलता सुनिश्चित करने के लिए माइक्रोसॉफ्ट शेयरपॉइंट डिजाइनर 2013 के लिए समर्थन बढ़ाया गया है।\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइनर"
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विवरण](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> SharePoint Server 2016 के साथ संगतता सुनिश्चित करने के लिए Microsoft SharePoint Designer 2013 के लिए समर्थन बढ़ा दिया गया है, जैसा कि दिखाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइनर"

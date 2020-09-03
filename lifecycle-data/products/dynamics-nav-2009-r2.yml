@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: गतिशीलता एनएवी 2009 R2
-  description: डायनेमिक्स एनएवी 2009 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics NAV 2009 R2
+  description: Dynamics NAV 2009 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855555"
-name: गतिशीलता एनएवी 2009 R2
+name: Dynamics NAV 2009 R2
 summary: >+
-  डायनेमिक्स एनएवी 2009 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics NAV 2009 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> एनएवी 2009 के लिए समर्थन तिथियों के अंत को दिखाया गया है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009 के लिए समर्थन तिथियों की समाप्ति को बढ़ा दिया गया है, जैसा कि दिखाया गया है."

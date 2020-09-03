@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज मल्टीपॉइंट सर्वर 2011
-  description: विंडोज मल्टीपॉइंट सर्वर 2011 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows MultiPoint Server 2011
+  description: Windows MultiPoint Server 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 002686168c27c03c0b513a06c0b73754b9559a3c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855444"
-name: विंडोज मल्टीपॉइंट सर्वर 2011
+name: Windows MultiPoint Server 2011
 summary: >+
-  विंडोज मल्टीपॉइंट सर्वर 2011 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows MultiPoint Server 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/12/2011
   endDate: 07/13/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/get-started/installation-and-upgrade)\n* [उत्पाद की जानकारी](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>संस्करण \n* प्रीमियम\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/get-started/installation-and-upgrade)\n* [उत्पाद की जानकारी](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"

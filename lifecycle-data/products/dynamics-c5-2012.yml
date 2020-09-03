@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: गतिशीलता C5 2012
-  description: गतिशीलता C5 2012 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics C5 2012
+  description: Dynamics C5 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855476"
-name: गतिशीलता C5 2012
+name: Dynamics C5 2012
 summary: >+
-  गतिशीलता C5 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics C5 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

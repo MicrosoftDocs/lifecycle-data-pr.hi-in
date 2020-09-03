@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला StorSimple 8000 श्रृंखला
-  description: नीला StorSimple 8000 श्रृंखला फिक्स्ड जीवन चक्र नीति का पालन करता है।
+  title: Azure StorSimple 8000 श्रृंखला
+  description: Azure StorSimple 8000 श्रृंखला, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855216"
-name: नीला StorSimple 8000 श्रृंखला
+name: Azure StorSimple 8000 श्रृंखला
 summary: >+
-  नीला StorSimple 8000 श्रृंखला [फिक्स्ड](/lifecycle/policies/fixed) जीवन चक्र नीति का पालन करता है।
+  Azure StorSimple 8000 श्रृंखला, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [StorSimple समाधान समर्थन](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [माइग्रेशन मार्गदर्शन](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> नीला StorSimple 8000 श्रृंखला के लिए समर्थन के रूप में मानक जीवन चक्र समय रेखा के साथ ग्राहकों को प्रदान करने के लिए दिखाया गया है बढ़ाया है। विस्तारित समर्थन में केवल हार्डवेयर प्रतिस्थापन और सुरक्षा अपडेट शामिल हैं।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [StorSimple समाधान समर्थन](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [माइग्रेशन मार्गदर्शन](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> Azure StorSimple 8000 श्रृंखला के लिए समर्थन बढ़ाया गया है, जो ग्राहकों को मानक जीवन चक्र समयरेखा प्रदान करने के लिए दिखाया गया है। विस्तारित समर्थन में केवल हार्डवेयर प्रतिस्थापन और सुरक्षा अपडेट शामिल हैं।"

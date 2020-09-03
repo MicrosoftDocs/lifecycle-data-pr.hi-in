@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 10 मोबाइल, नवंबर 2015 में जारी
-  description: नवंबर 2015 में जारी विंडोज 10 मोबाइल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: नवंबर 2015 में रिलीज़हुआ Windows 10 Mobile
+  description: नवंबर 2015 में रिलीज़ हुआ Windows 10 Mobile, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a26113a9d85bf4e44262094db412ab1ab810acf
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855582"
-name: विंडोज 10 मोबाइल, नवंबर 2015 में जारी
+name: नवंबर 2015 में रिलीज़हुआ Windows 10 Mobile
 summary: >
-  नवंबर 2015 में जारी विंडोज 10 मोबाइल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  नवंबर 2015 में रिलीज़ हुआ Windows 10 Mobile, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/16/2015
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [डिवाइस ओएस लाइफसाइकिल एफएक्यू](/lifecycle/faq/device-operating-systems)\n* [विंडोज 10 मोबाइल 10 दिसंबर, 2019 को समर्थन समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [डिवाइस OS जीवनचक्र FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile का समर्थन 10 दिसंबर, 2019 को समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)"

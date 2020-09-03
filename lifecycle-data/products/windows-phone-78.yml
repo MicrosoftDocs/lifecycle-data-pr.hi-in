@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज फोन 7.8
-  description: विंडोज फोन 7.8 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Phone 7.8
+  description: Windows Phone 7.8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855670"
-name: विंडोज फोन 7.8
+name: Windows Phone 7.8
 summary: >
-  विंडोज फोन 7.8 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Phone 7.8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/09/2013
   endDate: 10/14/2014
-content: "\n\n> [!NOTE]\n> माइक्रोसॉफ्ट अपने फोन पर ऑपरेटिंग सिस्टम के लिए अपडेट उपलब्ध कराएगा, जिसमें सुरक्षा अपडेट भी शामिल है, जीवनचक्र शुरू होने की तारीख के बाद 18 महीने की अवधि के लिए । अपडेट का वितरण मोबाइल ऑपरेटर या उस फोन निर्माता द्वारा नियंत्रित किया जा सकता है जिससे आपने अपना फोन खरीदा था। अद्यतन उपलब्धता भी देश, क्षेत्र और हार्डवेयर क्षमताओं के अनुसार भिन्न होगी।"
+content: "\n\n> [!NOTE]\n> जीवनचक्र आरंभ तिथि के बाद 18 माह के लिए Microsoft, सुरक्षा अद्यतन सहित आपके फ़ोन पर ऑपरेटिंग सिस्टम के लिए अद्यतन उपलब्ध कराएगा. इन अद्यतन का वितरण मोबाइल ऑपरेटर या उस फ़ोन निर्माता द्वारा नियंत्रित किया जा सकता है, जिससे आपने अपना फ़ोन खरीदा था. अद्यतन उपलब्धता देश, क्षेत्र और हार्डवेयर क्षमताओं के अनुसार भी भिन्न होगी."
