@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: वर्चुअल पीसी 2004
-  description: वर्चुअल पीसी 2004 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Virtual PC 2004
+  description: Virtual PC 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
   ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893278"
-name: वर्चुअल पीसी 2004
+name: Virtual PC 2004
 summary: >
-  वर्चुअल पीसी 2004 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Virtual PC 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एक्सप्रेस, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Express, Standard
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 10/09/2007
-content: "> [!TIP]\n> माइक्रोसॉफ्ट वर्चुअल पीसी 2004 एक्सप्रेस 13 अप्रैल, 2006 को जारी की गई।\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सप्रेस\n* मानक"
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express, 13 अप्रैल, 2006 को रिलीज़ हुआ था.\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सप्रेस\n* Standard"

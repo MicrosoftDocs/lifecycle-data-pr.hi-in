@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: वित्त और संचालन के लिए गतिशीलता 365 (परिसर में)
-  description: वित्त और संचालन (ऑन-परिसर) के लिए गतिशीलता आधुनिक जीवनचक्र नीति का पालन करती है।
+  title: Dynamics 365 for Finance and Operations (on-premises)
+  description: Dynamics 365 for Finance and Operations (on-premises), आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 026c1a37c7e772e8a9982c4c0190ae4d44e24ea3
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869812"
-name: वित्त और संचालन के लिए गतिशीलता 365 (परिसर में)
+name: Dynamics 365 for Finance and Operations (on-premises)
 summary: >+
-  वित्त और संचालन (ऑन-परिसर) के लिए गतिशीलता आधुनिक [जीवनचक्र](/lifecycle/policies/modern) नीति का पालन करती है।
+  Dynamics 365 for Finance and Operations (on-premises), [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise
 
 products:
 - dynamics
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"

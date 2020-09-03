@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर सेमी एनुअल चैनल
-  description: सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर सेमी एनुअल चैनल आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: System Center Data Protection Manager अर्धवार्षिक चैनल
+  description: System Center Data Protection Manager अर्धवार्षिक चैनल आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869924"
-name: सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर सेमी एनुअल चैनल
-summary: >
-  सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर सेमी एनुअल चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
-
-
-
-  > [!IMPORTANT]
-
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+name: System Center Data Protection Manager अर्धवार्षिक चैनल
+summary: "System Center Data Protection Manager अर्धवार्षिक चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है। \n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.\n"
 products:
 - msc
 policyType: modern-on-prem

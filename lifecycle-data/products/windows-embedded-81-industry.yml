@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एम्बेडेड 8.1 उद्योग
-  description: विंडोज एम्बेडेड 8.1 उद्योग फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Embedded 8.1 Industry
+  description: Windows Embedded 8.1 Industry, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/21/2020
   ms.openlocfilehash: f18f36a1692ef77948c82bce5d1b0a0208c3dc9d
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906917"
-name: विंडोज एम्बेडेड 8.1 उद्योग
+name: Windows Embedded 8.1 Industry
 summary: >+
-  विंडोज एम्बेडेड 8.1 उद्योग [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Embedded 8.1 Industry, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, प्रो, साइडलोडिंग
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Pro, Sideloading
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 07/11/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](https://support.microsoft.co/help/18581)\n* [विंडोज एम्बेडेड 8.1 एफएक्यू](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* प्रो\n* साइडलोडिंग"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](https://support.microsoft.co/help/18581)\n* [Windows Embedded 8.1 FAQ](/lifecycle/faq/windows#what-is-the-lifecycle-policy-for-windows-embedded-81-products)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Pro\n* Sideloading"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट Lync फोन संस्करण
-  description: माइक्रोसॉफ्ट Lync फोन संस्करण फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  title: Microsoft Lync फ़ोन संस्करण
+  description: Microsoft Lync फ़ोन संस्करण निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/30/2020
   ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879505"
-name: माइक्रोसॉफ्ट Lync फोन संस्करण
+name: Microsoft Lync फ़ोन संस्करण
 summary: >+
-  माइक्रोसॉफ्ट Lync फोन संस्करण [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+  Microsoft Lync फ़ोन संस्करण [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/11/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [अतिरिक्त जानकारी](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync फोन संस्करण Lync सर्वर 2010 और Lync सर्वर 2013 के साथ समर्थित है। Lync फोन संस्करण के लिए समर्थन तिथि Lync सर्वर २०१३ जीवन चक्र के साथ संरेखित करने के लिए 2 साल बढ़ा दिया गया है ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [अतिरिक्त जानकारी](https://techcommunity.microsoft.com/t5/Skype-for-Business-Blog/Certified-Skype-for-Business-Online-Phones-and-what-this-means/ba-p/120035)\n\n> [!NOTE]\n> Lync फ़ोन संस्करण Lync Server 2010 और Lync Server 2013 के साथ समर्थित है. Lync फ़ोन संस्करण के लिए समर्थन तिथि को Lync Server 2013 लाइफसाइकल के साथ संरेखित करने के लिए 2 साल बढ़ा दिया गया है."

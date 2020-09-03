@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 8
-  description: विंडोज 8 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows 8
+  description: Windows 8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/21/2020
   ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906695"
-name: विंडोज 8
+name: Windows 8
 summary: >
-  विंडोज 8 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows 8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, एंटरप्राइज एन, एन, मीडिया सेंटर के साथ प्रो, पेशेवर, पेशेवर एन, एसएल
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, N, Media Center के साथ Pro, Professional, Professional N, SL
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। ग्राहकों को समर्थित रहने के लिए विंडोज 8.1 पर अपडेट करना होगा।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. ग्राहकों को समर्थित रहने के लिए Windows 8.1 पर अद्यतित करना होगा.
 products:
 - windows
 policyType: fixed
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* एंटरप्राइज एन\n* एन\n* मीडिया सेंटर के साथ प्रो\n* पेशेवर\n* प्रोफेशनल एन\n* Sl"
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Enterprise N\n* N\n* Media Center के साथ Pro\n* Professional\n* Professional N\n* SL"

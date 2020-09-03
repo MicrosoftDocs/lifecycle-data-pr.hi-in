@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर ऑपरेशंस मैनेजर सेमी एनुअल चैनल
-  description: सिस्टम सेंटर ऑपरेशंस मैनेजर सेमी एनुअल चैनल आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: System Center Operations Managerअर्धवार्षिक चैनल
+  description: 'System Center Operations Manager अर्धवार्षिक चैनल आधुनिक जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
   ms.openlocfilehash: e1cc9be8f8d34eb92823ef4a44548be49dbe2476
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869923"
-name: सिस्टम सेंटर ऑपरेशंस मैनेजर सेमी एनुअल चैनल
+name: System Center Operations Managerअर्धवार्षिक चैनल
 summary: >
-  सिस्टम सेंटर ऑपरेशंस मैनेजर सेमी एनुअल चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  System Center Operations Manager अर्धवार्षिक चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - msc
 policyType: modern-on-prem
