@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2007 R2
-  description: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2007 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office Communicator 2007 R2
+  description: Microsoft Office Communicator 2007 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 96ef1f9786fe6c244254432e1f515155af5b267e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821392"
-name: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2007 R2
-summary: "माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर 2007 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, फोन\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। माइग्रेशन गाइडेंस देखें। \n"
+name: Microsoft Office Communicator 2007 R2
+summary: "Microsoft Office Communicator 2007 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, फ़ोन\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - office
 policyType: fixed

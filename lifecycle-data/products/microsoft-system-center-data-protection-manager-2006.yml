@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा संरक्षण प्रबंधक 2006
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2006 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft System Center Data Protection Manager 2006
+  description: 'Microsoft System Center Data Protection Manager 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
   ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820991"
-name: माइक्रोसॉफ्ट सिस्टम सेंटर डेटा संरक्षण प्रबंधक 2006
+name: Microsoft System Center Data Protection Manager 2006
 summary: >+
-  माइक्रोसॉफ्ट सिस्टम सेंटर डेटा प्रोटेक्शन मैनेजर 2006 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft System Center Data Protection Manager 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। 2
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑपरेशंस मैनेजर 2005 के लिए Engyro उत्पाद कनेक्टर्स
-  description: माइक्रोसॉफ्ट ऑपरेशंस मैनेजर 2005 के लिए Engyro उत्पाद कनेक्टर्स फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Operations Manager 2005 के लिए  Engyro उत्पाद कनेक्टर्स
+  description: Microsoft Operations Manager 2005 के लिए Engyro उत्पाद कनेक्टर्स, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821167"
-name: माइक्रोसॉफ्ट ऑपरेशंस मैनेजर 2005 के लिए Engyro उत्पाद कनेक्टर्स
+name: Microsoft Operations Manager 2005 के लिए  Engyro उत्पाद कनेक्टर्स
 summary: >+
-  माइक्रोसॉफ्ट ऑपरेशंस मैनेजर 2005 के लिए Engyro उत्पाद कनेक्टर्स [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Operations Manager 2005 के लिए Engyro उत्पाद कनेक्टर्स, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

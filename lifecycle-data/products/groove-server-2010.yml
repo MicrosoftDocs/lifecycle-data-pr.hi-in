@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नाली सर्वर 2010
-  description: नाली सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Groove Server 2010
+  description: Groove Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ca52b878949f03f4f8b164e8078951ea99b39ea
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821149"
-name: नाली सर्वर 2010
+name: Groove Server 2010
 summary: >+
-  नाली सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Groove Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

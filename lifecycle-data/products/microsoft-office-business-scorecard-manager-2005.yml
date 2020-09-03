@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस बिजनेस स्कोरकार्ड मैनेजर 2005
-  description: माइक्रोसॉफ्ट ऑफिस बिजनेस स्कोरकार्ड मैनेजर 2005 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office Business Scorecard Manager 2005
+  description: 'Microsoft Office Business Scorecard Manager 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
   ms.openlocfilehash: bc345248ceba7c8f2cac730bc1141a0dae32d398
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821400"
-name: माइक्रोसॉफ्ट ऑफिस बिजनेस स्कोरकार्ड मैनेजर 2005
-summary: >+
-  माइक्रोसॉफ्ट ऑफिस बिजनेस स्कोरकार्ड मैनेजर 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
-
-
+name: Microsoft Office Business Scorecard Manager 2005
+summary: "Microsoft Office Business Scorecard Manager 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:
 - office
 policyType: fixed
@@ -25,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 12/27/2005
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> बिजनेस स्कोरकार्ड मैनेजर २००५ के लिए समर्थन 1/12/2016 को समाप्त हुआ ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/performancepoint/2016/04/06/end-of-support-for-business-scorecard-accelerator-and-business-scorecard-manager-2005)\n\n> [!NOTE]\n> व्यवसाय स्कोरकार्ड प्रबंधक 2005 के लिए समर्थन 1/12/2016 को समाप्त हो गया था."

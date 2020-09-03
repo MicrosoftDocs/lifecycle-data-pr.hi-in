@@ -1,19 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 8.0
-  description: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 8.0 घटक जीवन चक्र नीति का पालन करती है।
+  title: Microsoft Internet Information Services 8.0
+  description: 'Microsoft Internet Information Services 8.0 घटक जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
   ms.openlocfilehash: 71be1061b611798489998e4437c1e3d80bbe19b3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820469"
-name: माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 8.0
-summary: >+
-  माइक्रोसॉफ्ट इंटरनेट सूचना सेवाएं 8.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करती है।
-
-
+name: Microsoft Internet Information Services 8.0
+summary: "Microsoft Internet Information Services 8.0  [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है।   \n\n\n"
 products:
 - windows
 policyType: component
@@ -22,4 +19,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/30/2012
-content: "> [!TIP]\n> इस रिलीज को एक घटक के रूप में जाना जाता है जो अपने मूल प्रमुख उत्पाद, विंडोज सर्वर 2012 और विंडोज 8 के समर्थन जीवनचक्र का अनुसरण करता है\n\n## <a name=\"links\"></a>लिंक \n* [विंडोज सर्वर 2012](/lifecycle/products/windows-server-2012)\n* [विंडोज 8](/lifecycle/products/windows-8)"
+content: "> [!TIP]\n> इस रिलीज़ को एक ऐसे घटक के रूप में जाना जाता है, जो अपने पैरेंट प्रमुख उत्पाद, Windows Server 2012  और Windows 8 के समर्थन जीवनचक्र का अनुसरण करता है\n\n## <a name=\"links\"></a>लिंक \n* [Windows Server 2012](/lifecycle/products/windows-server-2012)\n* [Windows 8](/lifecycle/products/windows-8)"

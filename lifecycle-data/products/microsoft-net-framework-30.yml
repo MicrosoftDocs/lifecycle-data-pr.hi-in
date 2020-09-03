@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.0
-  description: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft .NET फ़्रेमवर्क 3.0
+  description: Microsoft .NET फ़्रेमवर्क 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: a237dbb82803402d137fc784cf184e58b604015b
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821029"
-name: माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.0
+name: Microsoft .NET फ़्रेमवर्क 3.0
 summary: >+
-  माइक्रोसॉफ्ट .NET फ्रेमवर्क 3.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft .NET फ़्रेमवर्क 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - .NET फ्रेमवर्क](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 3.5 एसपी1 से पहले .NET फ्रेमवर्क 3.x संस्करणों के लिए समर्थन 12 जुलाई, 2011 को समाप्त हुआ।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-30)\n\n> [!NOTE]\n> 3.5 SP1 से पहले के .NET Framework 3.x संस्करणों के लिये 12 जुलाई 2011 को समर्थन समाप्त हो गया है।"

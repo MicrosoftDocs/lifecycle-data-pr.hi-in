@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सॉफ्टग्रिड एप्लीकेशन वर्चुअलाइजेशन
-  description: सॉफ्टग्रिड एप्लीकेशन वर्चुअलाइजेशन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
+  description: SoftGrid Application Virtualizationनिश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820414"
-name: सॉफ्टग्रिड एप्लीकेशन वर्चुअलाइजेशन
+name: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
 summary: >
-  सॉफ्टग्रिड एप्लीकेशन वर्चुअलाइजेशन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  SoftGrid Application Virtualization [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेस्कटॉप के लिए 4.1, डेस्कटॉप के लिए 4.2, टर्मिनल सेवाओं के लिए 4.1
+  यह निम्नलिखित संस्करणों पर लागू होता है: Desktops के लिए 4.1, Desktops के लिए 4.2, अंतक सेवाएँ 4.1 के लिए
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/25/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेस्कटॉप के लिए 4.1\n* डेस्कटॉप के लिए 4.2\n* टर्मिनल सेवाओं के लिए 4.1"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Desktops के लिए 4.1\n* Desktops के लिए 4.2\n* अंतक सेवाओं 4.1 के लिए"

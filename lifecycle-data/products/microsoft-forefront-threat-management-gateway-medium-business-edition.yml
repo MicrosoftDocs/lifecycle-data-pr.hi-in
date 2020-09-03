@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे, मध्यम व्यापार संस्करण
-  description: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे, मध्यम व्यापार संस्करण फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
+  description: Microsoft Forefront Threat Management Gateway, Medium Business Edition, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821040"
-name: माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे, मध्यम व्यापार संस्करण
+name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
-  माइक्रोसॉफ्ट सबसे आगे खतरा प्रबंधन गेटवे, मध्यम व्यापार संस्करण [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+  Microsoft Forefront Threat Management Gateway, Medium Business Edition, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: व्यवसाय
+  यह निम्नलिखित संस्करणों पर लागू होता है: Business
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/12/2008
   endDate: 11/12/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* व्यापार"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Business"

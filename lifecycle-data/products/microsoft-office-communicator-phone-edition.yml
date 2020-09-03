@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर फोन एडिशन
-  description: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर फोन एडिशन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  title: Microsoft Office Communicator फ़ोन संस्करण
+  description: Microsoft Office Communicator फ़ोन संस्करण, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 368d65cc1ace6dffa576cfa9add8d9e3286a6ea9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821386"
-name: माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर फोन एडिशन
+name: Microsoft Office Communicator फ़ोन संस्करण
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस कम्युनिकेटर फोन एडिशन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+  Microsoft Office Communicator फ़ोन संस्करण, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: फ़ोन
+  यह निम्नलिखित संस्करणों पर लागू होता है: फ़ोन
 
 products:
 - office
