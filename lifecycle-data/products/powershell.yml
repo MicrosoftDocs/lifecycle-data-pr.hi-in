@@ -2,13 +2,14 @@
 metadata:
   title: Powershell
   description: पावरशेल आधुनिक जीवनचक्र नीति का पालन करता है।
-  ms.date: 08/07/2020
-  ms.openlocfilehash: 0f8cb9112144a4c13bb9bf329fbe8535e3623834
-  ms.sourcegitcommit: d4150c5bd247ae5ba671483e50bb9414edb04248
+  ms.date: 09/02/2020
+  keywords: ''
+  ms.openlocfilehash: 5819d863d735920cdb08f70b8280348c152ca27c
+  ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/08/2020
-  ms.locfileid: "885967"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "945220"
 name: Powershell
 summary: >+
   पावरशेल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
@@ -19,9 +20,10 @@ products:
 policyType: modern-online
 supportDates:
   start: 01/19/2018
+  end: 12/03/2022
 releases:
 - version: PowerShell 7.x
-  startDate: 03/04/2020
+  startDate: 07/13/2020
   endDate: 12/03/2022
 - version: PowerShell Core 6.2
   startDate: 03/28/2019
