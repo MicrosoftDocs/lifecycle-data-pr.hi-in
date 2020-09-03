@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एचपीसी सर्वर 2008
-  description: विंडोज एचपीसी सर्वर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows HPC Server 2008
+  description: Windows HPC Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820907"
-name: विंडोज एचपीसी सर्वर 2008
+name: Windows HPC Server 2008
 summary: >
-  विंडोज एचपीसी सर्वर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows HPC Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: हाइपर-वी के बिना मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard, without Hyper-V
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>संस्करण \n* मानक\n* हाइपर-वी के बिना"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* Hyper-V के बिना"

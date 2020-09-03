@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 3.0
-  description: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 3.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Connected Services फ़्रेमवर्क 3.0
+  description: Microsoft Connected Services फ़्रेमवर्क 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821062"
-name: माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 3.0
+name: Microsoft Connected Services फ़्रेमवर्क 3.0
 summary: >+
-  माइक्रोसॉफ्ट कनेक्टेड सर्विसेज फ्रेमवर्क 3.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Connected Services फ़्रेमवर्क 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: बिलिंग स्टैंडर्ड बिजनेस इवेंट, ऑर्डर हैंडलिंग स्टैंडर्ड बिजनेस इवेंट, सर्वर, स्टैंडर्ड, स्टैंडर्ड सर्वर विद स्टैंडर्ड बिजनेस इवेंट्स
+  यह निम्नलिखित संस्करणों पर लागू होता है: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
 
 products:
 - connected-services-framework
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* बिलिंग स्टैंडर्ड बिजनेस इवेंट\n* मानक व्यवसाय इवेंट को संभालने का आदेश\n* सर्वर\n* मानक\n* मानक व्यापार घटनाओं के साथ मानक सर्वर"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Billing Standard Business Event\n* ऑर्डर हैंडलिंग स्टैंडर्ड व्यावसायिक इवेंट\n* सर्वर\n* Standard\n* स्टैंडर्ड व्यावसायिक इवेंट्स के साथ स्टैंडर्ड सर्वर"

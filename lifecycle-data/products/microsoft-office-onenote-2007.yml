@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस वननोट 2007
-  description: माइक्रोसॉफ्ट ऑफिस वननोट 2007 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office OneNote 2007
+  description: Microsoft Office OneNote 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 03a5a164fe8f140024319d95f3a897660ba7c115
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821380"
-name: माइक्रोसॉफ्ट ऑफिस वननोट 2007
+name: Microsoft Office OneNote 2007
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस वननोट 2007 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Office OneNote 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: होम एंड स्टूडेंट, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Home and Student, Standard
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* घर और छात्र\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Student\n* Standard"

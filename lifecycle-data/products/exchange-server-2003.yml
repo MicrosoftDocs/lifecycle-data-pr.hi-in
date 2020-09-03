@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: एक्सचेंज सर्वर 2003
-  description: एक्सचेंज सर्वर 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Exchange Server 2003
+  description: Exchange Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820485"
-name: एक्सचेंज सर्वर 2003
+name: Exchange Server 2003
 summary: >+
-  एक्सचेंज सर्वर 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Exchange Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2003
   endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

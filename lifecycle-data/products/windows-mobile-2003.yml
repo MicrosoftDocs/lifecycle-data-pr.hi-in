@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज मोबाइल 2003
-  description: विंडोज मोबाइल 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Mobile 2003
+  description: Windows Mobile 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b96e4abc858aaa87a5031200887e906b781878f7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820903"
-name: विंडोज मोबाइल 2003
+name: Windows Mobile 2003
 summary: >
-  विंडोज मोबाइल 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Mobile 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: पॉकेट पीसी के लिए, स्मार्टफोन के लिए, पॉकेट पीसी फोन के लिए दूसरा संस्करण सॉफ्टवेयर, स्मार्टफोन के लिए दूसरा संस्करण सॉफ्टवेयर
+  यह निम्नलिखित संस्करणों पर लागू होता है: पॉकेट PC के लिए, स्मार्टफ़ोन के लिए, पॉकेट PC फ़ोन के लिए दूसरा संस्करण सॉफ़्टवेयर, स्मार्टफ़ोन के लिए दूसरा संस्करण सॉफ़्टवेयर
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2004
   endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पॉकेट पीसी के लिए\n* स्मार्टफोन के लिए\n* पॉकेट पीसी फोन के लिए दूसरा संस्करण सॉफ्टवेयर\n* स्मार्टफोन के लिए दूसरा संस्करण सॉफ्टवेयर"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पॉकेट PC के लिए\n* स्मार्टफ़ोन के लिए\n* पॉकेट PC फ़ोन के लिए दूसरा संस्करण सॉफ़्टवेयर\n* स्मार्टफ़ोन के लिए दूसरा संस्करण सॉफ़्टवेयर"
