@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज आवश्यक बिजनेस सर्वर 2008
-  description: विंडोज आवश्यक बिजनेस सर्वर 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Essential Business Server 2008
+  description: Windows Essential Business Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879007"
-name: विंडोज आवश्यक बिजनेस सर्वर 2008
+name: Windows Essential Business Server 2008
 summary: >
-  विंडोज आवश्यक बिजनेस सर्वर 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Essential Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है। कृपया समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें।
+  > इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.
 products:
 - windows
 policyType: fixed

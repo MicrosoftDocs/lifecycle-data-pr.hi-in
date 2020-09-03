@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट विजुअल स्टूडियो .NET 2003
-  description: माइक्रोसॉफ्ट विजुअल स्टूडियो .NET 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3480529da4e74d11dd7fda7e1b052e5adc7e82f1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  title: Microsoft Visual Studio .NET 2003
+  description: Microsoft Visual Studio .NET 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/21/2020
+  ms.openlocfilehash: bd77a04d5e2119962483b8cdc8edb48ab1befd4f
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820427"
-name: माइक्रोसॉफ्ट विजुअल स्टूडियो .NET 2003
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907986"
+name: Microsoft Visual Studio .NET 2003
 summary: >+
-  माइक्रोसॉफ्ट विजुअल स्टूडियो .NET 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Visual Studio .NET 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़ आर्किटेक्ट, एंटरप्राइज डेवलपर, प्रोफेशनल
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise Architect, Enterprise Developer, J#, Professional
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/09/2007
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज आर्किटेक्ट\n* एंटरप्राइज डेवलपर\n* पेशेवर"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise Architect\n* Enterprise Developer\n* J#\n* Professional"

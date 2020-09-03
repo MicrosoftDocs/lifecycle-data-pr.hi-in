@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
-  description: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एडाप्टर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
+  description: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
   ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893500"
-name: होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
+name: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
 summary: >+
-  होस्ट सिस्टम 2.0 के लिए माइक्रोसॉफ्ट बिजटॉक एडाप्टर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  होस्ट सिस्टम2.0 के लिए Microsoft BizTalk एडेप्टर्स [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Developer, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* Standard"

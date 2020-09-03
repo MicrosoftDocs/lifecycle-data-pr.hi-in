@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: बिजटॉल सर्वर 2010
-  description: बिजटॉल सर्वर 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: BizTalk Server 2010
+  description: BizTalk Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "903692"
-name: बिजटॉल सर्वर 2010
+name: BizTalk Server 2010
 summary: >+
-  बिजटॉल सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  BizTalk Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, एंटरप्राइज आरएफआईडी, मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Branch, Developer, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [संस्करण की जानकारी](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* एंटरप्राइज़\n* एंटरप्राइज आरएफआईडी\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [संस्करण की जानकारी](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Enterprise RFID\n* Standard"

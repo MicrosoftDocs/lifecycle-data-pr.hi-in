@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2006
-  description: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2006 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Internet Security and Acceleration Server 2006
+  description: Microsoft Internet Security and Acceleration Server 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/30/2020
   ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "878859"
-name: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2006
-summary: "माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2006 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+name: Microsoft Internet Security and Acceleration Server 2006
+summary: "Microsoft Internet Security and Acceleration Server 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/17/2006
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

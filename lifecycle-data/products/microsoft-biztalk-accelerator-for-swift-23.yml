@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
-  description: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलेटर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: " SWIFT 2.3 के लिए Microsoft BizTalk Accelerator"
+  description: SWIFT 2.3 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
   ms.openlocfilehash: 255f9cf85c3d65c0f2a538c76f9db4eb2489d6b0
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893537"
-name: स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर
+name: " SWIFT 2.3 के लिए Microsoft BizTalk Accelerator"
 summary: >+
-  स्विफ्ट 2.3 के लिए माइक्रोसॉफ्ट बिजटॉक एक्सीलेटर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  SWIFT 2.3 के लिए Microsoft BizTalk Accelerator for  [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज़, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/21/2006
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* मानक"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

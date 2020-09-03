@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज 8.1
-  description: विंडोज 8.1 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows 8.1
+  description: Windows 8.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/21/2020
   ms.openlocfilehash: 42fc7e148a73c5583047b7bed3862484dea56340
   ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "906658"
-name: विंडोज 8.1
+name: Windows 8.1
 summary: >+
-  विंडोज 8.1 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows 8.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज, एंटरप्राइज एन, एन, मीडिया सेंटर के साथ प्रो, पेशेवर, पेशेवर एन, एसएल
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, N, Media Center के साथ Pro, Professional, Professional N, SL
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2013
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - विंडोज उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज़\n* एंटरप्राइज एन\n* एन\n* मीडिया सेंटर के साथ प्रो\n* पेशेवर\n* प्रोफेशनल एन\n* Sl"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Enterprise N\n* N\n* Media Center के साथ Pro\n* Professional\n* Professional N\n* SL"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.7.1
-  description: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.7.1 घटक जीवन चक्र नीति का पालन करता है।
+  title: Microsoft .NET Framework 4.7.1
+  description: Microsoft .NET फ़्रेमवर्क 4.7.1 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: e57e809b4800ee789f7ae748bf0dd67d28966f91
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869891"
-name: माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.7.1
+name: Microsoft .NET Framework 4.7.1
 summary: >+
-  माइक्रोसॉफ्ट .NET फ्रेमवर्क 4.7.1 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+  Microsoft .NET फ़्रेमवर्क 4.7.1 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [.NET फ्रेमवर्क लाइफसाइकिल एफएक्यू](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET फ्रेमवर्क विंडोज ओएस का एक घटक है। घटकों को उनके मूल उत्पाद या मंच के समान समर्थन प्राप्त होता है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-471)\n* [.NET Framework Lifecycle FAQ](/lifecycle/faq/dotnet-framework)\n\n> [!NOTE]\n> .NET फ़्रेमवर्क Windows OS का एक घटक है. घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"
