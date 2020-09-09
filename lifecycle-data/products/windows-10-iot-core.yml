@@ -2,13 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/08/2020
+  keywords: ''
+  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
+  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855500"
+  ms.lasthandoff: 09/08/2020
+  ms.locfileid: "983712"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -23,7 +24,7 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 08/02/2016
-  end: 10/14/2025
+  end: 11/10/2020
 releases:
 - version: Version 1809
   startDate: 11/13/2018
