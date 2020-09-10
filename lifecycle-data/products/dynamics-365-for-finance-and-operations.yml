@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics 365 for Finance and Operations
   description: Dynamics 365 for Finance and Operations, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 04432837adaeae9ae5ec6f7cfad703875e45b772
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: Enterprise
+  ms.openlocfilehash: d4aa86f20aea4c570c467a0af08be2b70ac92aae
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855480"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "998838"
 name: Dynamics 365 for Finance and Operations
 summary: >+
   Dynamics 365 for Finance and Operations, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

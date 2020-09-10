@@ -2,13 +2,14 @@
 metadata:
   title: BizTalk Server 2010
   description: BizTalk Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/19/2020
-  ms.openlocfilehash: cf79175dea88682f0ace56ab69a2dc9e933ccc58
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.date: 09/10/2020
+  keywords: Branch,Developer,Enterprise,Enterprise RFID,Standard
+  ms.openlocfilehash: c6c8d2e6e42be0f37713732e22ad10e54ba7dbf9
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "903692"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999171"
 name: BizTalk Server 2010
 summary: >+
   BizTalk Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

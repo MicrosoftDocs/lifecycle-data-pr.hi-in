@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Accelerator for SWIFT 2.1
   description: Microsoft BizTalk Accelerator for SWIFT 2.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 873f0dd00819c1df249d891f180e311b31e63a83
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4690a58d3edb34b38381bf2afc596f0086952daf
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821106"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000091"
 name: Microsoft BizTalk Accelerator for SWIFT 2.1
 summary: >+
   Microsoft BizTalk Accelerator for SWIFT 2.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

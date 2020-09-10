@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Connected Services फ़्रेमवर्क 3.0
   description: Microsoft Connected Services फ़्रेमवर्क 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
+  ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821062"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999985"
 name: Microsoft Connected Services फ़्रेमवर्क 3.0
 summary: >+
   Microsoft Connected Services फ़्रेमवर्क 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -2,13 +2,14 @@
 metadata:
   title: Exchange Server 2003
   description: Exchange Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 63e0206ae02adc44408ceb0c0c73bd25217d1695
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820485"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000022"
 name: Exchange Server 2003
 summary: >+
   Exchange Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

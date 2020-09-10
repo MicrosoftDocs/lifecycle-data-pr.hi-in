@@ -2,13 +2,14 @@
 metadata:
   title: Visual Studio टीम फाउंडेशन सर्वर 2010
   description: 'Visual Studio Team Foundation Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
-  ms.date: 08/21/2020
-  ms.openlocfilehash: c0d6be70c5ce001b56c69d5b0ca374b014ecf598
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/10/2020
+  keywords: All applicable,External Connector
+  ms.openlocfilehash: 4830d0684302b10940725131790657bce7758844
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906799"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000059"
 name: Visual Studio टीम फाउंडेशन सर्वर 2010
 summary: "Visual Studio Team Foundation Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, बाह्य कनेक्टर\n\n"
 products:
