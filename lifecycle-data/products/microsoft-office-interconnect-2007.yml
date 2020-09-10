@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office InterConnect 2007
   description: Microsoft Office InterConnect 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2930b1c5bd1db016e2228772f4a4b81678ce6f68
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Standard
+  ms.openlocfilehash: 61bb24992b9371e35220ce9e60a3a91afe732e40
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820681"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001576"
 name: Microsoft Office InterConnect 2007
 summary: >+
   Microsoft Office इंटरकनेक्ट 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

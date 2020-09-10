@@ -2,13 +2,14 @@
 metadata:
   title: Windows HPC Server 2008
   description: Windows HPC Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: e208be03e69f56dc9f77409668c4f4f538a57997
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Standard,without Hyper-V
+  ms.openlocfilehash: ed96715e1adfcebc1837d68340bd186533fb30e9
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820907"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002131"
 name: Windows HPC Server 2008
 summary: >
   Windows HPC Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

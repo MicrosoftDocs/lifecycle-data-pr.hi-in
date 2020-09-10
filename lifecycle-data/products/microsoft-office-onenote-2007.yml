@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office OneNote 2007
   description: Microsoft Office OneNote 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 03a5a164fe8f140024319d95f3a897660ba7c115
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Home and Student,Standard
+  ms.openlocfilehash: 684716d192053e5fb34863f78c8d8eb5a96882c6
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821380"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001502"
 name: Microsoft Office OneNote 2007
 summary: >+
   Microsoft Office OneNote 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

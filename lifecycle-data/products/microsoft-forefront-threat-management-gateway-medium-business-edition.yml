@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Forefront Threat Management Gateway, Medium Business Edition
   description: Microsoft Forefront Threat Management Gateway, Medium Business Edition, निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3c131da862f2972fbb5afe704f499ea4e649df78
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Business
+  ms.openlocfilehash: 617a31241001b12abf13c658e47dbc6f0b1974a2
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821040"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001909"
 name: Microsoft Forefront Threat Management Gateway, Medium Business Edition
 summary: >+
   Microsoft Forefront Threat Management Gateway, Medium Business Edition, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

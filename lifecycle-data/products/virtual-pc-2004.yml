@@ -2,13 +2,14 @@
 metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: e4a1b7e6f5b072185d8b2f406398cb077ce983a6
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Express,Standard
+  ms.openlocfilehash: 858fa64b63de7edadffbc6d4514d1a9f7ea6e42a
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893278"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000856"
 name: Virtual PC 2004
 summary: >
   Virtual PC 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

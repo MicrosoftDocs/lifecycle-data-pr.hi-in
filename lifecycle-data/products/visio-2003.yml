@@ -2,13 +2,14 @@
 metadata:
   title: Visio 2003
   description: Visio 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ea6181dd79935ed4bf34f535bdeb83fedb175592
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 8164324791e6943560979866732afb4fc95e04fc
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820409"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000799"
 name: Visio 2003
 summary: >+
   Visio 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

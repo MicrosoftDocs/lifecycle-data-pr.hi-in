@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communications Server 2007 R2
   description: Microsoft Office Communications Server 2007 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/07/2020
-  ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
-  ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
+  ms.date: 09/10/2020
+  keywords: All applicable,Enterprise,XMPP Gateway
+  ms.openlocfilehash: f2ffe44d722e5b27e1ad852b480a531b49c729c0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/07/2020
-  ms.locfileid: "885831"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001777"
 name: Microsoft Office Communications Server 2007 R2
 summary: "Microsoft Office Communications Server 2007 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, एंटरप्राइज़, XMPP गेटवे\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. \n"
 products:

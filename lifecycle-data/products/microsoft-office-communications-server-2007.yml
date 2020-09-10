@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office Communications Server 2007
   description: Microsoft Office Communications Server 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 80fa4146ce4ae0ec8055a0915fa75ef64551f9f7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4a79418eb1db90b54f844b6399b2a95bd3ccaf57
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821396"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001776"
 name: Microsoft Office Communications Server 2007
 summary: >+
   Microsoft Office Communications Server 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
