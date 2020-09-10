@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded 8
   description: Windows Embedded 8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: f4d8f0d9d9388cb8b8187fbe923022a2b537ba3b
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Pro,Standard
+  ms.openlocfilehash: 5da737e56a51de593764c142ccdb9a23878e9cac
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820925"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002057"
 name: Windows Embedded 8
 summary: >+
   Windows Embedded 8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

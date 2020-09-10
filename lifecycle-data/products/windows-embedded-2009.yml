@@ -2,13 +2,14 @@
 metadata:
   title: Windows Embedded 2009
   description: Windows Embedded 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1b701f08089fe9a7208f51de8f7a6d55f839528c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Standard
+  ms.openlocfilehash: 0513892d9abd37c001ef4b8019aaac4be0d4463f
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820923"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002205"
 name: Windows Embedded 2009
 summary: >
   Windows Embedded 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

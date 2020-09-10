@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Search Server 2010
   description: Microsoft Search Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 736253699cf6033278b0f49fbf90bd2289a1b9a6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: All applicable,Express
+  ms.openlocfilehash: 7d444be6f013c670a57cde5778542b4edb2dc11b
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821007"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001391"
 name: Microsoft Search Server 2010
 summary: >+
   Microsoft Search Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

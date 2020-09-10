@@ -2,13 +2,14 @@
 metadata:
   title: Visio 2007
   description: Visio 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a8a9b82837dc1542ef98770a51dc64f37a888318
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 22953eadf5b9f7c8ab1b981d18aebcd4bcecff86
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820567"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000847"
 name: Visio 2007
 summary: >+
   Visio 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Antigen
   description: Microsoft Antigen निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 74b4c26a7bc5ff2ca5747a7dc50d91825ee5cd2c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 9.0 for Exchange,Enterprise Manager 9.0,for SMTP Gateways,Spam Manager
+  ms.openlocfilehash: ab3c9aa07c1afe64cd5a98d0d6a885617221afc0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821122"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001983"
 name: Microsoft Antigen
 summary: >+
   Microsoft Antigen [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/17/2006
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है. यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Exchange के लिए 9.0\n* Enterprise Manager 9.0\n* SMTP गेटवे के लिए\n* स्पैम मैनेजर\n\n"
+content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है. यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Exchange के लिए 9.0\n* Enterprise Manager 9.0\n* SMTP गेटवे के लिए\n* स्पैम मैनेजर\n"

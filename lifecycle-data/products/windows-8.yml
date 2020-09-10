@@ -2,13 +2,14 @@
 metadata:
   title: Windows 8
   description: Windows 8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/21/2020
-  ms.openlocfilehash: 125ef61a36e4958dd5b87525ae6f5c53181c6e28
-  ms.sourcegitcommit: 72c1339c867caa2110c5c1501a6659bcee72415d
+  ms.date: 09/10/2020
+  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
+  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "906695"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002316"
 name: Windows 8
 summary: >
   Windows 8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

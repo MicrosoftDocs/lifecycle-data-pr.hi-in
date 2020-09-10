@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 '
   description: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: c6fc257da84e3276165d0ab97a736120c1424172
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: for Windows Desktops
+  ms.openlocfilehash: 9296a136a0bc0da5a6d6b6b8b49d012170158da0
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855536"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000577"
 name: 'Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 '
 summary: >+
   Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -2,13 +2,14 @@
 metadata:
   title: 'Windows Embedded 8 Industry '
   description: Windows Embedded 8 Industry, निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: Enterprise,Pro
+  ms.openlocfilehash: d14babf394a315b631da1b0d71baa96088efa14d
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855236"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002157"
 name: 'Windows Embedded 8 Industry '
 summary: >
   Windows Embedded 8 Industry, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

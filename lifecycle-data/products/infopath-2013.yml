@@ -2,13 +2,14 @@
 metadata:
   title: Infopath 2013
   description: Infopath 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 69bc8811a52c75cb58357ad4e0213f28a1001cae
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: Standard
+  ms.openlocfilehash: 7cd0b91eef230b0f5820c953c57369a58940d719
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855435"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002020"
 name: Infopath 2013
 summary: >+
   Infopath 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

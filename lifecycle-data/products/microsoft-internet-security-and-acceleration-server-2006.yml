@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Internet Security and Acceleration Server 2006
   description: Microsoft Internet Security and Acceleration Server 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: 6e2ed1ecf6b002767d3aaf13d12cc14da3042fac
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 09/10/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 75511749f62f184e0c55f573060d6906f09d4c4f
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "878859"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001835"
 name: Microsoft Internet Security and Acceleration Server 2006
 summary: "Microsoft Internet Security and Acceleration Server 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:

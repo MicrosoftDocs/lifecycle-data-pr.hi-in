@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Application Virtualization 5.1
   description: 'Microsoft Application Virtualization 5.1 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 3f0cac2ee013dd73e44fe41d9ba1d07cfcfce2f1
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/10/2020
+  keywords: for Remote Desktop Services,for Windows Desktops
+  ms.openlocfilehash: b6ca3da5136031bbb6e140f3fa5124ef7b2e4ed6
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855354"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001946"
 name: Microsoft Application Virtualization 5.1
 summary: "Microsoft Application Virtualization 5.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\nयह निम्नलिखित संस्करणों पर लागू होता है: दूरस्थ डेस्कटॉप सेवाओं के लिए, Windows डेस्कटॉप के लिए\n\n"
 products:

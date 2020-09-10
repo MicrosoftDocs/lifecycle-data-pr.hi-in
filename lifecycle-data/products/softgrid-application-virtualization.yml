@@ -2,13 +2,14 @@
 metadata:
   title: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
   description: SoftGrid Application Virtualizationनिश्चित जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 17b8078138b718a634c2561ac4b1e73f3966ce24
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/10/2020
+  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
+  ms.openlocfilehash: 5009a44f0d0ab2b180f62474de8f4d4bb01e3e62
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820414"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1001021"
 name: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
 summary: >
   SoftGrid Application Virtualization [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
