@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Commerce Server 2007
   description: Microsoft Commerce Server 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Developer,Enterprise,Standard
+  ms.openlocfilehash: af39b48f1bcdeb6db20aced8088eeba1bec08140
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893463"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000170"
 name: Microsoft Commerce Server 2007
 summary: >
   Microsoft Commerce Server 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

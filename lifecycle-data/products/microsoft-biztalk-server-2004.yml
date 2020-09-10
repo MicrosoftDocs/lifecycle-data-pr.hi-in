@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft BizTalk Server 2004
   description: Microsoft BizTalk Server 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 3601a186f2016a32ea40ef7bf59e484940d7d4b0
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Developer,Enterprise,Partner,Standard
+  ms.openlocfilehash: ac8cc735c5aeaf762b312fab2b7cb30d0fb39178
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893574"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000127"
 name: Microsoft BizTalk Server 2004
 summary: >+
   Microsoft BizTalk Server 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

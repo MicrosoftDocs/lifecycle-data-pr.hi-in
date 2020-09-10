@@ -2,13 +2,14 @@
 metadata:
   title: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
   description: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 425db6cb5918efdf9afc544d8a0e8bb554ce695c
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.date: 09/10/2020
+  keywords: Developer,Standard
+  ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893500"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1000207"
 name: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
 summary: >+
   होस्ट सिस्टम2.0 के लिए Microsoft BizTalk एडेप्टर्स [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
