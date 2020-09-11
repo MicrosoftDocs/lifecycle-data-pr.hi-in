@@ -4,12 +4,12 @@ metadata:
   description: Microsoft SharePoint सर्वर 2010 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Access Services,All applicable,Excel Services,Performance Point Services
-  ms.openlocfilehash: 0960eb0d25273c7cdca16fa4019b4b2e7b044900
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 02a1a5085dbd39b7379b0e71f69300095cfa54da
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929827"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941561"
 name: Microsoft SharePoint Server 2010
 summary: >+
   Microsoft SharePoint सर्वर 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विस्तार](https://aka.ms/SharePoint/server/2010/supportextension)\n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> इस उत्पाद की समर्थन तिथि 13 अक्टूबर, 2020 से बढ़ाकर 13 अप्रैल, 2021 कर दी गई है।\n\n## <a name=\"editions\"></a>संस्करण \n* Access सेवाएं\n* सभी लागू\n* Excel सेवाएं\n* कार्य-निष्पादन पॉइन्ट सेवाएं"
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विस्तार](https://aka.ms/SharePoint/server/2010/supportextension)\n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [Microsoft SharePoint सर्वर 2010 डेवलपर दस्तावेज़](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [Microsoft SharePoint Server 2010 उत्पाद दस्तावेज़](/previous-versions/office/sharepoint-server-2010/cc303422(v=office.14))\n\n> [!NOTE]\n> इस उत्पाद की समर्थन तिथि 13 अक्टूबर, 2020 से बढ़ाकर 13 अप्रैल, 2021 कर दी गई है।\n\n## <a name=\"editions\"></a>संस्करण \n* Access सेवाएं\n* सभी लागू\n* Excel सेवाएं\n* कार्य-निष्पादन पॉइन्ट सेवाएं"

@@ -2,13 +2,13 @@
 metadata:
   title: Windows Essential Business Server 2008
   description: Windows Essential Business Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/30/2020
-  ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
-  ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
+  ms.date: 08/25/2020
+  ms.openlocfilehash: c420b827d71737218eec07df7bd483c4622dff27
+  ms.sourcegitcommit: 048e18070bb1f9d1ece6d9c7be3e27f4685123ef
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "879007"
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911592"
 name: Windows Essential Business Server 2008
 summary: >
   Windows Essential Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -23,6 +23,8 @@ products:
 policyType: fixed
 supportDates:
   start: 12/12/2008
+  end: 01/13/2015
+  extendedEnd: 02/13/2020
 releases:
 - version: Original Release
   startDate: 12/12/2008
