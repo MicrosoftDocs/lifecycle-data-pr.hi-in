@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Office SharePoint Portal Server 2003
   description: Microsoft Office SharePoint Portal Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ddcdf5740b01da6e536d1d65bcde6a80f702e8e6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 1599486e9db7839270eb4b01d0fb951008b96010
+  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821014"
+  ms.lasthandoff: 09/02/2020
+  ms.locfileid: "941783"
 name: Microsoft Office SharePoint Portal Server 2003
 summary: >+
   Microsoft Office SharePoint Portal Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Microsoft Office SharePoint Portal Server 2003 डेवलपर दस्तावेज़](/previous-versions/office/developer/sharepoint2003/bb931735(v=office.12))\n* [Microsoft Office SharePoint Portal Server 2003 उत्पाद दस्तावेज़](/previous-versions/tn-archive/cc749901(v=technet.10))"
