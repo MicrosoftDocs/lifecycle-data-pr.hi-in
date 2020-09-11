@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Alacris पहचान सत्यापन सर्वर/
+  description: Alacris पहचान सत्यापन सर्वर/ग्राहक फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002683"
+name: Alacris पहचान सत्यापन सर्वर/
+summary: >
+  Alacris पहचान सत्यापन सर्वर/ग्राहक [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+
+
+
+  > [!IMPORTANT]
+
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - सामान्य](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"

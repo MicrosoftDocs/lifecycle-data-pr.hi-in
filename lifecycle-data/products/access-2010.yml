@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Access 2010
+  description: एक्सेस 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: 9180c938289e98e23e037c3d5dce40ccde8f3f22
+  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "1002687"
+name: Access 2010
+summary: >+
+  एक्सेस 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 07/15/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Original Release
+  startDate: 07/15/2010
+  endDate: 10/13/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/plan-upgrade-previous-versions-office)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
