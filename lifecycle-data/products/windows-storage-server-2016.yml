@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज स्टोरेज सर्वर 2016
-  description: विंडोज स्टोरेज सर्वर 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Storage Server 2016
+  description: Windows Storage Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
   ms.openlocfilehash: 3c0a7d1d5f6f5a73282c35ad96c1b0a036f938d1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938966"
-name: विंडोज स्टोरेज सर्वर 2016
+name: Windows Storage Server 2016
 summary: >+
-  विंडोज स्टोरेज सर्वर 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Storage Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: स्टैंडर्ड, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard, Workgroup
 
 products:
 - windows

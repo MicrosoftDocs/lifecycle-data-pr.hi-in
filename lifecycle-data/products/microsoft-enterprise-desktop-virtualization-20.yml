@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0
-  description: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Enterprise Desktop Virtualization 2.0
+  description: Microsoft Enterprise Desktop Virtualization 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise
   ms.openlocfilehash: c389a7a61ffd7a171c58b70f1050657e82d736be
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933897"
-name: माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0
+name: Microsoft Enterprise Desktop Virtualization 2.0
 summary: >+
-  माइक्रोसॉफ्ट एंटरप्राइज डेस्कटॉप वर्चुअलाइजेशन 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Enterprise Desktop Virtualization 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: HIPAA 3.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक
-  description: HIPAA 3.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: HIPAA 3.0 के लिए Microsoft BizTalk Accelerator
+  description: HIPAA 3.0 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 402414833e6f07af15c0b2d94d5cf40a9ebd80a1
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935266"
-name: HIPAA 3.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक
+name: HIPAA 3.0 के लिए Microsoft BizTalk Accelerator
 summary: >+
-  HIPAA 3.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  HIPAA 3.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard

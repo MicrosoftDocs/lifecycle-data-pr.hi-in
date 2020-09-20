@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: एसक्यूएल सर्वर 2019
-  description: एसक्यूएल सर्वर 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: SQL Server 2019
+  description: SQL Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
   ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937967"
-name: एसक्यूएल सर्वर 2019
+name: SQL Server 2019
 summary: >+
-  एसक्यूएल सर्वर 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  SQL Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: लिनक्स (सभी संस्करणों) पर, विंडोज पर (सभी संस्करण)
+  यह निम्नलिखित संस्करणों पर लागू होता है: Linux पर (सभी संस्करण), Windows पर (सभी संस्करण)
 
 products:
 - sql-server
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2019
   endDate: 01/08/2030
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* लिनक्स पर (सभी संस्करण)\n* विंडोज पर (सभी संस्करण)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Linux पर  (सभी संस्करण)\n* Windows पर (सभी संस्करण)"

@@ -1,22 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'HL7 1.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक '
-  description: एचएल7 1.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: 'HL7 1.0 के लिए Microsoft BizTalk Accelerator '
+  description: HL7 1.0 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति  का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 727fa4605cef159b99154e6a57d40c81eab3d619
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935155"
-name: 'HL7 1.0 के लिए माइक्रोसॉफ्ट BizTalk त्वरक '
-summary: >+
-  एचएल7 1.0 के लिए माइक्रोसॉफ्ट बिज़टॉक एक्सीलेटर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
-
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
-
+name: 'HL7 1.0 के लिए Microsoft BizTalk Accelerator '
+summary: "HL7 1.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है. \n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n"
 products:
 - microsoft-servers
 policyType: fixed
