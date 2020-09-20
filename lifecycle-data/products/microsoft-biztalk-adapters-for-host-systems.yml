@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: होस्ट सिस्टम के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
-  description: होस्ट सिस्टम के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: होस्ट सिस्टम्स के लिए Microsoft BizTalk एडेप्टर्स
+  description: होस्ट सिस्टम के लिए Microsoft BizTalk एडेप्टर्स निश्चित जीवनचक्र नीति का अनुसरण कर हैं.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8511f6bc704fc691f71e2057ce4a72da3228f163
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821096"
-name: होस्ट सिस्टम के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर
+name: होस्ट सिस्टम्स के लिए Microsoft BizTalk एडेप्टर्स
 summary: >+
-  होस्ट सिस्टम के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  होस्ट सिस्टम के लिए Microsoft BizTalk एडेप्टर्स [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करते हैं.
 
 
 products:

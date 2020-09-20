@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स एनएवी 4.0
-  description: डायनेमिक्स एनएवी 4.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics NAV 4.0
+  description: Dynamics NAV 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821169"
-name: डायनेमिक्स एनएवी 4.0
-summary: "डायनेमिक्स एनएवी 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है । \n"
+name: Dynamics NAV 4.0
+summary: "Dynamics NAV 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. \n"
 products:
 - dynamics
 policyType: fixed-mainstream-only

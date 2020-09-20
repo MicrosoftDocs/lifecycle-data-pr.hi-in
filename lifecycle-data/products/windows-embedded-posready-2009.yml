@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एम्बेडेड पीओएसरेडी 2009
-  description: विंडोज एम्बेडेड पीओएसरेडी 2009 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Embedded POSReady 2009
+  description: Windows Embedded POSReady 2009 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e56e5a9ca8be7a3144f2107f487ce342b8f3ffe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820915"
-name: विंडोज एम्बेडेड पीओएसरेडी 2009
+name: Windows Embedded POSReady 2009
 summary: >
-  विंडोज एम्बेडेड पीओएसरेडी 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Embedded POSReady 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 03/10/2009
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज एम्बेडेड 2009 के लिए समर्थन का अंत](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [IoT के लिए विंडोज](https://www.microsoft.com/windowsforbusiness/windows-iot)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Embedded 2009 के लिए समर्थन की समाप्ति](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows for IoT](https://www.microsoft.com/windowsforbusiness/windows-iot)"

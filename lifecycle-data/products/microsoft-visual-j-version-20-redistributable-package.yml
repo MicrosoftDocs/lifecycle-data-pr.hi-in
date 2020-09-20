@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'माइक्रोसॉफ्ट विजुअल जे # संस्करण 2.0 पुनर्वितरण पैकेज'
-  description: 'माइक्रोसॉफ्ट विजुअल जे # संस्करण 2.0 पुनर्वितरण पैकेज फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।'
+  title: Microsoft Visual J# Version 2.0 पुनः वितरण योग्य पैकेज
+  description: Microsoft Visual J# संस्करण 2.0 पुनः वितरण योग्य पैकेज निश्चित जीवनचक्र नीति  का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820580"
-name: 'माइक्रोसॉफ्ट विजुअल जे # संस्करण 2.0 पुनर्वितरण पैकेज'
+name: Microsoft Visual J# Version 2.0 पुनः वितरण योग्य पैकेज
 summary: >+
-  माइक्रोसॉफ्ट विजुअल जे # संस्करण 2.0 पुनर्वितरण पैकेज [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Visual J# संस्करण 2.0 पुनः वितरण योग्य पैकेज [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 04/22/2006
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [विजुअल जे # समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। माइग्रेशन मार्गदर्शन के लिए नीचे देखें।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें."

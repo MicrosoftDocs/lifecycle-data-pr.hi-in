@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: शेयरपॉइंट के लिए सबसे आगे सुरक्षा
-  description: शेयरपॉइंट के लिए सबसे आगे सुरक्षा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: Sharepoint के लिए Forefront Security
+  description: Sharepoint के लिए Forefront Security निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821150"
-name: शेयरपॉइंट के लिए सबसे आगे सुरक्षा
+name: Sharepoint के लिए Forefront Security
 summary: >
-  शेयरपॉइंट के लिए सबसे आगे सुरक्षा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  Sharepoint के लिए Forefront Security [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: fixed
