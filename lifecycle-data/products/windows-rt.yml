@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज आरटी
-  description: विंडोज आरटी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows RT
+  description: Windows RT नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: 8.0999999999999996
   ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939706"
-name: विंडोज आरटी
+name: Windows RT
 summary: >+
-  विंडोज आरटी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows RT [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: 8.1
@@ -31,4 +31,4 @@ releases:
 - version: Windows RT
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज एफएक्यू](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* 8.1"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows FAQ](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* 8.1"

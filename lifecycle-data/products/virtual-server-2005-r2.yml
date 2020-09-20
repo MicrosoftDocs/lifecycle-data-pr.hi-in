@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: वर्चुअल सर्वर 2005 R2
-  description: वर्चुअल सर्वर 2005 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Virtual Server 2005 R2
+  description: Virtual Server 2005 R2 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937930"
-name: वर्चुअल सर्वर 2005 R2
-summary: "वर्चुअल सर्वर 2005 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+name: Virtual Server 2005 R2
+summary: "Virtual Server 2005 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - windows
 policyType: fixed

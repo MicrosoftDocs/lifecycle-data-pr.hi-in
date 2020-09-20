@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एम्बेडेड डिवाइस मैनेजर 2011
-  description: विंडोज एम्बेडेड डिवाइस मैनेजर 2011 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Embedded Device Manager 2011
+  description: Windows Embedded Device Manager 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939928"
-name: विंडोज एम्बेडेड डिवाइस मैनेजर 2011
+name: Windows Embedded Device Manager 2011
 summary: >
-  विंडोज एम्बेडेड डिवाइस मैनेजर 2011 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Embedded Device Manager 2011 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: क्लाइंट, एसडीके, सर्वर
+  यह निम्नलिखित संस्करणों पर लागू है: Client, SDK, Server
 
 
   > [!IMPORTANT]
