@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: गतिशीलता 365 बिजनेस सेंट्रल
-  description: डायनेमिक्स 365 बिजनेस सेंट्रल आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Dynamics 365 Business Central
+  description: Dynamics 365 Business Central आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855483"
-name: गतिशीलता 365 बिजनेस सेंट्रल
+name: Dynamics 365 Business Central
 summary: >+
-  डायनेमिक्स 365 बिजनेस सेंट्रल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Dynamics 365 Business Central [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट डायनेमिक्स 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics365/business-central/dev-itpro/faq)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics365/business-central/dev-itpro/faq)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)"

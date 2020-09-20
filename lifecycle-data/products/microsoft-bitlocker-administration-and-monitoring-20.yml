@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट बिटलॉकर प्रशासन और निगरानी 2.0
-  description: माइक्रोसॉफ्ट बिटलॉकर एडमिनिस्ट्रेशन एंड मॉनिटरिंग 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft BitLocker Administration and Monitoring 2.0
+  description: Microsoft BitLocker Administration and Monitoring 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 5070cc5571cf5859fb0184860a7094fc4abc69eb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855531"
-name: माइक्रोसॉफ्ट बिटलॉकर प्रशासन और निगरानी 2.0
+name: Microsoft BitLocker Administration and Monitoring 2.0
 summary: >+
-  माइक्रोसॉफ्ट बिटलॉकर एडमिनिस्ट्रेशन एंड मॉनिटरिंग 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft BitLocker Administration and Monitoring 2.0 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

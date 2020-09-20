@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज एनालिटिक्स
-  description: विंडोज एनालिटिक्स आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Windows Analytics
+  description: Windows Analytics आधुनिक जीवनचक्र नीति काअनुसरण करता है.
   ms.date: 08/11/2020
   ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
   ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/11/2020
   ms.locfileid: "887857"
-name: विंडोज एनालिटिक्स
+name: Windows Analytics
 summary: >
-  विंडोज एनालिटिक्स [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Windows Analytics [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - windows
 policyType: modern-on-prem

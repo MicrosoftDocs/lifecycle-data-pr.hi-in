@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट कार्यालय प्रकाशक 2003
-  description: माइक्रोसॉफ्ट ऑफिस प्रकाशक 2003 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office Publisher 2003
+  description: Microsoft Office Publisher 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard,with Digital Imaging
   ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930345"
-name: माइक्रोसॉफ्ट कार्यालय प्रकाशक 2003
+name: Microsoft Office Publisher 2003
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस प्रकाशक 2003 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Office Publisher 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डिजिटल इमेजिंग के साथ मानक
+  यह निम्नलिखित संस्करणों पर लागू है: Standard, डिज़िटल इमेजिंग के साथ
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* डिजिटल इमेजिंग के साथ"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* डिज़िटल इमेजिंगके साथ"

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: अभिव्यक्ति 4
-  description: अभिव्यक्ति 4 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: एक्सप्रेशन 4
+  description: एक्सप्रेशन 4 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930863"
-name: अभिव्यक्ति 4
+name: एक्सप्रेशन 4
 summary: >+
-  अभिव्यक्ति 4 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  एक्सप्रेशन 4 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डिजाइन, एनकोडर, स्टूडियो अल्टीमेट, वेब
+  यह निम्नलिखित संस्करणों पर लागू होता है: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> अभिव्यक्ति स्टूडियो अल्टीमेट 4 के लिए मुख्यधारा के समर्थन का अंत 13 अक्टूबर, 2015 है।\n\n## <a name=\"editions\"></a>संस्करण \n* डिजाइन\n* एनकोडर\n* स्टूडियो अल्टीमेट\n* वेब"
+content: "\n\n> [!NOTE]\n> एक्सप्रेशन स्टूडियो अल्टीमेट 4 के लिए मेनस्ट्रीम समर्थन का अंत 13 अक्टूबर, 2015 है.\n\n## <a name=\"editions\"></a>संस्करण \n* Design\n* Encoder\n* Studio Ultimate\n* वेब"

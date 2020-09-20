@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: पार्चर, माइक्रोसॉफ्ट से
-  description: माइक्रोसॉफ्ट से पैराचर, आधुनिक जीवन चक्र नीति का पालन करता है।
+  title: Microsoft का Parature
+  description: Microsoft का Parature आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ec9af75ad6501403aa83c803d54630069c7b3f0a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855263"
-name: पार्चर, माइक्रोसॉफ्ट से
+name: Microsoft का Parature
 summary: >+
-  माइक्रोसॉफ्ट से [पैराचर, आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+  Microsoft का Parature [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2015
   endDate: 05/15/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन घोषणा का अंत](https://support.microsoft.com/help/4035128)\n* [पैराचर माइग्रेशन सपोर्ट पोर्टल](https://aka.ms/paraturecustomers)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन समाप्ति संबंधी जानकारी](https://support.microsoft.com/help/4035128)\n* [Parature माइग्रेशन समर्थन पोर्टल](https://aka.ms/paraturecustomers)"

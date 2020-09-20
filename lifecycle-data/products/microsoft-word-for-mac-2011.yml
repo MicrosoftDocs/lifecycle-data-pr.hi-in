@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक 2011 के लिए माइक्रोसॉफ्ट वर्ड
-  description: माइक्रोसॉफ्ट वर्ड फॉर मैक 2011 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Mac 2011 के लिए Microsoft Word
+  description: Mac 2011 के लिए Microsoft Word निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: a33ce7f2ee56098ccc8b316733d42042b842a84d
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855462"
-name: मैक 2011 के लिए माइक्रोसॉफ्ट वर्ड
-summary: "माइक्रोसॉफ्ट वर्ड फॉर मैक 2011 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। \n"
+name: Mac 2011 के लिए Microsoft Word
+summary: "Mac 2011 के लिए Microsoft Word [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> मैक 2011 के लिए माइक्रोसॉफ्ट कार्यालय के लिए मुख्यधारा का समर्थन मानक जीवनचक्र संक्रमण समयरेखा के साथ सभी ग्राहकों को प्रदान करने के लिए दिखाया गया था"
+content: "\n\n> [!NOTE]\n> सभी ग्राहकों को स्टैंडर्ड जीवनचक्र अवस्थांतर समयरेखा प्रदान करने के लिए Mac 2011 के लिए Microsoft Word का मेनस्ट्रीम समर्थन बढ़ा दिया गया था, जैसा कि दिखाया गया है."

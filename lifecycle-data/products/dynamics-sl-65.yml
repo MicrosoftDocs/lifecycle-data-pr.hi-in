@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स एसएल 6.5
-  description: डायनेमिक्स एसएल 6.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics SL 6.5
+  description: Dynamics SL 6.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/13/2020
   ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
   ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "894835"
-name: डायनेमिक्स एसएल 6.5
+name: Dynamics SL 6.5
 summary: >+
-  डायनेमिक्स एसएल 6.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics SL 6.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

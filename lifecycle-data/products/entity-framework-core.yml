@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: एंटिटी फ्रेमवर्क कोर
-  description: एंटिटी फ्रेमवर्क कोर आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Entity Framework Core
+  description: Entity Framework Core आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 635de4ebbcd4ff1061210469cd509fe9771be356
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855543"
-name: एंटिटी फ्रेमवर्क कोर
+name: Entity Framework Core
 summary: >+
-  एंटिटी फ्रेमवर्क कोर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Entity Framework Core, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/27/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकिल एफएक्यू - .NET कोर](/lifecycle/faq/dotnet-core)\n* [सर्विसिंग जानकारी](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET रोडमैप](https://github.com/dotnet/core/blob/master/roadmap.md)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - .NET Core](/lifecycle/faq/dotnet-core)\n* [सर्विसिंग जानकारी](https://github.com/dotnet/core/blob/master/microsoft-support.md)\n* [.NET रोडमैप](https://github.com/dotnet/core/blob/master/roadmap.md)"

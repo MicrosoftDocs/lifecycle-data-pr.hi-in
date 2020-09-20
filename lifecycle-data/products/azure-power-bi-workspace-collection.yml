@@ -1,23 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला पावर बीआई कार्यक्षेत्र संग्रह
-  description: नीला पावर बीआई कार्यक्षेत्र संग्रह आधुनिक जीवन चक्र नीति का पालन करता है।
+  title: Azure Power BI कार्यस्थान संकलन
+  description: Azure Power BI कार्यस्थान संकलन आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: a95f325fa895563c498eca76aaa2b7978d393473
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855208"
-name: नीला पावर बीआई कार्यक्षेत्र संग्रह
-summary: >
-  नीला पावर बीआई कार्यक्षेत्र संग्रह [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
-
-
-
-  > [!IMPORTANT]
-
-  > समर्थन समाप्त हो गया है । नीचे माइग्रेशन मार्गदर्शन देखें।
+name: Azure Power BI कार्यस्थान संकलन
+summary: "Azure Power BI कार्यस्थान संकलन [मआधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.  \n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.\n"
 products:
 - sql-server
 policyType: modern-online

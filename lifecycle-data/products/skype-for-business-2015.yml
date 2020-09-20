@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: स्काइप फॉर बिजनेस 2015
-  description: स्काइप फॉर बिजनेस 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: व्यवसाय के लिए Skype 2015
+  description: Skype for Business 2015 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: bd853629ca9a63be5ed31cb94084c5b161cb82cc
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855597"
-name: स्काइप फॉर बिजनेस 2015
+name: व्यवसाय के लिए Skype 2015
 summary: >+
-  स्काइप फॉर बिजनेस 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Skype for Business 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> क्लाइंट: स्काइप फॉर बिजनेस 2015 क्लाइंट रिलीज Lync 2013 क्लाइंट के लिए एक अपडेट है और वही उत्पाद जीवनचक्र का पालन करेगा।"
+content: "\n\n> [!NOTE]\n> क्लायंट: Skype for Business 2015 Client रिलीज Lync 2013 Client के लिए एक अपडेट है और समान उत्पाद जीवनचक्र का पालन करेगा."
