@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: UNIX 3.5 के लिए माइक्रोसॉफ्ट विंडोज सेवाएं
-  description: UNIX 3.5 के लिए माइक्रोसॉफ्ट विंडोज सेवाएं घटक जीवन चक्र नीति का पालन करती हैं।
+  title: Microsoft Windows Services for UNIX 3.5
+  description: Microsoft Windows Services for UNIX 3.5 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 55f7940da408533190f0d2c0fdb2d323e983a9e4
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820425"
-name: UNIX 3.5 के लिए माइक्रोसॉफ्ट विंडोज सेवाएं
-summary: "UNIX 3.5 के लिए माइक्रोसॉफ्ट विंडोज सेवाएं [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करती हैं।\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है । \n"
+name: Microsoft Windows Services for UNIX 3.5
+summary: "Microsoft Windows Services for UNIX 3.5 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. \n"
 products:
 - windows
 policyType: component

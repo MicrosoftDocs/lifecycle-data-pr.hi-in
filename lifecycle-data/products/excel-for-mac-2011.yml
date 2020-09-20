@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक 2011 के लिए एक्सेल
-  description: मैक 2011 के लिए एक्सेल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Mac 2011 के लिए Excel
+  description: Mac 2011 के लिए Excel निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6fbc511fd70af039109ad1e301de765ad20e836c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821163"
-name: मैक 2011 के लिए एक्सेल
+name: Mac 2011 के लिए Excel
 summary: >+
-  मैक 2011 के लिए एक्सेल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Mac 2011 के लिए Excel [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> मैक 2011 के लिए माइक्रोसॉफ्ट ऑफिस के लिए मुख्यधारा का समर्थन बढ़ाया गया है जैसा कि ग्राहकों को मानक जीवनचक्र संक्रमण समयरेखा प्रदान करने के लिए दिखाया गया है।"
+content: "\n\n> [!NOTE]\n> ग्राहकों को स्टैंडर्ड लाइफसाइकल अवस्थांतर टाइमलाइन प्रदान करने के लिए Microsoft Office for Mac 2011 का मेनस्ट्रीम सपोर्ट बढ़ाया गया है, जैसा कि दिखाया गया है."

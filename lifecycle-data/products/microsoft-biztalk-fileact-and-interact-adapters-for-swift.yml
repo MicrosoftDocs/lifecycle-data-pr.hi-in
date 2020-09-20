@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: स्विफ्ट के लिए माइक्रोसॉफ्ट बिज़टॉक फाइलएक्ट और इंटरएक्ट एडाप्टर
-  description: स्विफ्ट के लिए माइक्रोसॉफ्ट बिजटॉक फाइलएक्ट और इंटरएक्ट एडाप्टर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करते हैं ।
+  title: SWIFT के लिए Microsoft BizTalk FileAct और InterAct Adapters
+  description: SWIFT के लिए Microsoft BizTalk FileAct और InterAct Adapters निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821093"
-name: स्विफ्ट के लिए माइक्रोसॉफ्ट बिज़टॉक फाइलएक्ट और इंटरएक्ट एडाप्टर
+name: SWIFT के लिए Microsoft BizTalk FileAct और InterAct Adapters
 summary: >+
-  स्विफ्ट के लिए माइक्रोसॉफ्ट बिजटॉक फाइलएक्ट और इंटरएक्ट एडाप्टर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करते हैं ।
+  SWIFT के लिए Microsoft BizTalk FileAct और InterAct Adapters  [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

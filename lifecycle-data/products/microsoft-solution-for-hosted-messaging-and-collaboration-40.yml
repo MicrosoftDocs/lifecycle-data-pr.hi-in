@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: होस्ट किए गए मैसेजिंग और सहयोग 4.0 के लिए माइक्रोसॉफ्ट सॉल्यूशन
-  description: होस्ट किए गए मैसेजिंग और सहयोग 4.0 के लिए माइक्रोसॉफ्ट समाधान फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Hosted Messaging and Collaboration 4.0 के लिए Microsoft समाधान
+  description: Hosted Messaging and Collaboration 4.0 का Microsoft समाधान निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5aad6d836257bdbd054a1e385c6268769a1da05
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820587"
-name: होस्ट किए गए मैसेजिंग और सहयोग 4.0 के लिए माइक्रोसॉफ्ट सॉल्यूशन
+name: Hosted Messaging and Collaboration 4.0 के लिए Microsoft समाधान
 summary: >+
-  होस्ट किए गए मैसेजिंग और सहयोग 4.0 के लिए माइक्रोसॉफ्ट समाधान [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Hosted Messaging and Collaboration 4.0 का Microsoft समाधान [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:

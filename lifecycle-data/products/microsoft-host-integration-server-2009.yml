@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2009
-  description: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2009 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Host Integration Server 2009
+  description: Microsoft Host Integration Server 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 08b1c9c6b318e238412255c9008244cbd13c7605
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820721"
-name: माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2009
-summary: "माइक्रोसॉफ्ट होस्ट इंटीग्रेशन सर्वर 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें। \n"
+name: Microsoft Host Integration Server 2009
+summary: "Microsoft Host Integration Server 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - microsoft-servers
 policyType: fixed

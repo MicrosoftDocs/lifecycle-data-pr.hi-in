@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: टर्मिनल सर्वर (एमडीओपी) के लिए सॉफ्टग्रिड
-  description: टर्मिनल सर्वर (एमडीओपी) के लिए सॉफ्टग्रिड फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: टर्मिनल सर्वर के लिए सॉफ्टग्रिड (MDOP)
+  description: टर्मिनल सर्वर के लिए सॉफ्टग्रिड (MDOP) निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820412"
-name: टर्मिनल सर्वर (एमडीओपी) के लिए सॉफ्टग्रिड
+name: टर्मिनल सर्वर के लिए सॉफ्टग्रिड (MDOP)
 summary: >+
-  टर्मिनल सर्वर (एमडीओपी) के लिए सॉफ्टग्रिड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  टर्मिनल सर्वर के लिए सॉफ्टग्रिड (MDOP) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र एफएक्यू - जनरल](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> पहले डी-समर्थित संस्करणों को शामिल नहीं करता है। इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - सामान्य](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"

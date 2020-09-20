@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: हाइपर-वी सर्वर 2008 R2
-  description: हाइपर-वी सर्वर 2008 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Hyper-V Server 2008 R2
+  description: Hyper-V Server 2008 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821145"
-name: हाइपर-वी सर्वर 2008 R2
-summary: "हाइपर-वी सर्वर 2008 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें। \n"
+name: Hyper-V Server 2008 R2
+summary: "Hyper-V Server 2008 R2 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - windows
 policyType: fixed

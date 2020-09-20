@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विरासत पीसी के लिए विंडोज बुनियादी बातों
-  description: विरासत पीसी के लिए विंडोज फंडामेंटल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Fundamentals for Legacy PC
+  description: Windows Fundamentals for Legacy PC निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b0ea32a5421ba068c5fa75f46633c104fdb3eff5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820392"
-name: विरासत पीसी के लिए विंडोज बुनियादी बातों
+name: Windows Fundamentals for Legacy PC
 summary: >+
-  विरासत पीसी के लिए विंडोज फंडामेंटल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Fundamentals for Legacy PC [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/31/2006
   endDate: 10/12/2010
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> यह उत्पाद विंडोज एक्सपी के समान समर्थन जीवनचक्र नीति का पालन करता है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> यह उत्पाद Windows XP के समान समर्थन जीवनचक्र नीति का पालन करता है."

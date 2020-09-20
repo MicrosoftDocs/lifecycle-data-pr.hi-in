@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर रिपोर्टिंग मैनेजर 2006
-  description: सिस्टम सेंटर रिपोर्टिंग मैनेजर 2006 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: System Center Reporting Manager 2006
+  description: System Center Reporting Manager 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 472619ad5c47b8f0e8ff33bf769094c5edc6c58f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820942"
-name: सिस्टम सेंटर रिपोर्टिंग मैनेजर 2006
+name: System Center Reporting Manager 2006
 summary: >
-  सिस्टम सेंटर रिपोर्टिंग मैनेजर 2006 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  System Center Reporting Manager 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है। नीचे माइग्रेशन मार्गदर्शन देखें।
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
 - msc
 policyType: fixed
