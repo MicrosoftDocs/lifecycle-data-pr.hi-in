@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ऑनलाइन व्यापार के लिए स्काइप
-  description: बिजनेस ऑनलाइन के लिए स्काइप आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: ऑनलाइन व्यवसाय के लिए Skype.
+  description: ऑनलाइन व्यवसाय के लिए Skype आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855595"
-name: ऑनलाइन व्यापार के लिए स्काइप
+name: ऑनलाइन व्यवसाय के लिए Skype.
 summary: >
-  बिजनेस ऑनलाइन के लिए स्काइप [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  ऑनलाइन व्यवसाय के लिए Skype [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > यह सेवा 31 जुलाई 2021 को सेवानिवृत्त होगी। माइग्रेशन मार्गदर्शन के लिए नीचे देखें।
+  > यह सेवा 31 जुलाई 2021 को समाप्त होगी. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.
 products:
 - office
 policyType: modern-online

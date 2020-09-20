@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स जीपी 2015
-  description: डायनेमिक्स जीपी 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics GP 2015
+  description: Dynamics GP 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: efca9971ae340c54b72a50d61dc1f2323278c9a3
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855657"
-name: डायनेमिक्स जीपी 2015
+name: Dynamics GP 2015
 summary: >+
-  डायनेमिक्स जीपी 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics GP 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

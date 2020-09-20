@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 डेटा प्रोटेक्शन मैनेजर
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 डेटा प्रोटेक्शन मैनेजर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft System Center 2012 R2 Data Protection Manager
+  description: Microsoft System Center 2012 R2 Data Protection Manager निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855514"
-name: माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 डेटा प्रोटेक्शन मैनेजर
+name: Microsoft System Center 2012 R2 Data Protection Manager
 summary: >+
-  माइक्रोसॉफ्ट सिस्टम सेंटर 2012 R2 डेटा प्रोटेक्शन मैनेजर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft System Center 2012 R2 Data Protection Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [सिस्टम सेंटर संसाधन](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [System Center संसाधन](https://www.microsoft.com/system-center/resources)"

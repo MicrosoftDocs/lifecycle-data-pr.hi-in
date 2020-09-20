@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Outlook 2010
-  description: आउटलुक 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  description: Outlook 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard,with Business Contact Manager
   ms.openlocfilehash: ce67d67737e2a942507d26d8d1bd308697a58144
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928828"
 name: Outlook 2010
 summary: >+
-  आउटलुक 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Outlook 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: बिजनेस कॉन्टैक्ट मैनेजर के साथ मानक
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard, Business Contact Manager के साथ
 
 products:
 - office

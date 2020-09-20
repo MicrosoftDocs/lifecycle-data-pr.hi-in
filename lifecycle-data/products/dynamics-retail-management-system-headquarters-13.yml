@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
-  description: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics Retail Management System 1.3
+  description: Dynamics Retail Management System 1.3 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Headquarters,Store Operations
   ms.openlocfilehash: a3713fd375b666673f687b89fe23492b072c8c3b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931702"
-name: डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3
+name: Dynamics Retail Management System 1.3
 summary: >+
-  डायनेमिक्स रिटेल मैनेजमेंट सिस्टम 1.3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics Retail Management System 1.3 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: मुख्यालय, स्टोर संचालन
+  यह निम्नलिखित संस्करणों पर लागू होता है: Headquarters, Store Operations
 
 products:
 - dynamics

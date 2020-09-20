@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सतह हब पर विंडोज 10
-  description: सरफेस हब पर विंडोज 10 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  title: Surface Hub पर Windows 10
+  description: Surface Hub पर Windows 10 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855242"
-name: सतह हब पर विंडोज 10
+name: Surface Hub पर Windows 10
 summary: >+
-  सरफेस हब पर विंडोज 10 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+  Surface Hub पर Windows 10 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/25/2016
   endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>लिंक \n* [विंडोज अपडेट (सरफेस हब)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> यह सुनिश्चित करने के लिए विंडोज अपडेट (सरफेस हब) पृष्ठ देखें कि आपको नवीनतम सरफेस हब अपडेट मिल रहे हैं।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows अपडेट (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> आप Surface Hub के नवीनतम अपडेट मिलने सुनिश्चित करने के लिए Windows अपडेट (Surface Hub) पृष्ठ देखें."

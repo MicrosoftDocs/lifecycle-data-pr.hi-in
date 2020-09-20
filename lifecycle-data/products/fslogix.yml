@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: एफएसलॉगिक्स
-  description: एफएसलॉगिक्स आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: FSLogix
+  description: FSLogix आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855380"
-name: एफएसलॉगिक्स
+name: FSLogix
 summary: >+
-  एफएसलॉगिक्स [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  FSLogix [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [FSLogix डाउनलोड करें और इंस्टॉल करें](/fslogix/install-ht)\n* [एफएसलॉगिक्स समर्थन](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [FSLogix डाउनलोड और स्थापित करें](/fslogix/install-ht)\n* [FSLogix समर्थन](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"

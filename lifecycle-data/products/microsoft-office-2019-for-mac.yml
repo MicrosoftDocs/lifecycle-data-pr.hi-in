@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019
-  description: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Office 2019 for Mac
+  description: Mac के लिए Microsoft Office 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Academic,Home and Business,Home and Student,Standard
   ms.openlocfilehash: ec9caa375adfc5b23212e92160c6f3107344e1c6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930419"
-name: मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019
+name: Microsoft Office 2019 for Mac
 summary: >+
-  मैक के लिए माइक्रोसॉफ्ट ऑफिस 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Mac के लिए Microsoft Office 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: अकादमिक, गृह और व्यापार, घर और छात्र, मानक
+  यह निम्नलिखित संस्करणों पर लागू है: Academic, Home and Business, Home and Student, Standard
 
 products:
 - office

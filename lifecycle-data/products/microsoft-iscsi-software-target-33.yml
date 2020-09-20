@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट iSCSI सॉफ्टवेयर लक्ष्य 3.3
-  description: माइक्रोसॉफ्ट iSCSI सॉफ्टवेयर लक्ष्य 3.3 घटक जीवन चक्र नीति का पालन करता है।
+  title: Microsoft iSCSI Software Target 3.3
+  description: Microsoft iSCSI Software Target 3.3 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: c8ae05506cdc5e83920e82e4cc6bcfef3c03863e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855335"
-name: माइक्रोसॉफ्ट iSCSI सॉफ्टवेयर लक्ष्य 3.3
+name: Microsoft iSCSI Software Target 3.3
 summary: >
-  माइक्रोसॉफ्ट iSCSI सॉफ्टवेयर लक्ष्य 3.3 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+  Microsoft iSCSI Software Target 3.3 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > इस घटक के लिए समर्थन समाप्त हो गया है।
+  > इस घटक के लिए समर्थन समाप्त हो गया है.
 products:
 - windows
 policyType: component
