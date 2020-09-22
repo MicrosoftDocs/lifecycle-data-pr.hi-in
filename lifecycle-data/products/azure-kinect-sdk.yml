@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: नीला Kinect एसडीके
+  description: नीला Kinect एसडीके आधुनिक जीवन चक्र नीति का पालन करता है।
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cdaabc601933637a3d23f3738a98995a2966a5b5
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.translationtype: MT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025263"
+name: नीला Kinect एसडीके
+summary: >+
+  नीला Kinect एसडीके [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/27/2019
+releases:
+- version: Original Release
+  startDate: 06/27/2019
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://github.com/microsoft/Azure-Kinect-Sensor-SDK/blob/develop/microsoft-support.md)"
