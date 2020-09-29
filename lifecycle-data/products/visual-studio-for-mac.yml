@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: मैक के लिए विजुअल स्टूडियो
-  description: मैक के लिए विजुअल स्टूडियो आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Mac के लिए Visual Studio
+  description: Mac के लिए Visual Studio आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869857"
-name: मैक के लिए विजुअल स्टूडियो
+name: Mac के लिए Visual Studio
 summary: >+
-  मैक के लिए विजुअल स्टूडियो [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Mac के लिए Visual Studio [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

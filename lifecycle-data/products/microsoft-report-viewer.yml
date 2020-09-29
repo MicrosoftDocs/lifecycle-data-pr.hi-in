@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट रिपोर्ट दर्शक
-  description: माइक्रोसॉफ्ट रिपोर्ट दर्शक आधुनिक जीवन चक्र नीति का पालन करता है।
+  title: Microsoft रिपोर्ट व्यूअर
+  description: Microsoft रिपोर्ट व्यूअर आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: 9025fd3d1b84a581d70de562ab977e3aa01870fb
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904902"
-name: माइक्रोसॉफ्ट रिपोर्ट दर्शक
+name: Microsoft रिपोर्ट व्यूअर
 summary: >+
-  माइक्रोसॉफ्ट रिपोर्ट दर्शक [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+  Microsoft रिपोर्ट व्यूअर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

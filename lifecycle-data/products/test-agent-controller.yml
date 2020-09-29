@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: टेस्ट एजेंट, नियंत्रक
-  description: टेस्ट एजेंट, नियंत्रक घटक जीवन चक्र नीति का पालन करता है।
+  title: टेस्ट एजेंट, कंट्रोलर
+  description: टेस्ट एजेंट, कंट्रोलर घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/13/2020
   ms.openlocfilehash: 7cb3e4327582e2dcb0c2d9fd448fff1aa31d6c81
   ms.sourcegitcommit: 3c6b83bda986f678312f44c1a8424e183a327d5c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/14/2020
   ms.locfileid: "894962"
-name: टेस्ट एजेंट, नियंत्रक
+name: टेस्ट एजेंट, कंट्रोलर
 summary: >+
-  टेस्ट एजेंट, नियंत्रक [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवन चक्र नीति का पालन करता है।
+  टेस्ट एजेंट, कंट्रोलर [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

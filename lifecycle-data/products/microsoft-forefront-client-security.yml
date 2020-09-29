@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा
-  description: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: Microsoft Forefront Client Security
+  description: Microsoft Forefront Client Security निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/28/2020
   ms.openlocfilehash: 335ae81ffa4b7cb64352b19e7330765a4cac6c68
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924257"
-name: माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा
+name: Microsoft Forefront Client Security
 summary: >+
-  माइक्रोसॉफ्ट सबसे आगे ग्राहक सुरक्षा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  Microsoft Forefront Client Security[निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 08/02/2007
   endDate: 07/14/2015
-content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> सबसे आगे ग्राहक सुरक्षा 14 जुलाई, 2015 के रूप में बंद कर दिया गया है। उत्पाद संस्करण के समर्थन के अंत के बाद एंटीमलवेयर और एंटीस्पीवेयर परिभाषा अपडेट अब उपलब्ध नहीं होंगे। कृपया प्रतिस्थापन के रूप में सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन का मूल्यांकन करें।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security को 14 जुलाई, 2015 से बंद कर दिया गया है. एंटीमैलवेयर और ऐंटी-स्पाइवेयर डेफिनिशन अपडेट अब उत्पाद संस्करण की समर्थन की समाप्ति के बाद उपलब्ध नहीं होंगे. कृपया प्रतिस्थापन के रूप में System Center Endpoint Protection का मूल्यांकन करें."

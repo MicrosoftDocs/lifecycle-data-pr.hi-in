@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio पोर्टल v6.x या उससे पहले
-  description: Adxstudio पोर्टल v6.x या उससे पहले फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Adxstudio पोर्टल v6.x यापहले के
+  description: Adxstudio पोर्टल v6.x या पहले के निश्चित जीवनचक्र नीति का अनुसरण करता है|
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924376"
-name: Adxstudio पोर्टल v6.x या उससे पहले
+name: Adxstudio पोर्टल v6.x यापहले के
 summary: >+
-  Adxstudio पोर्टल v6.x या उससे पहले [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Adxstudio पोर्टल v6.x या पहले के [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है|
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र एफएक्यू - अधिग्रहण](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है और समाप्त हो गया है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [ जीवनचक्र सामान्य प्रश्न - अधिग्रहण ](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है और समाप्त हो गया है।"

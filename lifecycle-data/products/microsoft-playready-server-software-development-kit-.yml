@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट '
-  description: माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: 'Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट '
+  description: Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/21/2020
   ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908023"
-name: 'माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट '
+name: 'Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट '
 summary: >+
-  माइक्रोसॉफ्ट प्लेरेडी सर्वर सॉफ्टवेयर डेवलपमेंट किट [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:

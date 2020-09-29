@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स 365 लेआउट
-  description: डायनेमिक्स 365 लेआउट आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Dynamics 365 Layout
+  description: Dynamics 365 Layout आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
   ms.openlocfilehash: 1995274fb40f9ea278629e50c290def57f7f113d
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "891844"
-name: डायनेमिक्स 365 लेआउट
+name: Dynamics 365 Layout
 summary: >+
-  डायनेमिक्स 365 लेआउट [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Dynamics 365 Layout [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/30/2018
   endDate: 12/31/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [लेआउट और रिमोट असिस्ट](/dynamics365/mixed-reality/layout/faq)\n* [गतिशीलता 365 लेआउट के संक्रमण की घोषणा](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [लेआउट और Remote Assist](/dynamics365/mixed-reality/layout/faq)\n* [Dynamics 365 Layout के अवस्थांतर की घोषणा](https://dynamics.microsoft.com/mixed-reality/layout-transition/)"

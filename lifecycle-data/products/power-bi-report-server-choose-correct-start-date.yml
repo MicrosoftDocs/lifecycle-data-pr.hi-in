@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: पावर बीआई रिपोर्ट सर्वर
-  description: पावर बीआई रिपोर्ट सर्वर आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Power BI रिपोर्ट सर्वर
+  description: Power BI रिपोर्ट सर्वर, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 595ca1b035c661c5f2822dd0ab71578a5995290f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869906"
-name: पावर बीआई रिपोर्ट सर्वर
+name: Power BI रिपोर्ट सर्वर
 summary: >+
-  पावर बीआई रिपोर्ट सर्वर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Power BI रिपोर्ट सर्वर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

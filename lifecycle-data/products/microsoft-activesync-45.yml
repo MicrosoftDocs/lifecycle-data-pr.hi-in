@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एक्टिवसिंक 4.5
-  description: माइक्रोसॉफ्ट एक्टिवसिंक 4.5 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft ActiveSync 4.5
+  description: Microsoft ActiveSync 4.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: 8c9156fcf25fc972f32e727f305a5ecaececde1c
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904909"
-name: माइक्रोसॉफ्ट एक्टिवसिंक 4.5
+name: Microsoft ActiveSync 4.5
 summary: >+
-  माइक्रोसॉफ्ट एक्टिवसिंक 4.5 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft ActiveSync 4.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

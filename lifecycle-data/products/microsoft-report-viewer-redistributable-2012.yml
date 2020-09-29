@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट रिपोर्ट दर्शक पुनर्वितरण योग्य 2012
-  description: माइक्रोसॉफ्ट रिपोर्ट दर्शक पुनर्वितरणीय 2012 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Report Viewer Redistributable 2012
+  description: Microsoft Report Viewer Redistributable 2012 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: 851327e620d35cbb94eb2f0df86755e04c75eaac
   ms.sourcegitcommit: 9d254d51934063ec1dd8c7e0e5fcb53ccc7257b3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "904903"
-name: माइक्रोसॉफ्ट रिपोर्ट दर्शक पुनर्वितरण योग्य 2012
+name: Microsoft Report Viewer Redistributable 2012
 summary: >+
-  माइक्रोसॉफ्ट रिपोर्ट दर्शक पुनर्वितरणीय 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Report Viewer Redistributable 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
