@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला कंटेनर सेवा
-  description: नीला कंटेनर सेवा आधुनिक जीवनचक्र नीति का पालन करती है।
+  title: Azure कंटेनर सर्विस
+  description: Azure कंटेनर सर्विस आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855207"
-name: नीला कंटेनर सेवा
+name: Azure कंटेनर सर्विस
 summary: >+
-  नीला कंटेनर सेवा [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+  Azure कंटेनर सर्विस [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

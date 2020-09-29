@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lync बैठक कक्ष
-  description: Lync बैठक कक्ष निश्चित जीवन चक्र नीति का पालन करता है।
+  title: Lync मीटिंग रूम
+  description: Lync मीटिंग रूम नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 92fdfd4bb47c96e2fccf4ffa0bcf96a332a92a64
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855360"
-name: Lync बैठक कक्ष
-summary: "Lync बैठक कक्ष [निश्चित](/lifecycle/policies/fixed) जीवन चक्र नीति का पालन करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है। माइग्रेशन गाइडेंस देखें। \n"
+name: Lync मीटिंग रूम
+summary: "Lync मीटिंग रूम [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - office
 policyType: fixed-mainstream-only

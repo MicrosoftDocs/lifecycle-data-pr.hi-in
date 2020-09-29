@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0
-  description: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Diagnostics और Recovery Toolset 10.0
+  description: Microsoft Diagnostics और Recovery Toolset 10.0 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 46c297ae7fa494c3a70d86bf5ce3f8ec62e906f4
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855341"
-name: माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0
+name: Microsoft Diagnostics और Recovery Toolset 10.0
 summary: >+
-  माइक्रोसॉफ्ट डायग्नोस्टिक्स और रिकवरी टूलसेट 10.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Diagnostics और Recovery Toolset 10.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
