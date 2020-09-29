@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विनटार्गेट 2.0
-  description: WinTarget 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: WinTarget 2.0
+  description: WinTarget 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Advanced,Standard
   ms.openlocfilehash: 940b4d3c615a3e3f72bfa6a2a6e250154bcd5a57
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938744"
-name: विनटार्गेट 2.0
+name: WinTarget 2.0
 summary: >+
-  WinTarget 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  WinTarget 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: उन्नत, मानक
+  यह निम्नलिखित संस्करणों पर लागू है: Advanced, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 03/07/2006
   endDate: 01/08/2008
-content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* उन्नत\n* Standard"
+content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* Advanced\n* Standard"

@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज मीडिया एन्कोडर 9 श्रृंखला
-  description: विंडोज मीडिया एनकोडर 9 श्रृंखला फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: विंडोज मीडिया एन्कोडर 9 सीरीज
+  description: विंडोज मीडिया एन्कोडर 9 सीरीज निश्चित जीवनचक्र नीति का अनुसरण करता है|
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940002"
-name: विंडोज मीडिया एन्कोडर 9 श्रृंखला
+name: विंडोज मीडिया एन्कोडर 9 सीरीज
 summary: >+
-  विंडोज मीडिया एनकोडर 9 श्रृंखला [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  विंडोज मीडिया एन्कोडर 9 सीरीज [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है|
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: 64 बिट, मानक

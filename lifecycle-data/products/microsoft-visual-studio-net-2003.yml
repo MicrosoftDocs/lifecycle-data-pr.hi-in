@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft Visual Studio .NET 2003
   description: Microsoft Visual Studio .NET 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/24/2020
-  ms.openlocfilehash: 4690cc7f70d544e52cb35df99a1e23279ebf02ec
-  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.date: 09/10/2020
+  keywords: Enterprise Architect,Enterprise Developer,J#,Professional,Standard
+  ms.openlocfilehash: 4046adf6f4a20e8c0edfd77c6314c2ecbd321cb2
+  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/25/2020
-  ms.locfileid: "908585"
+  ms.lasthandoff: 09/10/2020
+  ms.locfileid: "999393"
 name: Microsoft Visual Studio .NET 2003
 summary: >+
   Microsoft Visual Studio .NET 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
