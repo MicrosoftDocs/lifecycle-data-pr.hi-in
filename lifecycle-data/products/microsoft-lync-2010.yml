@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट Lync 2010
-  description: माइक्रोसॉफ्ट Lync 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Lync 2010
+  description: Microsoft Lync Server 2010 नियत जीवनचक्र नीति का पालन करता है।
   ms.date: 09/01/2020
   keywords: Attendant,Attendee,Group Chat,Standard
   ms.openlocfilehash: c3db784bc5a889bab9f8c319ddb04361993c453a
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933453"
-name: माइक्रोसॉफ्ट Lync 2010
+name: Microsoft Lync 2010
 summary: >+
-  माइक्रोसॉफ्ट Lync 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Lync Server 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: अटेंडेंट, सहभागी, समूह चैट, मानक
+  यह निम्न संस्करणों पर लागू होता है: अटेंडेंट, अटेंडी, ग्रूप चैट, स्टैंडर्ड
 
 products:
 - office
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अटेंडेंट\n* सहभागी\n* ग्रुप चैट\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अटेंडेंट\n* अटेंडी\n* ग्रुप चैट\n* Standard"

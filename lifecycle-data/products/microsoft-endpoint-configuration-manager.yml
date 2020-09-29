@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
-  description: माइक्रोसॉफ्ट एंडपॉइंट कॉन्फ़िगरेशन मैनेजर आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
+  description: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934045"
-name: माइक्रोसॉफ्ट एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
+name: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
 summary: >
-  माइक्रोसॉफ्ट एंडपॉइंट कॉन्फ़िगरेशन मैनेजर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
   > [!IMPORTANT]
 
-  > संस्करण 1910 में शुरू, विन्यास प्रबंधक अब माइक्रोसॉफ्ट एंडपॉइंट मैनेजर का हिस्सा है।
+  > संस्करण 1910 में शुरू, कॉन्फ़िगरेशन मैनेजर अब Microsoft एंडपॉइंट मैनेजर का हिस्सा है.
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [संस्करण विवरण](/mem/configmgr/core/servers/manage/updates#version-details)\n* [सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर अब माइक्रोसॉफ्ट एंडपॉइंट कॉन्फ़िगरेशन मैनेजर है](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [ऐतिहासिक संस्करण](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [क्या है कॉन्फ़िगरेशन मैनेजर](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [संस्करण विवरण](/mem/configmgr/core/servers/manage/updates#version-details)\n* [सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर अब Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर है](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [ऐतिहासिक संस्करण](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [कॉन्फ़िगरेशन मैनेजर क्या है](/mem/configmgr/core/understand/introduction)"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2004
-  description: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2004 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933490"
-name: माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2004
-summary: "माइक्रोसॉफ्ट इंटरनेट सुरक्षा और त्वरण सर्वर 2004 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - microsoft-servers
 policyType: fixed

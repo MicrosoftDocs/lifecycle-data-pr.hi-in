@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft System Center Essentials 2010
-  description: माइक्रोसॉफ्ट सिस्टम सेंटर अनिवार्य 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft सिस्टम सेंटर Essentials 2010
+  description: Microsoft सिस्टम सेंटर Essentials 2010 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: All applicable,wSQL
   ms.openlocfilehash: 93f05c6b49b851871ea5d7f6a2066310ae3144e2
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938189"
-name: Microsoft System Center Essentials 2010
+name: Microsoft सिस्टम सेंटर Essentials 2010
 summary: >+
-  माइक्रोसॉफ्ट सिस्टम सेंटर अनिवार्य 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft सिस्टम सेंटर Essentials 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, wSQL
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/28/2010
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* डब्ल्यूएसक्यूएल"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* wSQL"

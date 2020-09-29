@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Policymaker
-  description: पॉलिसीमेकर फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: पॉलिसीमेकर
+  description: पॉलिसीमेकर निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938041"
-name: Policymaker
+name: पॉलिसीमेकर
 summary: >+
-  पॉलिसीमेकर [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  पॉलिसीमेकर [ निश्चित ](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: आवेदन सुरक्षा, आउटलुक संस्करण, पेशेवर 9.0, रजिस्ट्री एक्सटेंशन 2.0, शेयर मैनेजर 1.0, सॉफ्टवेयर अपडेट 1.0, सॉफ्टवेयर अपडेट 2.0, स्टैंडर्ड 1.0, स्टैंडर्ड 2.0
+  यह निम्नलिखित संस्करणों पर लागू होता है: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* आवेदन सुरक्षा\n* आउटलुक संस्करण\n* व्यावसायिक 9.0\n* रजिस्ट्री एक्सटेंशन 2.0\n* शेयर मैनेजर 1.0\n* सॉफ्टवेयर अपडेट 1.0\n* सॉफ्टवेयर अपडेट 2.0\n* मानक 1.0\n* मानक 2.0"
+content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* एप्लीकेशन सिक्योरिटी\n* आउटलुक एडिशन\n* प्रोफेशनल 9.0\n* रजिस्ट्री एक्सटेंशन 2.0\n* शेयर मैनेजर 1.0\n* सॉफ्टवेयर अपडेट 1.0\n* सॉफ्टवेयर अपडेट 2.0\n* स्टैण्डर्ड 1.0\n* स्टैण्डर्ड 2.0"

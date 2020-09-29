@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2
-  description: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft स्पीच Server 2004 R2
+  description: Microsoft स्पीच Server 2004 R2 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: d93a0964531bf4fb6b7019880a39fd9a6e07dfa4
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937042"
-name: माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2
+name: Microsoft स्पीच Server 2004 R2
 summary: >+
-  माइक्रोसॉफ्ट स्पीच सर्वर 2004 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft स्पीच Server 2004 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
