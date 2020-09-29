@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: विंडोज फोन 8
-  description: विंडोज फोन 8 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  description: विंडोज फोन 8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: 414496ab55aa39619921de70d0df779cc4403a50
   ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940857"
 name: विंडोज फोन 8
 summary: >+
-  विंडोज फोन 8 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  विंडोज फोन 8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

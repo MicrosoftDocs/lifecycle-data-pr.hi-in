@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नाली 3.1
-  description: नाली 3.1 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करती है।
+  title: Groove 3.1
+  description: Groove 3.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950841"
-name: नाली 3.1
+name: Groove 3.1
 summary: >+
-  नाली 3.1 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करती है।
+  Groove 3.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: एंटरप्राइज बैकअप सर्विस, एंटरप्राइज डेटा ब्रिज, एंटरप्राइज रिले सर्वर, होस्ट्ड मैनेजमेंट सर्विसेज, होस्ट्ड रिले सर्विसेज, ऑफिस प्रोजेक्ट, वर्चुअल ऑफिस फाइल शेयरिंग, वर्चुअल ऑफिस प्रोफेशनल, वेब सर्विसेज डेवलपमेंट किट
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज बैकअप सर्विस\n* एंटरप्राइज डाटा ब्रिज\n* एंटरप्राइज रिले सर्वर\n* होस्ट की गई प्रबंधन सेवाएं\n* होस्ट की गई रिले सर्विसेज\n* कार्यालय परियोजना\n* वर्चुअल ऑफिस फाइल शेयरिंग\n* वर्चुअल ऑफिस प्रोफेशनल\n* वेब सेवा विकास किट"
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* एंटरप्राइज बैकअप सर्विस\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* होस्ट्ड मैनेजमेंट सर्विसेज\n* होस्ट्ड रिले सर्विसेज\n* ऑफिस प्रोजेक्ट\n* वर्चुअल ऑफिस फाइल शेयरिंग\n* वर्चुअल ऑफिस प्रोफेशनल\n* वेब सर्विसेज डेवलपमेंट किट"

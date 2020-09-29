@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: प्रोजेक्ट सर्वर 2019
-  description: प्रोजेक्ट सर्वर 2019 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Project Server 2019
+  description: Project Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/02/2020
   keywords: ''
   ms.openlocfilehash: a6d1929104c2e7fa0172f1b3208ce0a0022bc160
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941413"
-name: प्रोजेक्ट सर्वर 2019
+name: Project Server 2019
 summary: >+
-  प्रोजेक्ट सर्वर 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Project Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2018
   endDate: 07/14/2026
-content: "\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/project/project-server-2013-and-2016) और [डेवलपर](https://developer.microsoft.com/project/docs) दस्तावेज देखें।"
+content: "\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/project/project-server-2013-and-2016) और [डेवलपर](https://developer.microsoft.com/project/docs) दस्तावेज देखें."

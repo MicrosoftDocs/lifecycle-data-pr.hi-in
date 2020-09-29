@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: एडवांस्ड थ्रेट एनालिटिक्स 1.X
-  description: एडवांस्ड थ्रेट एनालिटिक्स 1.X फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  description: एडवांस्ड थ्रेट एनालिटिक्स 1.X निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: 
   ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
   ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1002685"
 name: एडवांस्ड थ्रेट एनालिटिक्स 1.X
 summary: >+
-  एडवांस्ड थ्रेट एनालिटिक्स 1.X [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  एडवांस्ड थ्रेट एनालिटिक्स 1.X [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2015
   endDate: 01/13/2026
-content: "\n## <a name=\"links\"></a>लिंक \n* [एडवांस्ड थ्रेट एनालिटिक्स सर्विसिंग दिशानिर्देश](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> अपडेट संचयी होते हैं, प्रत्येक अपडेट के साथ इससे पहले के सभी अपडेट पर बनाया जाता है। एक डिवाइस को समर्थित रहने के लिए नवीनतम अपडेट इंस्टॉल करने की आवश्यकता होती है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [एडवांस्ड थ्रेट एनालिटिक्स सर्विसिंग दिशानिर्देश](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> अपडेट संचयी होते हैं, प्रत्येक अपडेट के साथ अपडेट किया जाता है जो इसके पहले था। समर्थित बने रहने के लिए एक डिवाइस को नवीनतम अपडेट इंस्टॉल करना होगा।"
