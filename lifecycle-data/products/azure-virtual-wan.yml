@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला वर्चुअल वान
-  description: नीला वर्चुअल वान आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Azure वर्चुअल WAN
+  description: Azure वर्चुअल WAN आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: f6c8e8b638b9bb6a65bd3213cc23c61ad3c39b0b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869821"
-name: नीला वर्चुअल वान
+name: Azure वर्चुअल WAN
 summary: >+
-  नीला वर्चुअल वान [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Azure वर्चुअल WAN [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: पिक्सलसेंस एप्लीकेशन सुइट 1.0
-  description: पिक्सलसेंस एप्लीकेशन सुइट 1.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: पिक्सलसेंस एप्लीकेशन सूट 1.0
+  description: पिक्सलसेंस एप्लीकेशन सूट 1.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
   ms.openlocfilehash: c74536304840d0d75306a3d6d2609d8a39c524dc
   ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/12/2020
   ms.locfileid: "892039"
-name: पिक्सलसेंस एप्लीकेशन सुइट 1.0
+name: पिक्सलसेंस एप्लीकेशन सूट 1.0
 summary: >+
-  पिक्सलसेंस एप्लीकेशन सुइट 1.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  पिक्सलसेंस एप्लीकेशन सूट 1.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

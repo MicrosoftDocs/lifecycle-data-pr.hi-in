@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: शेयरपॉइंट के लिए सबसे आगे सुरक्षा 2010
-  description: शेयरपॉइंट के लिए सबसे आगे संरक्षण 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010
+  description: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है|
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908758"
-name: शेयरपॉइंट के लिए सबसे आगे सुरक्षा 2010
+name: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010
 summary: >+
-  शेयरपॉइंट के लिए सबसे आगे संरक्षण 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है|
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> सबसे आगे ब्रांड के तहत सुरक्षा उत्पादों का रोडमैप बदल गया है। यह उत्पाद 31 दिसंबर, 2015 तक बंद कर दिया गया है।"
+content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है.  यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n\n"

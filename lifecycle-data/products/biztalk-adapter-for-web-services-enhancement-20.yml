@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: वेब सेवाओं में वृद्धि के लिए BizTalk एडाप्टर 2.0
-  description: वेब सेवाओं में वृद्धि के लिए BizTalk एडाप्टर 2.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: वेब सर्विस वृद्धि के लिए BizTalk एडाप्टर 2.0
+  description: वेब सर्विस में वृद्धि के लिए BizTalk एडाप्टर 2.0 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904154"
-name: वेब सेवाओं में वृद्धि के लिए BizTalk एडाप्टर 2.0
+name: वेब सर्विस वृद्धि के लिए BizTalk एडाप्टर 2.0
 summary: >+
-  वेब सेवाओं में वृद्धि के लिए BizTalk एडाप्टर 2.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  वेब सर्विस में वृद्धि के लिए BizTalk एडाप्टर 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:

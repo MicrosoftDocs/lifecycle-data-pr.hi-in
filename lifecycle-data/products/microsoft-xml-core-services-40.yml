@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एक्सएमएल कोर सर्विसेज 4.0
-  description: माइक्रोसॉफ्ट एक्सएमएल कोर सर्विसेज 4.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft XML कोर सर्विसेज 4.0
+  description: Microsoft XML कोर सर्विसेज़ 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 08/12/2020
   ms.openlocfilehash: 311394fe73d17ea11fe92712511a42af1f509295
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893056"
-name: माइक्रोसॉफ्ट एक्सएमएल कोर सर्विसेज 4.0
+name: Microsoft XML कोर सर्विसेज 4.0
 summary: >+
-  माइक्रोसॉफ्ट एक्सएमएल कोर सर्विसेज 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft XML कोर सर्विसेज 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Service Pack 3
   startDate: 12/28/2009
   endDate: 04/12/2014
-content: "\n\n> [!NOTE]\n> एक्सएमएल कोर सर्विसेज 4.0 के लिए समर्थन समाप्त हो गया है। समर्थन केवल सेवा पैक 3 के लिए उपलब्ध था ।"
+content: "\n\n> [!NOTE]\n> XML कोर सर्विसेज 4.0 के लिए समर्थन समाप्त हो गया है। समर्थन केवल सर्विस पैक 3 के लिए उपलब्ध था।"

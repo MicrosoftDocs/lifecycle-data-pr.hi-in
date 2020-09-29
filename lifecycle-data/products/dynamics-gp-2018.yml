@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स जीपी 2018
-  description: डायनेमिक्स जीपी 2018 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics GP 2018
+  description: Dynamics GP 2018 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: ceeb4827503ab282ee2ffef12cc0518f3f80ae2c
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869799"
-name: डायनेमिक्स जीपी 2018
+name: Dynamics GP 2018
 summary: >+
-  डायनेमिक्स जीपी 2018 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics GP 2018 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

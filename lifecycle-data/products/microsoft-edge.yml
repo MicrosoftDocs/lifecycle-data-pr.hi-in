@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एज
-  description: माइक्रोसॉफ्ट एज आधुनिक जीवन चक्र नीति का पालन करता है।
+  title: Microsoft Edge
+  description: Microsoft Edge आधुनिक जीवनचक्र नीति का पालन करता है
   ms.date: 08/19/2020
   ms.openlocfilehash: 2d9e751a4612eaa04e995711449c2c2851b5db72
   ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/20/2020
   ms.locfileid: "905867"
-name: माइक्रोसॉफ्ट एज
+name: Microsoft Edge
 summary: >
-  माइक्रोसॉफ्ट एज [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+  Microsoft Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है
 
 
 
   > [!IMPORTANT]
 
-  > कृपया ध्यान दें कि इस उत्पाद का विरासत संस्करण 9 मार्च, 2021 को समर्थन समाप्त होता है। अधिक जानने के लिए  [यहां](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएं ।
+  > कृपया ध्यान दें कि इस उत्पाद के लीगेसी संस्करण का समर्थन 9 मार्च, 2021 को समाप्त होता है। अधिक जानकारी के लिए   [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएँ।
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -26,4 +26,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/15/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट एज समर्थित ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)"

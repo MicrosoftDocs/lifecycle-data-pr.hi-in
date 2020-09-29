@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स जीपी
-  description: डायनेमिक्स जीपी आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Dynamics GP
+  description: Dynamics GP आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "869797"
-name: डायनेमिक्स जीपी
+name: Dynamics GP
 summary: >+
-  डायनेमिक्स जीपी [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Dynamics GP [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/07/2019
   endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइक्रोसॉफ्ट डायनेमिक्स 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics-gp/terms/lifecycle)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics-gp/terms/lifecycle)"

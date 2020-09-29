@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: माइक्रोसॉफ्ट वर्क्स
-  description: माइक्रोसॉफ्ट वर्क्स फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  description: माइक्रोसॉफ्ट वर्क्स निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
   ms.openlocfilehash: da68f15014771676be04285328ffde3ff1c49858
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904162"
 name: माइक्रोसॉफ्ट वर्क्स
 summary: >+
-  माइक्रोसॉफ्ट वर्क्स [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  माइक्रोसॉफ्ट वर्क्स [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है|
 
 
 products:
@@ -39,4 +39,4 @@ releases:
 - version: Microsoft Works Suite 2004
   startDate: 10/25/2003
   endDate: 01/09/2007
-content: "\n\n> [!NOTE]\n> इस लिस्टिंग में 2003 और 2007 के बीच जारी किए गए सभी माइक्रोसॉफ्ट वर्क्स उत्पाद शामिल हैं।"
+content: "\n\n> [!NOTE]\n> इस सूची में 2003 और 2007 के बीच जारी किए गए सभी माइक्रोसॉफ्ट वर्क्स उत्पाद शामिल हैं।"

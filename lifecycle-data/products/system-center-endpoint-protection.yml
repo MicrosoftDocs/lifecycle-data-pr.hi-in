@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन
-  description: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: सिस्टम सेंटर एंडपॉइंट सुरक्षा
+  description: सिस्टम सेंटर एंडपॉइंट सुरक्षा आधुनिक जीवनचक्र नीति का अनुसरण करती है।
   ms.date: 08/31/2020
   ms.openlocfilehash: 9eff57919f329c3c5897ef2697cd20ff9ce65dba
   ms.sourcegitcommit: ea12743df11002fd494c7843707a3628dfedb425
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 08/31/2020
   ms.locfileid: "924929"
-name: सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन
+name: सिस्टम सेंटर एंडपॉइंट सुरक्षा
 summary: >+
-  सिस्टम सेंटर एंडपॉइंट प्रोटेक्शन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  सिस्टम सेंटर एंडपॉइंट सुरक्षा [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है|
 
 
 products:
