@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज आइडेंटिटी फाउंडेशन
-  description: विंडोज आइडेंटिटी फाउंडेशन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Identity Foundation
+  description: Windows Identity Foundation निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820387"
-name: विंडोज आइडेंटिटी फाउंडेशन
+name: Windows Identity Foundation
 summary: >+
-  विंडोज आइडेंटिटी फाउंडेशन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Identity Foundation [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

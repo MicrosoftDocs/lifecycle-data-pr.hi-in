@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: गतिशीलता C5 2008
-  description: गतिशीलता C5 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics C5 2008
+  description: Dynamics C5 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: fa21ee533af7b18e203b20be31a3cf453418a9ef
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820486"
-name: गतिशीलता C5 2008
+name: Dynamics C5 2008
 summary: >+
-  गतिशीलता C5 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics C5 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट ऑफिस और एसएपी के लिए युगल
-  description: माइक्रोसॉफ्ट ऑफिस और एसएपी के लिए ड्यूट फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Duet for Microsoft Office and SAP
+  description: Duet for Microsoft Office and SAP, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 7eb8ccf553c6adb14f39a87a103274110b34c656
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821309"
-name: माइक्रोसॉफ्ट ऑफिस और एसएपी के लिए युगल
+name: Duet for Microsoft Office and SAP
 summary: >+
-  माइक्रोसॉफ्ट ऑफिस और एसएपी के लिए ड्यूट [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Duet for Microsoft Office and SAP, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/28/2006
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [Sap](https://support.sap.com/index.html)\n\n> [!NOTE]\n> यह उत्पाद एसएपी द्वारा बेचा और समर्थित है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [SAP](https://support.sap.com/index.html)\n\n> [!NOTE]\n> यह उत्पाद SAP द्वारा बेचा और समर्थित किया जाता है."
