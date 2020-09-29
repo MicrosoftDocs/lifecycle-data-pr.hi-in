@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: कार्यालय XP
-  description: कार्यालय एक्सपी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Office XP
+  description: Office XP निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Developer,Professional,Proofing Tools,Standard,Web Components
   ms.openlocfilehash: 5f0e3d5738f2f2107926d4cfe9c46de77fa5a875
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928791"
-name: कार्यालय XP
+name: Office XP
 summary: >+
-  कार्यालय एक्सपी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Office XP [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, पेशेवर, प्रूफिंग टूल, स्टैंडर्ड, वेब कंपोनेंट्स
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेवलपर, प्रोफेशनल, प्रूफिंग टूल्स, स्टैंडर्ड, वेब कंपोनेंट्स
 
 products:
 - office

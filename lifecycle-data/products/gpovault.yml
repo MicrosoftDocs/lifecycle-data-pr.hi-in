@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: जीपीओवॉल्ट
-  description: जीपीओवाल्ट फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: GPOVault
+  description: GPOVault निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
   ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936006"
-name: जीपीओवॉल्ट
+name: GPOVault
 summary: >+
-  जीपीओवाल्ट [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  GPOVault [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है|
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: 1.0, 2.0, एंटरप्राइज 1.0, एंटरप्राइज 2.0

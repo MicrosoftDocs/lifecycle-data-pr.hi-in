@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 8.0 प्रोफेशनल एडिशन
-  description: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 8.0 प्रोफेशनल एडिशन फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Visual FoxPro 8.0 Professional Edition
+  description: Microsoft Visual FoxPro 8.0 Professional Edition निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Professional
   ms.openlocfilehash: f1a877392c50fc6e526869f7269b728b9dd727cd
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "929049"
-name: माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 8.0 प्रोफेशनल एडिशन
+name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
-  माइक्रोसॉफ्ट विजुअल फॉक्सप्रो 8.0 प्रोफेशनल एडिशन [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Visual FoxPro 8.0 Professional Edition [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: पेशेवर
+  यह निम्नलिखित संस्करणों पर लागू होता है: प्रोफेशनल
 
 products:
 - vs

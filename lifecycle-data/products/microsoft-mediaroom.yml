@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट मीडियारूम
-  description: माइक्रोसॉफ्ट मीडियारूम फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है ।
+  title: Microsoft मीडियारूम
+  description: Microsoft मीडियारूम निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Application Services 1.0,Client 2.0,Client 2.1,Server 2.0,Server 2.1
   ms.openlocfilehash: 5842b1725e7c5cbc964de743111a400d2b7de2b9
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930604"
-name: माइक्रोसॉफ्ट मीडियारूम
+name: Microsoft मीडियारूम
 summary: >+
-  माइक्रोसॉफ्ट मीडियारूम [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है ।
+  Microsoft मीडियारूम [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: आवेदन सेवाएं 1.0, ग्राहक 2.0, ग्राहक 2.1, सर्वर 2.0, सर्वर 2.1
+  यह निम्नलिखित संस्करणों पर लागू होता है: Application Services 1.0, Client 2.0, Client 2.1, Server 2.0, Server 2.1
 
 products:
 - windows
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 08/03/2010
-content: "\n\n> [!NOTE]\n> एरिक्सन ने २०१३ में माइक्रोसॉफ्ट मीडियारूम प्रॉडक्ट्स का अधिग्रहण किया था । अधिक जानकारी के लिए, कृपया [प्रेस विज्ञप्ति](http://www.ericsson.com/news/1691160)देखें । जिन ग्राहकों को समर्थन की आवश्यकता है, उनके लिए कृपया [यहां](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)जाएं ।\n> [!NOTE]\n> माइक्रोसॉफ्ट मीडियारूम क्लाइंट 2.1 27 दिसंबर, 2011 को जारी किया गया था। \n\n## <a name=\"editions\"></a>संस्करण \n* आवेदन सेवाएं 1.0\n* ग्राहक 2.0\n* ग्राहक 2.1\n* सर्वर 2.0\n* सर्वर 2.1"
+content: "\n\n> [!NOTE]\n> एरिक्सन ने 2013 में Microsoft मीडियारूम प्रॉडक्ट्स का अधिग्रहण किया था. अधिक जानकारी के लिए, कृपया [ प्रेस रिलीज़](http://www.ericsson.com/news/1691160) देखें. जिन ग्राहकों को समर्थन की आवश्यकता है, कृपया [यहां](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx) जाएं.\n> [!NOTE]\n> Microsoft मीडियारूम क्लाइंट 2.1  27 दिसंबर, 2011 को जारी किया गया था. \n\n## <a name=\"editions\"></a>संस्करण \n* एप्लीकेशन सर्विसेज 1.0\n* क्लाइंट 2.0\n* क्लाइंट 2.1\n* सर्वर 2.0\n* सर्वर 2.1"
