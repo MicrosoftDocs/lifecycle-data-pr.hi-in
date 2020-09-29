@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स सीआरएम 1.2
-  description: डायनेमिक्स सीआरएम 1.2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics CRM 1.2
+  description: Dynamics CRM 1.2 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 6b796f6d5794f461409c95641410a4e47f71cf3a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821185"
-name: डायनेमिक्स सीआरएम 1.2
+name: Dynamics CRM 1.2
 summary: >+
-  डायनेमिक्स सीआरएम 1.2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics CRM 1.2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन सांत्वना
-  description: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन कंसोल फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft Forefront सर्वर सुरक्षा प्रबंधन कंसोल
+  description: Microsoft Forefront सर्वर सुरक्षा प्रबंधन कंसोल, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 79937f95580b655b318e965e2ef659931323ff8d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "821042"
-name: माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन सांत्वना
+name: Microsoft Forefront सर्वर सुरक्षा प्रबंधन कंसोल
 summary: >+
-  माइक्रोसॉफ्ट सबसे आगे सर्वर सुरक्षा प्रबंधन कंसोल [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft Forefront सर्वर सुरक्षा प्रबंधन कंसोल, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
