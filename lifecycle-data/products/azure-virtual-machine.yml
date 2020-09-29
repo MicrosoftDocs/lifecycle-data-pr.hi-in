@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला वर्चुअल मशीन
-  description: नीला वर्चुअल मशीन आधुनिक जीवनचक्र नीति का पालन करती है।
+  title: Azure वर्चुअल मशीन
+  description: Azure वर्चुअल मशीन, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855441"
-name: नीला वर्चुअल मशीन
+name: Azure वर्चुअल मशीन
 summary: >+
-  नीला वर्चुअल मशीन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+  Azure वर्चुअल मशीन, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

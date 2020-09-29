@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: माइक्रोसॉफ्ट एसक्यूएल सर्वर कॉम्पैक्ट 4.0
-  description: माइक्रोसॉफ्ट एसक्यूएल सर्वर कॉम्पैक्ट 4.0 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Microsoft SQL Server Compact 4.0
+  description: Microsoft SQL Server Compact 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: de6079f5af03208deeed49266be523b5daf38777
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855429"
-name: माइक्रोसॉफ्ट एसक्यूएल सर्वर कॉम्पैक्ट 4.0
+name: Microsoft SQL Server Compact 4.0
 summary: >+
-  माइक्रोसॉफ्ट एसक्यूएल सर्वर कॉम्पैक्ट 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Microsoft SQL Server Compact 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

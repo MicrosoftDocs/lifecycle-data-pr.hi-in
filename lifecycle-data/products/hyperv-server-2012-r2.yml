@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: हाइपर-वी सर्वर 2012 R2
-  description: हाइपर-वी सर्वर 2012 आर 2 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Hyper-V Server 2012 R2
+  description: Hyper-V Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: b64900d0a04701e5f7f505d2234c43d520949d28
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855438"
-name: हाइपर-वी सर्वर 2012 R2
+name: Hyper-V Server 2012 R2
 summary: >+
-  हाइपर-वी सर्वर 2012 आर 2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Hyper-V Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

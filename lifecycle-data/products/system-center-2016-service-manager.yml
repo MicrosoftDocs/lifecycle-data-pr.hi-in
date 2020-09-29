@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर 2016 सेवा प्रबंधक
-  description: सिस्टम सेंटर 2016 सेवा प्रबंधक फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: सिस्टम सेंटर 2016 सर्विस मैनेजर
+  description: सिस्टम सेंटर 2016 सर्विस मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855686"
-name: सिस्टम सेंटर 2016 सेवा प्रबंधक
+name: सिस्टम सेंटर 2016 सर्विस मैनेजर
 summary: >+
-  सिस्टम सेंटर 2016 सेवा प्रबंधक [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  सिस्टम सेंटर 2016 सर्विस मैनेजर [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

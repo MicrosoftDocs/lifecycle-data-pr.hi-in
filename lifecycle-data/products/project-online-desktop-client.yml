@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: प्रोजेक्ट ऑनलाइन डेस्कटॉप क्लाइंट
-  description: प्रोजेक्ट ऑनलाइन डेस्कटॉप क्लाइंट आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Project Online Desktop Client
+  description: Project Online Desktop Client आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 2d87e5120f17d4b087c13f5947f9c099d4ed52a5
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855298"
-name: प्रोजेक्ट ऑनलाइन डेस्कटॉप क्लाइंट
+name: Project Online Desktop Client
 summary: >+
-  प्रोजेक्ट ऑनलाइन डेस्कटॉप क्लाइंट [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Project Online Desktop Client [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला शेड्यूलर
-  description: नीला शेड्यूलर आधुनिक जीवनचक्र नीति का पालन करता है।
+  title: Azure शेड्यूलर
+  description: Azure शेड्यूलर आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: c5e6273a70a409fc5947fb69ea6103e771128747
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855200"
-name: नीला शेड्यूलर
+name: Azure शेड्यूलर
 summary: >+
-  नीला शेड्यूलर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  Azure शेड्यूलर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

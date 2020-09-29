@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला सेवा कपड़े
-  description: नीला सेवा कपड़ा आधुनिक जीवन चक्र नीति का पालन करता है।
+  title: Azure सर्विस फेब्रिक
+  description: Azure सर्विस फेब्रिक आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855202"
-name: नीला सेवा कपड़े
+name: Azure सर्विस फेब्रिक
 summary: >+
-  नीला सेवा कपड़ा [आधुनिक](/lifecycle/policies/modern) जीवन चक्र नीति का पालन करता है।
+  Azure सर्विस फेब्रिक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

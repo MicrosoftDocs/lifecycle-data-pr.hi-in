@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: सिस्टम सेंटर 2016 आर्केस्ट्रा
-  description: सिस्टम सेंटर 2016 आर्केस्ट्रा फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: System Center 2016 Orchestrator
+  description: System Center 2016 Orchestrator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855687"
-name: सिस्टम सेंटर 2016 आर्केस्ट्रा
+name: System Center 2016 Orchestrator
 summary: >+
-  सिस्टम सेंटर 2016 आर्केस्ट्रा [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  System Center 2016 Orchestrator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

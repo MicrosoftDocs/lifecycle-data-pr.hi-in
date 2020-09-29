@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: डायनेमिक्स एनएवी 2017
-  description: डायनेमिक्स एनएवी 2017 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics NAV 2017
+  description: Dynamics NAV 2017 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855548"
-name: डायनेमिक्स एनएवी 2017
+name: Dynamics NAV 2017
 summary: >+
-  डायनेमिक्स एनएवी 2017 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics NAV 2017 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: विंडोज पतली पीसी
-  description: विंडोज थिन पीसी फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Windows Thin PC
+  description: Windows Thin PC निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 69f6537ffd5ab3d93b955bcaf9801eb52d241415
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855443"
-name: विंडोज पतली पीसी
+name: Windows Thin PC
 summary: >+
-  विंडोज थिन पीसी [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Windows Thin PC [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

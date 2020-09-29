@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: नीला StorSimple 1200 श्रृंखला
-  description: नीला StorSimple 1200 श्रृंखला फिक्स्ड जीवन चक्र नीति का पालन करता है।
+  title: Azure StorSimple 1200 सिरीज़
+  description: Azure StorSimple 1200 सिरीज़, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 82f3a04f6c89120819c1db952a04ddbd45d4f9c9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855209"
-name: नीला StorSimple 1200 श्रृंखला
+name: Azure StorSimple 1200 सिरीज़
 summary: >+
-  नीला StorSimple 1200 श्रृंखला [फिक्स्ड](/lifecycle/policies/fixed) जीवन चक्र नीति का पालन करता है।
+  Azure StorSimple 1200 सिरीज़, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

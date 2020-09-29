@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: एचपीसी पैक 2016
-  description: एचपीसी पैक 2016 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: HPC Pack 2016
+  description: HPC Pack 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 45a14db596d5a620bd4dc9ef761aa811de45e59b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855374"
-name: एचपीसी पैक 2016
+name: HPC Pack 2016
 summary: >+
-  एचपीसी पैक 2016 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  HPC Pack 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:

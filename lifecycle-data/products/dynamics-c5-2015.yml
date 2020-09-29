@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: गतिशीलता C5 2015
-  description: डायनेमिक्स C5 2015 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
+  title: Dynamics C5 2015
+  description: Dynamics C5 2015 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a63d2f744781d36a66b40bcdbd799cd7c425c1a
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "855471"
-name: गतिशीलता C5 2015
+name: Dynamics C5 2015
 summary: >+
-  डायनेमिक्स C5 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
+  Dynamics C5 2015 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
