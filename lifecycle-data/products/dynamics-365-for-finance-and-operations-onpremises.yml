@@ -2,14 +2,14 @@
 metadata:
   title: Dynamics 365 for Finance and Operations (on-premises)
   description: Dynamics 365 for Finance and Operations (on-premises), आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/10/2020
-  keywords: Enterprise
-  ms.openlocfilehash: 65ad35266d5329153f851710586cf21edb5ebcbe
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.date: 09/29/2020
+  keywords: 
+  ms.openlocfilehash: 9b879d2f0ced744707a538ea80b4eb7afc438518
+  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "999023"
+  ms.lasthandoff: 09/29/2020
+  ms.locfileid: "1048308"
 name: Dynamics 365 for Finance and Operations (on-premises)
 summary: >+
   Dynamics 365 for Finance and Operations (on-premises), [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -25,4 +25,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 06/15/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [निकाली गई या अवमानित सुविधाएँ ](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"
