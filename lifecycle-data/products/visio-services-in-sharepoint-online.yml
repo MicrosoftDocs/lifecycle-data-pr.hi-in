@@ -2,13 +2,14 @@
 metadata:
   title: 'SharePoint Online में Visio सेवाएँ '
   description: SharePoint Online में Visio सेवाएँ आधुनिक जीवनचक्र नीति का अनुसरण करती हैं.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a6c493769f21589c572611837326a9535f56840
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/30/2020
+  keywords: 
+  ms.openlocfilehash: 8342a5d72c4512c765678de4832fbdd6db39183b
+  ms.sourcegitcommit: 9d8ef68af3ec6c579708cb9c5698bcb042674ab3
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820566"
+  ms.lasthandoff: 09/30/2020
+  ms.locfileid: "1049782"
 name: 'SharePoint Online में Visio सेवाएँ '
 summary: >+
   SharePoint Online में Visio सेवाएँ [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करती हैं.
@@ -19,9 +20,9 @@ products:
 policyType: modern-online
 supportDates:
   start: 04/16/2010
-  end: 09/30/2020
+  end: 09/30/2021
 releases:
 - version: Original Release
   startDate: 04/16/2010
   endDate: 09/30/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Office-Retirement-Blog/Visio-Web-Access-aka-Visio-Services-Updates/ba-p/109541)"
+content: "\n\n> [!NOTE]\n> SharePoint Online (Visio Web Access) में Visio Services के लिए सेवानिवृत्ति की तिथि 30 सितंबर, 2020 से बढ़ा कर 30 सितंबर, 2021 कर दी गई है। अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541) जाएँ।"
