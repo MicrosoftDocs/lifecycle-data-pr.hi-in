@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics 365 Business Central ऑन-प्रीमाइसेस (आधुनिक नीति)
   description: Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/12/2020
-  ms.openlocfilehash: 6198004b9c681fb99e7c34f596c16bf08c588914
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.date: 10/19/2020
+  keywords: 
+  ms.openlocfilehash: 792031c3f92cb2ad7791442ef8428435b69dc2c1
+  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891955"
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "1160872"
 name: Dynamics 365 Business Central ऑन-प्रीमाइसेस (आधुनिक नीति)
 summary: >+
   Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -20,6 +21,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/01/2019
 releases:
+- version: 2020 release wave 2, version 17.x
+  startDate: 10/01/2020
+  endDate: 04/12/2022
 - version: 2020 release wave 1, version 16.x
   startDate: 04/01/2020
   endDate: 10/12/2021

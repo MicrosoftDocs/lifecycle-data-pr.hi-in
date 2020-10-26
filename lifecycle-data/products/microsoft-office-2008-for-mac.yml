@@ -4,12 +4,12 @@ metadata:
   description: Mac के लिए Microsoft Office 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Business,Home and Student,Special Media Editon
-  ms.openlocfilehash: 708930d55e4c8d9df663189a495412a170cef7d8
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ba599ca4191c7e1a219f31d77797c9799adeca7c
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936746"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162409"
 name: Microsoft Office 2008 for Mac
 summary: "Mac के लिए Microsoft Office 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
@@ -27,5 +27,5 @@ releases:
   endDate: 10/12/2010
 - version: Original Release
   startDate: 01/15/2008
-  endDate: 10/19/2009
+  endDate: 07/14/2009
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mac के लिए Office 2008 के विशेष मीडिया संपादन की आरंभ तिथि 12, मार्च 2008 है.\n\n## <a name=\"editions\"></a>संस्करण \n* Business\n* Home and Student\n* विशेष मीडिया संपादन"

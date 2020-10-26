@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/02/2020
-  keywords: Education,Enterprise
-  ms.openlocfilehash: 59831650f140b3a0c4b1e29a8b137a09549d71bd
-  ms.sourcegitcommit: 33a446990607d1c24303bd86e45d4e4de34e56a5
+  ms.date: 10/09/2020
+  keywords: 
+  ms.openlocfilehash: aafaec4e3b02f433224ea51446b8c18f4bd0c031
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "945183"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162520"
 name: Windows 10 Enterprise and Education
 summary: >
   Windows 10 Enterprise and Education [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -28,6 +28,9 @@ supportDates:
   start: 07/29/2015
   end: 10/14/2025
 releases:
+- version: Version 20H2
+  startDate: 10/20/2020
+  endDate: 05/09/2023
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
@@ -58,4 +61,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [उत्पाद की जानकारी](/windows/windows-10/)\n* [Windows का जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> अस्थगित न होने तक, अनुवर्ती Windows 10 अर्धवार्षिक चैनल सुविधा अद्यतन को मेनस्ट्रीम समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है.\n\n## <a name=\"editions\"></a>संस्करण \n* शिक्षा\n* Enterprise"
+content: "\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [उत्पाद की जानकारी](/windows/windows-10/)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> अस्थगित न होने तक, अनुवर्ती Windows 10 अर्धवार्षिक चैनल सुविधा अद्यतन को मेनस्ट्रीम समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है.\n\n## <a name=\"editions\"></a>संस्करण \n* शिक्षा\n* Enterprise"
