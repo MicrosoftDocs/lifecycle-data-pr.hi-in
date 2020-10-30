@@ -2,13 +2,14 @@
 metadata:
   title: Azure DevOps Server 2019
   description: Azure DevOps Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a15d9ba4c905a38a9743b959a5b36e8e3f24ec3b
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.date: 10/13/2020
+  keywords: 
+  ms.openlocfilehash: 66fd2b66222c53befd581ad8c566712f594e4936
+  ms.sourcegitcommit: ba0f6f0e9898cc2a567ae35ba5a94939a50fcce8
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869844"
+  ms.lasthandoff: 10/13/2020
+  ms.locfileid: "1151755"
 name: Azure DevOps Server 2019
 summary: >+
   Azure DevOps Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,7 +23,10 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Update 2019.1
+  startDate: 12/10/2019
+  endDate: 04/10/2029
 - version: Original Release
   startDate: 03/05/2019
-  endDate: 04/10/2029
-content: ''
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>लिंक \n* [Azure DevOps Server के लिए अवलोकन और अद्यतन जानकारी](/azure/devops/server/whats-new?view=azure-devops-2020&viewFallbackFrom=azure-devops)"

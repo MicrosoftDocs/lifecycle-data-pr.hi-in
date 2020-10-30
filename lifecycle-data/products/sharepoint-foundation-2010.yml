@@ -2,13 +2,14 @@
 metadata:
   title: SharePoint Foundation 2010
   description: SharePoint Foundation 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4e1bc498432d215ea8f84140c068054cf6c9c5cc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: 280f3157ee4cf5b5e9d0a3b2f3a597c3b4c6afbc
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820417"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162742"
 name: SharePoint Foundation 2010
 summary: >+
   SharePoint Foundation 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -31,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [समर्थन विस्तार](https://aka.ms/SharePoint/server/2010/supportextension)\n\n> [!NOTE]\n> इस उत्पाद की समर्थन तिथि 13 अक्टूबर, 2020 से बढ़ाकर 13 अप्रैल, 2021 कर दी गई है।"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [समर्थन विस्तार](https://aka.ms/SharePoint/server/2010/supportextension)\n* [Microsoft SharePoint Foundation 2010 डेवलपर दस्तावेज़ीकरण](/previous-versions/office/ee535067(v=office.14))\n* [Microsoft SharePoint Foundation 2010 उत्पाद दस्तावेज़ीकरण](/previous-versions/office/sharepoint-foundation-2010/cc288070(v=office.14))\n\n> [!NOTE]\n> इस उत्पाद की समर्थन तिथि 13 अक्टूबर, 2020 से बढ़ाकर 13 अप्रैल, 2021 कर दी गई है।"

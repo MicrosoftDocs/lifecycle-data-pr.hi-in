@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server के लिए AppFabric 1.1
+  description: Windows Server के लिए AppFabric 1.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 10/23/2020
+  keywords: 
+  ms.openlocfilehash: 4c3a099590b2e52a1e7dc039dc2dd8378012f473
+  ms.sourcegitcommit: d8b1db284677f98b7bec16144811251ac9a84958
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/24/2020
+  ms.locfileid: "1186497"
+name: Windows Server के लिए AppFabric 1.1
+summary: >+
+  Windows Server के लिए AppFabric 1.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 02/11/2012
+  end: 04/11/2017
+  extendedEnd: 04/12/2022
+releases:
+- version: Original Release
+  startDate: 02/11/2012
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र विस्तार](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)\n\n> [!NOTE]\n> Windows Server के लिए AppFabric 1.1 का समर्थन दिखाए गए दिनांक को समाप्त होता है, जब तक कि उसे SharePoint Server 2013, 2016, और 2019 के घटक के रूप में वितरित न किया जाए. घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"

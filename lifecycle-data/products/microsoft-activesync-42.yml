@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft ActiveSync 4.2
+  description: Microsoft ActiveSync 4.2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 615f4eda19b5cf36b6ab8a0d260e5e47c7192cd2
+  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/14/2020
+  ms.locfileid: "1154163"
+name: Microsoft ActiveSync 4.2
+summary: >+
+  Microsoft ActiveSync 4.2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 06/22/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/22/2006
+  endDate: 07/12/2016
+content: ''

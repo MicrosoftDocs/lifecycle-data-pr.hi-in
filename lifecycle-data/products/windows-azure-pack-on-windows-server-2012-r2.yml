@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Azure पैक (Windows Server 2012 R2 पर)
+  description: Windows Azure पैक (Windows Server 2012 R2 पर) निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 10/19/2020
+  keywords: 
+  ms.openlocfilehash: 38fe3e0f5e46d996504b594c78e8717330b720c0
+  ms.sourcegitcommit: 2898ade954d468d09e16a723f0685bbac5214be0
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "1160924"
+name: Windows Azure पैक (Windows Server 2012 R2 पर)
+summary: >+
+  Windows Azure पैक (Windows Server 2012 R2 पर) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Windows Server 2012 R2 पर
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/14/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: on Windows Server 2012 R2
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+- version: V2 Web Sites
+  startDate: 01/14/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Azure वेब साइट्स V2 समर्थन लाइफसाइकल दिनांक](https://azure.github.io/AppService/2017/01/19/Revisiting-Windows-Azure-Pack-Web-Sites-V2-Support-Lifecycle-Dates.html)\n* [Windows Server उत्पाद जानकारी के लिए Windows Azure पैक](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n\n## <a name=\"editions\"></a>संस्करण \n* Windows Server 2012 R2 पर"
