@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Dev Spaces
+  description: Azure Dev Spaces आधुनिक जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 10/23/2020
+  keywords: 
+  ms.openlocfilehash: 5515482a34b1ab76c4eeff99285a4ee92208fb74
+  ms.sourcegitcommit: d8b1db284677f98b7bec16144811251ac9a84958
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/24/2020
+  ms.locfileid: "1186549"
+name: Azure Dev Spaces
+summary: >+
+  Azure Dev Spaces [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 04/25/2019
+  end: 10/31/2023
+releases:
+- version: Original Release
+  startDate: 04/25/2019
+  endDate: 10/31/2023
+content: "\n\n> [!NOTE]\n> ग्राहकों को [Bridge to Kubernetes](https://docs.microsoft.com/azure/dev-spaces/migrate-to-bridge-to-kubernetes), एक क्लायंट डेवलपर टूल, पर माईग्रेट करना चाहिए."

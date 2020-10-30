@@ -2,13 +2,14 @@
 metadata:
   title: ऑनलाइन व्यवसाय के लिए Skype.
   description: ऑनलाइन व्यवसाय के लिए Skype आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 09/16/2020
+  keywords: ''
+  ms.openlocfilehash: bf59d0a69fe09d791e95560ef3c69de86814a9fd
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855595"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162187"
 name: ऑनलाइन व्यवसाय के लिए Skype.
 summary: >
   ऑनलाइन व्यवसाय के लिए Skype [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -17,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > यह सेवा 31 जुलाई 2021 को समाप्त होगी. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.
+  > यह सेवा 31 जुलाई 2021 को समाप्त होगी. माइग्रेशन मार्गदर्शन के लिए नीचे देखें. हाइब्रिड वॉइस परिनियोजन के प्रभाव के बारे में जानने के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/changes-ahead-for-cloud-connector-edition-and-hybrid-voice/ba-p/1650055) जाएँ.
 products:
 - office
 policyType: modern-online

@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/08/2020
-  keywords: ''
-  ms.openlocfilehash: 61de53b89d60be7cc06f265b571b5769f8053350
-  ms.sourcegitcommit: 6d5e18e0097383b5852f122a79a7dc045e1d0d8f
+  ms.date: 10/16/2020
+  keywords: 
+  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
+  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/08/2020
-  ms.locfileid: "983712"
+  ms.lasthandoff: 10/17/2020
+  ms.locfileid: "1158111"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > Microsoft 14 अक्टूबर, 2025 तक कम से कम एक  Windows 10 अर्धवार्षिक चैनल का समर्थन जारी रखेगा.
+  > इस उत्पाद की सेवा 10 नवंबर, 2020 को समाप्त हो रही है. समर्थन में बने रहने के लिए, कृपया IoT Core सेवाओं में माईग्रेट करें.
 products:
 - windows
 policyType: modern-on-prem
@@ -41,4 +41,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/windows/iot-core/windows-iot-core)\n* [Windows का जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> अस्थगित न होने तक, अनुवर्ती Windows 10 अर्धवार्षिक चैनल सुविधा अद्यतन को मेनस्ट्रीम समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है."
+content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows का जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)"
