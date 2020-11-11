@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Host Integration Server 2020
+  description: Microsoft Host Integration Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 11/02/2020
+  keywords: 
+  ms.openlocfilehash: 476c17a8c212343888995f4bfe6716bc38e17209
+  ms.sourcegitcommit: 666e3391f9e0cbbee1d094e37502b1cd4625a7c4
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/03/2020
+  ms.locfileid: "1228164"
+name: Microsoft Host Integration Server 2020
+summary: >+
+  Microsoft Host Integration Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/01/2020
+  end: 07/08/2025
+  extendedEnd: 07/09/2030
+releases:
+- version: Original Release
+  startDate: 06/01/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)"
