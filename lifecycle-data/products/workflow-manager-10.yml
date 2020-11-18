@@ -15,7 +15,7 @@ summary: >+
   Workflow Manager 1.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्न संस्करणों पर लागू होता है: कलाइंट, स्टैंडर्ड
+  यह निम्न संस्करणों पर लागू होता है: कलाइंट, Standard
 
 products:
 - vs
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/18/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [SharePoint 2016 सर्विसिंग जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 सर्विसिंग जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> जब वर्कफ़्लो मैनेजर SharePoint Server 2016 या SharePoint Server 2013 का घटक होता है, तो इसे संबंधित SharePoint Server संस्करण की समर्थन दिनांक के अंत के अनुसार समर्थित किया जाएगा.\n\n## <a name=\"editions\"></a>संस्करण \n* क्लायंट\n* Standard"
+content: "\n## <a name=\"links\"></a>लिंक \n* [SharePoint 2016 सर्विसिंग जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [SharePoint 2013 सर्विसिंग जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> जब Workflow Manager SharePoint Server 2016 या SharePoint Server 2013 का घटक होता है, तो इसे संबंधित SharePoint Server संस्करण की समर्थन दिनांक के अंत के अनुसार समर्थित किया जाएगा.\n\n## <a name=\"editions\"></a>संस्करण \n* क्लायंट\n* Standard"
