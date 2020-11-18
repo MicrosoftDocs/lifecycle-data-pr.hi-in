@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस
-  description: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस नियत जीवनचक्र नीति का पालन करता है.
+  title: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
+  description: Microsoft SQL Server 2008 R2 Parallel Data Warehouse नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
   ms.openlocfilehash: 8296e0c784226bc26fbb70bc8fb62f9925fa648d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
@@ -9,9 +9,9 @@ metadata:
   ms.contentlocale: hi-IN
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "820669"
-name: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस
+name: Microsoft SQL Server 2008 R2 Parallel Data Warehouse
 summary: >+
-  Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+  Microsoft SQL Server 2008 R2 Parallel Data Warehouse [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:

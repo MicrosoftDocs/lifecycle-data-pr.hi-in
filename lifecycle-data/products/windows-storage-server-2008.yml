@@ -35,4 +35,4 @@ releases:
 - version: Service Pack 2
   startDate: 07/19/2009
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* बेसिक 32-बिट\n* बेसिक 64-बिट\n* बेसिक एम्बेडेड\n* बेसिक एम्बेडेड 32-बिट\n* Enterprise\n* एंटरप्राइज एम्बेडेड\n* Standard\n* स्टैंडर्ड एम्बेडेड\n* वर्कग्रुप"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* बेसिक 32-बिट\n* बेसिक 64-बिट\n* बेसिक Embedded\n* बेसिक Embedded 32-बिट\n* Enterprise\n* Enterprise Embedded\n* Standard\n* स्टैंडर्ड Embedded\n* वर्कग्रुप"

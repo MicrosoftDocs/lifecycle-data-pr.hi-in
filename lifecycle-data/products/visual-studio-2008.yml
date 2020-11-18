@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: सभी, Pro w/MSDN Premium, Professional, Professional w/MSDN, टीम सुइट, टीम परिक्षण लोड एजेंट, VB एक्सप्रेस, Visual Basic एक्सप्रेस, Visual C# एक्सप्रेस, Visual C++ एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी, Pro w/MSDN Premium, Professional, Professional w/MSDN, टीम सुइट, टीम परिक्षण लोड एजेंट, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual वेब डेवलपर Express
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ एक्सप्रेस, Visual C# एक्सप्रेस, VB एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस, और Visual Studio Team System के संस्करण शामिल\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* VB एक्सप्रेस\n* Visual Basic एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ Express, Visual C# Express, VB Express, Visual वेब डेवलपर Express, और Visual Studio Team System के संस्करण शामिल\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual वेब डेवलपर Express"

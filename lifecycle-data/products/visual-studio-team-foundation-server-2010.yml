@@ -1,6 +1,6 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visual Studio टीम फाउंडेशन सर्वर 2010
+  title: Visual Studio Team Foundation Server 2010
   description: 'Visual Studio Team Foundation Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 09/10/2020
   keywords: All applicable,External Connector
@@ -10,7 +10,7 @@ metadata:
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "1000059"
-name: Visual Studio टीम फाउंडेशन सर्वर 2010
+name: Visual Studio Team Foundation Server 2010
 summary: "Visual Studio Team Foundation Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, बाह्य कनेक्टर\n\n"
 products:
 - vs

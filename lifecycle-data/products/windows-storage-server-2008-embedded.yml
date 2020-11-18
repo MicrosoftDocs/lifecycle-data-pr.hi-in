@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008 एम्बेडेड
-  description: Windows Storage Server 2008 एम्बेडेड फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
+  title: Windows Storage Server 2008 Embedded
+  description: Windows Storage Server 2008 Embedded फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
   ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939077"
-name: Windows Storage Server 2008 एम्बेडेड
+name: Windows Storage Server 2008 Embedded
 summary: >+
-  Windows Storage Server 2008 एम्बेडेड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
+  Windows Storage Server 2008 Embedded [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: 32 बिट, 64 बिट, बेसिक, बेसिक 32-बिट, एंटरप्राइज, स्टैंडर्ड, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: 32 बिट, 64 बिट, बेसिक, बेसिक 32-बिट, Enterprise, स्टैंडर्ड, वर्कग्रुप
 
 products:
 - windows

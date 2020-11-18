@@ -38,4 +38,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Developer\n* Enterprise\n* Standard"

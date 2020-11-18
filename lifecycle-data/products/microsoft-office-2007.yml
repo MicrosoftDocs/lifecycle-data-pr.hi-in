@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* Enterprise\n* Home and Student\n* बहु-भाषा पैक\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* Enterprise\n* Home and Student\n* Multi Language Pack\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
