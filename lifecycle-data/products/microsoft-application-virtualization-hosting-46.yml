@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.6
-  description: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.6 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
+  title: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 4.6
+  description: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 4.6 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
   ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
@@ -10,9 +10,9 @@ metadata:
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935451"
-name: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.6
+name: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 4.6
 summary: >+
-  Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 4.6 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल का पालन करता है.
+  Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 4.6 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल का पालन करता है.
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Windows डेस्कटॉप के लिए

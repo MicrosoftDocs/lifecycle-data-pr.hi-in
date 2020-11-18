@@ -1,7 +1,7 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Connected Services फ़्रेमवर्क 3.0
-  description: Microsoft Connected Services फ़्रेमवर्क 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  title: Microsoft Connected Services Framework 3.0
+  description: Microsoft Connected Services Framework 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Billing Standard Business Event,Order Handling Standard Business Event,Server,Standard,Standard Server with Standard Business Events
   ms.openlocfilehash: e9592f59a0c2be51336c7bcc16312cc0cf90686b
@@ -10,12 +10,12 @@ metadata:
   ms.contentlocale: hi-IN
   ms.lasthandoff: 09/10/2020
   ms.locfileid: "999985"
-name: Microsoft Connected Services फ़्रेमवर्क 3.0
+name: Microsoft Connected Services Framework 3.0
 summary: >+
-  Microsoft Connected Services फ़्रेमवर्क 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+  Microsoft Connected Services Framework 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server with Standard Business Events
+  यह निम्नलिखित संस्करणों पर लागू होता है: Billing Standard Business Event, Order Handling Standard Business Event, Server, Standard, Standard Server के साथ Standard Business Events
 
 products:
 - connected-services-framework
