@@ -2,20 +2,20 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESGH,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSGH,PSM,Remote Tools,Team Explorer,Visual C++ Redistributable
-  ms.openlocfilehash: 944f1805bb73b6937043cdb30b72b59732fe5e1c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 12/08/2020
+  keywords: 
+  ms.openlocfilehash: b0c62a885196785982c3d308a9088d4baee93e7a
+  ms.sourcegitcommit: 3ab84f41d3282b710920b60cd302c8c52d9c6808
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937301"
+  ms.lasthandoff: 12/09/2020
+  ms.locfileid: "1338275"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: Agents, Build Tools, Community, Enterprise, ESGH, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSGH, PSM, Remote Tools, Team Explorer, Visual C++ Redistributable
+  यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, बिल्ड टूल्स, कम्यूनिटी, एंटरप्राइज, Mac के लिए, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, प्रोफेशनल, रिमोट टूल्स, Team एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य
 
 products:
 - vs
@@ -25,10 +25,13 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.7
+  startDate: 08/05/2020
+  endDate: 04/10/2029
 - version: Version 16.4
   startDate: 12/03/2019
-  endDate: 04/10/2029
+  endDate: 10/12/2021
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/tis-the-season-visual-studio-2019/)\n* [सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* ESGH\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* PSGH\n* PSM\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* Visual C++ पुनर्वितरण योग्य"
+content: "\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 डाउनलोड पृष्ठ](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 रिलीज़ नोट्स](/visualstudio/releases/2019/release-notes)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* Visual C++ पुनर्वितरण योग्य"
