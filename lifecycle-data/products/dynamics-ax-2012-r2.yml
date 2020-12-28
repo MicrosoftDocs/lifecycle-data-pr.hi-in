@@ -2,13 +2,14 @@
 metadata:
   title: Dynamics AX 2012 R2
   description: Dynamics AX 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 12/17/2020
+  keywords: 
+  ms.openlocfilehash: 692e77796e74b3dc826fcb3b21fa110d8e3485b2
+  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855479"
+  ms.lasthandoff: 12/18/2020
+  ms.locfileid: "1348225"
 name: Dynamics AX 2012 R2
 summary: >+
   Dynamics AX 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -20,9 +21,9 @@ policyType: fixed
 supportDates:
   start: 02/19/2013
   end: 10/09/2018
-  extendedEnd: 10/12/2021
+  extendedEnd: 04/12/2022
 releases:
 - version: Original Release
   startDate: 02/19/2013
-  endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> दिखाए गए अनुसार मेनस्ट्रीम सपोर्ट को बढ़ा दिया गया है।"
+  endDate: 04/12/2022
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> Dynamics AX 2012 और Dynamics AX R2 के लिए समर्थन की समाप्ति 12 अक्टूबर, 2021 से बढ़ाकर 12 अप्रैल, 2022 कर दी गई थी."
