@@ -1,25 +1,25 @@
 ---
 title: जीवनचक्र डेटा निर्यात
 description: निर्यात उत्पाद जीवनचक्र सूचना
-ms.date: 11/29/2020
+ms.date: 01/06/2021
 layout: ContentPage
-ms.openlocfilehash: 210af0cf60630cbdbf43847641022283aca78366
-ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+ms.openlocfilehash: 4a27cd96ddaa1b3d128d9f1d711504d88c28e36e
+ms.sourcegitcommit: f24c8653f7fd67e5b3f9f41e17b47edcecb5856e
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "1335886"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "1367565"
 ---
-# <a name="lifecycle-data-export"></a><span data-ttu-id="ee1d5-103">जीवनचक्र डेटा निर्यात</span><span class="sxs-lookup"><span data-stu-id="ee1d5-103">Lifecycle data export</span></span>
+# <a name="lifecycle-data-export"></a><span data-ttu-id="0d9b9-103">जीवनचक्र डेटा निर्यात</span><span class="sxs-lookup"><span data-stu-id="0d9b9-103">Lifecycle data export</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="ee1d5-104">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="ee1d5-104">Export all products</span></span>
-<span data-ttu-id="ee1d5-105">नीचे क्लिक करके सभी उत्पादों के लिए जीवनचक्र डेटा निर्यात करें:</span><span class="sxs-lookup"><span data-stu-id="ee1d5-105">Export lifecycle data for all products by clicking below:</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="0d9b9-104">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="0d9b9-104">Export all products</span></span>
+<span data-ttu-id="0d9b9-105">नीचे क्लिक करके सभी उत्पादों के लिए जीवनचक्र डेटा निर्यात करें:</span><span class="sxs-lookup"><span data-stu-id="0d9b9-105">Export lifecycle data for all products by clicking below:</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="ee1d5-106">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="ee1d5-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="0d9b9-106">सभी उत्पादों का निर्यात करें</span><span class="sxs-lookup"><span data-stu-id="0d9b9-106">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a><span data-ttu-id="ee1d5-107">परिवार और समूह द्वारा उत्पाद निर्यात करें।  </span><span class="sxs-lookup"><span data-stu-id="ee1d5-107">Export products by Family and Group</span></span>
-<span data-ttu-id="ee1d5-108">निर्यात करने के लिए एक परिवार का और फिर एक समूह का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="ee1d5-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="ee1d5-109">नोट: समूह मूल्य का चयन होने पर निर्यात शुरू हो जाएगा।</span><span class="sxs-lookup"><span data-stu-id="ee1d5-109">Note: Export will begin when Group value is selected.</span></span> 
+## <a name="export-products-by-family-and-group"></a><span data-ttu-id="0d9b9-107">परिवार और समूह द्वारा उत्पाद निर्यात करें।  </span><span class="sxs-lookup"><span data-stu-id="0d9b9-107">Export products by Family and Group</span></span>
+<span data-ttu-id="0d9b9-108">निर्यात करने के लिए एक परिवार का और फिर एक समूह का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="0d9b9-108">Select a Family and then a Group to export.</span></span> <span data-ttu-id="0d9b9-109">नोट: समूह मूल्य का चयन होने पर निर्यात शुरू हो जाएगा।</span><span class="sxs-lookup"><span data-stu-id="0d9b9-109">Note: Export will begin when Group value is selected.</span></span> 
 
 > [!div class="op_multi_selector" title1="परिवार" title2="समूह"]
 > - [(.NET |सभी)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='.NET'))
@@ -81,13 +81,12 @@ ms.locfileid: "1335886"
 > - [(विंडोज । सुरक्षा)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Security'))
 > - [ (विंडोज | सर्वर) ](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Windows',group='Server'))
 
-## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="ee1d5-170">समर्थन तिथि के अंत तक उत्पाद निर्यात</span><span class="sxs-lookup"><span data-stu-id="ee1d5-170">Export products by end of support date</span></span>
-<span data-ttu-id="ee1d5-171">समर्थन के अंत तक पहुंचने वाले उत्पादों को देखने के लिए वर्ष का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="ee1d5-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="ee1d5-172">नोट: वर्ष मूल्य का चयन होने पर निर्यात शुरू हो जाएगा।</span><span class="sxs-lookup"><span data-stu-id="ee1d5-172">Note: Export will begin when Year value is selected.</span></span>
+## <a name="export-products-by-end-of-support-date"></a><span data-ttu-id="0d9b9-170">समर्थन तिथि के अंत तक उत्पाद निर्यात</span><span class="sxs-lookup"><span data-stu-id="0d9b9-170">Export products by end of support date</span></span>
+<span data-ttu-id="0d9b9-171">समर्थन के अंत तक पहुंचने वाले उत्पादों को देखने के लिए वर्ष का चयन करें।</span><span class="sxs-lookup"><span data-stu-id="0d9b9-171">Select a year to see products reaching the end of support.</span></span> <span data-ttu-id="0d9b9-172">नोट: वर्ष मूल्य का चयन होने पर निर्यात शुरू हो जाएगा।</span><span class="sxs-lookup"><span data-stu-id="0d9b9-172">Note: Export will begin when Year value is selected.</span></span>
 
 > [!div class="op_single_selector"]
 > - [अगले 12 महीने](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=12))
 > - [अगले 6 महीने](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportMonths=6))
-> - [2015](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2015))
 > - [2016](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2016))
 > - [2017](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2017))
 > - [2018](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2018))
