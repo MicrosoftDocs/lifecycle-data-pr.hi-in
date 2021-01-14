@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 10/16/2020
+  ms.date: 01/07/2021
   keywords: 
-  ms.openlocfilehash: 3893a58a054c3596d50f70244fe96b3bb5659df9
-  ms.sourcegitcommit: 3e26c892fea0b6f55cd4d050f1454019e9125ef9
+  ms.openlocfilehash: 0eb6508d3bae724e55598450d6aeb156ad727048
+  ms.sourcegitcommit: 699a750c1174c44e9aca20f79e837d8cd401de71
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/17/2020
-  ms.locfileid: "1158111"
+  ms.lasthandoff: 01/07/2021
+  ms.locfileid: "1369493"
 name: Windows 10 IoT Core
 summary: >
   Windows 10 IoT Core [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,7 +18,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > इस उत्पाद की सेवा 10 नवंबर, 2020 को समाप्त हो रही है. समर्थन में बने रहने के लिए, कृपया IoT Core सेवाओं में माईग्रेट करें.
+  > इस उत्पाद की सेवा 10 नवंबर, 2020 को समाप्त होचुकी है. समर्थन में बने रहने के लिए, कृपया [IoT Core सेवाओं](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal) में माईग्रेट करें.
 products:
 - windows
 policyType: modern-on-prem
