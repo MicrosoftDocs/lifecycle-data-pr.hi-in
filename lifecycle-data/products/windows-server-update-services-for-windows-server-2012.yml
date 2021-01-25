@@ -2,13 +2,14 @@
 metadata:
   title: Windows Server 2012 के लिए Windows Server अद्यतन सेवाएं
   description: Windows Server 2012 के लिए Windows Server अद्यतन सेवाएं घटक लाइफसाइकल नीति का पालन करती हैं.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 4c901f9ed6f882c8009f8c6ea1df3cf55ac81d7c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 01/22/2021
+  keywords: 
+  ms.openlocfilehash: 6982a7f3e59967b7daddc7dd0ba73bd112e0d81a
+  ms.sourcegitcommit: cea6a4b7fe734aba8b534ecdef302cb56c5f7cca
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855575"
+  ms.lasthandoff: 01/23/2021
+  ms.locfileid: "1416714"
 name: Windows Server 2012 के लिए Windows Server अद्यतन सेवाएं
 summary: >+
   Windows Server 2012 के लिए Windows Server अद्यतन सेवाएं [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकल नीति का पालन करती हैं.
@@ -19,11 +20,9 @@ products:
 policyType: component
 supportDates:
   start: 10/30/2012
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: >-
-  > [!TIP]
-
-  > यह घटक अपने मूल उत्पाद, Windows Server 2012 के लाइफसाइकल का अनुसरण करता है.
+content: "\n\n> [!NOTE]\n> यह घटक अपने मूल उत्पाद, Windows Server 2012 के लाइफसाइकल का अनुसरण करता है."
