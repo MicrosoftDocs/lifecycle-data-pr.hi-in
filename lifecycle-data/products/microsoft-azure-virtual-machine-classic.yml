@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Azure वर्चुअल मशीन (क्लासिक) (प्रकाशित करने से पहले Azure से पुष्टि करें - तिथि ग्रिड पर कोई अंतिम तिथि नहीं)
-  description: Microsoft Azure वर्चुअल मशीन (क्लासिक) (प्रकाशित करने से पहले Azure से पुष्टि करें - तिथि ग्रिड पर कोई अंतिम तिथि नहीं), आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Azure वर्चुअल मशीन (क्लासिक)
+  description: Microsoft Azure वर्चुअल मशीन (क्लासिक) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 01/21/2021
+  keywords: 
+  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
+  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855534"
-name: Microsoft Azure वर्चुअल मशीन (क्लासिक) (प्रकाशित करने से पहले Azure से पुष्टि करें - तिथि ग्रिड पर कोई अंतिम तिथि नहीं)
+  ms.lasthandoff: 01/21/2021
+  ms.locfileid: "1416317"
+name: Microsoft Azure वर्चुअल मशीन (क्लासिक)
 summary: >+
-  Microsoft Azure वर्चुअल मशीन (क्लासिक) (प्रकाशित करने से पहले Azure से पुष्टि करें - तिथि ग्रिड पर कोई अंतिम तिथि नहीं), [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+  Microsoft Azure वर्चुअल मशीन (क्लासिक) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
