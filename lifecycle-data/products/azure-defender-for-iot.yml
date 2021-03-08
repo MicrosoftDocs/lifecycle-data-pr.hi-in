@@ -2,14 +2,14 @@
 metadata:
   title: 'IoT के लिए Azure Defender  '
   description: IoT के लिए Azure Defender आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 01/21/2021
+  ms.date: 02/24/2021
   keywords: 
-  ms.openlocfilehash: 28bc5df644a746cb65fd14a284a53271673b43b4
-  ms.sourcegitcommit: ffa04eb30e10bcb221fe81620a904f87ea6c2df2
+  ms.openlocfilehash: 0db692db7dd7d7fb248baecfcbaef3b4cc2cadfa
+  ms.sourcegitcommit: 222ed88a41f7bfe4a9382b99a44b7ce8babc6f51
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 02/17/2021
-  ms.locfileid: "1449556"
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "1453632"
 name: 'IoT के लिए Azure Defender  '
 summary: >+
   IoT के लिए Azure Defender [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -23,4 +23,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/04/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग दिशानिर्देश](/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history#servicing-information-and-timelines)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग दिशानिर्देश](/azure/defender-for-iot/support-policies)"

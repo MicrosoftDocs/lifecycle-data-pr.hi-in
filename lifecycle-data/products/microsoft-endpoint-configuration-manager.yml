@@ -2,14 +2,14 @@
 metadata:
   title: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
   description: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 01/14/2021
+  ms.date: 02/24/2021
   keywords: SCCM,System Center Configuration Manager
-  ms.openlocfilehash: 6ddd93f9daf110d7dd44b2d2e9bb5edc5c20ef37
-  ms.sourcegitcommit: 997a0917246bb1fd8acb1cc4477fa5154a5849dd
+  ms.openlocfilehash: 4821cc920deb11fa6c8c5318a4e383736a447331
+  ms.sourcegitcommit: 222ed88a41f7bfe4a9382b99a44b7ce8babc6f51
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 01/14/2021
-  ms.locfileid: "1378479"
+  ms.lasthandoff: 03/04/2021
+  ms.locfileid: "1453669"
 name: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
 summary: >
   Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -25,6 +25,12 @@ policyType: modern-on-prem
 supportDates:
   start: 12/08/2015
 releases:
+- version: Version 2010
+  startDate: 11/30/2020
+  endDate: 05/30/2022
+- version: Version 2006
+  startDate: 08/11/2020
+  endDate: 02/11/2022
 - version: Version 2002
   startDate: 04/01/2020
   endDate: 10/01/2021
