@@ -2,13 +2,14 @@
 metadata:
   title: Microsoft System Center 2012 R2 Configuration Manager
   description: 'Microsoft System Center 2012 R2 Configuration Manager निश्चित जीवनचक्र नीति का अनुसरण करता है। '
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/12/2021
+  keywords: 
+  ms.openlocfilehash: b9a1c0fa5804c5929f39f72816e86e49c739d281
+  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855306"
+  ms.lasthandoff: 03/12/2021
+  ms.locfileid: "1462908"
 name: Microsoft System Center 2012 R2 Configuration Manager
 summary: "Microsoft System Center 2012 R2 Configuration Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Configuration Manager के लिए दस्तावेजीकरण ](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Configuration Manager के लिए दस्तावेजीकरण ](/mem/configmgr/core/misc/online-documentation)\n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/configuration-manager-blog/system-center-2012-configuration-manager-is-approaching-end-of/ba-p/1650899)"
