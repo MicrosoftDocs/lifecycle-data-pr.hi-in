@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 12/08/2020
+  ms.date: 03/16/2021
   keywords: 
-  ms.openlocfilehash: b0c62a885196785982c3d308a9088d4baee93e7a
-  ms.sourcegitcommit: 3ab84f41d3282b710920b60cd302c8c52d9c6808
+  ms.openlocfilehash: 40a1aeb6c0659068e66340e01c6bbd46ab78e02d
+  ms.sourcegitcommit: 37317d5863338c67e82e6e317513c3ad5f6ba01e
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 12/09/2020
-  ms.locfileid: "1338275"
+  ms.lasthandoff: 03/16/2021
+  ms.locfileid: "1480926"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -25,9 +25,11 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.9
+  startDate: 03/02/2021
 - version: Version 16.7
   startDate: 08/05/2020
-  endDate: 04/10/2029
+  endDate: 04/12/2022
 - version: Version 16.4
   startDate: 12/03/2019
   endDate: 10/12/2021
