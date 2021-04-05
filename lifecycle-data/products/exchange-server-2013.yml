@@ -2,14 +2,14 @@
 metadata:
   title: Exchange Server 2013
   description: Exchange Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 03/30/2021
+  keywords: 
+  ms.openlocfilehash: 88cd46d7a3749f2db78a9091bd880cdcaf2c57df
+  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931307"
+  ms.lasthandoff: 04/01/2021
+  ms.locfileid: "1538105"
 name: Exchange Server 2013
 summary: >+
   Exchange Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग दिशानिर्देश](https://technet.microsoft.com/library/jj907309%28v)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग दिशानिर्देश](/exchange/updates-for-exchange-2013-exchange-2013-help)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
