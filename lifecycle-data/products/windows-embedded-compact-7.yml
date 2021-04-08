@@ -2,13 +2,14 @@
 metadata:
   title: Windows एम्बेडेड कॉम्पैक्ट 7
   description: Windows एम्बेडेड कॉम्पैक्ट 7 नियत जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.date: 03/31/2021
+  keywords: 
+  ms.openlocfilehash: 633bb4461538e538075e6d103604a5865a546693
+  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855614"
+  ms.lasthandoff: 04/01/2021
+  ms.locfileid: "1538068"
 name: Windows एम्बेडेड कॉम्पैक्ट 7
 summary: >+
   Windows एम्बेडेड कॉम्पैक्ट 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन विकल्प - Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [माइग्रेशन विकल्प - Windows CE App Container](/windows/iot/windows_ce/windows-ce-app-container-overview)"
