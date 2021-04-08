@@ -1,0 +1,26 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Edge WebView2
+  description: Microsoft Edge WebView2 आधुनिक जीवनचक्र नीति का पालन करता है.
+  ms.date: 03/31/2021
+  keywords: 
+  ms.openlocfilehash: dda674ccf381dcb320c21bed9557c3724c102f15
+  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 04/01/2021
+  ms.locfileid: "1538157"
+name: Microsoft Edge WebView2
+summary: >+
+  Microsoft Edge WebView2 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
+
+
+products:
+- microsoft-edge
+policyType: modern-online
+supportDates:
+  start: 10/19/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2020
+content: "\n## <a name=\"links\"></a>लिंक \n* [WebView2 वितरण](/microsoft-edge/webview2/concepts/distribution)\n\n> [!NOTE]\n> WebView2 उसी जीवनचक्र का पालन करता है, जिस जीवन चक्र का पालन [Microsoft Edge](https://docs.microsoft.com/lifecycle/products/microsoft-edge) करता है."
