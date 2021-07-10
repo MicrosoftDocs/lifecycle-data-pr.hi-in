@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET फ़्रेमवर्क
   description: Microsoft .NET फ़्रेमवर्क घटक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347384"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029470"
 name: Microsoft .NET फ़्रेमवर्क
-summary: >+
+summary: >
   Microsoft .NET फ़्रेमवर्क [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
+  > [!IMPORTANT]
+
+  > .NET फ़्रेमवर्क 4.5.2, 4.6, और 4.61 26 अप्रैल, 2022 को रिटायर हो रहे हैं. इन विशिष्ट रिलीज़ों पर पहले सुरक्षित हैश एल्गोरिथ्म (SHA-1) प्रमाण पत्र का उपयोग कर हस्ताक्षर किए गए थे. इस एल्गोरिदम को अब सुरक्षित नहीं समझा जाता है. ग्राहकों को SHA-2 में जाने के लिए प्रोत्साहित किया जाता है. अधिक जानकारी के लिए [यहाँ](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) जाएँ.
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET फ़्रेमवर्क 3.5 सर्विस पैक 1 (SP1), निश्चित नीति का अनुसरण करने वाला एक स्टैंडअलोन उत्पाद है, जिसकी शुरुआत Windows 10 संस्करण 1809 और Windows Server 2019 से होती है. इससे पहले, .NET फ़्रेमवर्क 3.5 SP1 को Windows ऑपरेटिंग सिस्टम का एक घटक माना जाता है, जिस पर इसे स्थापित किया गया है."
+content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [उत्पाद की जानकारी](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET फ़्रेमवर्क 4.5.2, 4.6, 4.61 को रिटायर करेगा](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET फ़्रेमवर्क 3.5 सर्विस पैक 1 (SP1), निश्चित नीति का अनुसरण करने वाला एक स्टैंडअलोन उत्पाद है, जिसकी शुरुआत Windows 10 संस्करण 1809 और Windows Server 2019 से होती है. इससे पहले, .NET फ़्रेमवर्क 3.5 SP1 को Windows ऑपरेटिंग सिस्टम का एक घटक माना जाता है, जिस पर इसे स्थापित किया गया है."
