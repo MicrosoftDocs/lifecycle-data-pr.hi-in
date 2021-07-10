@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 01/08/2021
-  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Tools for Office System 4.0 Runtime (VSTO),Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
-  ms.openlocfilehash: 3be7da8e44781d5d6f8224f368939d01c2aa791f
-  ms.sourcegitcommit: f421264e594745037c28e9666463fd92fd55fdec
+  ms.date: 05/28/2021
+  keywords: vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK
+  ms.openlocfilehash: 3458cbccdbd3a27120cadd0dcc0df44834425297
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 01/08/2021
-  ms.locfileid: "1375251"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029951"
 name: Visual Studio 2010
 summary: >+
   Visual Studio 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   यह निम्नलिखित संस्करणों पर लागू होता है: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+
 
 products:
 - vs
@@ -31,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* सभी\n* ASP .NET MVC 4\n* एक्सप्रेस\n* F# 2.0 रनटाइम\n* प्रयोगशाला प्रबंधन\n* परफॉर्मेंस टूल्स\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* रिमोट डिबगर\n* SDK\n* Shell (एकीकृत)\n* Shell (अलग)\n* टीम एजेंट\n* टीम एक्सप्लोरर\n* परीक्षण प्रोफेशनल\n* Office System 4.0 रनटाइम के लिए टूल (VSTO)\n* Ultimate\n* MSDN के साथ Ultimate\n* Visual Basic एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस\n* विज़ुअलाइलेशन और मॉडलिंग SDK"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Visual Studio 2010 Tools for Office (VSTO) रनटाइम Visual Studio और Microsoft Office के विभिन्न संस्करणों के साथ आता है और मूल उत्पाद के जीवनचक्र का अनुसरण करता है. इसे [यहां](https://www.microsoft.com/download/details.aspx?id=56961) अलग से भी डाउनलोड किया जा सकता है.\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* सभी\n* ASP .NET MVC 4\n* एक्सप्रेस\n* F# 2.0 रनटाइम\n* प्रयोगशाला प्रबंधन\n* परफॉर्मेंस टूल्स\n* Premium\n* Professional\n* Professional w/MSDN \n* PSM\n* रिमोट डिबगर\n* SDK\n* Shell (एकीकृत)\n* Shell (अलग)\n* टीम एजेंट\n* टीम एक्सप्लोरर\n* परीक्षण प्रोफेशनल\n* Ultimate\n* MSDN के साथ Ultimate\n* Visual Basic एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस\n* विज़ुअलाइलेशन और मॉडलिंग SDK"

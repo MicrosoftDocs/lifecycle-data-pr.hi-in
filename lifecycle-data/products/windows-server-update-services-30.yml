@@ -2,22 +2,26 @@
 metadata:
   title: Windows Server Update Services 3.0
   description: Windows Server Update Services 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 05/28/2021
+  keywords: 
+  ms.openlocfilehash: 023eb852bc7c97e08a6a1d3602ed673e0ee660c1
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821267"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029803"
 name: Windows Server Update Services 3.0
-summary: >
+summary: >+
   Windows Server Update Services 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
 
 
 
   > [!IMPORTANT]
 
-  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
+  > समर्थन समाप्त हो गया है. कृपया ध्यान दें कि WSUS 3.0 SP2 अधिक सुरक्षित TLS 1.2 क्रिप्टोग्राफ़िक प्रोटोकॉल का समर्थन नहीं करता है. कोई भी संगठन जो अभी भी WSUS 3.0 SP2 का उपयोग कर रहा है, उसे 31 अक्टूबर, 2021 तक WSUS के समर्थित संस्करण में माइग्रेट करना होगा.
+
 products:
 - windows
 policyType: fixed
@@ -35,4 +39,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> समर्थन 7/11/2017 से 1/14/2020 तक बढ़ाया गया था."
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> समर्थन 7/11/2017 से 1/14/2020 तक बढ़ाया गया था."

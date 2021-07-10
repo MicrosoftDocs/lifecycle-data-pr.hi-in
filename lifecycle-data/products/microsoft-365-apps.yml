@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft 365 Apps
+  description: Microsoft 365 Apps आधुनिक जीवनचक्र नीति का अनुसरण करते हैं.
+  ms.date: 04/07/2021
+  keywords: Office 365 Business,Office 365 ProPlus,for business,for enterprise
+  ms.openlocfilehash: 2b9518ad9cd88732e614b70b4feb24fec6ceaff3
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2030126"
+name: Microsoft 365 Apps
+summary: >+
+  Microsoft 365 Apps [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: बिज़नेस के लिए, एंटरप्राइज़ के लिए
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थित संस्करण](/officeupdates/update-history-microsoft365-apps-by-date#supported-versions)\n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [Office कॉन्फ़िगरेशन समर्थन मैट्रिंक्स](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2OqRI)\n* [Microsoft 365 Apps के लिए इतिहास अपडेट ](/DeployOffice/deployment-guide-microsoft-365-apps)\n\n> [!NOTE]\n> एंटरप्राइज़ के लिए Microsoft 365 ऐप्स का पहले Office 365 ProPlus नाम दिया गया था. बिज़नेस के लिए Microsoft 365 ऐप्स का पहले Office 365 Business नाम दिया गया था.\n\n## <a name=\"editions\"></a>संस्करण \n* बिज़नेस के लिए\n* एंटरप्राइज़ के लिए"
