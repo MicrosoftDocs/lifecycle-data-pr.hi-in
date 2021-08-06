@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2016
   description: Windows Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,MultiPoint Premium,Standard
-  ms.openlocfilehash: 17206dccdf2844a2daa1e1326679b812dd9f55eb
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/09/2021
+  keywords: 
+  ms.openlocfilehash: 07c1dc6d0d6983d6fde9a35f0fad1dacbec2de75
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939373"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255245"
 name: Windows Server 2016
 summary: >+
   Windows Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, Essentials, MultiPoint प्रीमियम, स्टैंडर्ड
+
+
 
 products:
 - windows
@@ -28,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/windows-server/get-started/server-basics)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* MultiPoint Premium\n* Standard"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/windows-server/get-started/server-basics)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows कंटेनर बेस इमेज सर्विसिंग जीवनचक्र](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Windows Server 2016 के साथ जारी किए गए कंटेनर समान जीवनचक्र तिथियों का पालन करते हैं.\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* MultiPoint Premium\n* Standard"

@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server 2012 R2
   description: Windows Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/01/2020
-  keywords: Datacenter,Essentials,for Embedded Systems,Foundation,Standard
-  ms.openlocfilehash: 42ac3c78b1d65c205a93a1041fdc4f029edec3f5
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.date: 07/12/2021
+  keywords: 
+  ms.openlocfilehash: b0da526f5c5f094b144ddf2549664a9b5a39babd
+  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939484"
+  ms.lasthandoff: 07/23/2021
+  ms.locfileid: "2172079"
 name: Windows Server 2012 R2
 summary: >+
   Windows Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: Datacenter, एसेंशियल, Embedded सिस्टम के लिए, Foundation, स्टैंडर्ड
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, एसेंशियल, एम्बेडेड सिस्टम के लिए, फाउंडेशन, स्टैंडर्ड
+
+
 
 products:
 - windows
@@ -25,7 +28,16 @@ supportDates:
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
+- version: Extended Security Update Year 3
+  startDate: 10/14/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/08/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/10/2023
+  endDate: 10/08/2024
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Datacenter\n* Essentials\n* एम्बेडेड सिस्टम के लिए\n* Foundation\n* Standard"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n* [जीवनचक्र अक्सर पूछे जाने वाले प्रश्न - विस्तारित सुरक्षा अपडेट](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* एम्बेडेड सिस्टम के लिए\n* Foundation\n* Standard"

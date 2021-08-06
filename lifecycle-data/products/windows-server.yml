@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: Windows Server आधुनिक जीवनचक्र नीति का पालन करता है.
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162335"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255171"
 name: Windows Server
 summary: >+
   Windows Server [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
 
 
+
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, स्टैंडर्ड
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Server सर्विसिंग चैनल: LTSC और SAC](/windows-server/get-started-19/servicing-channels-19)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server, संस्करण 1809, 13 नवंबर, 2018 को फिर से रिलीज़ किया गया था. समर्थन तिथियों को उसके अनुसार नियमित किया गया आई।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Standard"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Windows कंटेनर बेस इमेज सर्विसिंग जीवनचक्र](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [Windows Server सर्विसिंग चैनल: LTSC और SAC](/windows-server/get-started-19/servicing-channels-19)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> ऊपर सूचीबद्ध Windows Server संस्करणों के साथ जारी किए गए कंटेनर समान जीवनचक्र तिथियों का पालन करते हैं. अधिक जानकारी के लिए [Windows कंटेनर बेस इमेज सर्विसिंग जीवनचक्र](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) में बेस इमेज सर्विसिंग पेज पर नेविगेट करें.\n> [!NOTE]\n> Windows Server, संस्करण 1809, 13 नवंबर, 2018 को फिर से रिलीज़ किया गया था. समर्थन तिथियों को उसके अनुसार नियमित किया गया आई।\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Standard"
