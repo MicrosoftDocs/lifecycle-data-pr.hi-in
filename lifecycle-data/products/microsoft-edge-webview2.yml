@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Edge WebView2 आधुनिक जीवनचक्र नीति का पालन करता है.
   ms.date: 03/31/2021
   keywords: 
-  ms.openlocfilehash: dda674ccf381dcb320c21bed9557c3724c102f15
-  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
+  ms.openlocfilehash: a8e34517586ed20a7a7c58e98d7a94ef0309710094f9b5ef28a95c7d49217726
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 04/01/2021
-  ms.locfileid: "1538157"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2484676"
 name: Microsoft Edge WebView2
 summary: >+
   Microsoft Edge WebView2 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.

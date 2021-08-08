@@ -4,12 +4,12 @@ metadata:
   description: HIPAA 2.0 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: aab9e80e120618a791c1636446425b56d9d36995
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 09e81a1ba7f44ab10e9726e5481d08b2601b5c681ea584e07125d5d0f0d1bf18
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935303"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485120"
 name: HIPAA 2.0 के लिए Microsoft BizTalk Accelerator
 summary: >+
   HIPAA 2.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

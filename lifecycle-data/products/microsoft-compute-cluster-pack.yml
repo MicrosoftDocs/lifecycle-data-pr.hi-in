@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Compute Cluster Pack
   description: Microsoft Compute Cluster Pack निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e3817378573c09880c2d9970b69e387402d0c6b1
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 0b0435d1529895bc355954b9b385693f8e77a17c0ec13a3a06002f4d7bd8c949
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821067"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485052"
 name: Microsoft Compute Cluster Pack
 summary: >
   Microsoft Compute Cluster Pack [निश्चित](/lifecycle/policies/fixed)जीवनचक्र नीति का अनुसरण करता है.
