@@ -4,12 +4,12 @@ metadata:
   description: Adxstudio पोर्टल्स v7.x फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
   ms.date: 10/22/2020
   keywords: 
-  ms.openlocfilehash: c3bcea69dbd4ed827729c43f86e5f5a4c4bfa9e8
-  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
+  ms.openlocfilehash: 90b184a4912ac7ea71ec3e35e41a4800b3d33f943ce65b57695c1e2a3543da8f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "1193452"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504286"
 name: Adxstudio पोर्टल v7.x
 summary: >+
   Adxstudio पोर्टल्स v7.x [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।

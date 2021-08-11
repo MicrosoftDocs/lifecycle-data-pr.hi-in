@@ -3,12 +3,12 @@ metadata:
   title: Dynamics POS 2009
   description: Dynamics POS 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2a1ad92ea731fb673d0cc7dd8d4abf893986f5da
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: c7e63235caed8b7a147ed905d804bab6f4631507c5384905f2620e25b4f4bb5a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820738"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490744"
 name: Dynamics POS 2009
 summary: >+
   Dynamics POS 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 5.0
   description: Dynamics NAV 5.0 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 69fc6833ac2d541af169fb84b1fd781e54c3d177
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 14de2924f0e7aee0bd977a8babaef8653b9c577a12e58ce32bd74bd70b04cb95
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820739"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490781"
 name: Dynamics NAV 5.0
 summary: >+
   Dynamics NAV 5.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

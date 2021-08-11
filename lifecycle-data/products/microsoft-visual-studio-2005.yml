@@ -4,18 +4,18 @@ metadata:
   description: Microsoft Visual Studio 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Professional,Standard,Standard Edition academic license,Team Edition for Database Professionals,Team Edition for Software Architects,Team Edition for Software Developers,Team Edition for Software Testers,Team Suite,Team Test Load Agent,Tools for the Microsoft Office System,VB Express,Visual C# Express,Visual C++ Express,Visual J# Express,Visual Web Developer Express
-  ms.openlocfilehash: 40a88454af5c829ab424be8f9ea26f8866af6013
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2b5560fa619516cdf2603d970e8eeb7e86b38ca9c6663d2092ad6ad04256a4fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937597"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497885"
 name: Microsoft Visual Studio 2005
 summary: >+
   Microsoft Visual Studio 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: Professional, स्टैंडर्ड, Standard Edition अकादमिक लायसेंस, डाटाबेस पेशेवरों के लिए टीम संपादना, सॉफ्टवेयर आर्किटेक्ट के लिए टीम संपादना, सॉफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण, सॉफ्टवेयर डेवलपर के लिएटीम संस्करण, टीम सुइट, टीम परिक्षण लोड एजेंट, Microsoft Office सिस्टम के लिए टूल्स, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual वेब डेवलपर Express
+  यह निम्नलिखित संस्करणों पर लागू होता है: Professional, स्टैंडर्ड, Standard Edition अकादमिक लायसेंस, डाटाबेस पेशेवरों के लिए टीम संपादना, सॉफ्टवेयर आर्किटेक्ट के लिए टीम संपादना, सॉफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण, सॉफ्टवेयर डेवलपर के लिएटीम संस्करण, टीम सुइट, टीम परिक्षण लोड एजेंट, Microsoft Office सिस्टम के लिए टूल्स, VB एक्सप्रेस, Visual C# एक्सप्रेस, Visual C++ एक्सप्रेस, Visual J# एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio उत्पाद की जानकारी](https://www.VisualStudio.com)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n> [!NOTE]\n> 2, मार्च 2007 को रिलीज़ हुए डेटाबेस पेशेवरों के लिए Microsoft Visual Studio 2005 टीम संस्करण.\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard\n* Standard Edition अकादमिक लायसेंस\n* डेटाबेस पेशेवरों के लिए टीम संस्करण\n* साफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण\n* साफ्टवेयर डेवलपर के लिए टीम संस्करण\n* साफ्टवेयर परीक्षकों के लिए टीम संस्करण\n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* Microsoft Office System के लिए टूल्स\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual वेब डेवलपर Express"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n* [Visual Studio उत्पाद की जानकारी](https://www.VisualStudio.com)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n> [!NOTE]\n> 2, मार्च 2007 को रिलीज़ हुए डेटाबेस पेशेवरों के लिए Microsoft Visual Studio 2005 टीम संस्करण.\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard\n* Standard Edition अकादमिक लायसेंस\n* डेटाबेस पेशेवरों के लिए टीम संस्करण\n* साफ्टवेयर आर्किटेक्ट के लिए टीम संस्करण\n* साफ्टवेयर डेवलपर के लिए टीम संस्करण\n* साफ्टवेयर परीक्षकों के लिए टीम संस्करण\n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* Microsoft Office System के लिए टूल्स\n* VB एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual J# एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"

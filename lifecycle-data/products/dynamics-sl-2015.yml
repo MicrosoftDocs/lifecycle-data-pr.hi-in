@@ -3,12 +3,12 @@ metadata:
   title: Dynamics SL 2015
   description: Dynamics SL 2015 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: a082204c2a5c05abdabc7d16de83e67eb3a115b4
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 889b5131bf3a03550dddbb7d8a64c72e5b45be4945bd654bde74aab6bf47ba0c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855546"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490263"
 name: Dynamics SL 2015
 summary: >+
   Dynamics SL 2015 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

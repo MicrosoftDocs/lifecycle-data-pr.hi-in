@@ -3,12 +3,12 @@ metadata:
   title: Dynamics SL 6.5
   description: Dynamics SL 6.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/13/2020
-  ms.openlocfilehash: ced885d31eb8f3ebdd2f44741ccfdd8678329f09
-  ms.sourcegitcommit: a0028eb69fe2a3bae073d91a3634475608d48de1
+  ms.openlocfilehash: 2df258f25075b03b590f751b5a54ed4c04f1e2513257d018ab660ca603fa9b77
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "894835"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490226"
 name: Dynamics SL 6.5
 summary: >+
   Dynamics SL 6.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

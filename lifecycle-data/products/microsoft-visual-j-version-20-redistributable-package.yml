@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Visual J# Version 2.0 पुनः वितरण योग्य पैकेज
   description: Microsoft Visual J# संस्करण 2.0 पुनः वितरण योग्य पैकेज निश्चित जीवनचक्र नीति  का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fa32b69860aec252b7d1068ad2e130700f9d0b92
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 7f2f73ca58d09d344d32e76e72270ec0bd8acf267ddcc4bba24ce01dc090113d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820580"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498070"
 name: Microsoft Visual J# Version 2.0 पुनः वितरण योग्य पैकेज
 summary: >+
   Microsoft Visual J# संस्करण 2.0 पुनः वितरण योग्य पैकेज [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है.
