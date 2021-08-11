@@ -3,12 +3,12 @@ metadata:
   title: सिस्टम सेंटर 2016 सर्विस मैनेजर
   description: सिस्टम सेंटर 2016 सर्विस मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 324b4d018b20d596afdf61ff10658489d7f1d79f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 2e9012b28d23dab2b04845cf780aaf847f8565b9c1224b32fc19f7d872b71e8b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855686"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506728"
 name: सिस्टम सेंटर 2016 सर्विस मैनेजर
 summary: >+
   सिस्टम सेंटर 2016 सर्विस मैनेजर [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

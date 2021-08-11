@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2015
   description: Dynamics NAV 2015 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: d8e88321e72a0c59e0d5f43b938b8eb14b912a58
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: ac58368fbf44e51a1f5baada68938e155c090e1e2bac92bc9d50320cae37d920
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855552"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491040"
 name: Dynamics NAV 2015
 summary: >+
   Dynamics NAV 2015 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

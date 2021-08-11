@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2017
   description: Dynamics NAV 2017 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1b936cca350da64d99a63eb15f0571e477cdb3ea
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 520e4fcf4592867ee9d7e124f4e86231d09581507f39c70c369a2a73793ea92f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855548"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490966"
 name: Dynamics NAV 2017
 summary: >+
   Dynamics NAV 2017 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

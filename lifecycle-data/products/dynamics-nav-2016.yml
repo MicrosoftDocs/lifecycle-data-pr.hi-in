@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2016
   description: Dynamics NAV 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 042bc3506bd9e3d5166567a509ae9cac61fe6fa9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: ff6c174da9288caddaa4c1bb1d41be739d04d100cff23bf84046fcb5392bf763
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855551"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491003"
 name: Dynamics NAV 2016
 summary: >+
   Dynamics NAV 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 2018
   description: Dynamics GP 2018 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ceeb4827503ab282ee2ffef12cc0518f3f80ae2c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 44a665c06bed8f8e4d884c65c9fec6a9f87a4cf8e3a82e3876414946de0cbf67
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869799"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491706"
 name: Dynamics GP 2018
 summary: >+
   Dynamics GP 2018 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP
   description: Dynamics GP आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0e2eb777e87a54e4dd08f495ac1f08ac4adf83a6
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: be3ce8322964037fbbec9ca7eeff8e7645310159bb018e45001abc5e2637859b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869797"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491632"
 name: Dynamics GP
 summary: >+
   Dynamics GP [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।

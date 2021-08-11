@@ -3,12 +3,12 @@ metadata:
   title: Azure सर्विस फेब्रिक
   description: Azure सर्विस फेब्रिक आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 075ce98becd0ba968cec21bf37699b76f89062c6
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 1f76ddf5422943717739fb69be7d687aaa2f9156e21ace4de5f55b62aae66334
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855202"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492927"
 name: Azure सर्विस फेब्रिक
 summary: >+
   Azure सर्विस फेब्रिक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।

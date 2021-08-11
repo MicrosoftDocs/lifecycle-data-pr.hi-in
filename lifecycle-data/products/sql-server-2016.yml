@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Developer,Enterprise,Enterprise Core,Express,Standard,Web
-  ms.openlocfilehash: 09b5b9e409e9bde24e3170165207562bb9a3bf51
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 6e42001065633cddfb99c6a7d003a6d638ddfd8ce0608377002b41b7382eaf45
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001095"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507024"
 name: SQL Server 2016
 summary: >+
   SQL Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Azure RemoteApp
   description: Azure RemoteApp आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c03f6f9d17b84e2f2e947f465e828af941f968e9
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: a2372bffdd745aa4979b367122bcfdcc566355c2441c8af1eadb40db49941c6c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855197"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493038"
 name: Azure RemoteApp
 summary: >+
   Azure RemoteApp [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

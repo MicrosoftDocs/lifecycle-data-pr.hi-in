@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2018
   description: Dynamics NAV 2018 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 08/12/2020
-  ms.openlocfilehash: 489342ec129c87ad40c1d7e2579109dc4f4a8227
-  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
+  ms.openlocfilehash: e6f2f3cda2e41191f856e7817aace1ade1bddff6f731374e9858012d32ab9a3e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/12/2020
-  ms.locfileid: "891807"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490929"
 name: Dynamics NAV 2018
 summary: >+
   Dynamics NAV 2018 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

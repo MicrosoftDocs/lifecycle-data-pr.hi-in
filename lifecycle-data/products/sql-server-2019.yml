@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: on Linux (all editions),on Windows (all editions)
-  ms.openlocfilehash: e80b4d51844a591f9c912932761d121d9c0d6d37
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 5963d96efa70fdfb3bb470a362fd6c2204e8d989da8d47eb2e813466bd4cafbb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937967"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506913"
 name: SQL Server 2019
 summary: >+
   SQL Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 4.0
   description: Dynamics NAV 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 766b8f2b69ca45d1ff1620ce6787df299bb68955
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: a7902bd0e4813dd19caccf4e73d380d9c54f9f059a7b3214b25f0165dcb6415b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821169"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490855"
 name: Dynamics NAV 4.0
 summary: "Dynamics NAV 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. \n"
 products:

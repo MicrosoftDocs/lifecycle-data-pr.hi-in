@@ -3,12 +3,12 @@ metadata:
   title: StorSimple 5000/7000 श्रृंखला
   description: StorSimple 5000/7000 श्रृंखला, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9f41ce486a68b9b0e08999801f781e9f1b37330a
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: dc5e08aff9ae928dd92a4d54067135bb727c9b803c7eb3217246bbc28d414d32
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855690"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2506839"
 name: StorSimple 5000/7000 श्रृंखला
 summary: "StorSimple 5000/7000 श्रृंखला, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:

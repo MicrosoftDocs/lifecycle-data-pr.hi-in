@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2009 R2
   description: Dynamics NAV 2009 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 01925fe0f661312fdda3eef0517d8e99c15bde06
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 45cb71477c05d21cb32bfc1f8b782cdf20c208a421c7332eb327d947b3f6b4a9
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855555"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2491595"
 name: Dynamics NAV 2009 R2
 summary: >+
   Dynamics NAV 2009 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
