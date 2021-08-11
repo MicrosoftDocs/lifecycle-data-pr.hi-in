@@ -4,12 +4,12 @@ metadata:
   description: Dynamics AX 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 12/17/2020
   keywords: 
-  ms.openlocfilehash: 45d386654df8e87dc58f4445cecb94e3e5de2353
-  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
+  ms.openlocfilehash: 7bdc94b61d0cd2796ae42a9e5fd23bb0f98efa8bba8fd2c55bbfae84f8fce5bc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 12/18/2020
-  ms.locfileid: "1348168"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488598"
 name: Dynamics AX 2009
 summary: >+
   Dynamics AX 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

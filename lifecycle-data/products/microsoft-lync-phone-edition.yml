@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Lync फ़ोन संस्करण
   description: Microsoft Lync फ़ोन संस्करण निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/30/2020
-  ms.openlocfilehash: 9eab078296b6c16d3acdc1552739dabb02ab10a1
-  ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
+  ms.openlocfilehash: 79cf35f8e6a4cb5dbb5b5bdced1649f2ade099dafc2024ac9fc12c2606029b19
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/31/2020
-  ms.locfileid: "879505"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489930"
 name: Microsoft Lync फ़ोन संस्करण
 summary: >+
   Microsoft Lync फ़ोन संस्करण [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

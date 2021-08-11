@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 03/16/2021
   keywords: 
-  ms.openlocfilehash: 40a1aeb6c0659068e66340e01c6bbd46ab78e02d
-  ms.sourcegitcommit: 37317d5863338c67e82e6e317513c3ad5f6ba01e
+  ms.openlocfilehash: 03081fbeb0f52e5bc7f1198b0cec737d6c7abe7f96437af2827fbd201ef5383f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/16/2021
-  ms.locfileid: "1480926"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489153"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

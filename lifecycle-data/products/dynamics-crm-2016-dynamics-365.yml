@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 2016 (Dynamics 365)
   description: Dynamics CRM 2016 (Dynamics 365) नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/30/2020
-  ms.openlocfilehash: 8beedf478a2c2a00e1ade51fabd10be809909489
-  ms.sourcegitcommit: e1941880c1a05c5950b0aa216448eba49d88be22
+  ms.openlocfilehash: 4c50fd8e2dcb4bc7c21d04fca3519e2329b11cb455a90f7c1634bc4e6ecc959e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/30/2020
-  ms.locfileid: "878783"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488080"
 name: Dynamics CRM 2016 (Dynamics 365)
 summary: >+
   Dynamics CRM 2016 (Dynamics 365) [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

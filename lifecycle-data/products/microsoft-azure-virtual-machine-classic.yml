@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Azure वर्चुअल मशीन (क्लासिक) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 01/21/2021
   keywords: 
-  ms.openlocfilehash: 0e575c15aa31b8d3147bfbca806bf0c90db48731
-  ms.sourcegitcommit: b565a66121b149da703e6b457e86868768499385
+  ms.openlocfilehash: c3cf6794f777dfe3a8f70af5a87d0ba9701962fdd70b7e71ea755fe70ead9edc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 01/21/2021
-  ms.locfileid: "1416317"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490004"
 name: Microsoft Azure वर्चुअल मशीन (क्लासिक)
 summary: >+
   Microsoft Azure वर्चुअल मशीन (क्लासिक) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

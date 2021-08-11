@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Operations Manager 2005 के लिए  Engyro उत्पाद कनेक्टर्स
   description: Microsoft Operations Manager 2005 के लिए Engyro उत्पाद कनेक्टर्स, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b421124e88b9e5ee8e28e9added4a7876c9405dd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 63c392008b83dfc04e38ee126c7b5474d448937d0ec8d22e2e8c0ec34e926479
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821167"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490115"
 name: Microsoft Operations Manager 2005 के लिए  Engyro उत्पाद कनेक्टर्स
 summary: >+
   Microsoft Operations Manager 2005 के लिए Engyro उत्पाद कनेक्टर्स, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

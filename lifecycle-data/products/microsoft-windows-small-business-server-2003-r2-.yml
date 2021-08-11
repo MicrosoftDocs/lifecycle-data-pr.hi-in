@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Windows Small Business Server 2003 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Premium,Standard
-  ms.openlocfilehash: 54e4017e4c79142ed4acd3e0b4e0954b837e1733
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ab7666d2368bed4e2cd167f58a283cf435f6edfbc81e8ad683a3fd63a4bab219
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929272"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489301"
 name: 'Microsoft Windows Small Business Server 2003 R2 '
 summary: >+
   Microsoft Windows Small Business Server 2003 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

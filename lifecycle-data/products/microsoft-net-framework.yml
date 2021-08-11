@@ -4,12 +4,12 @@ metadata:
   description: Microsoft .NET फ़्रेमवर्क घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 8d6d645959c8da911aa7dead4718fb998116c8481890468df0f552c9edd8bd9a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029470"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489560"
 name: Microsoft .NET फ़्रेमवर्क
 summary: >
   Microsoft .NET फ़्रेमवर्क [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.

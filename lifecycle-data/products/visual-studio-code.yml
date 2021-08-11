@@ -3,12 +3,12 @@ metadata:
   title: Visual Studio कोड
   description: Visual Studio कोड आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3d0488c1baf7058618ba22280b0795ecf6e5a6b4
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 83bc159dc00dc5ea23828ec99c3013695709b130bd35fc0281cee3b8e1b347c7
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855591"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488931"
 name: Visual Studio कोड
 summary: >+
   Visual Studio कोड [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

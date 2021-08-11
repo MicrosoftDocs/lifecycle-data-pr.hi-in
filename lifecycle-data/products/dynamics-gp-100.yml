@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 10.0
   description: Dynamics GP 10.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 63d43c87a81774ce70b94b1b7d1fb93cfc885359cce4cf6fb00617d095a5fe40
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821174"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487969"
 name: Dynamics GP 10.0
 summary: >+
   Dynamics GP 10.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

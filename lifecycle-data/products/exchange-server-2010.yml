@@ -4,12 +4,12 @@ metadata:
   description: Exchange Server 2010 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: ded183f20802aff2799321b9af67b5eae49d8e02
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 891d400d86304d821060d160735e8c1f6bf8349831ca6b6c2f089d832b234927
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931344"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2490078"
 name: Exchange Server 2010
 summary: >+
   Exchange Server 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

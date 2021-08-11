@@ -4,12 +4,12 @@ metadata:
   description: Dynamics AX 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 12/17/2020
   keywords: 
-  ms.openlocfilehash: 692e77796e74b3dc826fcb3b21fa110d8e3485b2
-  ms.sourcegitcommit: 4e42a9063f11353b16a25fce40ad96cc6146dd96
+  ms.openlocfilehash: 9822bf473709cbe7a204c61e02cb925d9c6993c3a33d7ced5873cee0698815fb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 12/18/2020
-  ms.locfileid: "1348225"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488548"
 name: Dynamics AX 2012 R2
 summary: >+
   Dynamics AX 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics 9.0 GreatPlains
   description: Dynamics 9.0 GreatPlains निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0015493ad223e4603a77b348f406d9a2df47d315
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: dfcd9c165dcdfc78408a8b5124e5579fd9a989c0d2b0ab38fe5082483091c355
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820493"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488635"
 name: Dynamics 9.0 GreatPlains
 summary: >
   Dynamics 9.0 GreatPlains [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

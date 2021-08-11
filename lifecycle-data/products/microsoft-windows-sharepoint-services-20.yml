@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Windows SharePoint Services 2.0
   description: Microsoft Windows SharePoint Services 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d8ce5fb03ba714542f60f23ef9dc7afaebe070b924b9ec5d6a8ec5660068f401
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820967"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489375"
 name: Microsoft Windows SharePoint Services 2.0
 summary: "Microsoft Windows SharePoint Services 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. \n"
 products:

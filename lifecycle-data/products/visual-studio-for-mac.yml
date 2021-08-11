@@ -3,12 +3,12 @@ metadata:
   title: Mac के लिए Visual Studio
   description: Mac के लिए Visual Studio आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: df41c429361462c1a4f73795de70cba9591f0197
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 566151a396db47a9fe0efedc90404acda235b3df169c0a6dc23bea85e1e0fe5d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869857"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2488820"
 name: Mac के लिए Visual Studio
 summary: >+
   Mac के लिए Visual Studio [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Lync Server 2010 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 03/22/2021
   keywords: 
-  ms.openlocfilehash: 754de7798ae8bf2ddd76952bf1a7c2634e68f06a
-  ms.sourcegitcommit: 9b7056d33d458209e428510e4c1408f5e968f322
+  ms.openlocfilehash: 7fe8308c5b804197ff84afb1a4911e30dd48b812a8154ed9c305602efc850631
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/22/2021
-  ms.locfileid: "1486074"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2489634"
 name: Microsoft Lync Server 2010
 summary: >+
   Microsoft Lync Server 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
