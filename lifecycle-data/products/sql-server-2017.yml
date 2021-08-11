@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2017 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: on Linux (all editions),on Windows (all editions)
-  ms.openlocfilehash: 04ddbd7416af564666f7e8eddf4fadf9da6740e6
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 2d87d142eca39e5e07c8bfc0518bcadc2f237a586db1d635e065d8060c4ac57a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000916"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494259"
 name: SQL Server 2017
 summary: >+
   SQL Server 2017 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

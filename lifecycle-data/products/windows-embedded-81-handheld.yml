@@ -3,12 +3,12 @@ metadata:
   title: Windows Embedded 8.1 Handheld
   description: Windows Embedded 8.1 Handheld निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: f510a4c7fcf218be9dcded09427458178e093eccfb7792504a58f6bff9ecd01a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855676"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2501548"
 name: Windows Embedded 8.1 Handheld
 summary: >
   Windows Embedded 8.1 Handheld [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

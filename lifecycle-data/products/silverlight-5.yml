@@ -3,12 +3,12 @@ metadata:
   title: Silverlight 5
   description: Silverlight 5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2bdc8039724e69c5693e178d5697eb4e7242c3d2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: bbec6d993cf6aca62bb8ede04d92ad01eee1310e4c351f19e811f5e38208e56a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869890"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494296"
 name: Silverlight 5
 summary: >+
   Silverlight 5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

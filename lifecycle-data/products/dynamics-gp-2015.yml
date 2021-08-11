@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 2015
   description: Dynamics GP 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: efca9971ae340c54b72a50d61dc1f2323278c9a3
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 94fc29329beacbadb55ba5cc4f7101a2b39f743e31d3da6523f98e1a68f10c1f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855657"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492076"
 name: Dynamics GP 2015
 summary: >+
   Dynamics GP 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

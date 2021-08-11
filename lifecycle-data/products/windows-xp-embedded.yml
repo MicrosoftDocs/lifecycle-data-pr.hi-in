@@ -4,12 +4,12 @@ metadata:
   description: Windows XP एम्बेडेड निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Embedded
-  ms.openlocfilehash: 7f65f5c146bb41fda3529b2ad4457a7e77e0024a
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 2d2f2aca6231f8180654434446c2b88c44854e1abd90888a9f12414aa9f938fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938855"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2508134"
 name: Windows XP एम्बेडेड
 summary: >
   Windows XP एम्बेडेड [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -4,12 +4,12 @@ metadata:
   description: FSLogix आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 12/07/2020
   keywords: 
-  ms.openlocfilehash: dfb32452fc063ade9afd59e990b13f3e93c3f76a
-  ms.sourcegitcommit: 272dedcf92e644b57865e78c716f937b66e534c3
+  ms.openlocfilehash: f4475befb1b116ac69ef08320d4b0a04ebae7aa4e90af22bcb28e2cd3e9103ae
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 12/08/2020
-  ms.locfileid: "1335812"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507838"
 name: FSLogix
 summary: >+
   FSLogix [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

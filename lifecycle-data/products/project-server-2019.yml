@@ -4,12 +4,12 @@ metadata:
   description: Project Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: a6d1929104c2e7fa0172f1b3208ce0a0022bc160
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
+  ms.openlocfilehash: b697efbfe4a77ca41019830184b7837b41745018bf2480eefbac5653accebd08
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941413"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494333"
 name: Project Server 2019
 summary: >+
   Project Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

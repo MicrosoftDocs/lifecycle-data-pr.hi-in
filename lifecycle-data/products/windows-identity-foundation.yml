@@ -3,12 +3,12 @@ metadata:
   title: Windows Identity Foundation
   description: Windows Identity Foundation निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 883468d57686481b1ae5a876ab73e6bc96afa707865ef5409704d4fdfd9b4ec6
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820387"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493741"
 name: Windows Identity Foundation
 summary: >+
   Windows Identity Foundation [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Surface Hub पर Windows 10
   description: Surface Hub पर Windows 10 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d5c994b23c967ac3138bc695168ac1bbeec1856b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: c38b01282f365b72b3e59813a316cb1a3ee8215e147ce1f97fa23162d0d0632a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855242"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493926"
 name: Surface Hub पर Windows 10
 summary: >+
   Surface Hub पर Windows 10 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
