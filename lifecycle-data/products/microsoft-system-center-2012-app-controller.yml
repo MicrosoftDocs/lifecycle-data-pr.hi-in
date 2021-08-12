@@ -3,12 +3,12 @@ metadata:
   title: Microsoft सिस्टम सेंटर 2012 ऐप नियंत्रक
   description: Microsoft सिस्टम सेंटर 2012 ऐप नियंत्रक फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 684c50659c8e265e1a7d84b310ee5587a00fe9ceb798bde60ebb35cd38eab835
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855424"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518457"
 name: Microsoft सिस्टम सेंटर 2012 ऐप नियंत्रक
 summary: >+
   Microsoft सिस्टम सेंटर 2012 ऐप नियंत्रक [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.

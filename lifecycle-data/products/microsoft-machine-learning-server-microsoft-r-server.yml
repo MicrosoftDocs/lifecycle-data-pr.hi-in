@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Machine Learning Server (Microsoft R Server) मआधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 06/30/2021
   keywords: 
-  ms.openlocfilehash: 3c1b9ad87dbb5b9589d6fbf34c2636315d19842a
-  ms.sourcegitcommit: f887c74eefa2b8760c19b0b6ff5dda6d6829c06a
+  ms.openlocfilehash: d851f807d5b9481e095b7679598f8bb2ec3b7559169b7892310e754a8c3a96ce
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/12/2021
-  ms.locfileid: "2117508"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498440"
 name: Microsoft Machine Learning Server (Microsoft R Server)
 summary: "Microsoft Machine Learning Server (Microsoft R Server) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है \n\n\n\n\n\n"
 products:

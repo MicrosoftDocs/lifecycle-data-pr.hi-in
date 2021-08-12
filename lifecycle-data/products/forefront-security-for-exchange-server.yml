@@ -3,12 +3,12 @@ metadata:
   title: Forefront Security for Exchange Server
   description: 'Forefront Security for Exchange Server निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 08/12/2020
-  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
+  ms.openlocfilehash: fe1cf07dde04e527bac60d533b2a8d6210522adc422d1db3e864a9d5d1d52955
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893722"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2512019"
 name: Forefront Security for Exchange Server
 summary: "Forefront Security for Exchange Server [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n> [!IMPORTANT]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है. यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n"
 products:

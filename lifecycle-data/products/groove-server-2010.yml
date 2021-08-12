@@ -3,12 +3,12 @@ metadata:
   title: Groove Server 2010
   description: Groove Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9ca52b878949f03f4f8b164e8078951ea99b39ea
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 0debb708407fbeee1962649b4882102c74f1626fd0b574e89bb49ab99262d09c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821149"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511982"
 name: Groove Server 2010
 summary: >+
   Groove Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

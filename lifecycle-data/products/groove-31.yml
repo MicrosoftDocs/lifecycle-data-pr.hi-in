@@ -4,12 +4,12 @@ metadata:
   description: Groove 3.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
-  ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
-  ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
+  ms.openlocfilehash: 1b2a8c7d329087048a348a63ea155a668b1ba5dd6431db0eccfe6e4a36093a0b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/03/2020
-  ms.locfileid: "950841"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511945"
 name: Groove 3.1
 summary: >+
   Groove 3.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

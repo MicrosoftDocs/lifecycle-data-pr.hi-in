@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center 2012 R2 Operations Manager
   description: Microsoft System Center 2012 R2 Operations Manager निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 57db6fbda015c2bbd55d4ec9621ed6cda6948a56
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 53c01f8a86f181c231e6786b6c3c10fd5450e81eafb55ab5079418b37f61c3fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855278"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518383"
 name: Microsoft System Center 2012 R2 Operations Manager
 summary: >+
   Microsoft System Center 2012 R2 Operations Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

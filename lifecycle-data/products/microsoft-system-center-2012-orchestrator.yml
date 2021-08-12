@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center 2012 Orchestrator
   description: 'Microsoft System Center 2012 Orchestrator निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
-  ms.openlocfilehash: d2e8d6efc8fa088c9eb3db033e371374b8e78d40
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 5c5df8270130f98afb2646a10b0daf1bd21de9be74c653170335a6cd9ed04544
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855419"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2518420"
 name: Microsoft System Center 2012 Orchestrator
 summary: "Microsoft System Center 2012 Orchestrator न[निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:

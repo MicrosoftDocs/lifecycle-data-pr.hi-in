@@ -4,12 +4,12 @@ metadata:
   description: FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए) निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Internal Applications,Internet Sites
-  ms.openlocfilehash: 04a6bdfdbbcfb68f49edd530594c50d9ba0b90c2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ec7a3b6c823a909adb8a249db0580f71ba0a2e414cbe1bfe7ac2ff81bdc7dbeb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936117"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2512056"
 name: FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए)
 summary: >+
   FAST Search Server 2010 (इंटरनेट साइट्स के लिए, आंतरिक ऐप्लिकेशन के लिए) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
