@@ -4,12 +4,12 @@ metadata:
   description: Windows Server आधुनिक जीवनचक्र नीति का पालन करता है.
   ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
-  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
+  ms.openlocfilehash: 3eda071064ccd965630ab28273fb4a9ec7cd017c8a875b28764aba35fcf69cb6
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2021
-  ms.locfileid: "2255171"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493556"
 name: Windows Server
 summary: >+
   Windows Server [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.

@@ -3,12 +3,12 @@ metadata:
   title: System Center Service Manager 2010
   description: System Center Service Manager 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 844c0319c76e81e57b895549694a67efddc1bccc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 927bb12600d6a7faf6c190a79a4f10ead3cf3a7d6b0e5b5592ddb699165aacbd
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820940"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510946"
 name: System Center Service Manager 2010
 summary: >+
   System Center Service Manager 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

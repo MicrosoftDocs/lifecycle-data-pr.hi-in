@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2010
   description: Microsoft System Center Data Protection Manager 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: af94662ee7108434a5dd1d0014822a1cb655e89835e9d6b36cc3459ac3c285ad
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820989"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511205"
 name: Microsoft System Center Data Protection Manager 2010
 summary: >+
   Microsoft System Center Data Protection Manager 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

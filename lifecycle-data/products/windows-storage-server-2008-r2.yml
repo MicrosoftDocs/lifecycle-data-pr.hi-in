@@ -4,12 +4,12 @@ metadata:
   description: Windows Storage Server 2008 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Essentials,Standard
-  ms.openlocfilehash: 0235c6e592408d81f63bfb30249288892d4732af
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 4daee683afcc609ab98daafc5a4f3d70c871fc37fe75821494316d44436c17bb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939114"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493519"
 name: Windows Storage Server 2008 R2
 summary: >
   Windows Storage Server 2008 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

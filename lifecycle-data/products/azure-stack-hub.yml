@@ -3,12 +3,12 @@ metadata:
   title: Azure Stack Hub
   description: Azure Stack Hub आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d538d37b723536a3602535e952e1a9f3398e6ae4
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 34c5f24ba75049d2624417d15a92bb249efb45300971da09f82e65f6c1c5308e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869832"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492557"
 name: Azure Stack Hub
 summary: >+
   Azure Stack Hub [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

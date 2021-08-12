@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Intelligent Application Gateway 2007
   description: Microsoft Intelligent Application Gateway 2007 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: c3c1ca3898de2c0ac61b79395f1c75e4689d91980dbeb4f5641b05160088230d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821135"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495147"
 name: Microsoft इंटेलिजेंट एप्लीकेशन गेटवे 2007
 summary: >
   Microsoft Intelligent Application Gateway 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक (LTSB - संस्करण 1606)
   description: Microsoft System Center Configuration Manager (LTSB - version 1606) निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/20/2020
-  ms.openlocfilehash: 606034d7f3694f3e06a47bdc5e1a45561102c238
-  ms.sourcegitcommit: f5095aa6fc41dcc71c883cae08719b5b6bf9585c
+  ms.openlocfilehash: 6475679aee15c8748a0fc3092509dee7010472d848ac73e54be2c605a19595e5
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/20/2020
-  ms.locfileid: "905868"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511242"
 name: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक (LTSB - संस्करण 1606)
 summary: >+
   Microsoft System Center Configuration Manager (LTSB - version 1606) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
