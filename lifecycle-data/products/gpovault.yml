@@ -4,12 +4,12 @@ metadata:
   description: GPOVault निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: 1.0,2.0,Enterprise 1.0,Enterprise 2.0
-  ms.openlocfilehash: 9b9051b56046f5f3605b877b3562039ea241bfe3
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: b28b802824ff5f92f0fcf8ab61e5f008788105fbefb265d420baf1e47f1cd910
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936006"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2505730"
 name: GPOVault
 summary: >+
   GPOVault [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है|

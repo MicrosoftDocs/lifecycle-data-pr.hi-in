@@ -4,12 +4,12 @@ metadata:
   description: एडवांस्ड थ्रेट एनालिटिक्स 1.X निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: 
-  ms.openlocfilehash: 63d72a1510958edf2f7800c4a102fb587cbb8750
-  ms.sourcegitcommit: 5c618c870f05989d24ebd3a61d98ce2302e85d3b
+  ms.openlocfilehash: 3ae7471e6ba237d415f65d196d06c4d68258e369b36d6c1840705458eb78df66
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002685"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496997"
 name: एडवांस्ड थ्रेट एनालिटिक्स 1.X
 summary: >+
   एडवांस्ड थ्रेट एनालिटिक्स 1.X [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

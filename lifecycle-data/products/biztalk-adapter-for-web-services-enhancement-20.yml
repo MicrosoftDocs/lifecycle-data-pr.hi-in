@@ -3,12 +3,12 @@ metadata:
   title: वेब सर्विस वृद्धि के लिए BizTalk एडाप्टर 2.0
   description: वेब सर्विस में वृद्धि के लिए BizTalk एडाप्टर 2.0 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/19/2020
-  ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
-  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.openlocfilehash: 5d3f1279bf77c9ba1eb3612868b64327e96f4eb8846e35ab1edbbb5ad52985e1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2020
-  ms.locfileid: "904154"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496220"
 name: वेब सर्विस वृद्धि के लिए BizTalk एडाप्टर 2.0
 summary: >+
   वेब सर्विस में वृद्धि के लिए BizTalk एडाप्टर 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

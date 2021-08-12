@@ -3,12 +3,12 @@ metadata:
   title: Internet Explorer 8
   description: Internet Explorer 8 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 829f271edf5fe7984b750209a89f0f40efc6a3c3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 074b27d8fdc9a2bfeb08e90c2ef9f6289cb32b5cf2dc8ae35795a79155aa9a43
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821131"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519715"
 name: Internet Explorer 8
 summary: >+
   Internet Explorer 8 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.

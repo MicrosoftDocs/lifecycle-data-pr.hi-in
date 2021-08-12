@@ -3,12 +3,12 @@ metadata:
   title: Azure Cloud Services
   description: Azure Cloud Services आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: aab601bc296dcf08a3f860220bf93b35fa67e335
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: cf0bd4af9f04ff922eb60ed0f8fad82964e2ac07ee2a888f32c604621b9913b3
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821321"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496923"
 name: Azure Cloud Services
 summary: >+
   Azure Cloud Services [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

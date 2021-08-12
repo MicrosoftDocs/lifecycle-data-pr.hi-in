@@ -4,12 +4,12 @@ metadata:
   description: Access 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: e58d73b8c3d5757d5cddded295cc06f773df46d8
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 37b17bcb3e1f5b4360d8279c5161d039dc6d78be4ce73d19b3b42b85e6f1d154
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940039"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497071"
 name: Access 2013
 summary: >+
   Access 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

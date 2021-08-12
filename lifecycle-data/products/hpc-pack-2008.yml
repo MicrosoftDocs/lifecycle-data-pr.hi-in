@@ -3,12 +3,12 @@ metadata:
   title: HPC Pack 2008
   description: HPC Pack 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 795c6eef31bb7b6a3edcf1d90a193d682c89933a
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: f18adcc68e0fc8f197080c45d0da9b60f127b9c0e4c9671565e2072bf147e3a1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821146"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2505692"
 name: HPC Pack 2008
 summary: >
   HPC Pack 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

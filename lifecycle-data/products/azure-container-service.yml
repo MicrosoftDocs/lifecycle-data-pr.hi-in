@@ -3,12 +3,12 @@ metadata:
   title: Azure कंटेनर सर्विस
   description: Azure कंटेनर सर्विस आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 70f9cfee8138e47ca857cf32af6388be1518fdb1
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 6954c71e25f0df18cdaa95f6e9605403fa3ce8148b287334fdd37b0e37d9deba
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855207"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496886"
 name: Azure कंटेनर सर्विस
 summary: >+
   Azure कंटेनर सर्विस [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।

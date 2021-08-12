@@ -3,12 +3,12 @@ metadata:
   title: Sharepoint के लिए Forefront Security
   description: Sharepoint के लिए Forefront Security निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9354e1b278472de171a03354657be0f4920d4b3c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: a9bb9c1840e0710ef0bf04633d1850e4a15e4de8fcb5d990bcf868b2e25cb121
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821150"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2505759"
 name: Sharepoint के लिए Forefront Security
 summary: >
   Sharepoint के लिए Forefront Security [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

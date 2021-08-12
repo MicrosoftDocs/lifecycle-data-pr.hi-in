@@ -4,12 +4,12 @@ metadata:
   description: Excel 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: a143712b29fb51ca6867c7c65c6b39b05beeb13d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: dd7f46518825e5f8bdbd6e40e982a5c2dee46c3d893cd4a021d8b2a2dc4a384f
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931418"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2505914"
 name: Excel 2019
 summary: >+
   Excel 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

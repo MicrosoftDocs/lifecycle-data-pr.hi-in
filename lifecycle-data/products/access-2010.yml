@@ -4,12 +4,12 @@ metadata:
   description: एक्सेस 2010 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है।
   ms.date: 09/21/2020
   keywords: Standard
-  ms.openlocfilehash: ea92b504200afa65f84eb8f1698a80af9cd9b32f
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: 02f79941a3504f28bb6438ee299098c4dae530ca3b15e39412968d507f49a341
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: MT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025189"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2497108"
 name: Access 2010
 summary: >+
   एक्सेस 2010 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है।
