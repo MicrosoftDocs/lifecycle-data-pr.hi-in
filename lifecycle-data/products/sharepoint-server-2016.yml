@@ -4,12 +4,12 @@ metadata:
   description: SharePoint Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
+  ms.openlocfilehash: 95096676ed57c124c76345b633a6761a718de0571bacbd64aba59041640845ac
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941733"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499661"
 name: SharePoint Server 2016
 summary: >+
   SharePoint Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

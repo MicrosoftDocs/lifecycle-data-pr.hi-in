@@ -4,12 +4,12 @@ metadata:
   description: Windows MultiPoint Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Academic,Standard
-  ms.openlocfilehash: f9e297cd03fde9252b00c3f419b29a2ffc49df32
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: a23bdd91765b66dd6c7d85cb1b05620d172c7564ce347b409300af1cf0027de4
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002464"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499476"
 name: Windows MultiPoint Server 2010
 summary: >+
   Windows MultiPoint Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

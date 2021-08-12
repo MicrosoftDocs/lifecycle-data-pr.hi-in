@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Office Communicator फ़ोन संस्करण, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Phone
-  ms.openlocfilehash: 5b5c465b3370cd05379592af7f91194e59874106
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 642fcd360e6516a531e6a8a223d4894950b1e21f30b4c108f4cf0a07017c2f7a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001650"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2524303"
 name: Microsoft Office Communicator फ़ोन संस्करण
 summary: >+
   Microsoft Office Communicator फ़ोन संस्करण, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

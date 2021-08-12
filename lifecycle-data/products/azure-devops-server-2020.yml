@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Azure DevOps Server 2020
-  description: Azure DevOps Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  description: Azure DevOps Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 10/13/2020
   keywords: 
-  ms.openlocfilehash: 24c4068f58e0f16b831e6e8268b06a274591da3e
-  ms.sourcegitcommit: ba0f6f0e9898cc2a567ae35ba5a94939a50fcce8
+  ms.openlocfilehash: 46fe3a7f8c995c3a549afb0e01822900bfb48b1e9e978faf7b5271a212e94714
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/13/2020
-  ms.locfileid: "1151807"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496553"
 name: Azure DevOps Server 2020
 summary: >+
-  Azure DevOps Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+  Azure DevOps Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:

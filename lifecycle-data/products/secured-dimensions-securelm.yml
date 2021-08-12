@@ -4,18 +4,18 @@ metadata:
   description: सुरक्षित आयाम SecureLM निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 10/20/2020
   keywords: 
-  ms.openlocfilehash: fe3181990300a2a8981f3923880bcc299c47cf93
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: abf68e2290dcd83cfe82ec28d7b860633f3a0382630b1910bd5692e0e14913b8
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162868"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499698"
 name: सुरक्षित आयाम SecureLM
 summary: >+
   सुरक्षित आयाम SecureLM [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: .NET, कोड प्रोटेक्टर, सर्वर
+  यह निम्नलिखित संस्करणों पर लागू होता है: .NET, Code Protector, Server
 
 products:
 - dotnet

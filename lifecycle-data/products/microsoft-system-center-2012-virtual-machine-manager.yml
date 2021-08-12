@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center 2012 Virtual Machine Manager
   description: 'Microsoft System Center 2012 Virtual Machine Manager निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
-  ms.openlocfilehash: 09642342cee1a3d9fbe2ccab2f193a34364664bd
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: dd30d0f9a3bb163595a997c62f7b133f75bbfa05d99e7b313a84ad415ef94e10
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855639"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507653"
 name: Microsoft System Center 2012 Virtual Machine Manager
 summary: "Microsoft System Center 2012 Virtual Machine Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:

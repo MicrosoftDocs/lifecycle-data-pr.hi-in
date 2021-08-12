@@ -4,12 +4,12 @@ metadata:
   description: Windows Server के लिए AppFabric 1.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 10/23/2020
   keywords: 
-  ms.openlocfilehash: 4c3a099590b2e52a1e7dc039dc2dd8378012f473
-  ms.sourcegitcommit: d8b1db284677f98b7bec16144811251ac9a84958
+  ms.openlocfilehash: 7a3c21bc66446efcd027666121bfbc91161befb2a6eae6d9e784936ad52680ea
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/24/2020
-  ms.locfileid: "1186497"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493149"
 name: Windows Server के लिए AppFabric 1.1
 summary: >+
   Windows Server के लिए AppFabric 1.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

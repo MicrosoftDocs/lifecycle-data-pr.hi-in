@@ -4,12 +4,12 @@ metadata:
   description: Outlook 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 8c38b0d1da85e6f534d902ac0349bdd657a68684
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 40a5674f3da1dd4c12b815ded6d65e4585aac111573c6884c20698156ffd9b9e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938078"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2507283"
 name: Outlook 2019
 summary: >+
   Outlook 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

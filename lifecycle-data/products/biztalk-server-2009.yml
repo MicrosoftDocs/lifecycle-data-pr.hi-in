@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2009 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/23/2020
   keywords: 
-  ms.openlocfilehash: 86a9c06d67bfc00f383e9726ddbda1e56470365a
-  ms.sourcegitcommit: 57ac90606bc363bb65db21fb2e722cb506542608
+  ms.openlocfilehash: 5d9ec3bf2d5703c8cb846037b2898a46617a129238e3d5c05042dbd5dc3ae976
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/23/2020
-  ms.locfileid: "1028421"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2496146"
 name: BizTalk Server 2009
 summary: >
   BizTalk Server 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
