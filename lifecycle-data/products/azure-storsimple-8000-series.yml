@@ -3,12 +3,12 @@ metadata:
   title: Azure StorSimple 8000 श्रृंखला
   description: Azure StorSimple 8000 श्रृंखला, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 7e58c467d5a29396c35cb70b1a7b93b0eaf2ce367a2a3f855aa4e47f73520ba1
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855216"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2492483"
 name: Azure StorSimple 8000 श्रृंखला
 summary: >+
   Azure StorSimple 8000 श्रृंखला, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

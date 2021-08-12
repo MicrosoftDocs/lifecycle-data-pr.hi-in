@@ -3,12 +3,12 @@ metadata:
   title: Dynamics C5 2016
   description: Dynamics C5 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7f174d3ef6f65ebbfacd00fedb86ee8528d0601f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 122a4f70019430b2f5105f9a56cc2b314dca1965cae43dd8726b07415de778f6
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855465"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2503213"
 name: Dynamics C5 2016
 summary: >+
   Dynamics C5 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

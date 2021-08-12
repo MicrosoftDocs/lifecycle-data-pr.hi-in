@@ -3,12 +3,12 @@ metadata:
   title: Dynamics C5 2014
   description: Dynamics C5 2014 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: e4f0556a8fd84b688392121720ac06d2b6945eec
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: ea1282f8026613695f76c63aded4217e8b742f61a0ef9e146b2139db590e053c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855472"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2503398"
 name: Dynamics C5 2014
 summary: >+
   Dynamics C5 2014 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

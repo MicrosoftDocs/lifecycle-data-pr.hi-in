@@ -4,12 +4,12 @@ metadata:
   description: Windows 10 2016 LTSB फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: 040fad2c1269808928c0f239a64f575b98f458f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 9b16ea02691f718f181186174f2f727dd80633b14833ee67383a25ddab70d63c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938485"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2510687"
 name: Windows 10 2016 LTSB
 summary: >+
   Windows 10 2016 LTSB [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.

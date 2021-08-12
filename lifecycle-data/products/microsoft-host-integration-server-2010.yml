@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Host Integration Server 2010
   description: Microsoft Host Integration Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2a46293719b430954ce5a27c1cea86948dfd35cd
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 539ffe9b6804ccdeef5c3cd36e6c732880458b2c5cab7625191f1dbea9c472da
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820719"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494925"
 name: Microsoft Host Integration Server 2010
 summary: >
   Microsoft Host Integration Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

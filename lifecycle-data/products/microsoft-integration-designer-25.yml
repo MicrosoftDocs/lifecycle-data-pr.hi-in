@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Integration Designer 2.5
   description: Microsoft Integration Designer 2.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a68b7d5749ce3c0bb47c949a59c52aff5a844dff
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: b0553fd0c38636b6c84bcd157c72a66a5717276eda9c99a74a64a4c0486d077b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820710"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2494888"
 name: Microsoft Integration Designer 2.5
 summary: >+
   Microsoft Integration Designer 2.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
