@@ -4,12 +4,12 @@ metadata:
   description: Talent के लिए Dynamics 365 आधुनिक जीवनचक्र नीति का पालन करती है.
   ms.date: 09/01/2020
   keywords: Onboard
-  ms.openlocfilehash: de03f162a1781f88e66a030774e5c31771e4f0f6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: ff5ee330da2a77374a216513a95639644a72b41de7896d3649a85f842b6f8cdc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930715"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495628"
 name: Talent के लिए Dynamics 365
 summary: >+
   Talent के लिए Dynamics 365 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति  का पालन करती है.

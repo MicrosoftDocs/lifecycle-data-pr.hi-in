@@ -4,12 +4,12 @@ metadata:
   description: Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 03/16/2021
   keywords: 
-  ms.openlocfilehash: 01fc223c6be37bbb8d08153826237f18339c40bf
-  ms.sourcegitcommit: 711a010cd4f9ef685403c5f263cbbd72a7688b66
+  ms.openlocfilehash: 65f0f744d351447aaa493b15797d76c88d064b5b5e65b523fe964c21a31c32d0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/16/2021
-  ms.locfileid: "1480849"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2504101"
 name: Dynamics 365 Business Central ऑन-प्रीमाइसेस (आधुनिक नीति)
 summary: >+
   Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.

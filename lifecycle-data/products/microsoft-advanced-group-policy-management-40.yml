@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Advanced Group Policy Management 4.0
-  description: Microsoft Advanced Group Policy Management 4.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
+  title: Microsoft एडवांस्ड ग्रुप पॉलिसी मैनेजमेंट 4.0
+  description: Microsoft एडवांस्ड ग्रुप पॉलिसी मैनेजमेंट 4.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d45184fdf39d315d79dc4681550106f2cf24f44d145915cab0d35412352c11a0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821125"
-name: Microsoft Advanced Group Policy Management 4.0
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516977"
+name: Microsoft एडवांस्ड ग्रुप पॉलिसी मैनेजमेंट 4.0
 summary: >+
-  Microsoft Advanced Group Policy Management 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+  Microsoft एडवांस्ड ग्रुप पॉलिसी मैनेजमेंट 4.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
 products:

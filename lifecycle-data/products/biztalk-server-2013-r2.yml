@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2013 R2 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: e06ca69446d08f2887c6f69ccf310361ec62268d
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 16863b73a48943d77111b33e7b68ecab80c57435b92ccc21398beccbdebef156
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932232"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495924"
 name: BizTalk Server 2013 R2
 summary: >+
   BizTalk Server 2013 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

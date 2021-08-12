@@ -4,12 +4,12 @@ metadata:
   description: Windows 8.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: fdf53195e79000456e3d4009b2f71bbcd229ac88
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: ee1cef940d09b6648fac501b73cddc27a6c1588bc1202ce44587390b611ba22c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002279"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2517199"
 name: Windows 8.1
 summary: >+
   Windows 8.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

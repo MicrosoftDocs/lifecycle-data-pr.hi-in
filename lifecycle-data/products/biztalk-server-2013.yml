@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: 100aa95885f04cb46c643954c2f6de0cfac1073e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: eb8d8d8be4318a095db75c918146b9967c89e78c4ea849c030648ef9768a101d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932195"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495887"
 name: BizTalk Server 2013
 summary: >+
   BizTalk Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: Microsoft BitLocker एडमिनिस्ट्रेशन और मॉनिटरिंग 1.0
   description: Microsoft BitLocker एडमिनिस्ट्रेशन और मॉनिटरिंग 1.0 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 57eba1e1f6926dc0bf600e61ea3db5c3eda1ec86
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: a5495ec3aa2870163b29535b26072574762b670112d1325f8d66b75b8a525907
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855532"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2511797"
 name: Microsoft BitLocker एडमिनिस्ट्रेशन और मॉनिटरिंग 1.0
 summary: >+
   Microsoft BitLocker एडमिनिस्ट्रेशन और मॉनिटरिंग 1.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

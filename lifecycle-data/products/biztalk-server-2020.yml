@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 02c759d9484cd99a8eda33273268c1109018c771ac2e6d64ed8971edc1897203
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932121"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2495776"
 name: BizTalk Server 2020
 summary: >+
   BizTalk Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

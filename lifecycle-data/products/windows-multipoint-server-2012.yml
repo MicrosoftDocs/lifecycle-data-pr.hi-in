@@ -4,12 +4,12 @@ metadata:
   description: Windows MultiPoint Server 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Premium,Standard
-  ms.openlocfilehash: d155a45d5fadcc3b04465985f41035f48ee685a8
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
+  ms.openlocfilehash: 1dbacb56b013ab263d2fe7934aa68b477a371f14742e2c8abb778286dbcb2284
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002353"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493630"
 name: Windows MultiPoint Server 2012
 summary: >+
   Windows MultiPoint Server 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

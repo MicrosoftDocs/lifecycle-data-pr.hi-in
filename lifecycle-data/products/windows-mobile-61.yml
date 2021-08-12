@@ -4,12 +4,12 @@ metadata:
   description: Windows Mobile 6.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
-  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 6424edd82a104d7bbe41abf972520a4b666691f7752ab70a7512b96861a03a47
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939817"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2517125"
 name: Windows Mobile 6.1
 summary: >
   Windows Mobile 6.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

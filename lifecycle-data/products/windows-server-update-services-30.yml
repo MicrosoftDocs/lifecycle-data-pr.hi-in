@@ -4,12 +4,12 @@ metadata:
   description: Windows Server Update Services 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 05/28/2021
   keywords: 
-  ms.openlocfilehash: 023eb852bc7c97e08a6a1d3602ed673e0ee660c1
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
+  ms.openlocfilehash: 5ccb7e6e041d9af8eb96bf7fd6193ff116c591e8dd01dd9381f986d4a49b58ec
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029803"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493667"
 name: Windows Server Update Services 3.0
 summary: >+
   Windows Server Update Services 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

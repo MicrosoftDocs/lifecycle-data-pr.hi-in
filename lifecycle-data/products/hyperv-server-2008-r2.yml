@@ -3,12 +3,12 @@ metadata:
   title: Hyper-V Server 2008 R2
   description: Hyper-V Server 2008 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6887524823a979fc8ea45c7745423de784efec7e
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 39e8817ab45e905c3fdd200675ee78b18eceeb13ca428bcdaff3047c83dd0414
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821145"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2517051"
 name: Hyper-V Server 2008 R2
 summary: "Hyper-V Server 2008 R2 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:

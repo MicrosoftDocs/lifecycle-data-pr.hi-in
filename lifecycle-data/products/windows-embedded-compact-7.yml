@@ -4,12 +4,12 @@ metadata:
   description: Windows एम्बेडेड कॉम्पैक्ट 7 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 03/31/2021
   keywords: 
-  ms.openlocfilehash: 633bb4461538e538075e6d103604a5865a546693
-  ms.sourcegitcommit: ad4eb78cca397d384372a10fc71519bebd93c1b8
+  ms.openlocfilehash: 977ff5b50f3b9010deac8292ec6023c09fcaff0b17f09ae0bbf87611b65feb98
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 04/01/2021
-  ms.locfileid: "1538068"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493704"
 name: Windows एम्बेडेड कॉम्पैक्ट 7
 summary: >+
   Windows एम्बेडेड कॉम्पैक्ट 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
