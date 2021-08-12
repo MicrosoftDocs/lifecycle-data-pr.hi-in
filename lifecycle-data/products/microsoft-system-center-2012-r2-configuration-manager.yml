@@ -4,12 +4,12 @@ metadata:
   description: 'Microsoft System Center 2012 R2 Configuration Manager निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 03/12/2021
   keywords: 
-  ms.openlocfilehash: b9a1c0fa5804c5929f39f72816e86e49c739d281
-  ms.sourcegitcommit: 8465b0fa45ee2c451d1f1eaf7be9a1544cdad17f
+  ms.openlocfilehash: 9e7bbf1db9f64b796da4e0c31bf66ce1b7dea0367121fbaeb1f2f41e60a20772
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/12/2021
-  ms.locfileid: "1462908"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2523674"
 name: Microsoft System Center 2012 R2 Configuration Manager
 summary: "Microsoft System Center 2012 R2 Configuration Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:

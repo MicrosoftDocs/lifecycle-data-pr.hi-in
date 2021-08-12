@@ -4,12 +4,12 @@ metadata:
   description: Excel 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: adc8a9314803f35736020adca73db52b6c1e3243
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: de94d54a169e19480e27a95218e7fcfc83e2ed43d723e4989c5f529e2d8e1a12
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931492"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499143"
 name: Excel 2016
 summary: >+
   Excel 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

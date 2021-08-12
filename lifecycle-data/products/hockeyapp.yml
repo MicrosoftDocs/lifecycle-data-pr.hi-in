@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
   title: हॉकीऐप
-  description: हॉकीऐप आधुनिक जीवनचक्र नीति का पालन करता है।
+  description: हॉकीऐप आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/29/2020
   keywords: 
-  ms.openlocfilehash: 2aa133457f61c84ce238eb2bb4ce559f64ab4257
-  ms.sourcegitcommit: 7914229438c6935bc9dd98b1924a805d478e9e14
-  ms.translationtype: MT
+  ms.openlocfilehash: 497e9b2e7fd312532dd47cb164d9ed88206320e4e6b2dc6333bf3124573bf60a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048743"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485934"
 name: हॉकीऐप
 summary: >+
-  हॉकीऐप [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+  हॉकीऐप [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2015
   endDate: 11/16/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन गाइडेंस](/appcenter/transition/)"
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/appcenter/transition/)"

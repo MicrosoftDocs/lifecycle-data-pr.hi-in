@@ -4,12 +4,12 @@ metadata:
   description: Exchange Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 02/09/2021
   keywords: 
-  ms.openlocfilehash: a2859b5fb363be499d00fa777ebf982eee163272
-  ms.sourcegitcommit: 9986b6dd75d17328292e280a9be9150348a10118
+  ms.openlocfilehash: f357f8ac1a70217373a1dce2f2075d9e091178def0427d8b82202cc1ce83b90b
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 02/10/2021
-  ms.locfileid: "1446613"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499069"
 name: Exchange Server 2016
 summary: >+
   Exchange Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

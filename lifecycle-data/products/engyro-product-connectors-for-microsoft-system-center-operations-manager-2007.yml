@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center Operations Manager 2007 के लिए Engyro उत्पाद कनेक्टर्स
   description: Microsoft System Center Operations Manager 2007 के लिए Engyro उत्पाद कनेक्टर्स, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 96e3ed888bc258b104c4aea48e77c43cf707259943c845ac18e9707dd8b5ccb3
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821416"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2499217"
 name: Microsoft System Center Operations Manager 2007 के लिए Engyro उत्पाद कनेक्टर्स
 summary: >
   Microsoft System Center Operations Manager 2007 के लिए Engyro उत्पाद कनेक्टर्स, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

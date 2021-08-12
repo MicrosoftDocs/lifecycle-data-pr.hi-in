@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Silverlight 3 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/21/2020
   keywords: ''
-  ms.openlocfilehash: 039ef2353f648bae64ee84b9951541e221f7ada5
-  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.openlocfilehash: b8cb87b25ea898920788caf3904160b0a2eedfa551fb8889864f1ac1b7687f45
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/21/2020
-  ms.locfileid: "1025300"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2523785"
 name: Microsoft Silverlight 3
 summary: >+
   Microsoft Silverlight 3 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: System Center 2019 वर्चुअल मशीन प्रबंधक
   description: System Center 2019 वर्चुअल मशीन प्रबंधक, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 875ab9d5c18f9945a0b32539e1ae75401ebbd978
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: 7269bb8f4cce6d2da7a1083395e9be8249608e408e2af65d3c28099417a918c0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869926"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2516052"
 name: System Center 2019 वर्चुअल मशीन प्रबंधक
 summary: >+
   System Center 2019 वर्चुअल मशीन प्रबंधक, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

@@ -3,12 +3,12 @@ metadata:
   title: AssetMetrix
   description: AssetMetrix आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: db5a90d3b938f0b8b7a8311d5b0092e445818ae8
-  ms.sourcegitcommit: 36daddf71b03a8e6938fa973778bf6c67b1bd663
+  ms.openlocfilehash: 25e55004e1c9f0815ed4d9e51376e74970b353a527b33b2b1679f4b1f683aefb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/14/2020
-  ms.locfileid: "1154162"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2493112"
 name: AssetMetrix
 summary: >+
   AssetMetrix [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।

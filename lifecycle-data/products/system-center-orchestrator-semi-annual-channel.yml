@@ -3,12 +3,12 @@ metadata:
   title: System Center Orchestrator अर्धवार्षिक चैनल
   description: 'System Center Orchestrator अर्धवार्षिक चैनल आधुनिक जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.openlocfilehash: de277b59d1e0acc8950a1366199747a3a3213c0c95f60a87219d48c8bc4789c2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869919"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2515719"
 name: System Center Orchestrator अर्धवार्षिक चैनल
 summary: "System Center Orchestrator अर्धवार्षिक चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है। \n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.\n"
 products:
