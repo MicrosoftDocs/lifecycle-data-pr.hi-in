@@ -3,12 +3,12 @@ metadata:
   title: सेवा स्थान के लिए Windows Embedded
   description: सेवा स्थान के लिए Windows Embedded, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: fbfd3d13009c5b34a5ef92a78e76149f30ec707d
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: b0f803e7ba4042af60162c3ff30ae6ee693c645e48b3330c063a25d4731b81dc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820918"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2520085"
 name: सेवा स्थान के लिए Windows Embedded
 summary: >
   सेवा स्थान के लिए Windows Embedded, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

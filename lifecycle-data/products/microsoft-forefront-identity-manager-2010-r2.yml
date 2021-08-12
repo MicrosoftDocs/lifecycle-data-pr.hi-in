@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Forefront Identity Manager 2010 R2
   description: Microsoft Forefront Identity Manager 2010 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 72aca18d0a1959fe6fb98d6e678f45e5276b70739e33558d795413ec6aeda8fe
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855518"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2498662"
 name: Microsoft Forefront Identity Manager 2010 R2
 summary: >+
   Microsoft Forefront Identity Manager 2010 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

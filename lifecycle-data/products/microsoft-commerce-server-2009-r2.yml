@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Commerce Server 2009 R2 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 2eb1fe96425cba49ef01816d6e90dc79c1a0a306
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 96171848b16af4e6f461e2b9884e011e389a162a4c3418a47ed225745e2c965e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934341"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502473"
 name: Microsoft Commerce Server 2009 R2
 summary: >+
   Microsoft Commerce Server 2009 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.

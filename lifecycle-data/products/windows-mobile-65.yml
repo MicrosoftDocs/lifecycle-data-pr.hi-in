@@ -4,12 +4,12 @@ metadata:
   description: Windows Mobile 6.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Professional,Standard
-  ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 758a6492d5314f70a175e0700f967a3de329b519846ca8012943a432c2ce7be9
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939743"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2519974"
 name: Windows Mobile 6.5
 summary: >
   Windows Mobile 6.5 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

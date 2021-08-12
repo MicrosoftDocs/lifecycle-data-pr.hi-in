@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Forefront Unified Access Gateway 2010
   description: Microsoft Forefront एकीकृत एक्सेस गेटवे 2010 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 250585910905b7c124d4f2ad3685d04e3bd64a03
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: 226c0003e99616e6577c0d7910cb1eb5d732d11c3120a8437eef2cd1bbf67839
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821037"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502288"
 name: Microsoft Forefront Unified Access Gateway 2010
 summary: >+
   Microsoft Forefront एकीकृत एक्सेस गेटवे 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

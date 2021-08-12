@@ -4,12 +4,12 @@ metadata:
   description: एक्सप्रेशन 3 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
-  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 226495fc971595dcb8206e9d99b155b2f4b9e6d4e42d40bd8655259ac0f7984e
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930752"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502695"
 name: एक्सप्रेशन 3
 summary: >+
   एक्सप्रेशन 3 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

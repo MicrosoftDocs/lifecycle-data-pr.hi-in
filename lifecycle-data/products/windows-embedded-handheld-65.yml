@@ -3,12 +3,12 @@ metadata:
   title: Windows Embedded Handheld 6.5
   description: Windows Embedded Handheld 6.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 71c30eb001e204d63d06c5292d491587d580b83b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 82d79965511b0d339dcb6ed8c3ae0bd70f830bb0404d0d5ce18ff9b1e1761660
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855671"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2520048"
 name: Windows Embedded Handheld 6.5
 summary: >
   Windows Embedded Handheld 6.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

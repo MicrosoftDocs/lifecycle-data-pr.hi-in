@@ -4,12 +4,12 @@ metadata:
   description: Excel 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Home and Student,Mobile,Standard
-  ms.openlocfilehash: 1ba0a62a05a1e3fd9d8a0833957ca33f3ba8b4fb
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: bae43bec2423c5e67d14e287cfc3ab61f3757014e5f2308016cbb0cd4afb9aa0
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931603"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2502806"
 name: Excel 2010
 summary: >+
   Excel 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
