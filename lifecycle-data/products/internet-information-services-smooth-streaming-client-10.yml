@@ -3,25 +3,22 @@ metadata:
   title: Internet Information Services Smooth Streaming Client 1.0
   description: Internet Information Services Smooth Streaming Client 1.0 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cff48fdf69039eed9e23b9534c01ea004fba6696
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821129"
 name: Internet Information Services Smooth Streaming Client 1.0
-summary: >+
+summary: |+
   इंटरनेट सूचना सेवा स्मूथ स्ट्रीमिंग क्लाइंट 1.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 09/05/2010
   end: 09/08/2020
 releases:
-- version: Original Release
-  startDate: 09/05/2010
-  endDate: 09/08/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/iis/media/on-demand-smooth-streaming/getting-started-with-iis-smooth-streaming)"
+  - version: Original Release
+    startDate: 09/05/2010
+    endDate: 09/08/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/iis/media/on-demand-smooth-streaming/getting-started-with-iis-smooth-streaming)

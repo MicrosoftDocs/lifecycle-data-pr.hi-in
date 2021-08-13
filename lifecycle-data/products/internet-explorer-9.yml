@@ -3,23 +3,24 @@ metadata:
   title: Internet Explorer 9
   description: Internet Explorer 9 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/12/2020
-  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893611"
 name: Internet Explorer 9
-summary: >+
+summary: |+
   Internet Explorer 9 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 03/15/2011
 releases:
-- version: Original Release
-  startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12 जनवरी, 2016 से केवल समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध Internet Explorer के सबसे वर्तमान संस्करण को ही तकनीकी सहायता और सुरक्षा अद्यतन प्राप्त होंगे."
+  - version: Original Release
+    startDate: 03/15/2011
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)
+  * [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > 12 जनवरी, 2016 से केवल समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध Internet Explorer के सबसे वर्तमान संस्करण को ही तकनीकी सहायता और सुरक्षा अद्यतन प्राप्त होंगे.

@@ -4,26 +4,34 @@ metadata:
   description: Windows Storage Server 2003 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0bbf6a9de795da54ad932124e857b89fa09d55e2
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940856"
 name: Windows Storage Server 2003 R2
-summary: "Windows Storage Server 2003 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है.\nयह उत्पाद Windows Server 2003 Service Pack 1 के साथ भेजा गया. \n"
+summary: |
+  Windows Storage Server 2003 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
+  यह उत्पाद Windows Server 2003 Service Pack 1 के साथ भेजा गया. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 03/05/2006
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Original Release
-  startDate: 03/05/2006
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Original Release
+    startDate: 03/05/2006
+    endDate: 04/14/2009
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

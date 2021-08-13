@@ -4,28 +4,28 @@ metadata:
   description: InfoPath 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: b70d3170dfa8f1a3c2c08ae73564470d3d956b90
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936080"
 name: InfoPath 2010
-summary: >+
+summary: |+
   InfoPath 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4086176/office-2010-approaching-end-of-extended-support)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

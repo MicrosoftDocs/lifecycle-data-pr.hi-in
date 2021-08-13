@@ -3,25 +3,26 @@ metadata:
   title: Internet Explorer 10
   description: Internet Explorer 10 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1faf7eecca13c22c8c54ab7382dfcf21c637cb1f
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855362"
 name: Internet Explorer 10
-summary: >+
+summary: |+
   Internet Explorer 10 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- internet-explorer
+  - internet-explorer
 policyType: component
 supportDates:
   start: 10/30/2012
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)\n* [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> समर्थित ऑपरेटिंग सिस्टम और ब्राउज़र संयोजन की सूची के लिए Internet Explorer जीवनचक्र FAQ पर जाएं."
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support)
+  * [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)
+
+  > [!NOTE]
+  > समर्थित ऑपरेटिंग सिस्टम और ब्राउज़र संयोजन की सूची के लिए Internet Explorer जीवनचक्र FAQ पर जाएं.

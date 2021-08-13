@@ -3,29 +3,28 @@ metadata:
   title: Visio 2019
   description: Visio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 354844a703531046efb29743ac16e5f5f02da2d1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937745"
+  keywords: 'Professional,Standard'
 name: Visio 2019
-summary: >+
+summary: |+
   Visio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Professional, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Professional
+  * Standard

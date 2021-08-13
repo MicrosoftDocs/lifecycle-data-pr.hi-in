@@ -3,35 +3,52 @@ metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 31ae5780a4e6f55abc3d232aafdd43fa70f32be2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937486"
+  keywords: 'Agents,Community 2013,Express for Web,Express for Windows 8,Express for Windows Desktop,IntelliTrace Collector,Microsoft Azure Tools,Premium,Professional,Remote Tools,Shell (Integrated),Shell (Isolated),SQL Server Data Tools,Team Explorer,Test Professional 2013,Ultimate,Visual C++ Redistributable,Web Tools Extensions'
 name: Visual Studio 2012
-summary: >+
+summary: |+
   Visual Studio 2012 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, कम्यूनिटी 2013, वेब के लिए एक्सप्रेस, Windows 8 के लिए एक्सप्रेस, Windows डेस्कटॉप के लिए एक्सप्रेस, IntelliTrace कलेक्टर, Microsoft Azure टूल्स, प्रीमियम, प्रोफेशनल, रिमोट टूल्स, Shell (एकीकृत), Shell (अलग), SQL सर्वर डेटा टूल्स, टीम एक्सप्लोरर, परीक्षण प्रोफेशनल 2013, अल्टीमेट, Visual C++ पुनर्वितरण, वेब टूल्स एक्सटेंशन
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 10/31/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Update 5
-  startDate: 08/21/2015
-  endDate: 01/10/2023
-- version: Update 4
-  startDate: 11/12/2013
-  endDate: 10/08/2019
-- version: Original Release
-  startDate: 10/31/2012
-  endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [Visual Studio उत्पाद जीवनचक्र और सर्विसिंग](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* कम्यूनिटी 2013\n* वेब के लिए एक्सप्रेस\n* Windows 8 के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* IntelliTrace कलेक्टर\n* Microsoft Azure टूल्स\n* Premium\n* Professional\n* रिमोट टूल्स\n* Shell (एकीकृत)\n* Shell (अलग)\n* SQL Server डेटा टूल्स\n* टीम एक्सप्लोरर\n* Test Professional 2013\n* Ultimate\n* Visual C++ पुनर्वितरण योग्य\n* वेब टूल्स एक्सटेंशन"
+  - version: Update 5
+    startDate: 08/21/2015
+    endDate: 01/10/2023
+  - version: Update 4
+    startDate: 11/12/2013
+    endDate: 10/08/2019
+  - version: Original Release
+    startDate: 10/31/2012
+    endDate: 01/10/2023
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [Visual Stodio उत्पाद जीवनचक्र और सर्विसिंग](/visualstudio/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * एजेंट
+  * कम्यूनिटी 2013
+  * वेब के लिए एक्सप्रेस
+  * Windows 8 के लिए एक्सप्रेस
+  * Windows डेस्कटॉप के लिए एक्सप्रेस
+  * IntelliTrace कलेक्टर
+  * Microsoft Azure टूल्स
+  * Premium
+  * Professional
+  * रिमोट टूल्स
+  * Shell (एकीकृत)
+  * Shell (अलग)
+  * SQL Server डेटा टूल्स
+  * टीम एक्सप्लोरर
+  * Test Professional 2013
+  * Ultimate
+  * Visual C++ पुनर्वितरण योग्य
+  * वेब टूल्स एक्सटेंशन

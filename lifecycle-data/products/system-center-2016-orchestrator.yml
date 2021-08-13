@@ -3,26 +3,20 @@ metadata:
   title: System Center 2016 Orchestrator
   description: System Center 2016 Orchestrator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c5725bbb0002c3952fb18ff688be105c808e190b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855687"
 name: System Center 2016 Orchestrator
-summary: >+
+summary: |+
   System Center 2016 Orchestrator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 10/28/2016
   end: 01/11/2022
   extendedEnd: 01/11/2027
 releases:
-- version: Original Release
-  startDate: 10/28/2016
-  endDate: 01/11/2027
-content: ''
+  - version: Original Release
+    startDate: 10/28/2016
+    endDate: 01/11/2027
+content: |+

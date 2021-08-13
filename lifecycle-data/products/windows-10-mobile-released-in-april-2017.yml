@@ -1,31 +1,27 @@
 ### YamlMime:Lifecycle
 metadata:
   title: अप्रैल 2017 में रिलीज़ होने वाला Windows 10 Mobile
-  description: अप्रैल 2017 में रिलीज़ होने वाला Windows 10 Mobile, निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  description: 'अप्रैल 2017 में रिलीज़ होने वाला Windows 10 Mobile, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0342a513e9223085885577a70a595292c7b43ce
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869876"
 name: अप्रैल 2017 में रिलीज़ होने वाला Windows 10 Mobile
-summary: >
+summary: |
   अप्रैल 2017 में रिलीज़ होने वाला Windows 10 Mobile, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 04/25/2017
   end: 06/11/2019
 releases:
-- version: Original Release
-  startDate: 04/25/2017
-  endDate: 06/11/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [डिवाइस OS जीवनचक्र FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile का समर्थन 10 दिसंबर, 2019 को समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+  - version: Original Release
+    startDate: 04/25/2017
+    endDate: 06/11/2019
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [डिवाइस OS जीवनचक्र FAQ](/lifecycle/faq/device-operating-systems)
+  * [Windows 10 Mobile का समर्थन 10 दिसंबर, 2019 को समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)

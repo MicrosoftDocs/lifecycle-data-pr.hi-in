@@ -4,28 +4,26 @@ metadata:
   description: Microsoft Visual FoxPro 9.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Professional
-  ms.openlocfilehash: 689e9849afd320715a3f700c08beee645de18060
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "929309"
 name: Microsoft Visual FoxPro 9.0
-summary: >+
+summary: |+
   Microsoft Visual FoxPro 9.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Professional
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 12/22/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 12/22/2004
-  endDate: 01/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional"
+  - version: Original Release
+    startDate: 12/22/2004
+    endDate: 01/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Professional
