@@ -3,24 +3,34 @@ metadata:
   title: Expression
   description: Expression निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Blend,Design,Encoder,Studio
-  ms.openlocfilehash: 2d2e5c18c1e8ca1b355bfe392df42d6a351e6585
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936228"
+  keywords: 'Blend,Design,Encoder,Studio'
 name: Expression
-summary: "Expression [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Blend, Design, Encoder, Studio\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Expression [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति  का अनुसरण करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Blend, Design, Encoder, Studio
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- expression
+  - expression
 policyType: fixed
 supportDates:
   start: 07/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 07/27/2007
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> Expression Blend के शुरुआत की तारीख 13 जुलाई, 2007 है. \n\n## <a name=\"editions\"></a>संस्करण \n* Blend\n* Design\n* Encoder\n* Studio"
+  - version: Original Release
+    startDate: 07/27/2007
+    endDate: 10/10/2017
+content: |
+
+
+  > [!NOTE]
+  > Expression Blend के शुरुआत की तारीख 13 जुलाई, 2007 है. 
+
+  ## <a name="editions"></a>संस्करण 
+  * Blend
+  * Design
+  * Encoder
+  * Studio

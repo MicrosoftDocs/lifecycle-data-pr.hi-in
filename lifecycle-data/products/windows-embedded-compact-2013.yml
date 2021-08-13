@@ -3,26 +3,20 @@ metadata:
   title: Windows एम्बेडेड कॉम्पैक्ट 2013
   description: Windows एम्बेडेड कॉम्पैक्ट 2013 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8a42d1b8d76efbc42465bf7d813ce0762a03db2b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855499"
 name: Windows एम्बेडेड कॉम्पैक्ट 2013
-summary: >+
+summary: |+
   Windows एम्बेडेड कॉम्पैक्ट 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/11/2013
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 08/11/2013
-  endDate: 10/10/2023
-content: ''
+  - version: Original Release
+    startDate: 08/11/2013
+    endDate: 10/10/2023
+content: |+

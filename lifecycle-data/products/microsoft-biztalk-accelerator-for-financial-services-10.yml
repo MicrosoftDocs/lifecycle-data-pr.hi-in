@@ -3,29 +3,28 @@ metadata:
   title: Microsoft BizTalk Accelerator for Financial Services 1.0
   description: Microsoft BizTalk Accelerator for Financial Services 1.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935340"
+  keywords: 'Enterprise,Standard'
 name: Microsoft BizTalk Accelerator for Financial Services 1.0
-summary: >+
+summary: |+
   Microsoft BizTalk Accelerator for Financial Services 1.0  [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 03/12/2003
   end: 04/08/2008
   extendedEnd: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2003
-  endDate: 04/09/2013
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 03/12/2003
+    endDate: 04/09/2013
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

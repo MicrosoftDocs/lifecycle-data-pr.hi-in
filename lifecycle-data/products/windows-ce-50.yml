@@ -3,26 +3,20 @@ metadata:
   title: Windows CE 5.0
   description: Windows CE 5.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 61aca29aa9f4eb5cca148ffc0405031322185cc6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820393"
 name: Windows CE 5.0
-summary: >+
+summary: |+
   Windows CE 5.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 08/31/2004
   end: 10/13/2009
   extendedEnd: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 08/31/2004
-  endDate: 10/14/2014
-content: ''
+  - version: Original Release
+    startDate: 08/31/2004
+    endDate: 10/14/2014
+content: |+

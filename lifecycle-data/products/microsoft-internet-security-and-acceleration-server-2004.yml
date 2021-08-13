@@ -3,33 +3,42 @@ metadata:
   title: Microsoft Internet Security and Acceleration Server 2004
   description: Microsoft Internet Security and Acceleration Server 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933490"
+  keywords: 'Enterprise,Standard'
 name: Microsoft Internet Security and Acceleration Server 2004
-summary: "Microsoft Internet Security and Acceleration Server 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Microsoft Internet Security and Acceleration Server 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 09/08/2004
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Service Pack 3
-  startDate: 10/29/2007
-  endDate: 04/14/2015
-- version: Service Pack 2
-  startDate: 01/31/2006
-  endDate: 01/13/2009
-- version: Service Pack 1
-  startDate: 03/11/2005
-  endDate: 04/10/2007
-- version: Original Release
-  startDate: 09/08/2004
-  endDate: 03/11/2006
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Service Pack 3
+    startDate: 10/29/2007
+    endDate: 04/14/2015
+  - version: Service Pack 2
+    startDate: 01/31/2006
+    endDate: 01/13/2009
+  - version: Service Pack 1
+    startDate: 03/11/2005
+    endDate: 04/10/2007
+  - version: Original Release
+    startDate: 09/08/2004
+    endDate: 03/11/2006
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [माइग्रेशन मार्गदर्शन](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

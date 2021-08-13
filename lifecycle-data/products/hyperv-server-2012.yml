@@ -3,26 +3,20 @@ metadata:
   title: Hyper-V Server 2012
   description: Hyper-V Server 2012 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: eebd886dc19d95e127d205e34a4afc89ccbb9500
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855367"
 name: Hyper-V Server 2012
-summary: >+
+summary: |+
   Hyper-V Server 2012 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/10/2023
-content: ''
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/10/2023
+content: |+
