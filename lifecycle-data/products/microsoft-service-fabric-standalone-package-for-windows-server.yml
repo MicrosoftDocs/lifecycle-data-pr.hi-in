@@ -3,23 +3,20 @@ metadata:
   title: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
   description: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज आधुनिक लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d1876355f78b6c35bded38d9b1cbd039d4f0cd91
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855519"
 name: Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज
-summary: >+
+summary: |+
   Windows Server के लिए सर्विस फैब्रिक स्टैंड-अलोन पैकेज [आधुनिक](/lifecycle/policies/modern) लाइफसाइकल नीति का पालन करता है.
 
 
 products:
-- windows
+  - windows
 policyType: modern-online
 supportDates:
   start: 09/26/2016
 releases:
-- version: Original Release
-  startDate: 09/26/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/service-fabric/service-fabric-support)"
+  - version: Original Release
+    startDate: 09/26/2016
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विसिंग जानकारी](/azure/service-fabric/service-fabric-support)

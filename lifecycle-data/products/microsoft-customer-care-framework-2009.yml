@@ -3,33 +3,29 @@ metadata:
   title: Microsoft Customer Care Framework 2009
   description: Microsoft Customer Care Framework 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 07cce0f3cd5c2fc54a88defb59031e3e9f8f04e8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821056"
 name: Microsoft Customer Care Framework 2009
-summary: >
+summary: |
   Microsoft Customer Care Framework 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- customer-care-framework
+  - customer-care-framework
 policyType: fixed
 supportDates:
   start: 10/18/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Service Pack 1
-  startDate: 03/31/2009
-  endDate: 01/08/2019
-- version: Original Release
-  startDate: 10/18/2008
-  endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 1
+    startDate: 03/31/2009
+    endDate: 01/08/2019
+  - version: Original Release
+    startDate: 10/18/2008
+    endDate: 04/13/2010
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)

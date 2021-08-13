@@ -3,28 +3,28 @@ metadata:
   title: Microsoft Office 2016 for Mac
   description: Mac के लिए Microsoft Office 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Home and Business,Home and Student,Standard
-  ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "936302"
+  keywords: 'Home and Business,Home and Student,Standard'
 name: Microsoft Office 2016 for Mac
-summary: >+
+summary: |+
   Mac के लिए Microsoft Office 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है
-
 
   यह निम्नलिखित संस्करणों पर लागू है: Home and Business, Home and Student, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Business\n* Home and Student\n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Home and Business
+  * Home and Student
+  * Standard

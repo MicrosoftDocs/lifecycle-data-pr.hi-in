@@ -3,29 +3,28 @@ metadata:
   title: Microsoft स्पीच Server 2004
   description: Microsoft स्पीच Server 2004 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937079"
+  keywords: 'Enterprise,Standard'
 name: Microsoft स्पीच Server 2004
-summary: >+
+summary: |+
   Microsoft स्पीच Server 2004 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 04/28/2004
   end: 07/14/2009
   extendedEnd: 07/08/2014
 releases:
-- version: Original Release
-  startDate: 04/28/2004
-  endDate: 07/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 04/28/2004
+    endDate: 07/08/2014
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

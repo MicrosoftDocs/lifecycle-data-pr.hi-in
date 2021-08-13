@@ -4,28 +4,26 @@ metadata:
   description: Microsoft Class Server 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 0edbcc4d8beac695a9fc873ec7ae2d51c06e8f56
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934489"
 name: Microsoft Class Server 4.0
-summary: >+
+summary: |+
   Microsoft Class Server 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 02/21/2005
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Original Release
-  startDate: 02/21/2005
-  endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 02/21/2005
+    endDate: 04/14/2015
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

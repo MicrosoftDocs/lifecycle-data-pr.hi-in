@@ -3,35 +3,32 @@ metadata:
   title: Microsoft Office Project Server 2003
   description: Microsoft Office Project Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f3cdcd67ab11f44ba8ae5e4b54165274e1016016
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821023"
 name: Microsoft Office Project Server 2003
-summary: >+
+summary: |+
   Microsoft Office Project Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 11/17/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 3
-  startDate: 09/18/2007
-  endDate: 04/08/2014
-- version: Service Pack 2a
-  startDate: 12/13/2005
-  endDate: 10/14/2008
-- version: Service Pack 1
-  startDate: 07/27/2004
-  endDate: 10/10/2006
-- version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 3
+    startDate: 09/18/2007
+    endDate: 04/08/2014
+  - version: Service Pack 2a
+    startDate: 12/13/2005
+    endDate: 10/14/2008
+  - version: Service Pack 1
+    startDate: 07/27/2004
+    endDate: 10/10/2006
+  - version: Original Release
+    startDate: 11/17/2003
+    endDate: 07/27/2005
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)

@@ -3,24 +3,22 @@ metadata:
   title: Microsoft Cloud for Healthcare
   description: Microsoft Cloud for Healthcare आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 10/28/2020
-  keywords: 
-  ms.openlocfilehash: 6c983fc065824794748a01a129446703df3ec1d5
-  ms.sourcegitcommit: 2056a8a3f9a36793142bc03850e39d5751d9dad3
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/29/2020
-  ms.locfileid: "1193454"
+  keywords: null
 name: Microsoft Cloud for Healthcare
-summary: >+
+summary: |+
   Microsoft Cloud for Healthcare [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 10/28/2020
 releases:
-- version: Original Release
-  startDate: 10/28/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Cloud for Healthcare के बारे में अधिक जानें](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)\n* [Microsoft Cloud for Healthcare के साथ शुरू करें](/dynamics365/industry/healthcare/overview)"
+  - version: Original Release
+    startDate: 10/28/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [Microsoft Cloud for Healthcare के बारे में अधिक जानें](https://www.microsoft.com/industry/health/microsoft-cloud-for-healthcare)
+  * [Microsoft Cloud for Healthcare के साथ शुरू करें](/dynamics365/industry/healthcare/overview)

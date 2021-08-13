@@ -3,30 +3,26 @@ metadata:
   title: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक 2007 R3
   description: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R3 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: cffcc1c2bb51fc5023fe6ad29d62132141ffedb2
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855637"
 name: Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन प्रबंधक 2007 R3
-summary: >
+summary: |
   Microsoft सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर 2007 R3 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 12/19/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 12/19/2010
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [अतिरिक्त माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/planning-for-migration)"
+  - version: Original Release
+    startDate: 12/19/2010
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies)
+  * [अतिरिक्त माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/planning-for-migration)
