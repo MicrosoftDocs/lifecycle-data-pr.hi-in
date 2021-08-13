@@ -3,47 +3,63 @@ metadata:
   title: Microsoft SQL Server 2008 R2
   description: Microsoft SQL Server 2008 R2 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: d18b8ab6918149d81b686c3a63ac65441be3d37b
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2028915"
+  keywords: null
 name: Microsoft SQL Server 2008 R2
-summary: >+
+summary: |+
   Microsoft SQL Server 2008 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, डेवलपर, एंटरप्राइज, एक्सप्रेस, एडवांस्ड सर्विसेज के साथ एक्सप्रेस, एम्बेडेड सिस्टम्स के लिए, स्टैंडर्ड, स्मॉल बिजनेस के लिए स्टैंडर्ड एडिशन, वेब, वर्कग्रुप
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 07/20/2010
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Extended Security Update Year 3
-  startDate: 07/14/2021
-  endDate: 07/12/2022
-- version: Extended Security Update Year 2
-  startDate: 07/15/2020
-  endDate: 07/13/2021
-- version: Extended Security Update Year 1
-  startDate: 07/09/2019
-  endDate: 07/14/2020
-- version: Service Pack 3
-  startDate: 07/07/2014
-  endDate: 07/09/2019
-- version: Service Pack 2
-  startDate: 07/26/2012
-  endDate: 10/13/2015
-- version: Service Pack 1
-  startDate: 07/12/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 07/20/2010
-  endDate: 07/10/2012
-content: "> [!TIP]\n> *समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन साल तक, इस उत्पाद के डेटासेंटर, स्टैंडर्ड, एंटरप्राइज़ और एम्बेडेड संस्करणों के लिए विस्तारित सुरक्षा अपडेट्स (ESU) उपलब्ध हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n## <a name=\"links\"></a>लिंक \n* [SQL Server 2008 और Windows Server 2008 समर्थन समाप्ति विकल्प](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [SQL Server समर्थन समाप्ति](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n\n> [!NOTE]\n> केवल IA64 के लिए, SP2 7/9/2019 तक समर्थित किया जाएगा. अधिक जानकारी के लिए SQL रिलीज सर्विसेज ब्लॉग देखें.\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेवलपर\n* Enterprise\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* एम्बेडेड सिस्टम के लिए\n* Standard\n* Small Business के लिए मानक संस्करण\n* वेब\n* वर्कग्रुप"
+  - version: Extended Security Update Year 3
+    startDate: 07/14/2021
+    endDate: 07/12/2022
+  - version: Extended Security Update Year 2
+    startDate: 07/15/2020
+    endDate: 07/13/2021
+  - version: Extended Security Update Year 1
+    startDate: 07/09/2019
+    endDate: 07/14/2020
+  - version: Service Pack 3
+    startDate: 07/07/2014
+    endDate: 07/09/2019
+  - version: Service Pack 2
+    startDate: 07/26/2012
+    endDate: 10/13/2015
+  - version: Service Pack 1
+    startDate: 07/12/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 07/20/2010
+    endDate: 07/10/2012
+content: |
+  > [!TIP]
+  > *समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन साल तक, इस उत्पाद के डेटासेंटर, स्टैंडर्ड, एंटरप्राइज़ और एम्बेडेड संस्करणों के लिए विस्तारित सुरक्षा अपडेट्स (ESU) उपलब्ध हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. 
+
+  ## <a name="links"></a>लिंक 
+  * [SQL Server 2008 और Windows Server 2008 समर्थन समाप्ति विकल्प](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)
+  * [SQL Server समर्थन समाप्ति](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)
+
+  > [!NOTE]
+  > केवल IA64 के लिए, SP2 7/9/2019 तक समर्थित किया जाएगा. अधिक जानकारी के लिए SQL रिलीज सर्विसेज ब्लॉग देखें.
+
+  ## <a name="editions"></a>संस्करण 
+  * डेटासेंटर
+  * डेवलपर
+  * Enterprise
+  * एक्सप्रेस
+  * उन्नत सेवाओं के साथ एक्सप्रेस
+  * एम्बेडेड सिस्टम के लिए
+  * Standard
+  * Small Business के लिए मानक संस्करण
+  * वेब
+  * वर्कग्रुप

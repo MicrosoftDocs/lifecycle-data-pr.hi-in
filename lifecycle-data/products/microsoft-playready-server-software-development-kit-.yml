@@ -3,25 +3,19 @@ metadata:
   title: 'Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट '
   description: Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/21/2020
-  ms.openlocfilehash: ad1436e285d41225be4fd96438e78cecfe455916
-  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/21/2020
-  ms.locfileid: "908023"
 name: 'Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट '
-summary: >+
+summary: |+
   Microsoft PlayReady Server सॉफ़्टवेयर डेवलपमेंट किट [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 07/15/2009
   end: 10/14/2014
 releases:
-- version: Original Release
-  startDate: 07/15/2009
-  endDate: 10/14/2014
-content: ''
+  - version: Original Release
+    startDate: 07/15/2009
+    endDate: 10/14/2014
+content: |+

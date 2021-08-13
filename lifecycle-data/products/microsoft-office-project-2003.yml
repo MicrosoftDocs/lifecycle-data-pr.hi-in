@@ -3,33 +3,41 @@ metadata:
   title: Microsoft Office Project 2003
   description: Microsoft Office Project 2003 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Professional,Standard
-  ms.openlocfilehash: 5d27a4ac1b21778f175b31fd897a986ec8159342
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "932824"
+  keywords: 'Professional,Standard'
 name: Microsoft Office Project 2003
-summary: "Microsoft Office Project 2003 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Professional, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Microsoft Office Project 2003 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Professional, Standard
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 11/17/2003
   end: 04/14/2009
   extendedEnd: 04/08/2014
 releases:
-- version: Service Pack 3
-  startDate: 09/17/2007
-  endDate: 04/08/2014
-- version: Service Pack 2
-  startDate: 09/26/2005
-  endDate: 10/14/2008
-- version: Service Pack 1
-  startDate: 07/27/2004
-  endDate: 10/10/2006
-- version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard"
+  - version: Service Pack 3
+    startDate: 09/17/2007
+    endDate: 04/08/2014
+  - version: Service Pack 2
+    startDate: 09/26/2005
+    endDate: 10/14/2008
+  - version: Service Pack 1
+    startDate: 07/27/2004
+    endDate: 10/10/2006
+  - version: Original Release
+    startDate: 11/17/2003
+    endDate: 07/27/2005
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Professional
+  * Standard

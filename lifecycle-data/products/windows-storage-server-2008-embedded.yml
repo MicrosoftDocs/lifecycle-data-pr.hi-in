@@ -1,31 +1,39 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Storage Server 2008 Embedded
-  description: Windows Storage Server 2008 Embedded फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
+  title: Windows Storage Server 2008 एम्बेडेड
+  description: Windows Storage Server 2008 एम्बेडेड फिक्स्ड लाइफसाइकलर नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup
-  ms.openlocfilehash: 6615fb87d3cf9d0ad0dabec14b5cb3b2fb52b8df
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939077"
-name: Windows Storage Server 2008 Embedded
-summary: >+
-  Windows Storage Server 2008 Embedded [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
+  keywords: '32 Bit,64 Bit,Basic,Basic 32-Bit,Enterprise,Standard,Workgroup'
+name: Windows Storage Server 2008 एम्बेडेड
+summary: |+
+  Windows Storage Server 2008 एम्बेडेड [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकलर नीति का पालन करता है.
 
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: 32 बिट, 64 बिट, बेसिक, बेसिक 32-बिट, Enterprise, स्टैंडर्ड, वर्कग्रुप
+  यह निम्नलिखित संस्करणों पर लागू होता है: 32 बिट, 64 बिट, बेसिक, बेसिक 32-बिट, एंटरप्राइज, स्टैंडर्ड, वर्कग्रुप
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 07/19/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Original Release
-  startDate: 07/19/2009
-  endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> इस उत्पाद का समर्थन खत्म होने वाला है। माइग्रेशन मार्गदर्शन के लिए नीचे देखें.\n\n## <a name=\"editions\"></a>संस्करण \n* 32 बिट\n* 64 बिट\n* बेसिक\n* बेसिक 32-बिट\n* Enterprise\n* Standard\n* वर्कग्रुप"
+  - version: Original Release
+    startDate: 07/19/2009
+    endDate: 07/12/2011
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/archive/blogs/storageserver/announcing-windows-storage-server-2016)
+
+  > [!NOTE]
+  > इस उत्पाद का समर्थन खत्म होने वाला है। माइग्रेशन मार्गदर्शन के लिए नीचे देखें.
+
+  ## <a name="editions"></a>संस्करण 
+  * 32 बिट
+  * 64 बिट
+  * बेसिक
+  * बेसिक 32-बिट
+  * Enterprise
+  * Standard
+  * वर्कग्रुप

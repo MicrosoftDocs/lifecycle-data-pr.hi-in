@@ -3,25 +3,19 @@ metadata:
   title: Mac के लिए Microsoft PowerPoint 2008
   description: Mac के लिए Microsoft PowerPoint 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820600"
 name: Mac के लिए Microsoft PowerPoint 2008
-summary: >+
+summary: |+
   Mac के लिए Microsoft PowerPoint 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/12/2008
   end: 04/09/2013
 releases:
-- version: Original Release
-  startDate: 03/12/2008
-  endDate: 04/09/2013
-content: ''
+  - version: Original Release
+    startDate: 03/12/2008
+    endDate: 04/09/2013
+content: |+

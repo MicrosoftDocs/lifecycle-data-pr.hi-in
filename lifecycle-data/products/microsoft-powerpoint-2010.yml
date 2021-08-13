@@ -3,29 +3,28 @@ metadata:
   title: Microsoft PowerPoint 2010
   description: Microsoft PowerPoint 2010 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
-  keywords: Home and Student,Standard
-  ms.openlocfilehash: 456aacd4e7c600f852b3a7fb169afc68163bf95c
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "930049"
+  keywords: 'Home and Student,Standard'
 name: Microsoft PowerPoint 2010
-summary: >+
+summary: |+
   Microsoft PowerPoint 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Home and Student, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 07/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 07/15/2010
-  endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Student\n* Standard"
+  - version: Original Release
+    startDate: 07/15/2010
+    endDate: 10/13/2020
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Home and Student
+  * Standard

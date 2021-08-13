@@ -3,25 +3,19 @@ metadata:
   title: Windows Home Server 2011
   description: Windows Home Server 2011 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: cd7602894a6ba0f2cda537685202a0f45f43443e
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855580"
 name: Windows Home Server 2011
-summary: >+
+summary: |+
   Windows Home Server 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/28/2011
   end: 04/12/2016
 releases:
-- version: Original Release
-  startDate: 06/28/2011
-  endDate: 04/12/2016
-content: ''
+  - version: Original Release
+    startDate: 06/28/2011
+    endDate: 04/12/2016
+content: |+

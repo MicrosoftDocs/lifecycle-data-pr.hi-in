@@ -1,40 +1,41 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.0
-  description: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
+  title: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
+  description: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 640b1312c2eba7e693edbd82f34378619036195e
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935377"
-name: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.0
-summary: >+
-  Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
-
+name: Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0
+summary: |+
+  Windows डेस्कटॉप के लिए Microsoft एप्लीकेशन वर्चुअलाइजेशन होस्टिंग 5.0 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Windows डेस्कटॉप के लिए
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 04/14/2026
-- version: Service Pack 2
-  startDate: 11/08/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Windows डेस्कटॉप के लिए"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 04/14/2026
+  - version: Service Pack 2
+    startDate: 11/08/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Windows डेस्कटॉप के लिए
