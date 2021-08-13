@@ -1,31 +1,32 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk Adapters
-  description: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk Adapters निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  title: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
+  description: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: Developer,Standard
-  ms.openlocfilehash: 233e1bef8d5f953df1498b57cfbfc077b3461f49
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000207"
-name: होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk Adapters
-summary: >+
-  होस्ट सिस्टम2.0 के लिए Microsoft BizTalk Adapters [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
+  keywords: 'Developer,Standard'
+name: 'होस्ट सिस्टम 2.0 के लिए Microsoft BizTalk एडेप्टर्स '
+summary: |+
+  होस्ट सिस्टम2.0 के लिए Microsoft BizTalk एडेप्टर्स [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Developer, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 06/21/2009
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Developer\n* Standard"
+  - version: Original Release
+    startDate: 06/21/2009
+    endDate: 07/09/2019
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Host-Integration-Blog/End-of-Support-for-BizTalk-Adapters-for-Host-Systems-2-0/ba-p/269471)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * डेवलपर
+  * Standard

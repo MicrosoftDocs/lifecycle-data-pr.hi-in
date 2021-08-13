@@ -3,29 +3,27 @@ metadata:
   title: Microsoft System Center Data Protection Manager 2006
   description: 'Microsoft System Center Data Protection Manager 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
-  ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820991"
 name: Microsoft System Center Data Protection Manager 2006
-summary: >+
+summary: |+
   Microsoft System Center Data Protection Manager 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। 2
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 10/22/2005
   end: 04/13/2011
   extendedEnd: 04/12/2016
 releases:
-- version: Service Pack 1
-  startDate: 10/23/2006
-  endDate: 04/12/2016
-- version: Original Release
-  startDate: 10/22/2005
-  endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
+  - version: Service Pack 1
+    startDate: 10/23/2006
+    endDate: 04/12/2016
+  - version: Original Release
+    startDate: 10/22/2005
+    endDate: 01/08/2008
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)

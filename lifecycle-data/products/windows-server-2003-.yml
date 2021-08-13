@@ -3,35 +3,46 @@ metadata:
   title: 'Windows Server 2003 '
   description: Windows Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web
-  ms.openlocfilehash: c11990954fd21dad1b968cf849bc9359008c9c07
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939595"
+  keywords: 'Datacenter (32-bit x86),Datacenter (x64),Datacenter for Itanium-Based Systems,Enterprise (32-Bit x86),Enterprise for Itanium-based Systems,Enterprise X64,Standard (32-bit x86),Web'
 name: 'Windows Server 2003 '
-summary: >+
+summary: |+
   Windows Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Datacenter (32-bit x86), Datacenter (x64), Datacenter for Itanium-Based Systems, Enterprise (32-Bit x86), Enterprise for Itanium-based Systems, Enterprise X64, Standard (32-bit x86), Web
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/28/2003
   end: 07/13/2010
   extendedEnd: 07/14/2015
 releases:
-- version: Service Pack 2
-  startDate: 03/13/2007
-  endDate: 07/14/2015
-- version: Service Pack 1
-  startDate: 03/30/2005
-  endDate: 04/14/2009
-- version: Original Release
-  startDate: 05/28/2003
-  endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Server 2003 से Windows Server 2008 में नवीनीकृत करने के लिए समर्थित पथ](https://support.microsoft.com/hi-in/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन के लिए Windows Server 2003 मशीनें तैयार करें](/azure/migrate/prepare-windows-server-2003-migration)\n\n> [!NOTE]\n> इटैनियम-आधारित सिस्टम्स की आरंभ तिथि 19 जून, 2003 है.\n\n## <a name=\"editions\"></a>संस्करण \n* आँकड़ा सेन्टर (32-बिट x86)\n* आँकड़ा सेन्टर (x64)\n* इटैनियम-आधारित सिस्टम के लिए आँकड़ा सेन्टर\n* एंटरप्राइज़ (32-बिट x86)\n* इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज\n* Enterprise X64\n* स्टैंडर्ड (32-बिट x86)\n* वेब"
+  - version: Service Pack 2
+    startDate: 03/13/2007
+    endDate: 07/14/2015
+  - version: Service Pack 1
+    startDate: 03/30/2005
+    endDate: 04/14/2009
+  - version: Original Release
+    startDate: 05/28/2003
+    endDate: 04/10/2007
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [Windows Server 2003 से Windows Server 2008 में नवीनीकृत करने के लिए समर्थित पथ](https://support.microsoft.com/help/951041/supported-paths-for-upgrading-from-windows-server-2003-to-windows-serv)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [माइग्रेशन के लिए Windows Server 2003 मशीनें तैयार करें](/azure/migrate/prepare-windows-server-2003-migration)
+
+  > [!NOTE]
+  > इटैनियम-आधारित सिस्टम्स की आरंभ तिथि 19 जून, 2003 है.
+
+  ## <a name="editions"></a>संस्करण 
+  * आँकड़ा सेन्टर (32-बिट x86)
+  * आँकड़ा सेन्टर (x64)
+  * इटैनियम-आधारित सिस्टम के लिए आँकड़ा सेन्टर
+  * एंटरप्राइज़ (32-बिट x86)
+  * इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज
+  * Enterprise X64
+  * स्टैंडर्ड (32-बिट x86)
+  * वेब

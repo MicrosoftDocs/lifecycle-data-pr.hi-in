@@ -4,27 +4,25 @@ metadata:
   description: Microsoft C5 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 9c027da4c095f0c045ec12a5481cb17ef08cc521
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940409"
 name: Microsoft C5 4.0
-summary: >+
+summary: |+
   Microsoft C5 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 03/01/2006
   end: 04/12/2011
 releases:
-- version: Original Release
-  startDate: 03/01/2006
-  endDate: 04/12/2011
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 03/01/2006
+    endDate: 04/12/2011
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

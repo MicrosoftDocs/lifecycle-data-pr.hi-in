@@ -3,29 +3,28 @@ metadata:
   title: RosettaNet 3.0 के लिए Microsoft BizTalk Accelerator
   description: RosettaNet 3.0 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934822"
+  keywords: 'Enterprise,Standard'
 name: RosettaNet 3.0 के लिए Microsoft BizTalk Accelerator
-summary: >+
+summary: |+
   RosettaNet 3.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 02/22/2005
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Original Release
-  startDate: 02/22/2005
-  endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Original Release
+    startDate: 02/22/2005
+    endDate: 04/14/2015
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

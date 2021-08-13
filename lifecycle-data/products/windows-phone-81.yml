@@ -3,29 +3,27 @@ metadata:
   title: Windows Phone 8.1
   description: Windows Phone 8.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: d81cd34117e63701bf48f128d7d3aafdd93ac581
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855498"
 name: Windows Phone 8.1
-summary: >
+summary: |
   Windows Phone 8.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/24/2014
   end: 07/11/2017
 releases:
-- version: Original Release
-  startDate: 06/24/2014
-  endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Phone 8.1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)\n\n> [!NOTE]\n> जीवनचक्र आरंभ तिथि के बाद न्यूनतम 36 माह के लिए Microsoft, सुरक्षा अद्यतन सहित ऑपरेटिंग सिस्टम के लिए अद्यतन उपलब्ध कराता है. ये अद्यतन वृद्धिशील होंगे, जिसमें प्रत्येक अद्यतन उससे पहले के अद्यतन पर बनाया जाता है. ग्राहकों को समर्थित रहने के लिए प्रत्येक अद्यतन स्थापित करने की आवश्यकता होती है. इन वृद्धिशील अद्यतन का वितरण मोबाइल ऑपरेटर या उस फ़ोन निर्माता द्वारा नियंत्रित किया जा सकता है, जिससे आपने अपना फ़ोन खरीदा था, और स्थापना के लिए आपके फ़ोन में कोई पूर्व अद्यतन होना आवश्यक है. अद्यतन उपलब्धता देश, क्षेत्र और हार्डवेयर क्षमताओं के अनुसार भी भिन्न होगी."
+  - version: Original Release
+    startDate: 06/24/2014
+    endDate: 07/11/2017
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [Windows Phone 8.1 FAQ](https://support.microsoft.com/help/4036480/windows-phone-8-1-end-of-support-faq)
+
+  > [!NOTE]
+  > जीवनचक्र आरंभ तिथि के बाद न्यूनतम 36 माह के लिए Microsoft, सुरक्षा अद्यतन सहित ऑपरेटिंग सिस्टम के लिए अद्यतन उपलब्ध कराता है. ये अद्यतन वृद्धिशील होंगे, जिसमें प्रत्येक अद्यतन उससे पहले के अद्यतन पर बनाया जाता है. ग्राहकों को समर्थित रहने के लिए प्रत्येक अद्यतन स्थापित करने की आवश्यकता होती है. इन वृद्धिशील अद्यतन का वितरण मोबाइल ऑपरेटर या उस फ़ोन निर्माता द्वारा नियंत्रित किया जा सकता है, जिससे आपने अपना फ़ोन खरीदा था, और स्थापना के लिए आपके फ़ोन में कोई पूर्व अद्यतन होना आवश्यक है. अद्यतन उपलब्धता देश, क्षेत्र और हार्डवेयर क्षमताओं के अनुसार भी भिन्न होगी.

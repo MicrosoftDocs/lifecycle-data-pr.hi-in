@@ -3,31 +3,29 @@ metadata:
   title: Microsoft Edge
   description: Microsoft Edge आधुनिक जीवनचक्र नीति का पालन करता है
   ms.date: 07/17/2021
-  keywords: 
-  ms.openlocfilehash: 81aabf800a7f4fa41266ade0acae6723211cdc4f
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172042"
+  keywords: null
 name: Microsoft Edge
-summary: >+
+summary: |+
   Microsoft Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है
 
 
 
 
-
   > [!IMPORTANT]
-
   > कृपया ध्यान दें कि इस उत्पाद के लीगेसी संस्करण का समर्थन 9 मार्च, 2021 को समाप्त होता है। अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएँ.
 
 products:
-- microsoft-edge
+  - microsoft-edge
 policyType: modern-on-prem
 supportDates:
   start: 01/15/2020
 releases:
-- version: Original Release
-  startDate: 01/15/2020
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n* [जीवनचक्र FAQ - Internet Explorer और Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n*  [Microsoft Edge की जीवनचक्र नीति](/deployedge/microsoft-edge-support-lifecycle)"
+  - version: Original Release
+    startDate: 01/15/2020
+content: |+
+
+
+  ## <a name="links"></a>लिंक 
+  * [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)
+  * [जीवनचक्र FAQ - Internet Explorer और Edge](/lifecycle/faq/internet-explorer-microsoft-edge)
+  *  [Microsoft Edge की जीवनचक्र नीति](/deployedge/microsoft-edge-support-lifecycle)

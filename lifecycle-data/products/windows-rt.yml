@@ -3,32 +3,32 @@ metadata:
   title: Windows RT
   description: Windows RT नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 8.0999999999999996
-  ms.openlocfilehash: 0bdab4b7a511cb789fae28d77b4846464ab5e763
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939706"
+  keywords: 8.1
 name: Windows RT
-summary: >+
+summary: |+
   Windows RT [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: 8.1
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Windows RT 8.1
-  startDate: 11/13/2013
-  endDate: 01/10/2023
-- version: Windows RT
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows FAQ](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* 8.1"
+  - version: Windows RT 8.1
+    startDate: 11/13/2013
+    endDate: 01/10/2023
+  - version: Windows RT
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [Windows FAQ](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * 8.1

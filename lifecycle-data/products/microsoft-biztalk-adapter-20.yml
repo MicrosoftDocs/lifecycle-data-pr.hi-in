@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk एडाप्टर 2.0
   description: Microsoft BizTalk एडाप्टर 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934748"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk एडाप्टर 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk एडाप्टर 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: MSMQ के लिए, mySAP बिजनेस सूट के लिए, SAP के लिए
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> SAP के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर 2.0 के लिए शुरुआत की तारीख 2 नवंबर, 2004 है। MSMQ 2.0 के लिए Microsoft BizTalk एडाप्टर के लिए शुरुआत की तारीख 10 दिसंबर, 2004 है\n\n## <a name=\"editions\"></a>संस्करण \n* MSMQ के लिए\n* mySAP बिजनेस सूट के लिए\n* SAP के लिए"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > SAP के लिए माइक्रोसॉफ्ट बिज़टॉक एडाप्टर 2.0 के लिए शुरुआत की तारीख 2 नवंबर, 2004 है। MSMQ 2.0 के लिए Microsoft BizTalk एडाप्टर के लिए शुरुआत की तारीख 10 दिसंबर, 2004 है
+
+  ## <a name="editions"></a>संस्करण 
+  * MSMQ के लिए
+  * mySAP बिजनेस सूट के लिए
+  * SAP के लिए

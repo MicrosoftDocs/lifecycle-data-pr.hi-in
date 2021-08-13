@@ -3,36 +3,36 @@ metadata:
   title: Windows Embedded Device Manager 2011
   description: Windows Embedded Device Manager 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Client,SDK,Server
-  ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939928"
+  keywords: 'Client,SDK,Server'
 name: Windows Embedded Device Manager 2011
-summary: >
+summary: |
   Windows Embedded Device Manager 2011 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू है: Client, SDK, Server
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/29/2011
   end: 01/08/2013
   extendedEnd: 01/09/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/07/2011
-  endDate: 01/09/2018
-- version: Original Release
-  startDate: 05/29/2011
-  endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* क्लायंट\n* SDK\n* Server"
+  - version: Service Pack 1
+    startDate: 12/07/2011
+    endDate: 01/09/2018
+  - version: Original Release
+    startDate: 05/29/2011
+    endDate: 01/08/2013
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * क्लायंट
+  * SDK
+  * सर्वर
