@@ -4,31 +4,27 @@ metadata:
   description: Microsoft व्यवसाय समाधान--Great Plains 8.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934674"
 name: Microsoft व्यवसाय समाधान--Great Plains 8.0
-summary: >
+summary: |
   Microsoft व्यवसाय समाधान--Great Plains 8.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन 13 अक्टूबर, 2009 को समाप्त हो गया है.
 products:
-- dynamics
+  - dynamics
 policyType: fixed-mainstream-only
 supportDates:
   start: 06/01/2004
   end: 10/13/2009
 releases:
-- version: Original Release
-  startDate: 06/01/2004
-  endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 06/01/2004
+    endDate: 10/13/2009
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

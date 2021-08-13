@@ -4,28 +4,26 @@ metadata:
   description: Microsoft Visual Basic .NET 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "938152"
 name: Microsoft Visual Basic .NET 2003
-summary: >+
+summary: |+
   Microsoft Visual Basic .NET 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/10/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Original Release
-  startDate: 07/10/2003
-  endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 07/10/2003
+    endDate: 10/08/2013
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

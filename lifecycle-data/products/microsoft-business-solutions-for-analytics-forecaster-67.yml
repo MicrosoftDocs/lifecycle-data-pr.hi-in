@@ -1,28 +1,22 @@
 ### YamlMime:Lifecycle
 metadata:
   title: एनालिटिक्स फोरकास्टर 6.7 के लिए Microsoft व्यावसायिक समाधान
-  description: एनालिटिक्स फोरकास्टर 6.7 के लिए Microsoft व्यावसायिक समाधान, निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  description: 'एनालिटिक्स फोरकास्टर 6.7 के लिए Microsoft व्यावसायिक समाधान, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821087"
 name: एनालिटिक्स फोरकास्टर 6.7 के लिए Microsoft व्यावसायिक समाधान
-summary: >+
+summary: |+
   एनालिटिक्स फोरकास्टर 6.7 के लिए Microsoft व्यावसायिक समाधान, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: fixed
 supportDates:
   start: 01/30/2005
   end: 04/13/2010
   extendedEnd: 04/14/2015
 releases:
-- version: Original Release
-  startDate: 01/30/2005
-  endDate: 04/14/2015
-content: ''
+  - version: Original Release
+    startDate: 01/30/2005
+    endDate: 04/14/2015
+content: |+

@@ -3,27 +3,34 @@ metadata:
   title: Microsoft System Center Mobile Device Manager 2008
   description: 'Microsoft System Center Mobile Device Manager 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 09/10/2020
-  keywords: All applicable,wSQL
-  ms.openlocfilehash: 88d4e4ed5265017faf066b03c192121e6319034c
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001428"
+  keywords: 'All applicable,wSQL'
 name: Microsoft System Center Mobile Device Manager 2008
-summary: "Microsoft System Center Mobile Device Manager 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, wSQL\n\n"
+summary: |+
+  Microsoft System Center Mobile Device Manager 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, wSQL
+
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 05/14/2008
   end: 07/09/2013
   extendedEnd: 07/10/2018
 releases:
-- version: Service Pack 1
-  startDate: 12/15/2008
-  endDate: 07/10/2018
-- version: Original Release
-  startDate: 05/14/2008
-  endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* wSQL"
+  - version: Service Pack 1
+    startDate: 12/15/2008
+    endDate: 07/10/2018
+  - version: Original Release
+    startDate: 05/14/2008
+    endDate: 01/12/2010
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * सभी लागू
+  * wSQL

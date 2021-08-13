@@ -3,26 +3,23 @@ metadata:
   title: सिस्टम सेंटर 2019 सर्विस मैनेजर
   description: सिस्टम सेंटर 2019 सर्विस मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 488ee016cd574e0318bd9e0062bc2919299b89d8
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869930"
 name: सिस्टम सेंटर 2019 सर्विस मैनेजर
-summary: >+
+summary: |+
   सिस्टम सेंटर 2019 सर्विस मैनेजर [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 03/14/2019
   end: 04/09/2024
   extendedEnd: 04/09/2029
 releases:
-- version: Original Release
-  startDate: 03/14/2019
-  endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"
+  - version: Original Release
+    startDate: 03/14/2019
+    endDate: 04/09/2029
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/system-center/)

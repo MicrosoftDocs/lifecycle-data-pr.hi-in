@@ -4,28 +4,26 @@ metadata:
   description: Microsoft Class Server 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 1d14c56151ecf68d4493cea9a79047eee7df4bd2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934637"
 name: Microsoft Class Server 3.0
-summary: >+
+summary: |+
   Microsoft Class Server 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 08/20/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Original Release
-  startDate: 08/20/2003
-  endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 08/20/2003
+    endDate: 10/08/2013
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

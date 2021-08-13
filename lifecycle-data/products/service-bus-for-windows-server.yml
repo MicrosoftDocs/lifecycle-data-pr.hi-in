@@ -3,29 +3,21 @@ metadata:
   title: Windows Server के लिए सर्विस बस
   description: Windows Server के लिए सर्विस बस घटक लाइफसाइकल नीति का पालन करती है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1641a04266351d29d8b152c5bc87f62207344b65
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855415"
 name: Windows Server के लिए सर्विस बस
-summary: >
+summary: |
   Windows Server के लिए सर्विस बस [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) लाइफसाइकल नीति का पालन करती है.
 
 
-
   > [!IMPORTANT]
-
   > जब सर्विस बस 1.1 SharePoint Server 2016 या SharePoint Server 2013 की घटक है, तो इसे संबंधित SharePoint Server संस्करण की समर्थन तिथियों के अंत के अनुसार समर्थित किया जाएगा.
 products:
-- windows
+  - windows
 policyType: component
 supportDates:
   start: 10/18/2012
   end: 01/10/2023
 releases:
-- version: Original Release
-  startDate: 10/18/2012
-  endDate: 01/10/2023
-content: ''
+  - version: Original Release
+    startDate: 10/18/2012
+    endDate: 01/10/2023
+content: |+

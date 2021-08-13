@@ -3,23 +3,25 @@ metadata:
   title: Wunderlist
   description: Wunderlist निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd978a839e950577c0854ee914df4114d50a9865
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855281"
 name: Wunderlist
-summary: "Wunderlist [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है। इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
+summary: |
+  Wunderlist [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है। इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/02/2015
   end: 05/06/2020
   extendedEnd: 05/06/2020
 releases:
-- version: Original Release
-  startDate: 06/02/2015
-  endDate: 05/06/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.wunderlist.com/blog/join-us-on-our-new-journey)"
+  - version: Original Release
+    startDate: 06/02/2015
+    endDate: 05/06/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://www.wunderlist.com/blog/join-us-on-our-new-journey)
