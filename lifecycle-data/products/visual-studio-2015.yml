@@ -3,32 +3,49 @@ metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable
-  ms.openlocfilehash: d993b7ac12edc9ad4c1c7d58f35c61a8c4c10a71
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937412"
+  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
 name: Visual Studio 2015
-summary: >+
+summary: |+
   Visual Studio 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, TPS, Visual C++ Redistributable
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Update 3
-  startDate: 06/27/2016
-  endDate: 10/14/2025
-- version: Original Release
-  startDate: 07/20/2015
-  endDate: 10/14/2025
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* कम्यूनिटी\n* Enterprise\n* ESM\n* वेब के लिए एक्सप्रेस\n* Windows 10 के लिए Express\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* मॉडलिंग SDK\n* Professional\n* PSM\n* रिलीज प्रबंधन\n* रिमोट टूल्स\n* SDK\n* Shell (एकीकृत)\n* Shell (अलग)\n* परीक्षण प्रोफेशनल\n* TPS\n* Visual C++ पुनर्वितरण योग्य"
+  - version: Update 3
+    startDate: 06/27/2016
+    endDate: 10/14/2025
+  - version: Original Release
+    startDate: 07/20/2015
+    endDate: 10/14/2025
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * एजेंट
+  * कम्यूनिटी
+  * Enterprise
+  * ESM
+  * वेब के लिए एक्सप्रेस
+  * Windows 10 के लिए Express
+  * Windows डेस्कटॉप के लिए एक्सप्रेस
+  * मॉडलिंग SDK
+  * Professional
+  * PSM
+  * रिलीज प्रबंधन
+  * रिमोट टूल्स
+  * SDK
+  * Shell (एकीकृत)
+  * Shell (अलग)
+  * परीक्षण प्रोफेशनल
+  * TPS
+  * Visual C++ पुनर्वितरण योग्य

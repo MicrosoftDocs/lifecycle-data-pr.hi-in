@@ -3,28 +3,30 @@ metadata:
   title: Windows Server 2016 नैनो सर्वर स्थापना विकल्प
   description: Windows Server 2016 नैनो सर्वर स्थापना विकल्प आधुनिक लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Datacenter,Standard
-  ms.openlocfilehash: bff4ec8ee63d0221e316da49081ebc964e520966
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939410"
+  keywords: 'Datacenter,Standard'
 name: Windows Server 2016 नैनो सर्वर स्थापना विकल्प
-summary: >+
+summary: |+
   Windows Server 2016 नैनो सर्वर स्थापना विकल्प [आधुनिक](/lifecycle/policies/modern) लाइफसाइकल नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, स्टैंडर्ड
 
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 10/15/2016
   end: 10/09/2018
 releases:
-- version: Original Release
-  startDate: 10/15/2016
-  endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/windows-server/get-started/nano-in-semi-annual-channel)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Standard"
+  - version: Original Release
+    startDate: 10/15/2016
+    endDate: 10/09/2018
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विसिंग जानकारी](/windows-server/get-started/nano-in-semi-annual-channel)
+  * [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * डेटासेंटर
+  * Standard

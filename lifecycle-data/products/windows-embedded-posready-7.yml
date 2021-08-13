@@ -3,35 +3,33 @@ metadata:
   title: Windows एम्बेडेड POSReady 7
   description: Windows Embedded POSReady 7 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 08/18/2020
-  ms.openlocfilehash: 1b326a022bc2ab3a9309faea90633006243d3062
-  ms.sourcegitcommit: 3ec7109e040d805d187cba9b12d12edbc8e68d05
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/18/2020
-  ms.locfileid: "902561"
 name: Windows एम्बेडेड POSReady 7
-summary: >+
+summary: |+
   Windows Embedded POSReady 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 09/10/2011
   end: 10/11/2016
   extendedEnd: 10/12/2021
 releases:
-- version: Extended Security Update Year 3*
-  startDate: 10/10/2023
-  endDate: 10/08/2024
-- version: Extended Security Update Year 2*
-  startDate: 10/11/2022
-  endDate: 10/10/2023
-- version: Extended Security Update Year 1*
-  startDate: 10/12/2021
-  endDate: 10/11/2022
-- version: Original Release
-  startDate: 09/10/2011
-  endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अद्यतन कार्यक्रम ESU) - चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अद्यतन OEM के माध्यम से उपलब्ध हैं.](/lifecycle/faq/extended-security-updates)\n* [Windows IoT एम्बेडेड मोड](/windows/iot-core/develop-your-app/embeddedmode)"
+  - version: Extended Security Update Year 3*
+    startDate: 10/10/2023
+    endDate: 10/08/2024
+  - version: Extended Security Update Year 2*
+    startDate: 10/11/2022
+    endDate: 10/10/2023
+  - version: Extended Security Update Year 1*
+    startDate: 10/12/2021
+    endDate: 10/11/2022
+  - version: Original Release
+    startDate: 09/10/2011
+    endDate: 10/12/2021
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [* विस्तारित सुरक्षा अद्यतन कार्यक्रम ESU) - चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अद्यतन OEM के माध्यम से उपलब्ध हैं.](/lifecycle/faq/extended-security-updates)
+  * [Windows IoT एम्बेडेड मोड](/windows/iot-core/develop-your-app/embeddedmode)

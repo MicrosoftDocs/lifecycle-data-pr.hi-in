@@ -3,26 +3,23 @@ metadata:
   title: Visual Studio Team Foundation Server 2018
   description: Visual Studio Team Foundation Server 2018 निश्चित जीवनचक्र नीति  का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6d1d0f045180b541ab90be9f3f553445004bd58c
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869879"
 name: Visual Studio Team Foundation Server 2018
-summary: >+
+summary: |+
   Visual Studio Team Foundation Server 2018 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 11/15/2017
   end: 01/10/2023
   extendedEnd: 01/11/2028
 releases:
-- version: Original Release
-  startDate: 11/15/2017
-  endDate: 01/11/2028
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/azure/devops/server/whats-new?view=azure-devops)"
+  - version: Original Release
+    startDate: 11/15/2017
+    endDate: 01/11/2028
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/azure/devops/server/whats-new?view=azure-devops)

@@ -4,32 +4,32 @@ metadata:
   description: Windows Embedded 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Standard
-  ms.openlocfilehash: 0513892d9abd37c001ef4b8019aaac4be0d4463f
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002205"
 name: Windows Embedded 2009
-summary: >
+summary: |
   Windows Embedded 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
-
   > [!IMPORTANT]
-
   > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 12/14/2008
   end: 01/14/2014
   extendedEnd: 01/08/2019
 releases:
-- version: Original Release
-  startDate: 12/14/2008
-  endDate: 01/08/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Embedded 2009 के लिए समर्थन की समाप्ति](/lifecycle/announcements/windows-embedded-2009-end-of-support)\n* [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)\n* [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 12/14/2008
+    endDate: 01/08/2019
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [Windows Embedded 2009 के लिए समर्थन की समाप्ति](/lifecycle/announcements/windows-embedded-2009-end-of-support)
+  * [Windows 10 IoT Enterprise](https://www.microsoft.com/en-us/windowsforbusiness/windows-iot)
+  * [Windows 10 Pro](https://www.microsoft.com/windowsforbusiness/windows-10-pro)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard
