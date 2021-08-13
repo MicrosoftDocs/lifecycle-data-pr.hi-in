@@ -3,32 +3,30 @@ metadata:
   title: Microsoft Identity Lifecycle Manager 2007
   description: Microsoft Identity Lifecycle Manager 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e87de30d9ecd945c0aa172fa69f570a981114ab2
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820715"
 name: Microsoft Identity Lifecycle Manager 2007
-summary: >+
+summary: |+
   Microsoft Identity Lifecycle Manager 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 06/30/2007
   end: 07/10/2012
   extendedEnd: 07/11/2017
 releases:
-- version: Feature Pack  1 Service Pack 1
-  startDate: 04/20/2010
-  endDate: 07/11/2017
-- version: Feature Pack 1
-  startDate: 10/30/2007
-  endDate: 07/12/2011
-- version: Original Release
-  startDate: 06/30/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+  - version: Feature Pack  1 Service Pack 1
+    startDate: 04/20/2010
+    endDate: 07/11/2017
+  - version: Feature Pack 1
+    startDate: 10/30/2007
+    endDate: 07/12/2011
+  - version: Original Release
+    startDate: 06/30/2007
+    endDate: 01/13/2009
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/previous-versions/mim/ff608268(v=ws.10)?redirectedfrom=MSDN)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)

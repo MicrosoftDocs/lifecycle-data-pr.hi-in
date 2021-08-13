@@ -3,24 +3,32 @@ metadata:
   title: Microsoft Search Server 2008
   description: Microsoft Search Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: Express,Standard
-  ms.openlocfilehash: 897d34ffd003985cb2b60bebbc2db5d53614b443
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "999060"
+  keywords: 'Express,Standard'
 name: Microsoft Search Server 2008
-summary: "Microsoft Search Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Express, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Microsoft Search Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Express, Standard
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/03/2008
   end: 07/09/2013
   extendedEnd: 07/10/2018
 releases:
-- version: Original Release
-  startDate: 06/03/2008
-  endDate: 07/10/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सप्रेस\n* Standard"
+  - version: Original Release
+    startDate: 06/03/2008
+    endDate: 07/10/2018
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * एक्सप्रेस
+  * Standard

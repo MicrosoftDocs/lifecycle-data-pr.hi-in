@@ -3,29 +3,27 @@ metadata:
   title: Microsoft Office Project Portfolio Server 2007
   description: Microsoft Office Project Portfolio Server 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2f15eca6cc021c35859f131ae0d1e3ddc0efc3ba
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821024"
 name: Microsoft Office Project Portfolio Server 2007
-summary: >+
+summary: |+
   Microsoft Office Project Portfolio Server 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 1
-  startDate: 02/18/2008
-  endDate: 07/13/2010
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 04/14/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 1
+    startDate: 02/18/2008
+    endDate: 07/13/2010
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 04/14/2009
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)

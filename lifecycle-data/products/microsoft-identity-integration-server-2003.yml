@@ -4,29 +4,37 @@ metadata:
   description: Microsoft Identity Integration Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise
-  ms.openlocfilehash: a1ef4c754fdb32948d2e6e965d554076955dd544
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "933527"
 name: Microsoft Identity Integration Server 2003
-summary: "Microsoft Identity Integration Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Microsoft Identity Integration Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- m365
+  - m365
 policyType: fixed
 supportDates:
   start: 09/26/2003
   end: 10/14/2008
   extendedEnd: 10/08/2013
 releases:
-- version: Service Pack 2
-  startDate: 03/30/2007
-  endDate: 10/08/2013
-- version: Service Pack 1
-  startDate: 01/10/2005
-  endDate: 04/08/2008
-- version: Original Release
-  startDate: 09/26/2003
-  endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [Windows Server संबंधी जानकारी](/windows-server/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"
+  - version: Service Pack 2
+    startDate: 03/30/2007
+    endDate: 10/08/2013
+  - version: Service Pack 1
+    startDate: 01/10/2005
+    endDate: 04/08/2008
+  - version: Original Release
+    startDate: 09/26/2003
+    endDate: 01/10/2006
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [Windows Server संबंधी जानकारी](/windows-server/)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise

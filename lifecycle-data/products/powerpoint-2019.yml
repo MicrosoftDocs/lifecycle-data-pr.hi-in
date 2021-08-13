@@ -4,28 +4,26 @@ metadata:
   description: PowerPoint 2019 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: f28e4fd798e20b6f170da86bfa12a50e59865c29
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926867"
 name: PowerPoint 2019
-summary: >+
+summary: |+
   PowerPoint 2019 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/24/2018
   end: 10/10/2023
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/24/2018
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 09/24/2018
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

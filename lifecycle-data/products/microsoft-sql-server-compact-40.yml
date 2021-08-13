@@ -3,26 +3,20 @@ metadata:
   title: Microsoft SQL Server Compact 4.0
   description: Microsoft SQL Server Compact 4.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: de6079f5af03208deeed49266be523b5daf38777
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855429"
 name: Microsoft SQL Server Compact 4.0
-summary: >+
+summary: |+
   Microsoft SQL Server Compact 4.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 04/13/2011
   end: 07/12/2016
   extendedEnd: 07/13/2021
 releases:
-- version: Original Release
-  startDate: 04/13/2011
-  endDate: 07/13/2021
-content: ''
+  - version: Original Release
+    startDate: 04/13/2011
+    endDate: 07/13/2021
+content: |+

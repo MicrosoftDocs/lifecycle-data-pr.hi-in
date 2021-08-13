@@ -4,28 +4,28 @@ metadata:
   description: Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 9296a136a0bc0da5a6d6b6b8b49d012170158da0
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1000577"
 name: 'Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 '
-summary: >+
+summary: |+
   Windows डेस्कटॉप के लिए Microsoft Application Virtualization Hosting 5.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Windows डेस्कटॉप के लिए
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2015
   end: 01/09/2018
   extendedEnd: 04/14/2026
 releases:
-- version: Original Release
-  startDate: 11/01/2015
-  endDate: 04/14/2026
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Windows डेस्कटॉप के लिए"
+  - version: Original Release
+    startDate: 11/01/2015
+    endDate: 04/14/2026
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Windows डेस्कटॉप के लिए

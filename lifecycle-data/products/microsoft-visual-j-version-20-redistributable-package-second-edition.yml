@@ -1,28 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 'Microsoft Visual J# Version 2.0 Redistributable Package दूसरा संपादन '
-  description: Microsoft Visual J# संस्करण 2.0 Redistributable Package दूसरा संस्करण, निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  description: 'Microsoft Visual J# संस्करण 2.0 Redistributable Package दूसरा संस्करण, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 13e81d8ba84a4aede4cd4df18a7e40d55de1d3dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820579"
 name: 'Microsoft Visual J# Version 2.0 Redistributable Package दूसरा संपादन '
-summary: >+
+summary: |+
   Microsoft Visual J# संस्करण 2.0 Redistributable Package दूसरा संस्करण, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 08/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 08/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें."
+  - version: Original Release
+    startDate: 08/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [Visual J# समर्थन जानकारी](https://msdn.microsoft.com/vstudio/bb188593)
+
+  > [!NOTE]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें.

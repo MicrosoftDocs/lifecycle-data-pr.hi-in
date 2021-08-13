@@ -4,28 +4,26 @@ metadata:
   description: PowerPoint 2016 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 04955ff5fa53a1585bf767879b4f0882dda8c613
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "926756"
 name: PowerPoint 2016
-summary: >+
+summary: |+
   PowerPoint 2016 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/22/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-- version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"
+  - version: Original Release
+    startDate: 09/22/2015
+    endDate: 10/14/2025
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard

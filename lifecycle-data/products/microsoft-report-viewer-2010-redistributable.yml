@@ -3,26 +3,23 @@ metadata:
   title: Microsoft Report Viewer 2010 पुनः वितरण योग्य
   description: Microsoft Report Viewer 2010 पुनः वितरण योग्य निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f4e1569165a222cc013d2d9fd58074f6cef98816
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820443"
 name: Microsoft Report Viewer 2010 पुनः वितरण योग्य
-summary: >+
+summary: |+
   Microsoft Report Viewer 2010 पुनः वितरण योग्य [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- sql-server
+  - sql-server
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 09/08/2020
 releases:
-- version: Original Release
-  startDate: 06/29/2010
-  endDate: 09/08/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)"
+  - version: Original Release
+    startDate: 06/29/2010
+    endDate: 09/08/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/sql/reporting-services/application-integration/integrating-reporting-services-using-reportviewer-controls-get-started?view=sql-server-ver15)

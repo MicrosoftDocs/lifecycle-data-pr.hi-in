@@ -3,25 +3,19 @@ metadata:
   title: Microsoft Plus! Windows XP के लिए
   description: Microsoft Plus! Windows XP के लिए फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e9969a2f2dff3c92df44160d15a0e6934e5625a7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820946"
 name: Microsoft Plus! Windows XP के लिए
-summary: >+
+summary: |+
   Microsoft Plus! Windows XP के लिए [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 10/25/2001
   end: 01/09/2007
 releases:
-- version: Original Release
-  startDate: 10/25/2001
-  endDate: 01/09/2007
-content: ''
+  - version: Original Release
+    startDate: 10/25/2001
+    endDate: 01/09/2007
+content: |+

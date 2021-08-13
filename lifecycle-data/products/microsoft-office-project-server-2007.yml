@@ -4,35 +4,35 @@ metadata:
   description: Microsoft Office Project Server 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/02/2020
   keywords: ''
-  ms.openlocfilehash: c838f7d765aa48b33066a955552ee30a002a2a67
-  ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/02/2020
-  ms.locfileid: "941635"
 name: Microsoft Office Project Server 2007
-summary: >+
+summary: |+
   Microsoft Office Project Server 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 3
-  startDate: 10/25/2011
-  endDate: 10/10/2017
-- version: Service Pack 2
-  startDate: 04/28/2009
-  endDate: 01/08/2013
-- version: Service Pack 1
-  startDate: 12/11/2007
-  endDate: 07/13/2010
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)\n\n> [!NOTE]\n>  [उत्पाद](https://docs.microsoft.com/previous-versions/office/project-server-2007/cc303399(v=office.12)) और [डेवलपर](https://docs.microsoft.com/previous-versions/office/project-server-2007/cc197460(v=office.12))दस्तावेज देखें।"
+  - version: Service Pack 3
+    startDate: 10/25/2011
+    endDate: 10/10/2017
+  - version: Service Pack 2
+    startDate: 04/28/2009
+    endDate: 01/08/2013
+  - version: Service Pack 1
+    startDate: 12/11/2007
+    endDate: 07/13/2010
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 01/13/2009
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)
+
+  > [!NOTE]
+  >  [उत्पाद](https://docs.microsoft.com/previous-versions/office/project-server-2007/cc303399(v=office.12)) और [डेवलपर](https://docs.microsoft.com/previous-versions/office/project-server-2007/cc197460(v=office.12))दस्तावेज देखें।
