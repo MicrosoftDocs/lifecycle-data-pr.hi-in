@@ -3,32 +3,33 @@ metadata:
   title: Microsoft Search Server 2010
   description: Microsoft Search Server 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: All applicable,Express
-  ms.openlocfilehash: 7d444be6f013c670a57cde5778542b4edb2dc11b
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1001391"
+  keywords: 'All applicable,Express'
 name: Microsoft Search Server 2010
-summary: >+
+summary: |+
   Microsoft Search Server 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: सभी पर लागू, Express
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 06/15/2010
   end: 10/13/2015
   extendedEnd: 10/13/2020
 releases:
-- version: Service Pack 1
-  startDate: 06/24/2011
-  endDate: 10/13/2020
-- version: Original Release
-  startDate: 06/15/2010
-  endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* एक्सप्रेस"
+  - version: Service Pack 1
+    startDate: 06/24/2011
+    endDate: 10/13/2020
+  - version: Original Release
+    startDate: 06/15/2010
+    endDate: 07/10/2012
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * सभी लागू
+  * एक्सप्रेस

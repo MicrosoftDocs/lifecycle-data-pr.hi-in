@@ -3,25 +3,27 @@ metadata:
   title: System Center Data Protection Manager अर्धवार्षिक चैनल
   description: System Center Data Protection Manager अर्धवार्षिक चैनल आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 60f83dbcc7830bca583b04a805878d1836f7e965
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869924"
 name: System Center Data Protection Manager अर्धवार्षिक चैनल
-summary: "System Center Data Protection Manager अर्धवार्षिक चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है। \n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.\n"
+summary: |
+  System Center Data Protection Manager अर्धवार्षिक चैनल [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है। 
+
+
+  > [!IMPORTANT]
+  > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- msc
+  - msc
 policyType: modern-on-prem
 supportDates:
   start: 02/08/2018
   end: 01/24/2020
 releases:
-- version: Version 1807
-  startDate: 07/24/2018
-  endDate: 01/24/2020
-- version: Version 1801
-  startDate: 02/08/2018
-  endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+  - version: Version 1807
+    startDate: 07/24/2018
+    endDate: 01/24/2020
+  - version: Version 1801
+    startDate: 02/08/2018
+    endDate: 08/08/2019
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)
