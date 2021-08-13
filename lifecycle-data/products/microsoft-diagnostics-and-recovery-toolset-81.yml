@@ -3,26 +3,20 @@ metadata:
   title: Microsoft Diagnostics और Recovery Toolset 8.1
   description: Microsoft Diagnostics और Recovery Toolset 8.1 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7b9a4a5bc7ccc7e9849b0e5acaaf305a57485025
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855524"
 name: Microsoft Diagnostics और Recovery Toolset 8.1
-summary: >+
+summary: |+
   Microsoft Diagnostics और Recovery Toolset 8.1 [ननिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/06/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 02/06/2014
-  endDate: 04/09/2024
-content: ''
+  - version: Original Release
+    startDate: 02/06/2014
+    endDate: 04/09/2024
+content: |+

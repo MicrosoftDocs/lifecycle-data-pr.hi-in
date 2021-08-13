@@ -3,29 +3,29 @@ metadata:
   title: Microsoft Connected Services फ़्रेमवर्क 2.5
   description: Microsoft Connected Services फ़्रेमवर्क 2.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
-  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934119"
+  keywords: 'Order Handling Standard Business Event 2.5,Server,Service Provider'
 name: Microsoft Connected Services फ़्रेमवर्क 2.5
-summary: >+
+summary: |+
   Microsoft Connected Services फ़्रेमवर्क 2.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: ऑर्डर हैंडलिंग स्टैंडर्ड बिजनेस इवेंट 2.5, सर्वर, सर्विस प्रोवाइडर
 
 products:
-- connected-services-framework
+  - connected-services-framework
 policyType: fixed
 supportDates:
   start: 07/26/2005
   end: 10/12/2010
   extendedEnd: 10/13/2015
 releases:
-- version: Original Release
-  startDate: 07/26/2005
-  endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* ऑर्डर हैंडलिंग स्टैंडर्ड व्यावसायिक इवेंट 2.5\n* सर्वर\n* सेवा प्रदाता"
+  - version: Original Release
+    startDate: 07/26/2005
+    endDate: 10/13/2015
+content: |
+
+
+
+  ## <a name="editions"></a>संस्करण 
+  * ऑर्डर हैंडलिंग स्टैंडर्ड व्यावसायिक इवेंट 2.5
+  * सर्वर
+  * सेवा प्रदाता

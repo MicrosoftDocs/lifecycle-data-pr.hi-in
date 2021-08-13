@@ -1,28 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 for Finance and Operations
-  description: Dynamics 365 for Finance and Operations, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
+  description: 'Dynamics 365 for Finance and Operations, आधुनिक जीवनचक्र नीति का अनुसरण करता है.'
   ms.date: 09/29/2020
-  keywords: 
-  ms.openlocfilehash: 22bc725cf7f990b27f83a506f26a4108f3b9fea9
-  ms.sourcegitcommit: 7ed59f943dacfc14fbd5d5593741177aa2b6431b
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/29/2020
-  ms.locfileid: "1048271"
+  keywords: null
 name: Dynamics 365 for Finance and Operations
-summary: >+
+summary: |+
   Dynamics 365 for Finance and Operations, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 02/19/2016
 releases:
-- version: Original Release
-  startDate: 02/19/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://roadmap.dynamics.com/)\n* [निकाली गई या अवमानित सुविधाएँ ](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [सर्विसिंग जानकारी](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)\n* [सिस्टम आवश्यकताएँ](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"
+  - version: Original Release
+    startDate: 02/19/2016
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [Microsoft Dynamics 365 रोडमैप](https://roadmap.dynamics.com/)
+  * [निकाली गई या अवमानित सुविधाएँ ](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
+  * [सर्विसिंग जानकारी](/dynamics365/operations/dev-itpro/migration-upgrade/versions-update-policy)
+  * [सिस्टम आवश्यकताएँ](/dynamics365/fin-ops-core/fin-ops/get-started/system-requirements)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise

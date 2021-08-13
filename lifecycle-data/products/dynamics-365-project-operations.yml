@@ -4,23 +4,17 @@ metadata:
   description: Dynamics 365 प्रोजेक्ट ऑपरेशन आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: ''
-  ms.openlocfilehash: f78704486878a0f99f545e5361fb7805df1a802a
-  ms.sourcegitcommit: e8e7ddcfb056dfe647ccf1dbab03a51078f77d53
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/05/2020
-  ms.locfileid: "1050152"
 name: Dynamics 365 प्रोजेक्ट ऑपरेशन
-summary: >+
+summary: |+
   Dynamics 365 प्रोजेक्ट ऑपरेशन [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- dynamics
+  - dynamics
 policyType: modern-online
 supportDates:
   start: 10/01/2020
 releases:
-- version: Original Release
-  startDate: 10/01/2020
-content: ''
+  - version: Original Release
+    startDate: 10/01/2020
+content: |+

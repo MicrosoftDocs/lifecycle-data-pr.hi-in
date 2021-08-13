@@ -3,36 +3,33 @@ metadata:
   title: Microsoft System Center Configuration Manager 2007
   description: Microsoft System Center Configuration Manager 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820993"
 name: Microsoft System Center Configuration Manager 2007
-summary: >
+summary: |
   Microsoft System Center Configuration Manager 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 11/29/2007
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Service Pack 2
-  startDate: 10/22/2009
-  endDate: 07/09/2019
-- version: Service Pack 1
-  startDate: 05/21/2008
-  endDate: 01/11/2011
-- version: Original Release
-  startDate: 11/29/2007
-  endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [उत्पाद की जानकारी](/mem/configmgr/core/understand/introduction)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"
+  - version: Service Pack 2
+    startDate: 10/22/2009
+    endDate: 07/09/2019
+  - version: Service Pack 1
+    startDate: 05/21/2008
+    endDate: 01/11/2011
+  - version: Original Release
+    startDate: 11/29/2007
+    endDate: 07/14/2009
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/mem/configmgr/core/migration/migrate-data-between-hierarchies)
+  * [उत्पाद की जानकारी](/mem/configmgr/core/understand/introduction)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)

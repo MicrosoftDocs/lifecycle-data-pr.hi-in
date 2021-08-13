@@ -3,35 +3,32 @@ metadata:
   title: Microsoft Office Access 2007
   description: Microsoft Office Access 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6a358ac2958361f3f7af669b1beee16d5ff83c08
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820699"
 name: Microsoft Office Access 2007
-summary: >+
+summary: |+
   Microsoft Office Access 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 01/27/2007
   end: 10/09/2012
   extendedEnd: 10/10/2017
 releases:
-- version: Service Pack 3
-  startDate: 10/25/2011
-  endDate: 10/10/2017
-- version: Service Pack 2
-  startDate: 04/28/2009
-  endDate: 01/08/2013
-- version: Service Pack 1
-  startDate: 12/11/2007
-  endDate: 07/13/2010
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"
+  - version: Service Pack 3
+    startDate: 10/25/2011
+    endDate: 10/10/2017
+  - version: Service Pack 2
+    startDate: 04/28/2009
+    endDate: 01/08/2013
+  - version: Service Pack 1
+    startDate: 12/11/2007
+    endDate: 07/13/2010
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 01/13/2009
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)

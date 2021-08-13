@@ -3,26 +3,23 @@ metadata:
   title: Microsoft Sync Framework 2.1
   description: Microsoft Sync Framework 2.1 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: bc3dad267d8e7e0795160fa896915b06a7532b1c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "821000"
 name: Microsoft Sync Framework 2.1
-summary: >+
+summary: |+
   Microsoft Sync Framework 2.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 11/17/2010
   end: 01/12/2016
   extendedEnd: 01/12/2021
 releases:
-- version: Original Release
-  startDate: 11/17/2010
-  endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)"
+  - version: Original Release
+    startDate: 11/17/2010
+    endDate: 01/12/2021
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/previous-versions/sql/synchronization/mt490616(v=msdn.10)?redirectedfrom=MSDN)

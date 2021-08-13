@@ -3,26 +3,26 @@ metadata:
   title: Hyper-V Server 2019
   description: Hyper-V Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6ba8930e824f29ea98cb30ad9291ac18b0834221
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "869791"
 name: Hyper-V Server 2019
-summary: >+
+summary: |+
   Hyper-V Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/13/2018
   end: 01/09/2024
   extendedEnd: 01/09/2029
 releases:
-- version: Original Release
-  startDate: 11/13/2018
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Server समुदाय](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)\n\n> [!NOTE]\n> Windows Server 2019 और Windows Server, संस्करण 1809, 13, नवम्बर 2018 को पुनः रिलीज़ हुए थे. समर्थन तिथियों को उसके अनुसार नियमित किया गया आई।"
+  - version: Original Release
+    startDate: 11/13/2018
+    endDate: 01/09/2029
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [Windows Server समुदाय](https://techcommunity.microsoft.com/t5/windows-server/ct-p/Windows-Server)
+
+  > [!NOTE]
+  > Windows Server 2019 और Windows Server, संस्करण 1809, 13, नवम्बर 2018 को पुनः रिलीज़ हुए थे. समर्थन तिथियों को उसके अनुसार नियमित किया गया आई।

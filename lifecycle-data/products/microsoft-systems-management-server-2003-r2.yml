@@ -3,26 +3,20 @@ metadata:
   title: Microsoft Systems Management Server 2003 R2
   description: Microsoft Systems Management Server 2003 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 5d1cade536fbdca6669ad3953cf16c07d47c46fb
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820974"
 name: Microsoft Systems Management Server 2003 R2
-summary: >+
+summary: |+
   Microsoft Systems Management Server 2003 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 08/25/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 08/25/2006
-  endDate: 07/08/2008
-content: ''
+  - version: Original Release
+    startDate: 08/25/2006
+    endDate: 07/08/2008
+content: |+

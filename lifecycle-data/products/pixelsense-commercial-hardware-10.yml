@@ -3,25 +3,19 @@ metadata:
   title: पिक्सलसेंस कमर्शियल हार्डवेयर 1.0
   description: पिक्सलसेंस कमर्शियल हार्डवेयर 1.0 निश्चित जीवनचक्र नीति का पालन करता है।
   ms.date: 08/12/2020
-  ms.openlocfilehash: 634e2d48b4c7d357f681ff4e485456080fba7853
-  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/13/2020
-  ms.locfileid: "893991"
 name: पिक्सलसेंस कमर्शियल हार्डवेयर 1.0
-summary: >+
+summary: |+
   पिक्सलसेंस कमर्शियल हार्डवेयर 1.0 [निश्चित](/lifecycle/policies/fixed)जीवनचक्र नीति का पालन करता है।
 
 
 products:
-- windows
+  - windows
 policyType: fixed-mainstream-only
 supportDates:
   start: 09/25/2008
   end: 10/08/2013
 releases:
-- version: Original Release
-  startDate: 09/25/2008
-  endDate: 10/08/2013
-content: ''
+  - version: Original Release
+    startDate: 09/25/2008
+    endDate: 10/08/2013
+content: |+

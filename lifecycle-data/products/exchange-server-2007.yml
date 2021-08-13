@@ -3,38 +3,40 @@ metadata:
   title: Exchange Server 2007
   description: Exchange Server 2007 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 3ff0fec2e4a78285c3e34360d90c3ca90e5ffd96
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "931381"
+  keywords: 'Enterprise,Standard'
 name: Exchange Server 2007
-summary: >+
+summary: |+
   Exchange Server 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/08/2007
   end: 04/10/2012
   extendedEnd: 04/11/2017
 releases:
-- version: Service Pack 3
-  startDate: 06/07/2010
-  endDate: 04/11/2017
-- version: Service Pack 2
-  startDate: 08/24/2009
-  endDate: 07/12/2011
-- version: Service Pack 1
-  startDate: 11/29/2007
-  endDate: 10/12/2010
-- version: Original Release
-  startDate: 03/08/2007
-  endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Service Pack 3
+    startDate: 06/07/2010
+    endDate: 04/11/2017
+  - version: Service Pack 2
+    startDate: 08/24/2009
+    endDate: 07/12/2011
+  - version: Service Pack 1
+    startDate: 11/29/2007
+    endDate: 10/12/2010
+  - version: Original Release
+    startDate: 03/08/2007
+    endDate: 01/13/2009
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+  * [माइग्रेशन मार्गदर्शन](https://blogs.office.com/2016/04/19/exchange-server-2007-end-of-support-coming-next-year/#5wCZvLhOd8FgPf5j.97)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

@@ -1,27 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 2007 Microsoft Office सिस्टम के लिए Microsoft Office 2003 वेब घटक
-  description: 2007 Microsoft Office system के लिए Microsoft Office 2003 वेब घटक, घटक जीवनचक्र नीति का अनुसरण करते हैं.
+  description: '2007 Microsoft Office system के लिए Microsoft Office 2003 वेब घटक, घटक जीवनचक्र नीति का अनुसरण करते हैं.'
   ms.date: 07/28/2020
-  ms.openlocfilehash: 82cc956a80008bea8b985ccf8b1b6c3c4927b4c7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820463"
 name: 2007 Microsoft Office सिस्टम के लिए Microsoft Office 2003 वेब घटक
-summary: >+
+summary: |+
   2007 Microsoft Office system के लिए Microsoft Office 2003 वेब घटक, [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करते हैं.
 
 
 products:
-- office
+  - office
 policyType: component
 supportDates:
   start: 01/27/2007
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 01/27/2007
-  endDate: 10/10/2017
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"
+  - version: Original Release
+    startDate: 01/27/2007
+    endDate: 10/10/2017
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)

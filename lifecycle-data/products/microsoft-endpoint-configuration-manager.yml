@@ -2,87 +2,86 @@
 metadata:
   title: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
   description: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/12/2021
-  keywords: SCCM,System Center Configuration Manager
-  ms.openlocfilehash: e4b80e68270c38c07c4638f83556229e21d9a8e2
-  ms.sourcegitcommit: 1629a54febaf89d1050ce02280d58f9ec8736d8c
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/23/2021
-  ms.locfileid: "2172005"
+  ms.date: 08/05/2021
+  keywords: 'SCCM,System Center Configuration Manager'
 name: Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर
-summary: >+
+summary: |+
   Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
 
-
   > [!IMPORTANT]
-
   > संस्करण 1910 में शुरू, कॉन्फ़िगरेशन मैनेजर अब Microsoft एंडपॉइंट मैनेजर का हिस्सा है.
 
 products:
-- m365
+  - m365
 policyType: modern-on-prem
 supportDates:
   start: 12/08/2015
 releases:
-- version: Version 2107
-  startDate: 07/19/2021
-  endDate: 01/19/2023
-- version: Version 2103
-  startDate: 04/05/2021
-  endDate: 10/05/2022
-- version: Version 2010
-  startDate: 11/30/2020
-  endDate: 05/30/2022
-- version: Version 2006
-  startDate: 08/11/2020
-  endDate: 02/11/2022
-- version: Version 2002
-  startDate: 04/01/2020
-  endDate: 10/01/2021
-- version: Version 1910
-  startDate: 11/29/2019
-  endDate: 05/29/2021
-- version: Version 1906
-  startDate: 07/26/2019
-  endDate: 01/26/2021
-- version: Version 1902
-  startDate: 03/27/2019
-  endDate: 09/27/2020
-- version: Version 1810
-  startDate: 11/27/2018
-  endDate: 12/01/2020
-- version: Version 1806
-  startDate: 07/31/2018
-  endDate: 01/31/2020
-- version: Version 1802
-  startDate: 03/22/2018
-  endDate: 09/22/2019
-- version: Version 1710
-  startDate: 11/20/2017
-  endDate: 05/20/2019
-- version: Version 1706
-  startDate: 07/31/2017
-  endDate: 07/31/2018
-- version: Version 1702
-  startDate: 03/27/2017
-  endDate: 03/27/2018
-- version: Version 1610
-  startDate: 11/18/2016
-  endDate: 11/18/2017
-- version: Version 1606 with KB3186654
-  startDate: 10/12/2016
-  endDate: 10/12/2017
-- version: Version 1606
-  startDate: 07/22/2016
-  endDate: 07/22/2017
-- version: Version 1602
-  startDate: 03/11/2016
-  endDate: 03/11/2016
-- version: Version 1511
-  startDate: 12/08/2015
-  endDate: 12/08/2016
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [संस्करण विवरण](/mem/configmgr/core/servers/manage/updates#version-details)\n* [सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर अब Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर है](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [ऐतिहासिक संस्करण](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [कॉन्फ़िगरेशन मैनेजर क्या है](/mem/configmgr/core/understand/introduction)"
+  - version: Version 2107
+    startDate: 08/02/2021
+    endDate: 02/02/2023
+  - version: Version 2103
+    startDate: 04/05/2021
+    endDate: 10/05/2022
+  - version: Version 2010
+    startDate: 11/30/2020
+    endDate: 05/30/2022
+  - version: Version 2006
+    startDate: 08/11/2020
+    endDate: 02/11/2022
+  - version: Version 2002
+    startDate: 04/01/2020
+    endDate: 10/01/2021
+  - version: Version 1910
+    startDate: 11/29/2019
+    endDate: 05/29/2021
+  - version: Version 1906
+    startDate: 07/26/2019
+    endDate: 01/26/2021
+  - version: Version 1902
+    startDate: 03/27/2019
+    endDate: 09/27/2020
+  - version: Version 1810
+    startDate: 11/27/2018
+    endDate: 12/01/2020
+  - version: Version 1806
+    startDate: 07/31/2018
+    endDate: 01/31/2020
+  - version: Version 1802
+    startDate: 03/22/2018
+    endDate: 09/22/2019
+  - version: Version 1710
+    startDate: 11/20/2017
+    endDate: 05/20/2019
+  - version: Version 1706
+    startDate: 07/31/2017
+    endDate: 07/31/2018
+  - version: Version 1702
+    startDate: 03/27/2017
+    endDate: 03/27/2018
+  - version: Version 1610
+    startDate: 11/18/2016
+    endDate: 11/18/2017
+  - version: Version 1606 with KB3186654
+    startDate: 10/12/2016
+    endDate: 10/12/2017
+  - version: Version 1606
+    startDate: 07/22/2016
+    endDate: 07/22/2017
+  - version: Version 1602
+    startDate: 03/11/2016
+    endDate: 03/11/2017
+  - version: Version 1511
+    startDate: 12/08/2015
+    endDate: 12/08/2016
+content: |+
+
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विसिंग जानकारी](/mem/configmgr/core/servers/manage/current-branch-versions-supported)
+  * [संस्करण विवरण](/mem/configmgr/core/servers/manage/updates#version-details)
+  * [सिस्टम सेंटर कॉन्फ़िगरेशन मैनेजर अब Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर है](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)
+  * [कॉन्फ़िगरेशन मैनेजर क्या है](/mem/configmgr/core/understand/introduction)
