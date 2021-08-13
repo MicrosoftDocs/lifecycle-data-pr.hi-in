@@ -3,12 +3,12 @@ metadata:
   title: Windows Embedded 8.1 Pro
   description: Windows Embedded 8.1 Pro निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2d9ada5810dc20ee1491b24af7ee1e214dcf8678
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 056bc57abf7d2746e2419b16b87eba564a6623ca785e3b75b9d750f721870d46
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855674"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487118"
 name: Windows Embedded 8.1 Pro
 summary: >+
   Windows Embedded 8.1 Pro [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

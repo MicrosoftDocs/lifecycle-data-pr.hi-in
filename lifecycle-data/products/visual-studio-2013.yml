@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2013 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Agents,All,Community,Express for Web,Express for Windows,Express for Windows Desktop,IntelliTrace Collector,Modeling SDK,Multibyte MFC Library,Premium,Professional,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Team Explorer,Test Professional,Ultimate,Visual C++ Redistributable,Web Tools Extensions
-  ms.openlocfilehash: 9ca8bc78f1d498f79dcc1f3ed3f3c30403310ff2
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: be98b464a1f267f12c314361f99e1cd7b62cbd5b2fe52619cee9119917d437b2
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937449"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487192"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.

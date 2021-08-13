@@ -4,12 +4,12 @@ metadata:
   description: HPC पैक 2008 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: af2aec847d073e825aa873cd3406409c6e506112
-  ms.sourcegitcommit: 37ac01a1d5492bb2bf54cbd018ea34074db8c998
+  ms.openlocfilehash: bddea5a9c0eb197432a0145449bbfc25b42fd35464a9749edba8e9a88239b13d
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "940633"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485860"
 name: HPC पैक 2008 R2
 summary: >
   HPC पैक 2008 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

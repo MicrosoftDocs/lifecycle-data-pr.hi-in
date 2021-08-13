@@ -4,12 +4,12 @@ metadata:
   description: संग्रहण के लिए Windows Server IoT 2019 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard,Workgroup
-  ms.openlocfilehash: 2f4b52185ab47b638447478e0253a1e5284b0fe7
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: cd961876b5c9c209f3c75edbf5e3e18a1d71f391d781f09935c670ff118c2fdc
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939299"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486526"
 name: संग्रहण के लिए Windows Server IoT 2019
 summary: >+
   संग्रहण के लिए Windows Server IoT 2019 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.

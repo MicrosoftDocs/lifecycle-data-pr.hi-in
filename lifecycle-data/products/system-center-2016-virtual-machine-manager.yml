@@ -3,12 +3,12 @@ metadata:
   title: सिस्टम सेंटर 2016 वर्चूअल मशीन मैनेजर
   description: सिस्टम सेंटर 2016 वर्चूअल मशीन मैनेजर निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 60dd080a21b96b92ccd54bd5ada0f5dcba36c14f181b2b88363921f1ad641c5c
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855510"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487414"
 name: सिस्टम सेंटर 2016 वर्चूअल मशीन मैनेजर
 summary: >+
   सिस्टम सेंटर 2016 वर्चूअल मशीन मैनेजर [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

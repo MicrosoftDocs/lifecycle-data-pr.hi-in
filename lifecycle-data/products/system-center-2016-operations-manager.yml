@@ -3,12 +3,12 @@ metadata:
   title: सिस्टम सेंटर 2016 ऑपरेशन्स मैनेजर
   description: सिस्टम सेंटर 2016 ऑपरेशन्स मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2425df9d07aa43c7141ac3a66f658f81a109b555
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 8a4babd26fc621bca09d45da68a67f4390a93ec278d055e0d4ea6fcf5cee5693
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855622"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487451"
 name: सिस्टम सेंटर 2016 ऑपरेशन्स मैनेजर
 summary: >+
   सिस्टम सेंटर 2016 ऑपरेशन्स मैनेजर [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।

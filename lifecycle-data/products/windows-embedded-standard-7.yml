@@ -4,12 +4,12 @@ metadata:
   description: Windows Embedded Standard 7 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 7f5d0506d9edabddc83dea9cf2a8e7d25433dee1
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 13fbf58fb063641119850be6f18788dfe2e82a2279e6d1623eb9d84f38616aaa
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "939891"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487081"
 name: Windows एम्बेडेड स्टैंडर्ड 7
 summary: >+
   Windows Embedded Standard 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.

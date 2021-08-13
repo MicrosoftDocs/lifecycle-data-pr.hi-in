@@ -3,12 +3,12 @@ metadata:
   title: Windows Phone 7.8
   description: Windows Phone 7.8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.openlocfilehash: 064d1e0d6fe64f3044cdac47f639729a9859ac7745cad61ed3f6d325e384345a
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855670"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2486637"
 name: Windows Phone 7.8
 summary: >
   Windows Phone 7.8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

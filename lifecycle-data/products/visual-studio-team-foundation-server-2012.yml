@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio Team Foundation Server 2012 फनिश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: All
-  ms.openlocfilehash: 010d56498bce5718034fa1af505e985ed93f40ce
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 315ecabc615270d43a535c3fd0e83e33e5167b1ccf0a93c697a2b5fed029dfcb
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937338"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2485602"
 name: Visual Studio Team Foundation Server 2012
 summary: >+
   Visual Studio Team Foundation Server 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.

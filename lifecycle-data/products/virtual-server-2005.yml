@@ -4,12 +4,12 @@ metadata:
   description: Virtual Server 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
-  ms.openlocfilehash: 3a975f558d61c598e0b825d9402467398b348e82
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
+  ms.openlocfilehash: 324cd6e38b2ce49bb79215266757ccf6b301788a68f5452c1961dfd1ac2fdbf7
+  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937893"
+  ms.lasthandoff: 08/06/2021
+  ms.locfileid: "2487266"
 name: Virtual Server 2005
 summary: >+
   Virtual Server 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
