@@ -3,25 +3,19 @@ metadata:
   title: Mac के लिए Excel 2016
   description: Mac के लिए Excel 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 669ce6b5a17f553274d47ddc9a3b61a4ffc539ff
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855539"
 name: Mac के लिए Excel 2016
-summary: >+
+summary: |+
   Mac के लिए Excel 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 09/27/2015
   end: 10/13/2020
 releases:
-- version: Original Release
-  startDate: 09/27/2015
-  endDate: 10/13/2020
-content: ''
+  - version: Original Release
+    startDate: 09/27/2015
+    endDate: 10/13/2020
+content: |+

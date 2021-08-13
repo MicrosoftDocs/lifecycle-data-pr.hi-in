@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002242"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* वर्कग्रुप"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है.
+
+  ## <a name="editions"></a>संस्करण 
+  * Standard
+  * वर्कग्रुप

@@ -3,26 +3,20 @@ metadata:
   title: User Experience Virtualization (UE-V) 2.0
   description: User Experience Virtualization (UE-V) 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3841751d17e2cfa1ffb201c687291390831cdb8b
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855619"
 name: User Experience Virtualization (UE-V) 2.0
-summary: >+
+summary: |+
   User Experience Virtualization (UE-V) 2.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 02/06/2014
   end: 04/09/2019
   extendedEnd: 04/09/2024
 releases:
-- version: Original Release
-  startDate: 02/06/2014
-  endDate: 04/09/2024
-content: ''
+  - version: Original Release
+    startDate: 02/06/2014
+    endDate: 04/09/2024
+content: |+

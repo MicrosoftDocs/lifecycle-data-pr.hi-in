@@ -3,32 +3,47 @@ metadata:
   title: Visual Studio 2017
   description: Visual Studio 2017 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable
-  ms.openlocfilehash: 5b020aa502db37cded2369b6c15eeb0c00d3b878
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937375"
+  keywords: 'Agents,Build Tools,Community,Enterprise,ESM,Feedback Client,for Mac,IntelliTrace Standalone Collector,Performance Tools,Professional,PSM,Remote Tools,Team Explorer,Test Professional,Visual C++ Redistributable'
 name: Visual Studio 2017
-summary: >+
+summary: |+
   Visual Studio 2017 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संपादनों पर लागू होता है: Agents, Build Tools, Community, Enterprise, ESM, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, PSM, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
-- vs
+  - vs
 policyType: fixed
 supportDates:
   start: 03/07/2017
   end: 04/12/2022
   extendedEnd: 04/13/2027
 releases:
-- version: Version 15.9
-  startDate: 11/13/2018
-  endDate: 04/13/2027
-- version: Version 15.0
-  startDate: 03/07/2017
-  endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [घोषणा](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* ESM\n* फीडबैक क्लाइंट\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* PSM\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* परीक्षण प्रोफेशनल\n* Visual C++ पुनर्वितरण योग्य"
+  - version: Version 15.9
+    startDate: 11/13/2018
+    endDate: 04/13/2027
+  - version: Version 15.0
+    startDate: 03/07/2017
+    endDate: 01/14/2020
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [घोषणा](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)
+  * [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * एजेंट
+  * बिल्ड टूल्स
+  * कम्यूनिटी
+  * Enterprise
+  * ESM
+  * फीडबैक क्लाइंट
+  * Mac के लिए
+  * IntelliTrace स्टैंडअलोन कलेक्टर
+  * परफॉर्मेंस टूल्स
+  * Professional
+  * PSM
+  * रिमोट टूल्स
+  * टीम एक्सप्लोरर
+  * परीक्षण प्रोफेशनल
+  * Visual C++ पुनर्वितरण योग्य

@@ -3,36 +3,53 @@ metadata:
   title: Windows Server 2008 R2
   description: Windows Server 2008 R2 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 04/23/2021
-  keywords: 
-  ms.openlocfilehash: 46aa19023778be7f5a94f58f76ba81119e32c6b7
-  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 06/25/2021
-  ms.locfileid: "2029877"
+  keywords: null
 name: Windows Server 2008 R2
-summary: "Windows Server 2008 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, एंटरप्राइज, HPC एडिशन, इटैनियम-आधारित सिस्टम, स्टैंडर्ड, वेब\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
+summary: |
+  Windows Server 2008 R2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, एंटरप्राइज, HPC एडिशन, इटैनियम-आधारित सिस्टम, स्टैंडर्ड, वेब
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-- version: Extended Security Update Year 3
-  startDate: 01/11/2022
-  endDate: 01/10/2023
-- version: Extended Security Update Year 2
-  startDate: 01/12/2021
-  endDate: 01/11/2022
-- version: Extended Security Update Year 1
-  startDate: 01/14/2020
-  endDate: 01/12/2021
-- version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
-- version: Original Release
-  startDate: 10/22/2009
-  endDate: 04/09/2013
-content: "> [!TIP]\n> *विस्तारित सुरक्षा अपडेट्स (ESU) डेटासेंटर, Standard, Enterprise और इस उत्पाद संस्करणों के एम्बेडेड संस्करणों के विशिष्ट वॉल्यूम लाइसेंसिंग प्रोग्राम के माध्यम से समर्थन समाप्ति के बाद अतिरिक्त तीन वर्ष तक उपलब्ध होते हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n* [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Enterprise\n* HPC संस्करण\n* इटैनियम-आधारित सिस्टम\n* Standard\n* वेब"
+  - version: Extended Security Update Year 3
+    startDate: 01/11/2022
+    endDate: 01/10/2023
+  - version: Extended Security Update Year 2
+    startDate: 01/12/2021
+    endDate: 01/11/2022
+  - version: Extended Security Update Year 1
+    startDate: 01/14/2020
+    endDate: 01/12/2021
+  - version: Service Pack 1
+    startDate: 02/22/2011
+    endDate: 01/14/2020
+  - version: Original Release
+    startDate: 10/22/2009
+    endDate: 04/09/2013
+content: |
+  > [!TIP]
+  > *विस्तारित सुरक्षा अपडेट्स (ESU) डेटासेंटर, Standard, Enterprise और इस उत्पाद संस्करणों के एम्बेडेड संस्करणों के विशिष्ट वॉल्यूम लाइसेंसिंग प्रोग्राम के माध्यम से समर्थन समाप्ति के बाद अतिरिक्त तीन वर्ष तक उपलब्ध होते हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. 
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)
+  * [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)
+  * [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * डेटासेंटर
+  * Enterprise
+  * HPC संस्करण
+  * इटैनियम-आधारित सिस्टम
+  * Standard
+  * वेब

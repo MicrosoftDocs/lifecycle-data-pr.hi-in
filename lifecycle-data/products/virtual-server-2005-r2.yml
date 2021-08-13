@@ -3,27 +3,35 @@ metadata:
   title: Virtual Server 2005 R2
   description: Virtual Server 2005 R2 निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937930"
+  keywords: 'Enterprise,Standard'
 name: Virtual Server 2005 R2
-summary: "Virtual Server 2005 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
+summary: |
+  Virtual Server 2005 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/28/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 04/16/2007
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 01/28/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 04/16/2007
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 01/28/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Standard

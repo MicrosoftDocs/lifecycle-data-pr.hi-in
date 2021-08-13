@@ -3,30 +3,22 @@ metadata:
   title: Microsoft System Center Capacity Planner 2007
   description: Microsoft System Center Capacity Planner 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 026bf977e513462e9f4e5cb0509144ac26e9b9f7
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "820999"
 name: Microsoft System Center Capacity Planner 2007
-summary: >
+summary: |
   Microsoft System Center Capacity Planner 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-- msc
+  - msc
 policyType: fixed
 supportDates:
   start: 02/09/2008
   end: 04/09/2013
   extendedEnd: 04/10/2018
 releases:
-- version: Original Release
-  startDate: 02/09/2008
-  endDate: 04/10/2018
-content: ''
+  - version: Original Release
+    startDate: 02/09/2008
+    endDate: 04/10/2018
+content: |+

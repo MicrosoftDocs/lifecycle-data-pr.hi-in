@@ -3,26 +3,26 @@ metadata:
   title: Windows Azure पैक (Windows Server 2016 पर)
   description: Windows Azure पैक (Windows Server 2016 पर) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a3bc7138c47161efae20613f28d27e015d290e41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "855239"
 name: Windows Azure पैक (Windows Server 2016 पर)
-summary: >+
+summary: |+
   Windows Azure पैक (Windows Server 2016 पर) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
 
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/12/2016
   end: 01/11/2022
   extendedEnd: 01/12/2027
 releases:
-- version: Original Release
-  startDate: 10/12/2016
-  endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>लिंक \n* [अधिक जानकारी](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))\n\n> [!NOTE]\n> Windows Server के लिए Windows Azure पैक एक हाइब्रिड क्लाउड समाधान है जो Windows Server प्रौद्योगिकियों को आपके डेटासेंटर में लाता है. यह Microsoft ग्राहकों को बिना किसी अतिरिक्त लागत के अपने डेटासेंटर के हार्डवेयर पर एक समृद्ध, स्वयं-सेवा, मल्टी-टेनेंट क्लाउड की पेशकश करने की सुविधा देता है."
+  - version: Original Release
+    startDate: 10/12/2016
+    endDate: 01/12/2027
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [अधिक जानकारी](/previous-versions/azure/windows-server-azure-pack/dn296435(v=technet.10))
+
+  > [!NOTE]
+  > Windows Server के लिए Windows Azure पैक एक हाइब्रिड क्लाउड समाधान है जो Windows Server प्रौद्योगिकियों को आपके डेटासेंटर में लाता है. यह Microsoft ग्राहकों को बिना किसी अतिरिक्त लागत के अपने डेटासेंटर के हार्डवेयर पर एक समृद्ध, स्वयं-सेवा, मल्टी-टेनेंट क्लाउड की पेशकश करने की सुविधा देता है.

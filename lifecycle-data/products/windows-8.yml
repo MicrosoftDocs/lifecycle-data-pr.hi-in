@@ -3,32 +3,36 @@ metadata:
   title: Windows 8
   description: Windows 8 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL
-  ms.openlocfilehash: b68f0cd76dd872c62082863665109462e414f4be
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002316"
+  keywords: 'Enterprise,Enterprise N,N,Pro with Media Center,Professional,Professional N,SL'
 name: Windows 8
-summary: >
+summary: |
   Windows 8 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, N, Media Center के साथ Pro, Professional, Professional N, SL
 
-
   > [!IMPORTANT]
-
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. ग्राहकों को समर्थित रहने के लिए Windows 8.1 पर अद्यतित करना होगा.
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   extendedEnd: 01/12/2016
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows 8.1](/lifecycle/faq/windows#windows-81)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Enterprise N\n* N\n* Media Center के साथ Pro\n* Professional\n* Professional N\n* SL"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 01/12/2016
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [जीवनचक्र FAQ - Windows 8.1](/lifecycle/faq/windows#windows-81)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * Enterprise
+  * Enterprise N
+  * N
+  * Media Center के साथ Pro
+  * Professional
+  * Professional N
+  * SL

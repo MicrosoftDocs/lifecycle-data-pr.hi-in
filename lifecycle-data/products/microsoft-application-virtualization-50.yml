@@ -3,38 +3,41 @@ metadata:
   title: Microsoft Application Virtualization 5.0
   description: Microsoft Application Virtualization 5.0 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: for Remote Desktop Services,for Terminal Services,for Windows Desktops
-  ms.openlocfilehash: 9606d01862383fc90e328d1fe65da5151014db76
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935525"
-name: Microsoft Application Virtualization 5.0
-summary: >+
+  keywords: 'for Remote Desktop Services,for Terminal Services,for Windows Desktops'
+name: Microsoft एप्लीकेशन वर्चुअलाइजेशन 5.0
+summary: |+
   Microsoft Application Virtualization 5.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
 
   यह निम्नलिखित संस्करणों पर लागू होता है: रिमोट डेस्कटॉप सेवाओं के लिए, टर्मिनल सेवाओं के लिए, Windows डेस्कटॉप के लिए
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 11/01/2012
   end: 01/09/2018
   extendedEnd: 01/10/2023
 releases:
-- version: Service Pack 3
-  startDate: 12/08/2014
-  endDate: 01/10/2023
-- version: Service Pack 2
-  startDate: 12/02/2013
-  endDate: 01/12/2016
-- version: Service Pack 1
-  startDate: 04/10/2013
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 11/01/2012
-  endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* रिमोट डेस्कटॉप सेवाओं के लिए\n* टर्मिनल सेवाओं के लिए\n* Windows डेस्कटॉप के लिए"
+  - version: Service Pack 3
+    startDate: 12/08/2014
+    endDate: 01/10/2023
+  - version: Service Pack 2
+    startDate: 12/02/2013
+    endDate: 01/12/2016
+  - version: Service Pack 1
+    startDate: 04/10/2013
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 11/01/2012
+    endDate: 07/08/2014
+content: |
+
+  ## <a name="links"></a>लिंक 
+  * [उत्पाद की जानकारी](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)
+  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>संस्करण 
+  * रिमोट डेस्कटॉप सेवाओं के लिए
+  * टर्मिनल सेवाओं के लिए
+  * Windows डेस्कटॉप के लिए

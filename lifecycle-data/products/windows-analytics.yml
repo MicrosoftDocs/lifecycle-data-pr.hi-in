@@ -3,29 +3,24 @@ metadata:
   title: Windows Analytics
   description: Windows Analytics आधुनिक जीवनचक्र नीति काअनुसरण करता है.
   ms.date: 08/11/2020
-  ms.openlocfilehash: 01c42583edc132faefab6ccf17e3f25cd6e2ce9b
-  ms.sourcegitcommit: d4ec29fd0c57053cfa2254d1bb08c610bb5e6817
-  ms.translationtype: HT
-  ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/11/2020
-  ms.locfileid: "887857"
 name: Windows Analytics
-summary: >
+summary: |
   Windows Analytics [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
-
   > [!IMPORTANT]
-
   > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-- windows
+  - windows
 policyType: modern-on-prem
 supportDates:
   start: 03/02/2017
   end: 01/31/2020
 releases:
-- version: Original Release
-  startDate: 03/02/2017
-  endDate: 01/31/2020
-content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)"
+  - version: Original Release
+    startDate: 03/02/2017
+    endDate: 01/31/2020
+content: |+
+
+  ## <a name="links"></a>लिंक 
+  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Desktop-Analytics-Blog/Migrate-user-input-data-from-Windows-Analytics-Upgrade-Readiness/ba-p/841744#M15)
