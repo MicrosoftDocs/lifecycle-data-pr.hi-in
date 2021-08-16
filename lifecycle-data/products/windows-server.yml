@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server
   description: Windows Server आधुनिक जीवनचक्र नीति का पालन करता है.
-  ms.date: 07/12/2021
+  ms.date: 08/11/2021
   keywords: 
-  ms.openlocfilehash: 3eda071064ccd965630ab28273fb4a9ec7cd017c8a875b28764aba35fcf69cb6
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 039906bea5bf9872fb77d4f7c2ad15264b5e7fcf
+  ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493556"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "3095155"
 name: Windows Server
 summary: >+
   Windows Server [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
@@ -25,13 +25,11 @@ products:
 policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
+  end: 08/11/2022
 releases:
-- version: Version 21H1
-  startDate: 05/18/2021
-  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
-  endDate: 05/10/2022
+  endDate: 08/11/2022
 - version: Version 2004
   startDate: 05/27/2020
   endDate: 12/14/2021
