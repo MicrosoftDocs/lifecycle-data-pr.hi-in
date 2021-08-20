@@ -2,20 +2,23 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 03/16/2021
+  ms.date: 08/16/2021
   keywords: 
-  ms.openlocfilehash: 03081fbeb0f52e5bc7f1198b0cec737d6c7abe7f96437af2827fbd201ef5383f
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: c7e4ddffbe5d190d4a67d9537e35e9fcf95bce8c
+  ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489153"
+  ms.lasthandoff: 08/17/2021
+  ms.locfileid: "3099641"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   यह निम्नलिखित संस्करणों पर लागू होता है: एजेंट, बिल्ड टूल्स, कम्यूनिटी, एंटरप्राइज, Mac के लिए, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, प्रोफेशनल, रिमोट टूल्स, Team एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य
+
+
 
 products:
 - vs
@@ -25,8 +28,12 @@ supportDates:
   end: 04/09/2024
   extendedEnd: 04/10/2029
 releases:
+- version: Version 16.11
+  startDate: 08/10/2021
+  endDate: 04/10/2029
 - version: Version 16.9
   startDate: 03/02/2021
+  endDate: 10/11/2022
 - version: Version 16.7
   startDate: 08/05/2020
   endDate: 04/12/2022
@@ -36,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 डाउनलोड पृष्ठ](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 रिलीज़ नोट्स](/visualstudio/releases/2019/release-notes)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* Visual C++ पुनर्वितरण योग्य"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 डाउनलोड पृष्ठ](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 रिलीज़ नोट्स](/visualstudio/releases/2019/release-notes)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* एजेंट\n* बिल्ड टूल्स\n* कम्यूनिटी\n* Enterprise\n* Mac के लिए\n* IntelliTrace स्टैंडअलोन कलेक्टर\n* परफॉर्मेंस टूल्स\n* Professional\n* रिमोट टूल्स\n* टीम एक्सप्लोरर\n* Visual C++ पुनर्वितरण योग्य"
