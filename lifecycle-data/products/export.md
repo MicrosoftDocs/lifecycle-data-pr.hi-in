@@ -1,14 +1,14 @@
 ---
 title: जीवनचक्र डेटा निर्यात
 description: निर्यात उत्पाद जीवनचक्र सूचना
-ms.date: 01/06/2021
+ms.date: 08/18/2021
 layout: ContentPage
-ms.openlocfilehash: bb0772b4fd406f9567737896de01daedeb25333b5d6846137f164c4ef86ed314
-ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+ms.openlocfilehash: 52ec8ddb6dc80160f33fc5f865708bf0791c4033
+ms.sourcegitcommit: e36d9992f5d1546c5f6d4cf073e73abfca182815
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "2498958"
+ms.lasthandoff: 08/18/2021
+ms.locfileid: "3101943"
 ---
 # <a name="lifecycle-data-export"></a>जीवनचक्र डेटा निर्यात
 
@@ -18,7 +18,7 @@ ms.locfileid: "2498958"
 > [!div class="nextstepaction"]
 > [सभी उत्पादों का निर्यात करें](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-family-and-group"></a>परिवार और समूह द्वारा उत्पाद निर्यात करें।  
+## <a name="export-products-by-family-and-group"></a>परिवार और समूह द्वारा उत्पाद निर्यात करें।
 निर्यात करने के लिए एक परिवार का और फिर एक समूह का चयन करें। नोट: समूह मूल्य का चयन होने पर निर्यात शुरू हो जाएगा। 
 
 > [!div class="op_multi_selector" title1="परिवार" title2="समूह"]
@@ -59,7 +59,7 @@ ms.locfileid: "2498958"
 > - [(Microsoft Office | सुरक्षा)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Office',group='Security'))
 > - [(Microsoft Office | सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Office',group='Server'))
 > - [(Microsoft सर्वर । सभी)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers'))
-> - [(Microsoft सर्वर ।  BizTalk सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers',group='BizTalk%20Server'))
+> - [(Microsoft सर्वर । BizTalk सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers',group='BizTalk%20Server'))
 > - [(Microsoft सर्वर । कॉमर्स सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers',group='Commerce%20Server'))
 > - [(Microsoft सर्वर । कंटेंट मैनेजमेंट सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers',group='Content%20Management%20Server'))
 > - [(Microsoft सर्वर । होस्ट इंटीग्रेशन सर्वर)](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(family='Microsoft%20Servers',group='Host%20Integration%20Server'))
@@ -102,3 +102,4 @@ ms.locfileid: "2498958"
 > - [2028](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2028))
 > - [2029](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2029))
 > - [2030](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2030))
+> - [2031](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2031))
