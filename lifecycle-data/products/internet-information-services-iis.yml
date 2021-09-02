@@ -1,0 +1,60 @@
+### YamlMime:Lifecycle
+metadata:
+  title: इंटरनेट इन्फ़ॉर्मेशन सर्विसेस (IIS)
+  description: इंटरनेट इन्फ़ॉर्मेशन सर्विसेस (IIS) घटक की जीवनचक्र नीति का पालन करता है.
+  ms.date: 08/24/2021
+  keywords: IIS
+  ms.openlocfilehash: bec839cfe6478d653bc7cd2e47a6513b3a2f5e6e
+  ms.sourcegitcommit: b06425c72d3bdf1014356364d33f8e6a2ab1f6c1
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 08/25/2021
+  ms.locfileid: "3163005"
+name: इंटरनेट इन्फ़ॉर्मेशन सर्विसेस (IIS)
+summary: >+
+  इंटरनेट इन्फ़ॉर्मेशन सर्विसेस (IIS) [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) की जीवनचक्र नीति का अनुसरण करता है.
+
+
+
+
+
+products:
+- windows
+policyType: component
+supportDates:
+  start: 05/28/2003
+releases:
+- version: IIS 10 on Windows Server 2019
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+- version: IIS 10 on Windows Server (Semi-Annual Channel)
+  startDate: 10/17/2017
+- version: IIS 10 on Windows Server 2016
+  startDate: 10/15/2016
+  endDate: 01/12/2027
+- version: IIS 10 on Windows 10, Enterprise and Education
+  startDate: 07/29/2015
+- version: IIS 10 on Windows 10 Pro
+  startDate: 07/29/2015
+- version: IIS 8.5 on Windows Server 2012 R2
+  startDate: 11/25/2013
+  endDate: 10/10/2023
+- version: IIS 8.5 on Windows 8.1
+  startDate: 11/13/2013
+  endDate: 01/10/2023
+- version: IIS 8 on Windows Server 2012
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+- version: IIS 7.5 on Windows 7*
+  startDate: 10/22/2009
+  endDate: 01/14/2020
+- version: IIS 7.5 on Windows Server 2008 R2*
+  startDate: 10/22/2009
+  endDate: 01/14/2020
+- version: IIS 7.0 on Windows Server 2008*
+  startDate: 05/06/2008
+  endDate: 01/14/2020
+- version: IIS 6.0 on Windows Server 2003
+  startDate: 05/28/2003
+  endDate: 07/14/2015
+content: "> [!TIP]\n> [*विस्तारित सुरक्षा अपडेट्स (ESU)](https://docs.microsoft.com/lifecycle/faq/extended-security-updates#esu-availability-and-end-dates) इन Windows उत्पादों के विशिष्ट वॉल्यूम लाइसेंसिंग प्रोग्राम के माध्यम से समर्थन समाप्ति के बाद अतिरिक्त तीन वर्ष तक उपलब्ध होते हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें.\n\n\n## <a name=\"links\"></a>लिंक \n* [वेब प्लेटफ़ॉर्म इंस्टॉलर (WebPI) समर्थन की समाप्ति](https://blogs.iis.net/iisteam/web-platform-installer-end-of-support-feed)\n* [विस्तारित सुरक्षा अपडेट (ESU) प्रोग्राम](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> इंटरनेट इन्फ़ॉर्मेशन सर्विस (IIS) Windows ऑपरेटिंग सिस्टम का एक घटक है और समान जीवनचक्र का पालन करता है.  [Windows Server](https://docs.microsoft.com/lifecycle/products/windows-server), [Windows 10 Enterprise and Education](https://docs.microsoft.com/lifecycle/products/windows-10-enterprise-and-education) और [Windows 10 Pro](https://docs.microsoft.com/lifecycle/products/windows-10-home-and-pro) लिए समर्थन समयसीमा देखने हेतु यहाँ जाएँ."
