@@ -2,14 +2,14 @@
 metadata:
   title: Windows सर्वर 2022
   description: Windows सर्वर 2022 निश्चित जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 08/18/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: 32226dfdd93a7e21da11c1c6583ef0cd69687152
-  ms.sourcegitcommit: adfeeb1650d45b759b26479162bbe0ed43a82099
+  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
+  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/19/2021
-  ms.locfileid: "3102589"
+  ms.lasthandoff: 09/01/2021
+  ms.locfileid: "3173038"
 name: Windows सर्वर 2022
 summary: >+
   Windows Server 2022 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [उत्पाद की जानकारी](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेटासेंटर: Azure संस्करण\n* Standard"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [उत्पाद की जानकारी](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Windows Server 2022 के साथ जारी किए गए कंटेनर एक ही जीवनचक्र तिथियों का पालन करते हैं। \n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेटासेंटर: Azure संस्करण\n* Standard"

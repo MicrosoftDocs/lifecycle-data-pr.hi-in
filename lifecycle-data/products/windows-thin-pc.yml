@@ -2,17 +2,25 @@
 metadata:
   title: Windows Thin PC
   description: Windows Thin PC निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: acdbd3b20bb8b90f317713ef0ec2bee4218516ece5cec18f0084ec1191eb50b3
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 09/03/2021
+  keywords: 
+  ms.openlocfilehash: e9308804469516b4dba532a6bbf5f899e934493a
+  ms.sourcegitcommit: 84072034ed4f49189157d0a60970ef343d65dd13
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486415"
+  ms.lasthandoff: 09/03/2021
+  ms.locfileid: "3173884"
 name: Windows Thin PC
 summary: >+
   Windows Thin PC [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
+
+
+
+
+  > [!IMPORTANT]
+
+  > अपग्रेड से जुड़ी जानकारी के लिए [यहां](https://techcommunity.microsoft.com/t5/windows-embedded/windows-thin-pc-ending-support-on-october-12-2021/ba-p/2708588) जाएं।
 
 products:
 - windows
