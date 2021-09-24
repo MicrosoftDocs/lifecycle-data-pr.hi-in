@@ -2,25 +2,28 @@
 metadata:
   title: Windows Server 2008
   description: Windows Server 2008 फिक्स्ड लाइफसाइकिल पॉलिसी का पालन करता है.
-  ms.date: 04/23/2021
+  ms.date: 08/31/2021
   keywords: 
-  ms.openlocfilehash: e410116c0c35fc739a87078ae69e1906d4d0f251e55218f96ffd7d1603fcfdd1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d1c189ee825c9294e0e5161ded5a56a55526066
+  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504619"
+  ms.lasthandoff: 09/21/2021
+  ms.locfileid: "3460643"
 name: Windows Server 2008
-summary: >
+summary: >+
   Windows Server 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी का पालन करता है.
+
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, Hyper-V के बिना डेटासेंटर, Enterprise, Hyper-V के बिना Enterprise, इटैनियम-आधारित सिस्टम, Foundation, Standard, Hyper-V के बिना Standard, वेब
 
 
+
   > [!IMPORTANT]
 
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
+
 products:
 - windows
 policyType: fixed
@@ -29,11 +32,14 @@ supportDates:
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
+- version: Extended Security Update Year 4 (Azure only)
+  startDate: 01/11/2023
+  endDate: 01/09/2024
 - version: Extended Security Update Year 3
-  startDate: 01/11/2022
+  startDate: 01/12/2022
   endDate: 01/10/2023
 - version: Extended Security Update Year 2
-  startDate: 01/12/2021
+  startDate: 01/13/2021
   endDate: 01/11/2022
 - version: Extended Security Update Year 1
   startDate: 01/14/2020
@@ -44,4 +50,4 @@ releases:
 - version: Original Release
   startDate: 05/06/2008
   endDate: 07/12/2011
-content: "> [!TIP]\n> *विस्तारित सुरक्षा अपडेट्स (ESU) डेटासेंटर, Standard, Enterprise और इस उत्पाद संस्करणों के एम्बेडेड संस्करणों के विशिष्ट वॉल्यूम लाइसेंसिंग प्रोग्राम के माध्यम से समर्थन समाप्ति के बाद अतिरिक्त तीन वर्ष तक उपलब्ध होते हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n* [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Windows Server 2008 Foundation 21 मई, 2009 को जारी\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Hyper-V के बिना डेटासेंटर\n* Enterprise\n* Hyper-V के बिना Enterprise\n* इटैनियम-आधारित सिस्टम के लिए\n* Foundation\n* Standard\n* Hyper-V के बिना Standard\n* वेब"
+content: "> [!TIP]\n> *विस्तारित सुरक्षा अपडेट्स (ESU) डेटासेंटर, Standard, Enterprise और इस उत्पाद संस्करणों के एम्बेडेड संस्करणों के विशिष्ट वॉल्यूम लाइसेंसिंग प्रोग्राम के माध्यम से समर्थन समाप्ति के बाद अतिरिक्त तीन वर्ष तक उपलब्ध होते हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n* [सर्वर अपग्रेड की जानकारी](/windows-server/upgrade/upgrade-overview)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> Windows Server 2008 Foundation 21 मई, 2009 को जारी\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Hyper-V के बिना डेटासेंटर\n* Enterprise\n* Hyper-V के बिना Enterprise\n* इटैनियम-आधारित सिस्टम के लिए\n* Foundation\n* Standard\n* Hyper-V के बिना Standard\n* वेब"
