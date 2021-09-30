@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel LTSC 2021
+  description: Excel LTSC 2021 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है।
+  ms.date: 09/15/2021
+  keywords: Office,Standard,Standard for Mac
+  ms.openlocfilehash: 7e4cf809e30bead2c451105b1a48f78ddfed27ba
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3457777"
+name: Excel LTSC 2021
+summary: >+
+  Excel LTSC 2021 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल पॉलिसी का पालन करता है।
+
+
+
+  यह निम्न संस्करणों पर लागू होता है: Standard, Mac के लिए Standard
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* मैक के लिए Standard"

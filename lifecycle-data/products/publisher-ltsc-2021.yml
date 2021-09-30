@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Publisher LTSC 2021
+  description: Publisher LTSC 2021 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है।
+  ms.date: 09/16/2021
+  keywords: Office
+  ms.openlocfilehash: bfec057a5e836b58f2e498ef3acbfdfce8e71cb8
+  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/17/2021
+  ms.locfileid: "3457770"
+name: Publisher LTSC 2021
+summary: >+
+  Publisher LTSC 2021 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल पॉलिसी का पालन करता है।
+
+
+
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/16/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 09/16/2021
+  endDate: 10/13/2026
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)"
