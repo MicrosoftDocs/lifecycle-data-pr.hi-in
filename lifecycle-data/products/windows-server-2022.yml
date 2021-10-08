@@ -2,21 +2,21 @@
 metadata:
   title: Windows सर्वर 2022
   description: Windows सर्वर 2022 निश्चित जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 08/31/2021
+  ms.date: 09/23/2021
   keywords: 
-  ms.openlocfilehash: 8c3cf914c65ac5fe4d13296398a4f0bea73eb7f8
-  ms.sourcegitcommit: acb9601132598295da5c9f5a537f1a1af401417a
+  ms.openlocfilehash: 1ed53da378c243b1cb45d78aeb9770a1f6ec3e1d
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/01/2021
-  ms.locfileid: "3173038"
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508018"
 name: Windows सर्वर 2022
 summary: >+
   Windows Server 2022 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, डेटासेंटर: Azure संस्करण, स्टैंडर्ड
+  यह निम्नलिखित संस्करणों पर लागू होता है: आँकड़ा सेन्टर, आँकड़ा सेन्टर: Azure Edition, Essentials, Standard
 
 
 
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 08/18/2021
   endDate: 10/14/2031
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [उत्पाद की जानकारी](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Windows Server 2022 के साथ जारी किए गए कंटेनर एक ही जीवनचक्र तिथियों का पालन करते हैं। \n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेटासेंटर: Azure संस्करण\n* Standard"
+content: "> [!TIP]\n> Microsoft Edge आधुनिक [लाइफ़सायकल नीति](https://docs.microsoft.com/lifecycle/policies/modern) का पालन करता है. कृपया इस ब्राउज़र को अपडेट रखने और सहायता पाते रहने के बारे में जानने के लिए [Edge लाइफ़साइकल दस्तावेज़ीकरण](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) को रेफ़र करें।\n\n\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [उत्पाद की जानकारी](/windows-server/windows-server-2022/get-started/whats-new)\n\n\n> [!NOTE]\n> Windows Server 2022 के साथ जारी किए गए कंटेनर एक ही जीवनचक्र तिथियों का पालन करते हैं। \n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* डेटासेंटर: Azure संस्करण\n* Essentials\n* Standard"

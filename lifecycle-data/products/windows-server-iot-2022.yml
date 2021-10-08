@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows Server IoT 2022
+  description: Windows Server IoT 2022 नियत लाइफ़सायकल नीति का पालन करता है.
+  ms.date: 09/30/2021
+  keywords: 
+  ms.openlocfilehash: 88410d389a0328a58d5df7cd5b20e279318fe968
+  ms.sourcegitcommit: 7c3fe4207bf2db7fe5db69c9c50fd1afb6070311
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/30/2021
+  ms.locfileid: "3508070"
+name: Windows Server IoT 2022
+summary: >+
+  Windows Server IoT 2022 [नियत](/lifecycle/policies/fixed) लाइफ़सायकल नीति का पालन करता है.
+
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, मानक, भंडारण मानक, भंडारण कार्यसमूह, दूरसंचार
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/18/2021
+  end: 10/13/2026
+  extendedEnd: 10/14/2031
+releases:
+- version: Original Release
+  startDate: 08/18/2021
+  endDate: 10/14/2031
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n\n> [!NOTE]\n> Microsoft Edge आधुनिक [लाइफ़सायकल नीति](https://docs.microsoft.com/lifecycle/policies/modern) का पालन करता है. कृपया इस ब्राउज़र को अपडेट रखने और सहायता पाते रहने के बारे में जानने के लिए [Edge लाइफ़साइकल दस्तावेज़ीकरण](https://docs.microsoft.com/deployedge/microsoft-edge-support-lifecycle) को रेफ़र करें।\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Standard\n* संग्रहण मानक\n* संग्रहण कार्यसमूह\n* टेलीकम्यूनिकेशन"
