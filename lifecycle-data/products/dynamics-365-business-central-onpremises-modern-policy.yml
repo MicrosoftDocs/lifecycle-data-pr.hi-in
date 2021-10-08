@@ -2,17 +2,20 @@
 metadata:
   title: Dynamics 365 Business Central ऑन-प्रीमाइसेस (आधुनिक नीति)
   description: Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 03/16/2021
+  ms.date: 09/30/2021
   keywords: 
-  ms.openlocfilehash: 65f0f744d351447aaa493b15797d76c88d064b5b5e65b523fe964c21a31c32d0
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 5397fa5347fb17823eeec8f9512f0c0243de2931
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504101"
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509141"
 name: Dynamics 365 Business Central ऑन-प्रीमाइसेस (आधुनिक नीति)
 summary: >+
   Dynamics 365 Business Central ऑन-प्रिमाइसेस (आधुनिक नीति) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
 
 
 products:
@@ -21,6 +24,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/01/2019
 releases:
+- version: 2021 release wave 2, version 19.x
+  startDate: 10/01/2021
+  endDate: 04/12/2023
 - version: 2021 release wave 1, version 18.x
   startDate: 04/01/2021
   endDate: 10/11/2022
@@ -33,4 +39,4 @@ releases:
 - version: 2019 release wave 2, version 15.x
   startDate: 10/01/2019
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग की जानकारी](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)\n* [FAQ](/dynamics365/business-central/dev-itpro/faq)"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग की जानकारी](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises#modern-lifecycle-policy)\n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)\n* [FAQ](/dynamics365/business-central/dev-itpro/faq)"
