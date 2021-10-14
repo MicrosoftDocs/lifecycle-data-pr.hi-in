@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 IoT एंटरप्राइज (संस्करण 21H2)
+  description: Windows 11 IoT Enterprise (संस्करण 21H2) आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: 9a933ca28c406dbd125712266cae66a8f1ccb338
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509388"
+name: Windows 11 IoT एंटरप्राइज (संस्करण 21H2)
+summary: >+
+  Windows 11 IoT एंटरप्राइज़ (संस्करण 21H2) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/08/2024
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/08/2024
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Windows 11 IoT एंटरप्राइज के साथ आरंभ करना](https://aka.ms/Windows11IoTEnterprise)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [अतिरिक्त Windows संसाधन](/windows/resources/)\n* [Windows 11 Enterprise and Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 Home और Pro](/lifecycle/products/windows-11-home-and-pro)\n\n\n> [!NOTE]\n> अस्थगित न होने तक, आगामी Windows 11 फ़ीचर अपडेट को मेनस्ट्रीम समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है."

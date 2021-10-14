@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Excel 2021
+  description: Excel 2021 आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 09/28/2021
+  keywords: 
+  ms.openlocfilehash: 3bdc4802741e838990c36af898b2839ca2ccaeca
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509817"
+name: Excel 2021
+summary: >+
+  Excel 2021 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  यह निम्न संस्करणों पर लागू होता है: Standard, Mac के लिए Standard
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* मैक के लिए Standard"

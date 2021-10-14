@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Publisher 2021
+  description: Publisher 2021 आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: e7c646ec2557ac081f6b23eb627416377b2d073d
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509906"
+name: Publisher 2021
+summary: >+
+  Publisher 2021 [निश्चित](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: ''

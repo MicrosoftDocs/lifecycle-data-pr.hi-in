@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Office 2021
+  description: Office 2021 आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 09/27/2021
+  keywords: 
+  ms.openlocfilehash: e75efd2c07eba99b0979450d0505cd7c5bddadbe
+  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509877"
+name: Office 2021
+summary: >+
+  Office 2021 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Home and Business, Mac के लिए Home and Business, Home and Student, Mac के लिए Home and Student, प्रोफेशनल
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Business\n* Mac के लिए Home and Business\n* Home and Student\n* Mac के लिए Home and Student\n* Professional"

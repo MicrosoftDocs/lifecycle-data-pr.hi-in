@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 11 Home और Pro (संस्करण 21H2)
+  description: Windows 11 Home और Pro (संस्करण 21H2) आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 09/23/2021
+  keywords: 
+  ms.openlocfilehash: ea691bf8b5c3e0a62e8d8d6e4bdc5ec3147faa22
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509398"
+name: Windows 11 Home और Pro (संस्करण 21H2)
+summary: >+
+  Windows 11 Home और Pro (संस्करण 21H2) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: Home, Pro, Pro Education, Pro for Workstations
+
+
+
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 10/04/2021
+  end: 10/10/2023
+releases:
+- version: Original release (Version 21H2)
+  startDate: 10/04/2021
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-overview)\n* [जीवनचक्र FAQ - Windows](/lifecycle/faq/windows)\n* [अतिरिक्त Windows संसाधन](/windows/resources/)\n* [Windows 11 Enterprise and Education](/lifecycle/products/windows-11-enterprise-and-education)\n* [Windows 11 IoT Enterprise](/lifecycle/products/windows-11-iot-enterprise)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* होम\n* Pro\n* Pro Education\n* Pro for Workstations"
