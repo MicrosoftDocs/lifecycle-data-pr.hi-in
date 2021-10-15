@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2012
   description: Visual Studio 2012 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 10/04/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 9d4be228f6bc6fb4e6c418c13faa8886fcd045d1
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509178"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514190"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio के पुराने संस्करणों के लिए सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing#support-for-older-versions-of-visual-studio)\n* [सर्विस पैक नीति](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2012 संस्करणों को Visual Studio 2012 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, Microsoft Azure टूल्स, रिमोट टूल्स, SDK, Shell (एकीकृत), शैल (अलग), SQL Server डेटा टूल्स, टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन।\n\n\n## <a name=\"editions\"></a>संस्करण \n* वेब के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* टीम एक्सप्लोरर\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio के पुराने संस्करणों के लिए सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2012 संस्करणों को Visual Studio 2012 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, Microsoft Azure टूल्स, रिमोट टूल्स, SDK, Shell (एकीकृत), शैल (अलग), SQL Server डेटा टूल्स, टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन।\n\n\n## <a name=\"editions\"></a>संस्करण \n* वेब के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* टीम एक्सप्लोरर\n* Ultimate"

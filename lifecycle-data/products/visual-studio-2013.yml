@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
-  ms.date: 09/23/2021
+  ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 6ae47f9d9b67de20ecd407da68c7b570ebfc14f5
-  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.openlocfilehash: c54d82aa98ede8eff7bda6adcbd2b9d64cae7f71
+  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509252"
+  ms.lasthandoff: 10/11/2021
+  ms.locfileid: "3514189"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 04/09/2024
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2013 संस्करणों को Visual Studio 2013 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, मॉडलिंग SDK, मल्टीबाइट MFC लाइब्रेरी, रिमोट टूल्स, SDK, Shell (एकीकृत), Shell (अलग), टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* वेब के लिए एक्सप्रेस\n* Windows के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* रिलीज प्रबंधन\n* परीक्षण प्रोफेशनल\n* Ultimate"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2013 संस्करणों को Visual Studio 2013 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, मॉडलिंग SDK, मल्टीबाइट MFC लाइब्रेरी, रिमोट टूल्स, SDK, Shell (एकीकृत), Shell (अलग), टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* वेब के लिए एक्सप्रेस\n* Windows के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* रिलीज प्रबंधन\n* परीक्षण प्रोफेशनल\n* Ultimate"
