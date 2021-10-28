@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: OneNote 2021
+  description: OneNote 2021 आधुनिक जीवनचक्र नीति का पालन करता है।
+  ms.date: 10/15/2021
+  keywords: office,Standard,Standard for Mac
+  ms.openlocfilehash: 75f6eed10a29393d72c8729536518d1df8f55e77
+  ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 10/15/2021
+  ms.locfileid: "3517906"
+name: OneNote 2021
+summary: >+
+  OneNote 2021 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
+
+
+
+  यह निम्न संस्करणों पर लागू होता है: Standard, Mac के लिए Standard
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 10/05/2021
+  end: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 10/05/2021
+  endDate: 10/13/2026
+content: "\n\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard\n* मैक के लिए Standard"
