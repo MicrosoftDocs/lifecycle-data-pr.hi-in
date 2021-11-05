@@ -2,14 +2,14 @@
 metadata:
   title: Windows Server 2012 R2
   description: Windows Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/12/2021
+  ms.date: 11/03/2021
   keywords: 
-  ms.openlocfilehash: 384bff48c7fa87312d04be67a3f610e7ca274587af6a9365a45aad94a7c2d31c
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8803112769e915daecef568dd58045403be8c4f4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2517088"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560001"
 name: Windows Server 2012 R2
 summary: >+
   Windows Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -29,13 +29,13 @@ supportDates:
   extendedEnd: 10/10/2023
 releases:
 - version: Extended Security Update Year 3
-  startDate: 10/14/2025
+  startDate: 10/15/2025
   endDate: 10/13/2026
 - version: Extended Security Update Year 2
-  startDate: 10/08/2024
+  startDate: 10/09/2024
   endDate: 10/14/2025
 - version: Extended Security Update Year 1
-  startDate: 10/10/2023
+  startDate: 10/11/2023
   endDate: 10/08/2024
 - version: Original Release
   startDate: 11/25/2013

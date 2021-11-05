@@ -2,66 +2,46 @@
 metadata:
   title: Microsoft SQL Server 2012
   description: Microsoft SQL Server 2012 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: e3ab6d2736771ae9f7a40a0c8f854973fb0f39aa
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560096"
 name: Microsoft SQL Server 2012
-summary: |+
-  Microsoft SQL Server 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
-
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: बिजनेस इंटेलिजेंस, डेवलपर, एंटरप्राइज, एंटरप्राइज कोर, एक्सप्रेस, एम्बेडेड सिस्टम, स्टैंडर्ड, वेब के लिए 
-
-
-
+summary: "Microsoft SQL Server 2012 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.\n\n\nयह निम्नलिखित संस्करणों पर लागू होता है: बिजनेस इंटेलिजेंस, डेवलपर, एंटरप्राइज, एंटरप्राइज कोर, एक्सप्रेस, एम्बेडेड सिस्टम, स्टैंडर्ड, वेब के लिए \n\n\n\n"
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
   start: 05/20/2012
   end: 07/11/2017
   extendedEnd: 07/12/2022
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 07/09/2024
-    endDate: 07/08/2025
-  - version: Extended Security Update Year 2
-    startDate: 07/11/2023
-    endDate: 07/09/2024
-  - version: Extended Security Update Year 1
-    startDate: 07/12/2022
-    endDate: 07/11/2023
-  - version: Service Pack 4
-    startDate: 10/05/2017
-    endDate: 07/12/2022
-  - version: Service Pack 3
-    startDate: 12/01/2015
-    endDate: 10/09/2018
-  - version: Service Pack 2
-    startDate: 06/10/2014
-    endDate: 01/10/2017
-  - version: Service Pack 1
-    startDate: 11/07/2012
-    endDate: 07/14/2015
-  - version: Original Release
-    startDate: 05/20/2012
-    endDate: 01/14/2014
-content: |+
-
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-  * [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)
-  * [जीवनचक्र अक्सर पूछे जाने वाले प्रश्न - विस्तारित सुरक्षा अपडेट](/lifecycle/faq/extended-security-updates)
-
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * बिजनेस इंटेलिजेंस
-  * डेवलपर
-  * Enterprise
-  * एंटरप्राइज कोर
-  * एक्सप्रेस
-  * एम्बेडेड सिस्टम के लिए
-  * Standard
-  * वेब
+- version: Extended Security Update Year 3
+  startDate: 07/10/2024
+  endDate: 07/08/2025
+- version: Extended Security Update Year 2
+  startDate: 07/12/2023
+  endDate: 07/09/2024
+- version: Extended Security Update Year 1
+  startDate: 07/13/2022
+  endDate: 07/11/2023
+- version: Service Pack 4
+  startDate: 10/05/2017
+  endDate: 07/12/2022
+- version: Service Pack 3
+  startDate: 12/01/2015
+  endDate: 10/09/2018
+- version: Service Pack 2
+  startDate: 06/10/2014
+  endDate: 01/10/2017
+- version: Service Pack 1
+  startDate: 11/07/2012
+  endDate: 07/14/2015
+- version: Original Release
+  startDate: 05/20/2012
+  endDate: 01/14/2014
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview?view=sql-server-ver15)\n* [जीवनचक्र अक्सर पूछे जाने वाले प्रश्न - विस्तारित सुरक्षा अपडेट](/lifecycle/faq/extended-security-updates)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* बिजनेस इंटेलिजेंस\n* डेवलपर\n* Enterprise\n* एंटरप्राइज कोर\n* एक्सप्रेस\n* एम्बेडेड सिस्टम के लिए\n* Standard\n* वेब"

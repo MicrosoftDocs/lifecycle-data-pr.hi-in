@@ -2,11 +2,18 @@
 metadata:
   title: Windows Server 2012
   description: Windows Server 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/12/2021
-  keywords: null
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: 4aaf6ab9c89c90bd7017bf7048a93890cd7f396e
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560133"
 name: Windows Server 2012
-summary: |+
+summary: >+
   Windows Server 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: डाटा सेन्टर, एसेन्शियल्स, बाह्य कनेक्टर, एम्बेडेड सिस्टम के लिए, फ़ाउंडेशन, स्टैंडर्ड
@@ -14,42 +21,23 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-  - version: Extended Security Update Year 3
-    startDate: 10/14/2025
-    endDate: 10/13/2026
-  - version: Extended Security Update Year 2
-    startDate: 10/08/2024
-    endDate: 10/14/2025
-  - version: Extended Security Update Year 1
-    startDate: 10/10/2023
-    endDate: 10/08/2024
-  - version: Original Release
-    startDate: 10/30/2012
-    endDate: 10/10/2023
-content: |+
-
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)
-  * [उत्पाद की जानकारी](/windows/release-information/status-windows-server-2012)
-  * [जीवनचक्र अक्सर पूछे जाने वाले प्रश्न - विस्तारित सुरक्षा अपडेट](/lifecycle/faq/extended-security-updates)
-
-
-  > [!NOTE]
-  > इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है. Windows Server Essentials 2 जनवरी, 2013 को रिलीज़ किया गया.
-
-
-  ## <a name="editions"></a>संस्करण 
-  * डेटासेंटर
-  * Essentials
-  * बाह्य कनेक्टर
-  * एम्बेडेड सिस्टम के लिए
-  * Foundation
-  * Standard
+- version: Extended Security Update Year 3
+  startDate: 10/15/2025
+  endDate: 10/13/2026
+- version: Extended Security Update Year 2
+  startDate: 10/09/2024
+  endDate: 10/14/2025
+- version: Extended Security Update Year 1
+  startDate: 10/11/2023
+  endDate: 10/08/2024
+- version: Original Release
+  startDate: 10/30/2012
+  endDate: 10/10/2023
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/upgrade/upgrade-overview)\n* [उत्पाद की जानकारी](/windows/release-information/status-windows-server-2012)\n* [जीवनचक्र अक्सर पूछे जाने वाले प्रश्न - विस्तारित सुरक्षा अपडेट](/lifecycle/faq/extended-security-updates)\n\n\n> [!NOTE]\n> इस उत्पाद के लिए मुख्यधारा और विस्तारित समर्थन को ग्राहकों को मानक लाइफसाइकल ट्रांसमिशन टाइमलाइन प्रदान करने के लिए बढ़ाया गया है. Windows Server Essentials 2 जनवरी, 2013 को रिलीज़ किया गया.\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* बाह्य कनेक्टर\n* एम्बेडेड सिस्टम के लिए\n* Foundation\n* Standard"

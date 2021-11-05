@@ -2,14 +2,14 @@
 metadata:
   title: Internet Explorer 11
   description: Internet Explorer 11 घटक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 05/18/2021
-  keywords: 
-  ms.openlocfilehash: 3224f71b4a69cb311899809b385069ab7e3664274146044d9d624e29d3cde008
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 11/03/2021
+  keywords: IE
+  ms.openlocfilehash: 395b45e3032265adf245359b254cbf5426bbd182
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519752"
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560000"
 name: Internet Explorer 11
 summary: >+
   Internet Explorer 11 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
@@ -30,4 +30,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/13/2013
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer/Edge जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer समर्थित ऑपरेटिंग सिस्टम](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> विस्तारित सुरक्षा अपडेट (ESUs) उपलब्ध होने पर Internet Explorer के कुछ संस्करण नवीनतम OS समाप्ति तिथि के बाद समर्थित हो सकते हैं.  ESUs की पेशकश करने वाले उत्पादों की सूची के लिए [यहां](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) जाएँ."
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Internet Explorer/Edge जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer समर्थित ऑपरेटिंग सिस्टम](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n\n\n> [!NOTE]\n> विस्तारित सुरक्षा अपडेट (ESUs) उपलब्ध होने पर Internet Explorer के कुछ संस्करण नवीनतम OS समाप्ति तिथि के बाद समर्थित हो सकते हैं.  ESUs की पेशकश करने वाले उत्पादों की सूची के लिए [यहां](https://docs.microsoft.com/lifecycle/faq/extended-security-updates) जाएँ."
