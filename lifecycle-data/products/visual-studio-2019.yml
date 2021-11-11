@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2019
   description: Visual Studio 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/20/2021
+  ms.date: 10/26/2021
   keywords: 
-  ms.openlocfilehash: e23223d9d0a238c2d9784b25ab84a2195705951c
-  ms.sourcegitcommit: b7b46fb942fa16a0d96d486f6b591e470c048157
+  ms.openlocfilehash: 0f9b64cda589aef8e2cee22444c63d61d955e158
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/21/2021
-  ms.locfileid: "3460606"
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546710"
 name: Visual Studio 2019
 summary: >+
   Visual Studio 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -43,4 +43,4 @@ releases:
 - version: Version 16.0
   startDate: 04/02/2019
   endDate: 01/12/2021
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [सर्विसिंग जानकारी](/visualstudio/productinfo/vs-servicing-vs)\n* [Visual Studio 2019 डाउनलोड पृष्ठ](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 रिलीज़ नोट्स](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2019 संस्करणों को Visual Studio 2019 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, बिल्ड टूल्स, कम्यूनिटी, एंटरप्राइज, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, रिमोट टूल्स, Team एक्सप्लोरर और Visual C++ पुनर्वितरण।\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* Enterprise\n* Professional"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [समर्थन और जीवनचक्र की जानकारी](/visualstudio/releases/2019/servicing-vs2019)\n* [Visual Studio 2019 डाउनलोड पृष्ठ](https://my.visualstudio.com/Downloads?q=Visual%20Studio%202019)\n* [Visual Studio 2019 रिलीज़ नोट्स](/visualstudio/releases/2019/release-notes)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2019 संस्करणों को Visual Studio 2019 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, बिल्ड टूल्स, IntelliTrace स्टैंडअलोन कलेक्टर, परफॉर्मेंस टूल्स, रिमोट टूल्स, Team एक्सप्लोरर और Visual C++ पुनर्वितरण योग्य।\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* Enterprise\n* Professional"

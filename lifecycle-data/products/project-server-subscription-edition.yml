@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Project सर्वर सदस्यता संस्करण
+  description: Project Server सदस्यता संस्करण आधुनिक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3775c728a11e4e8f85fd3866670d6ce7fcc5f808
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546802"
+name: Project सर्वर सदस्यता संस्करण
+summary: >+
+  Project सर्वर सदस्यता संस्करण [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/project/project-server-2013-and-2016) और [डेवलपर](https://docs.microsoft.com/office/dev/add-ins/project/) दस्तावेज देखें."

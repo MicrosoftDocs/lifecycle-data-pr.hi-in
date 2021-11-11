@@ -2,61 +2,37 @@
 metadata:
   title: Windows 7
   description: Windows 7 नियत जीवनचक्र नीति का पालन करता है.
-  ms.date: 09/01/2020
-  keywords: 'Enterprise,Enterprise N,Home Basic,Home Premium,Home Premium N,Professional,Professional for Embedded Systems,Professional N,Starter,Starter N,Ultimate,Ultimate for Embedded Systems,Ultimate N'
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 006d77b325d21e4696c54f95f7e95804aa5420de
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546673"
 name: Windows 7
-summary: |
-  Windows 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N
-
-  > [!IMPORTANT]
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. 
+summary: "Windows 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.\n\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Enterprise N, Home Basic, Home Premium, Home Premium N, Professional, Professional for Embedded Systems, Professional N, Starter, Starter N, Ultimate, Ultimate for Embedded Systems, Ultimate N\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
   start: 10/22/2009
   end: 01/13/2015
   extendedEnd: 01/14/2020
 releases:
-  - version: Extended Security Update Year 3*
-    startDate: 01/11/2022
-    endDate: 01/10/2023
-  - version: Extended Security Update Year 2*
-    startDate: 01/12/2021
-    endDate: 01/11/2022
-  - version: Extended Security Update Year 1*
-    startDate: 01/14/2020
-    endDate: 01/12/2021
-  - version: Service Pack 1
-    startDate: 02/22/2011
-    endDate: 01/14/2020
-  - version: Original Release
-    startDate: 10/22/2009
-    endDate: 04/09/2013
-content: |
-  > [!TIP]
-  > समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन साल तक, इस उत्पाद के Windows 7 Professional, Enterprise, और Professional एम्बेडेड सिस्टम संस्करणों के लिए विशिष्ट वॉल्यूम लाइसेंसिंग कार्यक्रमों के माध्यम से, विस्तारित सुरक्षा अपडेट्स (ESU) उपलब्ध हैं। अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. 
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)
-  * [Windows 7 से Windows 10 में अपग्रेड करना](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)
-  * [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Enterprise
-  * Enterprise N
-  * Home Basic
-  * Home Premium
-  * Home Premium N
-  * Professional
-  * एम्बेडेड सिस्टम के लिए Professional
-  * Professional N
-  * Starter
-  * Starter N
-  * Ultimate
-  * एम्बेडेड सिस्टम के लिए Ultimate
-  * Ultimate N
+- version: Extended Security Update Year 3*
+  startDate: 01/12/2022
+  endDate: 01/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 01/13/2021
+  endDate: 01/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 01/14/2020
+  endDate: 01/12/2021
+- version: Service Pack 1
+  startDate: 02/22/2011
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 10/22/2009
+  endDate: 04/09/2013
+content: "> [!TIP]\n> * समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन साल तक, इस उत्पाद के Windows 7 प्रोफ़ेशनल, एंटरप्राइज़ और एम्बेडेड सिस्टम के लिए प्रोफ़ेशनल संस्करणों के लिए विशिष्ट वॉल्यूम लाइसेंसिंग कार्यक्रमों के माध्यम से विस्तारित सुरक्षा अपडेट्स (ESU) उपलब्ध हैं। अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें. \n\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [Windows 7 से Windows 10 में अपग्रेड करना](/microsoft-365/enterprise/desktop-deployment-center-home?view=o365-worldwide)\n* [विस्तारित सुरक्षा अद्यतन प्रोग्राम (ESU)](/lifecycle/faq/extended-security-updates)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Enterprise N\n* Home Basic\n* Home Premium\n* Home Premium N\n* Professional\n* एम्बेडेड सिस्टम के लिए Professional\n* Professional N\n* Starter\n* Starter N\n* Ultimate\n* एम्बेडेड सिस्टम के लिए Ultimate\n* Ultimate N"

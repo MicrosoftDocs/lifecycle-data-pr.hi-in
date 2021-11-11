@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 IoT एंटरप्राइज़ LTSC 2019
+  description: Windows 10 IoT एंटरप्राइज़ LTSC 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 11/03/2021
+  keywords: 
+  ms.openlocfilehash: a2a9134fadbfbf8230a1314065cef4200cb9994a
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560224"
+name: Windows 10 IoT एंटरप्राइज़ LTSC 2019
+summary: >+
+  Windows 10 IoT एंटरप्राइज़ LTSC 2019 [फिक्स्ड](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Windows 10 अक्टूबर 2018 अपडेट ](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 IoT कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)"

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: SharePoint सर्वर सदस्यता संस्करण
+  description: SharePoint सर्वर सदस्यता संस्करण आधुनिक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 10/19/2021
+  keywords: 
+  ms.openlocfilehash: 3e5e5eb0b969e8d18a37532e4b5750be288bcebf
+  ms.sourcegitcommit: 6ea3221fd5475440480515f04f33988656d71748
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/02/2021
+  ms.locfileid: "3546818"
+name: SharePoint सर्वर सदस्यता संस्करण
+summary: >+
+  SharePoint सर्वर सदस्यता संस्करण [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 11/02/2021
+releases:
+- version: Original Release
+  startDate: 11/02/2021
+content: "\n\n\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/sharepoint/sharepoint-server) और [डेवलपर](https://docs.microsoft.com/sharepoint/dev/) दस्तावेज देखें."

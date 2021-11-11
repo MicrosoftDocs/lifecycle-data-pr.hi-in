@@ -1,0 +1,36 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure Active Directory (AD) कनेक्ट
+  description: Azure Active Directory (AD) कनेक्ट आधुनिक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 11/02/2021
+  keywords: AD Connect,AD Sync
+  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
+  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 11/04/2021
+  ms.locfileid: "3560241"
+name: Azure Active Directory (AD) कनेक्ट
+summary: >+
+  Azure Active Directory (AD) कनेक्ट [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > 31 अगस्त, 2022 को, Azure Active Directory (Azure AD) कनेक्ट के सभी 1.x संस्करण सेवानिवृत्त हो जाएंगे क्योंकि उनमें SQL Server 2012 घटक शामिल हैं जिन्हें अब समर्थन नहीं दिया जाएगा। कृपया [Azure AD कनेक्ट संस्करण 2.x](https://www.microsoft.com/download/details.aspx?id=47594) या [Azure AD कनेक्ट क्लाउड सिंक](https://docs.microsoft.com/azure/active-directory/cloud-sync/what-is-cloud-sync) की नवीनतम रिलीज में अपग्रेड करें।
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 09/01/2014
+releases:
+- version: Version 2.x
+  startDate: 09/30/2021
+- version: Version 1.x
+  startDate: 09/01/2014
+  endDate: 08/31/2022
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD कनेक्ट क्लाउड सिंक](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD कनेक्ट v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> प्रारंभ में सितंबर 2014 में जारी, Azure AD सिंक ने जून 2015 में अपना नाम बदलकर Azure AD कनेक्ट कर दिया, जो संस्करण 1.0.8641.0 से शुरू हुआ।"
