@@ -2,10 +2,6 @@
   "build": {
     "content": [
       {
-        "files": [
-          "**/*.md",
-          "**/*.yml"
-        ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -17,15 +13,15 @@
           "LICENSE",
           "LICENSE-CODE",
           "ThirdPartyNotices.md"
+        ],
+        "files": [
+          "**/*.md",
+          "**/*.yml"
         ]
       }
     ],
     "resource": [
       {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
@@ -33,17 +29,48 @@
           "_themes.pdf/**",
           "**/docfx.json",
           "_repo.en-us/**"
+        ],
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "breadcrumb_path": "/lifecycle/breadcrumb/toc.json",
-      "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "uhfHeaderId": "MSDocsHeader-Lifecycle"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author": {
+        "**/*.md": "github-name",
+        "**/*.yml": "github-name"
+      },
+      "hide_bc": {
+        "**/*.md": "true",
+        "**/*.yml": "true"
+      },
+      "ms.author": {
+        "**/*.md": "mslpol",
+        "**/*.yml": "mslpol"
+      },
+      "ms.prod": {
+        "**/*.md": "lifecycle",
+        "**/*.yml": "lifecycle"
+      },
+      "ms.topic": {
+        "**/*.md": "lifecycle",
+        "**/*.yml": "lifecycle"
+      },
+      "titleSuffix": {
+        "**/*.md": "Microsoft Lifecycle",
+        "**/*.yml": "Microsoft Lifecycle"
+      },
+      "toc_rel": {
+        "**/end-of-support/*.md": "/lifecycle/toc.json"
+      }
+    },
     "template": [],
     "dest": "lifecycle-data",
     "markdownEngineName": "markdig"
