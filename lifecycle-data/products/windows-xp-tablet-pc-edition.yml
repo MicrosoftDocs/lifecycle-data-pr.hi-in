@@ -3,33 +3,35 @@ metadata:
   title: Windows XP टैबलेट PC संस्करण
   description: Windows XP टैबलेट PC संस्करण निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 10/20/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 463fbb5ed67810cc42baed6548a10cc67c919d59
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4104530"
 name: Windows XP टैबलेट PC संस्करण
-summary: |+
+summary: >+
   Windows XP टैबलेट PC संस्करण [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: PC
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 02/11/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-02-11T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 04/21/2008
-    endDate: 04/08/2014
-  - version: Service Pack 2
-    startDate: 09/17/2004
-    endDate: 07/13/2010
-  - version: Original Release
-    startDate: 02/11/2003
-    endDate: 10/10/2006
-content: |
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * PC
+- version: Service Pack 3
+  startDate: 2008-04-21T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2004-09-17T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2003-02-11T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* PC"

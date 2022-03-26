@@ -3,12 +3,12 @@ metadata:
   title: ऑफिस कम्युनिकेशन सर्वर के लिए फ़ोरफ़्रंट सुरक्षा
   description: ऑफिस कम्युनिकेशन सर्वर के लिए फ़ोरफ़्रंट सुरक्षा निश्चित जीवनचक्र नीति का अनुसरण करती है।
   ms.date: 08/21/2020
-  ms.openlocfilehash: e08b97802887b2de88310192eca502816369b0289c6159ab9529381254f6ab5b
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8f9731930ce14c9d19d13af5b6f141b28e60dc1b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2498995"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114890"
 name: ऑफिस कम्युनिकेशन सर्वर के लिए फ़ोरफ़्रंट सुरक्षा
 summary: >+
   ऑफिस कम्युनिकेशन सर्वर के लिए फ़ोरफ़्रंट सुरक्षा [ निश्चित ](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करती है।
@@ -18,10 +18,10 @@ products:
 - msc
 policyType: fixed
 supportDates:
-  start: 06/09/2009
-  extendedEnd: 12/31/2015
+  start: 2009-06-09T00:00:00.000-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
 - version: RTM
-  startDate: 06/09/2009
-  endDate: 12/31/2015
+  startDate: 2009-06-09T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है.  यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n\n"

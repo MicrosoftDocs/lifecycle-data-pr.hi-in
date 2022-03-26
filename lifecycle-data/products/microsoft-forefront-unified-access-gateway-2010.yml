@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Forefront Unified Access Gateway 2010
   description: Microsoft Forefront एकीकृत एक्सेस गेटवे 2010 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 226c0003e99616e6577c0d7910cb1eb5d732d11c3120a8437eef2cd1bbf67839
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 26878491f8d98ed2acbb77b52c28a909828e9f77
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2502288"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4127211"
 name: Microsoft Forefront Unified Access Gateway 2010
 summary: >+
   Microsoft Forefront एकीकृत एक्सेस गेटवे 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -18,23 +18,23 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 01/26/2010
-  end: 04/14/2015
-  extendedEnd: 04/14/2020
+  start: 2010-01-26T00:00:00.000-08:00
+  end: 2015-04-14T22:59:59.999-08:00
+  extendedEnd: 2020-04-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 4
-  startDate: 11/20/2013
-  endDate: 04/14/2020
+  startDate: 2013-11-20T00:00:00.000-08:00
+  endDate: 2020-04-14T22:59:59.999-08:00
 - version: Service Pack 3
-  startDate: 02/18/2013
-  endDate: 01/13/2015
+  startDate: 2013-02-18T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 08/06/2012
-  endDate: 04/08/2014
+  startDate: 2012-08-06T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 12/10/2010
-  endDate: 10/08/2013
+  startDate: 2010-12-10T00:00:00.000-08:00
+  endDate: 2013-10-08T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/26/2010
-  endDate: 01/11/2011
+  startDate: 2010-01-26T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/bg-p/Identity)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

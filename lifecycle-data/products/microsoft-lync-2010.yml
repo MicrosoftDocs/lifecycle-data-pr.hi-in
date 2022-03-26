@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Lync 2010
   description: Microsoft Lync Server 2010 नियत जीवनचक्र नीति का पालन करता है।
   ms.date: 10/20/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5690812eec1d0ca09d0601488c3f5dfb2b117389
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107527"
 name: Microsoft Lync 2010
-summary: |+
+summary: >+
   Microsoft Lync Server 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है।
+
 
   यह निम्न संस्करणों पर लागू होता है: अटेंडेंट, अटेंडी, ग्रूप चैट, स्टैंडर्ड
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/25/2011
-  end: 04/12/2016
-  extendedEnd: 04/13/2021
+  start: 2011-01-25T00:00:00.000-08:00
+  end: 2016-04-12T22:59:59.999-08:00
+  extendedEnd: 2021-04-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/25/2011
-    endDate: 04/13/2021
-content: |
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * अटेंडेंट
-  * अटेंडी
-  * ग्रुप चैट
-  * Standard
+- version: Original Release
+  startDate: 2011-01-25T00:00:00.000-08:00
+  endDate: 2021-04-13T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अटेंडेंट\n* अटेंडी\n* ग्रुप चैट\n* Standard"

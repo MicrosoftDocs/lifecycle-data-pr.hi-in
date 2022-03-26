@@ -3,19 +3,25 @@ metadata:
   title: Windows Home Server
   description: Windows Home Server निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: b19224052c6664f12b41b3d352d2b64f2bde5f87
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4104678"
 name: Windows Home Server
-summary: |+
+summary: >+
   Windows Home Server [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 10/11/2007
-  end: 01/08/2013
+  start: 2007-10-11T00:00:00.000-08:00
+  end: 2013-01-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/11/2007
-    endDate: 01/08/2013
-content: |+
+- version: Original Release
+  startDate: 2007-10-11T00:00:00.000-08:00
+  endDate: 2013-01-08T22:59:59.999-08:00
+content: ''

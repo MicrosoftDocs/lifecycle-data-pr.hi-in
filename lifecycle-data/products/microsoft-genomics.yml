@@ -1,22 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft जीनोमिक्स
-  description: 'Microsoft जीनोमिक्स, आधुनिक जीवनचक्र नीति का अनुसरण करता है.'
+  description: Microsoft जीनोमिक्स, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: e76d5eb2c2ec32b409ba18d8eb298ba1c7c4b702
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4127100"
 name: Microsoft जीनोमिक्स
-summary: |+
+summary: >+
   Microsoft जीनोमिक्स, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - azure
+- azure
 policyType: modern-online
 supportDates:
-  start: 11/01/2017
+  start: 2017-11-01T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 11/01/2017
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विसिंग जानकारी](/azure/genomics/version-release-history-genomics)
+- version: Original Release
+  startDate: 2017-11-01T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/genomics/version-release-history-genomics)"

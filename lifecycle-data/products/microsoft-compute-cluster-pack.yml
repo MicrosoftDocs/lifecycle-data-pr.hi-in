@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Compute Cluster Pack
   description: Microsoft Compute Cluster Pack निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 0b0435d1529895bc355954b9b385693f8e77a17c0ec13a3a06002f4d7bd8c949
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 255cada1bce50ca905a88ade7313913aa1ce8c0d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2485052"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107823"
 name: Microsoft Compute Cluster Pack
 summary: >
   Microsoft Compute Cluster Pack [निश्चित](/lifecycle/policies/fixed)जीवनचक्र नीति का अनुसरण करता है.
@@ -22,14 +22,14 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 09/06/2006
-  end: 07/13/2010
-  extendedEnd: 07/14/2015
+  start: 2006-09-06T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 03/07/2007
-  endDate: 07/14/2015
+  startDate: 2007-03-07T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 09/06/2006
-  endDate: 04/08/2008
+  startDate: 2006-09-06T00:00:00.000-08:00
+  endDate: 2008-04-08T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

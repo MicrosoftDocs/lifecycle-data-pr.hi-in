@@ -3,19 +3,25 @@ metadata:
   title: Microsoft बिजनेस सॉल्यूशंस--सोलोमन 6.0
   description: Microsoft बिजनेस सॉल्यूशंस--सोलोमन 6.0 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
+  ms.openlocfilehash: a4587222239ee29ed6a0211f92db8cfa9e36c90e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107860"
 name: Microsoft बिजनेस सॉल्यूशंस--सोलोमन 6.0
-summary: |+
+summary: >+
   Microsoft बिजनेस सॉल्यूशंस--सोलोमन 6.0 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/30/2004
-  end: 10/13/2009
+  start: 2004-09-30T00:00:00.000-08:00
+  end: 2009-10-13T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/30/2004
-    endDate: 10/13/2009
-content: |+
+- version: Original Release
+  startDate: 2004-09-30T00:00:00.000-08:00
+  endDate: 2009-10-13T22:59:59.999-08:00
+content: ''

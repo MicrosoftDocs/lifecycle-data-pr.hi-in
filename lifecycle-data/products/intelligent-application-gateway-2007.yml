@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Intelligent Application Gateway 2007
   description: Microsoft Intelligent Application Gateway 2007 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c3c1ca3898de2c0ac61b79395f1c75e4689d91980dbeb4f5641b05160088230d
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2e4cb68a2f1b63fbdc64507b9b16fbdc2f8008a0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495147"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4114631"
 name: Microsoft इंटेलिजेंट एप्लीकेशन गेटवे 2007
 summary: >
   Microsoft Intelligent Application Gateway 2007 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -22,17 +22,17 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/01/2007
-  end: 07/10/2012
-  extendedEnd: 07/11/2017
+  start: 2007-06-01T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-07-11T22:59:59.999-08:00
 releases:
 - version: Service Pack 2
-  startDate: 11/27/2008
-  endDate: 07/11/2017
+  startDate: 2008-11-27T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 09/03/2007
-  endDate: 01/12/2010
+  startDate: 2007-09-03T00:00:00.000-08:00
+  endDate: 2010-01-12T22:59:59.999-08:00
 - version: Original Release
-  startDate: 06/01/2007
-  endDate: 10/14/2008
+  startDate: 2007-06-01T00:00:00.000-08:00
+  endDate: 2008-10-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Intelligent Application Gateway 2007 रोडमैप](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

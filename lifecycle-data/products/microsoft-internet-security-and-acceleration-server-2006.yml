@@ -4,26 +4,26 @@ metadata:
   description: Microsoft Internet Security and Acceleration Server 2006 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 172aa83f81e162682b76bc830571452b5b2d9802421b753c4beb7d685f9e6423
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2385d0ca7a6a8bfd96d6a49bd7c3b7bb3250180c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2511464"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4126804"
 name: Microsoft Internet Security and Acceleration Server 2006
 summary: "Microsoft Internet Security and Acceleration Server 2006 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 10/17/2006
-  end: 01/10/2012
-  extendedEnd: 01/10/2017
+  start: 2006-10-17T00:00:00.000-08:00
+  end: 2012-01-10T22:59:59.999-08:00
+  extendedEnd: 2017-01-10T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 07/02/2008
-  endDate: 01/10/2017
+  startDate: 2008-07-02T00:00:00.000-08:00
+  endDate: 2017-01-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 10/17/2006
-  endDate: 07/14/2009
+  startDate: 2006-10-17T00:00:00.000-08:00
+  endDate: 2009-07-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

@@ -3,19 +3,25 @@ metadata:
   title: Hosted Messaging and Collaboration 4.5 का Microsoft समाधान
   description: Hosted Messaging and Collaboration 4.5 का Microsoft समाधान निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 46d5ed08beab680052ed26302eb98a2b2b0c3b27
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120847"
 name: Hosted Messaging and Collaboration 4.5 का Microsoft समाधान
-summary: |+
+summary: >+
   Hosted Messaging and Collaboration 4.5 का Microsoft समाधान [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/11/2008
-  end: 12/12/2011
+  start: 2008-09-11T00:00:00.000-08:00
+  end: 2011-12-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/11/2008
-    endDate: 12/12/2011
-content: |+
+- version: Original Release
+  startDate: 2008-09-11T00:00:00.000-08:00
+  endDate: 2011-12-12T22:59:59.999-08:00
+content: ''

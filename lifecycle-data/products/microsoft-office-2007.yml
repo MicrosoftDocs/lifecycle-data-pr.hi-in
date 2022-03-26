@@ -3,46 +3,38 @@ metadata:
   title: Microsoft Office 2007
   description: Microsoft Office 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: 'Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate'
+  keywords: Basic,Enterprise,Home and Student,Multi Language Pack,Professional,Professional Plus,Small Business,Standard,Ultimate
+  ms.openlocfilehash: a9ba79d609d74babea9e1dd7e42f68f8bb9d9f8d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4121180"
 name: Microsoft Office 2007
-summary: |+
+summary: >+
   Microsoft Office 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Basic, Enterprise, Home and Student, Multi Language Pack, Professional, Professional Plus, Small Business, Standard, Ultimate
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/27/2007
-  end: 10/09/2012
-  extendedEnd: 10/10/2017
+  start: 2007-01-27T00:00:00.000-08:00
+  end: 2012-10-09T22:59:59.999-08:00
+  extendedEnd: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 10/25/2011
-    endDate: 10/10/2017
-  - version: Service Pack 2
-    startDate: 04/28/2009
-    endDate: 01/08/2013
-  - version: Service Pack 1
-    startDate: 12/11/2007
-    endDate: 07/13/2010
-  - version: Original Release
-    startDate: 01/27/2007
-    endDate: 01/13/2009
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * बेसिक
-  * Enterprise
-  * Home and Student
-  * बहु-भाषा पैक
-  * Professional
-  * Professional Plus
-  * Small Business
-  * Standard
-  * Ultimate
+- version: Service Pack 3
+  startDate: 2011-10-25T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2009-04-28T00:00:00.000-08:00
+  endDate: 2013-01-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2007-12-11T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2007-01-27T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/kb/3198497)\n\n\n## <a name=\"editions\"></a>संस्करण \n* बेसिक\n* Enterprise\n* Home and Student\n* बहु-भाषा पैक\n* Professional\n* Professional Plus\n* Small Business\n* Standard\n* Ultimate"
