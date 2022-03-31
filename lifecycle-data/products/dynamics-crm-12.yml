@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 1.2
   description: Dynamics CRM 1.2 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: fb827bedb37ab5b5165e1e06efcb99a27751510ffb7700ee8648e0d60ab2fea0
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 30fb1cace93b555d04145b31e70df7236252ec05
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2503065"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141345"
 name: Dynamics CRM 1.2
 summary: >+
   Dynamics CRM 1.2 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,10 +18,10 @@ products:
 - dynamics
 policyType: fixed-mainstream-only
 supportDates:
-  start: 10/31/2003
-  end: 01/09/2007
+  start: 2003-10-31T00:00:00.000-08:00
+  end: 2007-01-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/31/2003
-  endDate: 01/09/2007
+  startDate: 2003-10-31T00:00:00.000-08:00
+  endDate: 2007-01-09T22:59:59.999-08:00
 content: ''

@@ -4,26 +4,30 @@ metadata:
   description: Windows Essential Business Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/02/2020
   keywords: ''
+  ms.openlocfilehash: c02ca0fd6a58f07cc74c41e10f5ac6ca3c348ce1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123548"
 name: Windows Essential Business Server 2008
-summary: |
+summary: >
   Windows Essential Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 12/12/2008
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2008-12-12T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/12/2008
-    endDate: 02/13/2020
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)
-  * [उत्पाद की जानकारी](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)
+- version: Original Release
+  startDate: 2008-12-12T00:00:00.000-08:00
+  endDate: 2020-02-13T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n* [उत्पाद की जानकारी](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"

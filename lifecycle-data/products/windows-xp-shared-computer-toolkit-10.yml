@@ -3,12 +3,12 @@ metadata:
   title: Windows XP शेयर्ड कंप्यूटर टूलकिट 1.0
   description: Windows XP शेयर्ड कंप्यूटर टूलकिट 1.0 घटक जीवनचक्र नीति का पालन करता है.
   ms.date: 08/05/2020
-  ms.openlocfilehash: 7ebda7481aa67fe1386909061c81037ec9ac13f4c8a9c53fa4ba79f1606daac8
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a046ebcf745ae04e66ccf34c47cd2f3e9e6ec5d2
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510465"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122734"
 name: Windows XP साझा कंप्यूटर टूलकिट 1.0
 summary: >+
   Windows XP शेयर्ड कंप्यूटर टूलकिट 1.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का पालन करता है.
@@ -18,10 +18,10 @@ products:
 - windows
 policyType: component
 supportDates:
-  start: 08/24/2005
-  end: 01/10/2012
+  start: 2005-08-24T00:00:00.000-08:00
+  end: 2012-01-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 08/24/2005
-  endDate: 01/10/2012
+  startDate: 2005-08-24T00:00:00.000-08:00
+  endDate: 2012-01-10T22:59:59.999-08:00
 content: ''

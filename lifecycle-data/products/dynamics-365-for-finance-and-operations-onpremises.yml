@@ -1,30 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics 365 for Finance and Operations (on-premises)
-  description: 'Dynamics 365 for Finance and Operations (on-premises), आधुनिक जीवनचक्र नीति का अनुसरण करता है.'
+  description: Dynamics 365 for Finance and Operations (on-premises), आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/29/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 1de32cdf1f7de625e3f3ca10fdc4e53154f3c7ef
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141449"
 name: Dynamics 365 for Finance and Operations (on-premises)
-summary: |+
+summary: >+
   Dynamics 365 for Finance and Operations (on-premises), [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise
 
 products:
-  - dynamics
+- dynamics
 policyType: modern-online
 supportDates:
-  start: 06/15/2017
+  start: 2017-06-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 06/15/2017
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)
-  * [निकाली गई या अवमानित सुविधाएँ ](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)
-  * [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Enterprise
+- version: Original Release
+  startDate: 2017-06-15T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/unified-operations/dev-itpro/migration-upgrade/on-prem-version-update-policy)\n* [निकाली गई या अवमानित सुविधाएँ ](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/deprecated-features?toc=/dynamics365/finance/toc.json%22%20%5Cl%20%22us-payroll-tax-updates)\n* [सिस्टम आवश्यकताएँ](https://ax.help.dynamics.com/wiki/browser-requirements/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise"

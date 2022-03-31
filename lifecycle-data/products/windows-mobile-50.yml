@@ -4,12 +4,12 @@ metadata:
   description: Windows Mobile 5.0 फनिश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: for Pocket PC,for Smartphones
-  ms.openlocfilehash: 9450a1d934dc7a9e3d58dd8ce1b1c64435b3a06c985df9f50ba058962abc6ca7
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2eb6d1229a8d3691f93f1b02695636cb5f816f3e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488783"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118146"
 name: Windows Mobile 5.0
 summary: >
   Windows Mobile 5.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -25,11 +25,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 07/31/2005
-  end: 10/12/2010
-  extendedEnd: 10/13/2015
+  start: 2005-07-31T00:00:00.000-08:00
+  end: 2010-10-12T22:59:59.999-08:00
+  extendedEnd: 2015-10-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/31/2005
-  endDate: 10/13/2015
+  startDate: 2005-07-31T00:00:00.000-08:00
+  endDate: 2015-10-13T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* पॉकेट PC के लिए\n* स्मार्टफ़ोन के लिए"

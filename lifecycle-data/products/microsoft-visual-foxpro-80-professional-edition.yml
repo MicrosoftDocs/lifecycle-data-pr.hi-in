@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Visual FoxPro 8.0 Professional Edition निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Professional
-  ms.openlocfilehash: 649f23ede2dc07d76c78a7912662dc044edb8290883b255a61ee415318800cbc
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: b52844ff10c31e98f01d805f64dfc588db797441
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507579"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4112226"
 name: Microsoft Visual FoxPro 8.0 Professional Edition
 summary: >+
   Microsoft Visual FoxPro 8.0 Professional Edition [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 03/12/2003
-  end: 04/08/2008
-  extendedEnd: 04/09/2013
+  start: 2003-03-12T00:00:00.000-08:00
+  end: 2008-04-08T22:59:59.999-08:00
+  extendedEnd: 2013-04-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/12/2003
-  endDate: 04/09/2013
+  startDate: 2003-03-12T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional"

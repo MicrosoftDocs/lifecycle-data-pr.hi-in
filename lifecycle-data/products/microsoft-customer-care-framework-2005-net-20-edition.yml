@@ -3,12 +3,12 @@ metadata:
   title: Microsoft ग्राहक सेवा फ़्रेमवर्क 2005 .NET 2.0 संस्करण
   description: Microsoft ग्राहक सेवा फ़्रेमवर्क 2005 .NET 2.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7ff1629f3b1db3179d9407b463ad1ebbd04cec576f6efc05e75f2ad34e566821
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 0043b8bdcb51dee2d467c169ff48020875731ddc
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2484778"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145974"
 name: Microsoft ग्राहक सेवा फ़्रेमवर्क 2005 .NET 2.0 संस्करण
 summary: >
   Microsoft ग्राहक सेवा फ़्रेमवर्क 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,11 +22,11 @@ products:
 - customer-care-framework
 policyType: fixed
 supportDates:
-  start: 11/11/2006
-  end: 01/10/2012
-  extendedEnd: 01/10/2017
+  start: 2006-11-11T00:00:00.000-08:00
+  end: 2012-01-10T22:59:59.999-08:00
+  extendedEnd: 2017-01-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/11/2006
-  endDate: 01/10/2017
+  startDate: 2006-11-11T00:00:00.000-08:00
+  endDate: 2017-01-10T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement)"

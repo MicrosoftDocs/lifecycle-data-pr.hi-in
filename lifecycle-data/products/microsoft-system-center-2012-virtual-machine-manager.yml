@@ -3,26 +3,26 @@ metadata:
   title: Microsoft System Center 2012 Virtual Machine Manager
   description: 'Microsoft System Center 2012 Virtual Machine Manager निश्चित जीवनचक्र नीति का अनुसरण करता है। '
   ms.date: 07/28/2020
-  ms.openlocfilehash: dd30d0f9a3bb163595a997c62f7b133f75bbfa05d99e7b313a84ad415ef94e10
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2e4ee478a221357eb8c8dd3157e3036c3fae3217
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507653"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4112522"
 name: Microsoft System Center 2012 Virtual Machine Manager
 summary: "Microsoft System Center 2012 Virtual Machine Manager [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है। \n\n\n"
 products:
 - msc
 policyType: fixed
 supportDates:
-  start: 05/30/2012
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2012-05-30T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 12/15/2012
-  endDate: 07/12/2022
+  startDate: 2012-12-15T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
 - version: Original Release
-  startDate: 05/30/2012
-  endDate: 01/14/2014
+  startDate: 2012-05-30T00:00:00.000-08:00
+  endDate: 2014-01-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [System Center संसाधन](https://www.microsoft.com/system-center/resources)"

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 2018
   description: Dynamics GP 2018 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 44a665c06bed8f8e4d884c65c9fec6a9f87a4cf8e3a82e3876414946de0cbf67
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 4008a6617187f8fe330cc4950b22243513f9f32f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2491706"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141197"
 name: Dynamics GP 2018
 summary: >+
   Dynamics GP 2018 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 12/01/2017
-  end: 01/10/2023
-  extendedEnd: 01/11/2028
+  start: 2017-12-01T00:00:00.000-08:00
+  end: 2023-01-10T22:59:59.999-08:00
+  extendedEnd: 2028-01-11T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/01/2017
-  endDate: 01/11/2028
+  startDate: 2017-12-01T00:00:00.000-08:00
+  endDate: 2028-01-11T22:59:59.999-08:00
 content: ''

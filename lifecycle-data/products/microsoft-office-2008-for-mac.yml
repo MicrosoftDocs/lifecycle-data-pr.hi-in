@@ -3,40 +3,29 @@ metadata:
   title: Microsoft Office 2008 for Mac
   description: Mac के लिए Microsoft Office 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: 'Business,Home and Student,Special Media Editon'
+  keywords: Business,Home and Student,Special Media Editon
+  ms.openlocfilehash: 7cc28383ddeafd4d24497a0aab3b221f69865027
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4126508"
 name: Microsoft Office 2008 for Mac
-summary: |
-  Mac के लिए Microsoft Office 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: Business, Home and Student, Special Media Edition
-
-  > [!IMPORTANT]
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
+summary: "Mac के लिए Microsoft Office 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: Business, Home and Student, Special Media Edition\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 01/15/2008
-  end: 04/09/2013
+  start: 2008-01-15T00:00:00.000-08:00
+  end: 2013-04-09T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 07/20/2009
-    endDate: 04/09/2013
-  - version: Service Pack 1
-    startDate: 05/13/2008
-    endDate: 10/12/2010
-  - version: Original Release
-    startDate: 01/15/2008
-    endDate: 07/14/2009
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Mac के लिए Office 2008 के विशेष मीडिया संपादन की आरंभ तिथि 12, मार्च 2008 है.
-
-  ## <a name="editions"></a>संस्करण 
-  * Business
-  * Home and Student
-  * विशेष मीडिया संपादन
+- version: Service Pack 2
+  startDate: 2009-07-20T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2008-05-13T00:00:00.000-08:00
+  endDate: 2010-10-12T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2008-01-15T00:00:00.000-08:00
+  endDate: 2009-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Mac के लिए Office 2008 के विशेष मीडिया संपादन की आरंभ तिथि 12, मार्च 2008 है.\n\n## <a name=\"editions\"></a>संस्करण \n* Business\n* Home and Student\n* विशेष मीडिया संपादन"

@@ -3,12 +3,12 @@ metadata:
   title: Surface Hub पर Windows 10
   description: Surface Hub पर Windows 10 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c38b01282f365b72b3e59813a316cb1a3ee8215e147ce1f97fa23162d0d0632a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 22680be8fa8cfd6b22f841fbd435c8cafd811e41
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493926"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148523"
 name: Surface Hub पर Windows 10
 summary: >+
   Surface Hub पर Windows 10 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,10 +18,10 @@ products:
 - windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 03/25/2016
-  end: 10/14/2025
+  start: 2016-03-25T00:00:00.000-08:00
+  end: 2025-10-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/25/2016
-  endDate: 10/14/2025
+  startDate: 2016-03-25T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Windows अपडेट (Surface Hub)](/surface-hub/manage-windows-updates-for-surface-hub)\n\n> [!NOTE]\n> आप Surface Hub के नवीनतम अपडेट मिलने सुनिश्चित करने के लिए Windows अपडेट (Surface Hub) पृष्ठ देखें."

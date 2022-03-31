@@ -3,29 +3,30 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3cf364424d7dee7eaba1a9fc6678faee5958d267
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139347"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: |
+summary: >
   Microsoft Forefront Endpoint Protection 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
+
   > [!IMPORTANT]
+
   > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 03/31/2011
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2011-03-31T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 03/31/2011
-    endDate: 07/09/2019
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
-  * [सर्विसिंग जानकारी](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
-
-  > [!NOTE]
-  > ग्राहकों को पूरी तरह से समर्थित होने के लिए नवीनतम एंटी-मैलवेयर प्लेटफ़ॉर्म अपडेट के साथ रहना होगा. Forefront Endpoint Protection 2010 मुख्यधारा और विस्तारित समर्थन दोनों के लिए System Center Configuration Manager 2007 के रूप में एक ही जीवनचक्र नीति द्वारा कवर किया गया है.
+- version: Original Release
+  startDate: 2011-03-31T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [सर्विसिंग जानकारी](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> ग्राहकों को पूरी तरह से समर्थित होने के लिए नवीनतम एंटी-मैलवेयर प्लेटफ़ॉर्म अपडेट के साथ रहना होगा. Forefront Endpoint Protection 2010 मुख्यधारा और विस्तारित समर्थन दोनों के लिए System Center Configuration Manager 2007 के रूप में एक ही जीवनचक्र नीति द्वारा कवर किया गया है."

@@ -1,26 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
-  description: 'Analytics--FRx 6.7 डेस्कटॉप के लिए Microsoft व्यवसाय समाधान, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
+  description: Analytics--FRx 6.7 डेस्कटॉप के लिए Microsoft व्यवसाय समाधान, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3d4ffe8e7e6d2f13b220d2b7e1dd6953793ec286
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108230"
 name: Microsoft Business Solutions for Analytics--FRx 6.7 Desktop
-summary: |+
+summary: >+
   Analytics--FRx 6.7 डेस्कटॉप के लिए Microsoft व्यवसाय समाधान, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed
 supportDates:
-  start: 05/30/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-05-30T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/30/2004
-    endDate: 07/08/2014
-content: |+
-
-
-  > [!NOTE]
-  > यदि Dynamics उत्पाद के घटक के रूप में वितरित नहीं हुआ है, तो FRx का समर्थन इंगित की गयी तिथि पर समाप्त हो जाता है. जब Dynamics उत्पाद के साथ वितरित होता है, तो Dynamics जीवनचक्र तिथि FRx की तिथि को ओवरराइड करती हैं.
+- version: Original Release
+  startDate: 2004-05-30T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> यदि Dynamics उत्पाद के घटक के रूप में वितरित नहीं हुआ है, तो FRx का समर्थन इंगित की गयी तिथि पर समाप्त हो जाता है. जब Dynamics उत्पाद के साथ वितरित होता है, तो Dynamics जीवनचक्र तिथि FRx की तिथि को ओवरराइड करती हैं."

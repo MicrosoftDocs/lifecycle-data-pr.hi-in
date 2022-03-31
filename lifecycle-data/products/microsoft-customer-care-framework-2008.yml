@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Customer Care Framework 2008
   description: Microsoft Customer Care Framework 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7b39c466af77c981e90712a0ae8a4cd064e2906ddd4e213e1e999eab30576b90
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 142ab2f0858c73223c0b1fe62ee2cb4f53431a29
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2511760"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149737"
 name: Microsoft Customer Care Framework 2008
 summary: >
   Microsoft Customer Care Framework 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,11 +22,11 @@ products:
 - customer-care-framework
 policyType: fixed
 supportDates:
-  start: 09/01/2007
-  end: 10/09/2012
-  extendedEnd: 10/10/2017
+  start: 2007-09-01T00:00:00.000-08:00
+  end: 2012-10-09T22:59:59.999-08:00
+  extendedEnd: 2017-10-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/01/2007
-  endDate: 10/10/2017
+  startDate: 2007-09-01T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/crm/2016/04/07/microsoft-customer-care-framework-support-lifecycle-announcement/)"

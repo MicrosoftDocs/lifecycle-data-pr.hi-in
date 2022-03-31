@@ -4,12 +4,12 @@ metadata:
   description: Dynamics AX 2012 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 12/17/2020
   keywords: 
-  ms.openlocfilehash: e40ec8a12a395760e589701b8183c78db7f836bde721c7d8e63321a1b83a3e51
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a558320c11c8675149915169dcf742e1376263f0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488154"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141420"
 name: Dynamics AX 2012
 summary: >+
   Dynamics AX 2012 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,11 +19,11 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 09/25/2011
-  end: 10/09/2018
-  extendedEnd: 04/12/2022
+  start: 2011-09-25T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2022-04-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/25/2011
-  endDate: 04/12/2022
+  startDate: 2011-09-25T00:00:00.000-08:00
+  endDate: 2022-04-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [Dynamics 365 माइग्रेशन प्रोग्राम](https://dynamics.microsoft.com/migration-program/)\n* [अतिरिक्त जीवनचक्र जानकारी](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/upgrade-overview-2012)\n\n> [!NOTE]\n> Dynamics AX 2012 और Dynamics AX R2 के लिए समर्थन की समाप्ति 12 अक्टूबर, 2021 से बढ़ाकर 12 अप्रैल, 2022 कर दी गई थी."

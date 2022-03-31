@@ -3,12 +3,12 @@ metadata:
   title: सिस्टम सेंटर 2019 ऑपरेशन्स मैनेजर
   description: सिस्टम सेंटर 2019 ऑपरेशन्स मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9fbc1e881b2792398ccac7bd053ecc7f58af38e4d894022d707ca17e64f806cb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: e111f32d984e244592dd024e78b5a7e938d0596c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2494222"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149596"
 name: सिस्टम सेंटर 2019 ऑपरेशन्स मैनेजर
 summary: >+
   सिस्टम सेंटर 2019 ऑपरेशन्स मैनेजर [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,11 +18,11 @@ products:
 - msc
 policyType: fixed
 supportDates:
-  start: 03/14/2019
-  end: 04/09/2024
-  extendedEnd: 04/09/2029
+  start: 2019-03-14T00:00:00.000-08:00
+  end: 2024-04-09T22:59:59.999-08:00
+  extendedEnd: 2029-04-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/14/2019
-  endDate: 04/09/2029
+  startDate: 2019-03-14T00:00:00.000-08:00
+  endDate: 2029-04-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"

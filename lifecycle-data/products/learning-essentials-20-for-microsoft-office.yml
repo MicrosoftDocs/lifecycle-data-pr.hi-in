@@ -3,19 +3,25 @@ metadata:
   title: Microsoft Office के लिए Learning Essentials 2.0
   description: Microsoft Office के लिए Learning Essentials 2.0 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 16cf260902c6ae12a4c14cef2bbdd8910d9f3156
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154258"
 name: Microsoft Office के लिए Learning Essentials 2.0
-summary: |+
+summary: >+
   Microsoft Office के लिए Learning Essentials 2.0 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: component
 supportDates:
-  start: 04/30/2007
-  end: 07/10/2012
+  start: 2007-04-30T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 04/30/2007
-    endDate: 07/10/2012
-content: |+
+- version: Original Release
+  startDate: 2007-04-30T00:00:00.000-08:00
+  endDate: 2012-07-10T22:59:59.999-08:00
+content: ''

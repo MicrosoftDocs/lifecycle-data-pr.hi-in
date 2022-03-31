@@ -3,12 +3,12 @@ metadata:
   title: Dynamics मोबाइल डेवलपमेंट टूल्स
   description: Dynamics मोबाइल डेवलपमेंट टूल्स, घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3c3338db28f403d9b94a3dba93ed903d86653bf392aa399bcdada252f9897bd3
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 14e8d5c0458e976906dddf986d9734771da827ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2491484"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122142"
 name: Dynamics मोबाइल डेवलपमेंट टूल्स
 summary: >+
   Dynamics मोबाइल डेवलपमेंट टूल्स, [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,10 +18,10 @@ products:
 - dynamics
 policyType: component
 supportDates:
-  start: 01/12/2008
-  end: 01/14/2014
+  start: 2008-01-12T00:00:00.000-08:00
+  end: 2014-01-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/12/2008
-  endDate: 01/14/2014
+  startDate: 2008-01-12T00:00:00.000-08:00
+  endDate: 2014-01-14T22:59:59.999-08:00
 content: ''

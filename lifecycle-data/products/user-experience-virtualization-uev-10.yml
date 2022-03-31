@@ -3,23 +3,29 @@ metadata:
   title: उपयोगकर्ता अनुभव वर्चुअलाइज़ेशन (UE-V) 1.0
   description: उपयोगकर्ता अनुभव वर्चुअलाइज़ेशन (UE-V) 1.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 794e761bc543f718ac06affb0bdc24713443564b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149243"
 name: उपयोगकर्ता अनुभव वर्चुअलाइज़ेशन (UE-V) 1.0
-summary: |+
+summary: >+
   उपयोगकर्ता अनुभव वर्चुअलाइज़ेशन (UE-V) 1.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 01/03/2013
-  end: 01/09/2018
-  extendedEnd: 01/10/2023
+  start: 2013-01-03T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
-  - version: Service Pack 1
-    startDate: 04/01/2013
-    endDate: 01/10/2023
-  - version: Original Release
-    startDate: 01/03/2013
-    endDate: 04/08/2014
-content: |+
+- version: Service Pack 1
+  startDate: 2013-04-01T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2013-01-03T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+content: ''

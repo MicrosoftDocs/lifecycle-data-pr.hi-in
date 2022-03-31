@@ -1,0 +1,23 @@
+### YamlMime:Lifecycle
+metadata:
+  title: उपभोक्ता के लिए OneDrive
+  description: उपभोक्ता के लिए OneDrive आधुनिक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 12/13/2021
+  keywords: 
+  ms.openlocfilehash: 261cce38eacc1db43d2be764b1aa9c959a52f751
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156270"
+name: उपभोक्ता के लिए OneDrive
+summary: "उपभोक्ता के लिए OneDrive [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।\n\n\n\n\n> [!IMPORTANT]\n> 1 जनवरी, 2022 से, व्यक्तिगत Windows 7, 8 और 8.1 डिवाइस पर OneDrive डेस्कटॉप एप्लिकेशन के लिए अपडेट प्रदान नहीं किए जाएंगे। अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/end-of-support-for-onedrive-desktop-application-on-windows-7-8/ba-p/2929066) जाएँ. \n\n"
+products:
+- office
+policyType: modern-on-prem
+supportDates:
+  start: 2001-05-31T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2001-05-31T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://support.microsoft.com/office/onedrive-system-requirements-cc0cb2b8-f446-445c-9b52-d3c2627d681e)\n* [रिलीज़ नोट्स](https://support.microsoft.com/office/onedrive-release-notes-845dcf18-f921-435e-bf28-4e24b95e5fc0)\n* [सर्विसिंग जानकारी](/onedrive/sync-client-update-process)"

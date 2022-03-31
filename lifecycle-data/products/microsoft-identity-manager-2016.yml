@@ -3,32 +3,32 @@ metadata:
   title: Microsoft Identity Manager 2016
   description: Microsoft Identity Manager 2016 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: ea72427890dd1aded761e0370cc22ea191a19b98
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145822"
 name: Microsoft आइडेंटिटी मैनेजर 2016
-summary: |+
+summary: >+
   Microsoft Identity Manager 2016 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-  - m365
+- m365
 policyType: fixed
 supportDates:
-  start: 09/28/2015
-  end: 01/12/2021
-  extendedEnd: 01/13/2026
+  start: 2015-09-28T00:00:00.000-08:00
+  end: 2021-01-12T22:59:59.999-08:00
+  extendedEnd: 2026-01-13T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 11/04/2019
-    endDate: 01/13/2026
-  - version: Service Pack 1
-    startDate: 09/20/2016
-    endDate: 11/04/2020
-  - version: Original Release
-    startDate: 09/28/2015
-    endDate: 10/10/2017
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [  Azure समर्थन, Microsoft Identity Manager 2016 के लिए विस्तारित समर्थन के अंत के माध्यम से, Azure AD एकीकरण घटकों के लिए उपलब्ध है.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)
-  * [Azure समर्थन प्लान.](https://azure.microsoft.com/support/plans/)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-  * [उत्पाद की जानकारी](/microsoft-identity-manager/microsoft-identity-manager-2016)
+- version: Service Pack 2
+  startDate: 2019-11-04T00:00:00.000-08:00
+  endDate: 2026-01-13T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2016-09-20T00:00:00.000-08:00
+  endDate: 2020-11-04T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2015-09-28T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [  Azure समर्थन, Microsoft Identity Manager 2016 के लिए विस्तारित समर्थन के अंत के माध्यम से, Azure AD एकीकरण घटकों के लिए उपलब्ध है.](/microsoft-identity-manager/support-update-for-azure-active-directory-premium-customers)\n* [Azure समर्थन प्लान.](https://azure.microsoft.com/support/plans/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी](/microsoft-identity-manager/microsoft-identity-manager-2016)"

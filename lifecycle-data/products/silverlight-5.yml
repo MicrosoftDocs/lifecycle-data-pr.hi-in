@@ -3,12 +3,12 @@ metadata:
   title: Silverlight 5
   description: Silverlight 5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bbec6d993cf6aca62bb8ede04d92ad01eee1310e4c351f19e811f5e38208e56a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 85f89f20dfe56ae8146d7441dcdc2e4d6bb0d502
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2494296"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4111301"
 name: Silverlight 5
 summary: >+
   Silverlight 5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,10 +18,10 @@ products:
 - silverlight
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/09/2011
-  end: 10/12/2021
+  start: 2011-12-09T00:00:00.000-08:00
+  end: 2021-10-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/09/2011
-  endDate: 10/12/2021
+  startDate: 2011-12-09T00:00:00.000-08:00
+  endDate: 2021-10-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Silverlight 5 यहाँ सूचीबद्ध ब्राउज़रों का समर्थन 10/12/2021 तक, या अंतर्निहित ब्राउज़रों के जीवनचक्र तक करेगा, जो भी पहले हो.](https://www.microsoft.com/getsilverlight/locale/html/installation-win-SL5.html)\n* [Silverlight समर्थन की समाप्ति](https://support.microsoft.com/help/4511036/silverlight-end-of-support)\n\n> [!NOTE]\n> Microsoft, टूल्स के लिए समर्थन समाप्त होने से पहले कम से कम 12 महीने का नोटिफ़िकेशन देगा।"

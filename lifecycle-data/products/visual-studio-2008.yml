@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2008 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: All,Pro w/MSDN Premium,Professional,Professional w/MSDN ,Team Suite,Team Test Load Agent,VB Express,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
-  ms.openlocfilehash: 6045e975f7632596c23c233da7912768a6411216113c9e0e2c9423e6708b6c90
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: d5991978ce916d02daba8410007c7aea4675515c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506432"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147376"
 name: Visual Studio 2008
 summary: >+
   Visual Studio 2008 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
@@ -21,14 +21,14 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 02/19/2008
-  end: 04/09/2013
-  extendedEnd: 04/10/2018
+  start: 2008-02-19T00:00:00.000-08:00
+  end: 2013-04-09T22:59:59.999-08:00
+  extendedEnd: 2018-04-10T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 08/11/2008
-  endDate: 04/10/2018
+  startDate: 2008-08-11T00:00:00.000-08:00
+  endDate: 2018-04-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 02/19/2008
-  endDate: 10/13/2009
+  startDate: 2008-02-19T00:00:00.000-08:00
+  endDate: 2009-10-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Visual C++ एक्सप्रेस, Visual C# एक्सप्रेस, VB एक्सप्रेस, Visual वेब डेवलपर एक्सप्रेस, और Visual Studio Team System के संस्करण शामिल\n\n## <a name=\"editions\"></a>संस्करण \n* सभी\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* टीम सुइट\n* टीम टेस्ट लोड एजेंट\n* VB एक्सप्रेस\n* Visual Basic एक्सप्रेस\n* Visual C# एक्सप्रेस\n* Visual C++ एक्सप्रेस\n* Visual वेब डेवलपर एक्सप्रेस"

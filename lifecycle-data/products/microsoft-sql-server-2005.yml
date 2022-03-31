@@ -3,57 +3,45 @@ metadata:
   title: Microsoft SQL Server 2005
   description: Microsoft SQL Server 2005 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 'Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup'
+  keywords: Compact,Developer,Embedded,Enterprise,Enterprise for Itanium-based Systems,Enterprise X64,Express,Express with Advanced Services,Standard,Standard for Itanium-based Systems,Standard X64,Workgroup
+  ms.openlocfilehash: 8d28c20027f0778862c41c30b4ac5ae1ac27623f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4137682"
 name: Microsoft SQL Server 2005
-summary: |
+summary: >
   Microsoft SQL Server 2005 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: कॉम्पैक्ट, डेवलपर, एम्बेडेड, एंटरप्राइज, इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज, एंटरप्राइज X64, एक्सप्रेस, उन्नत सेवाओं के साथ एक्सप्रेस, स्टैंडर्ड, इटानियम-आधारित सिस्टम्स के किए स्टैंडर्ड, स्टैंडर्ड X64, वर्कग्रुप
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
-  start: 01/14/2006
-  end: 04/12/2011
-  extendedEnd: 04/12/2016
+  start: 2006-01-14T00:00:00.000-08:00
+  end: 2011-04-12T22:59:59.999-08:00
+  extendedEnd: 2016-04-12T22:59:59.999-08:00
 releases:
-  - version: Service Pack 4
-    startDate: 12/13/2010
-    endDate: 04/12/2016
-  - version: Service Pack 3
-    startDate: 12/15/2008
-    endDate: 01/10/2012
-  - version: Service Pack 2
-    startDate: 02/19/2007
-    endDate: 01/12/2010
-  - version: Service Pack 1
-    startDate: 04/18/2006
-    endDate: 04/08/2008
-  - version: Original Release
-    startDate: 01/14/2006
-    endDate: 07/10/2007
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Microsoft SQL Server 2005 कॉम्पैक्ट संस्करण 19 फरवरी, 2007 को जारी किया गया.
-
-  ## <a name="editions"></a>संस्करण 
-  * कॉम्पैक्ट
-  * डेवलपर
-  * एम्बेडेड
-  * Enterprise
-  * इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज
-  * Enterprise X64
-  * एक्सप्रेस
-  * उन्नत सेवाओं के साथ एक्सप्रेस
-  * Standard
-  * इटैनियम-आधारित सिस्टम के लिए स्टैंडर्ड
-  * स्टैंडर्ड X64
-  * वर्कग्रुप
+- version: Service Pack 4
+  startDate: 2010-12-13T00:00:00.000-08:00
+  endDate: 2016-04-12T22:59:59.999-08:00
+- version: Service Pack 3
+  startDate: 2008-12-15T00:00:00.000-08:00
+  endDate: 2012-01-10T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2007-02-19T00:00:00.000-08:00
+  endDate: 2010-01-12T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2006-04-18T00:00:00.000-08:00
+  endDate: 2008-04-08T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-01-14T00:00:00.000-08:00
+  endDate: 2007-07-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 कॉम्पैक्ट संस्करण 19 फरवरी, 2007 को जारी किया गया.\n\n## <a name=\"editions\"></a>संस्करण \n* कॉम्पैक्ट\n* डेवलपर\n* एम्बेडेड\n* Enterprise\n* इटैनियम-आधारित सिस्टम के लिए एंटरप्राइज\n* Enterprise X64\n* एक्सप्रेस\n* उन्नत सेवाओं के साथ एक्सप्रेस\n* Standard\n* इटैनियम-आधारित सिस्टम के लिए स्टैंडर्ड\n* स्टैंडर्ड X64\n* वर्कग्रुप"

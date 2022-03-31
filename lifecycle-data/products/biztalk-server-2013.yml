@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: eb8d8d8be4318a095db75c918146b9967c89e78c4ea849c030648ef9768a101d
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 347fb2db23f6483ccba9961a1905ca1857dd40e1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495887"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4116148"
 name: BizTalk Server 2013
 summary: >+
   BizTalk Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/12/2013
-  end: 07/10/2018
-  extendedEnd: 07/11/2023
+  start: 2013-06-12T00:00:00.000-08:00
+  end: 2018-07-10T22:59:59.999-08:00
+  extendedEnd: 2023-07-11T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 06/12/2013
-  endDate: 07/11/2023
+  startDate: 2013-06-12T00:00:00.000-08:00
+  endDate: 2023-07-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [उत्पाद की जानकारी](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Standard"

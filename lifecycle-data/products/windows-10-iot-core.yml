@@ -2,14 +2,14 @@
 metadata:
   title: Windows 10 IoT Core
   description: Windows 10 IoT Core आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 08/25/2021
+  ms.date: 2022/03/08
   keywords: 
-  ms.openlocfilehash: 207e911fb8f66eb14b71ee86fd36e7c0249264d5
-  ms.sourcegitcommit: 45b05baa69f8e2288d323e8324b0113adadda463
+  ms.openlocfilehash: 10c1012cbebc70982f6fffae9381aa5c995b7abd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/25/2021
-  ms.locfileid: "3164382"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119249"
 name: Windows 10 IoT Core
 summary: >+
   Windows 10 IoT Core [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -20,34 +20,34 @@ summary: >+
 
   > [!IMPORTANT]
 
-  > इस उत्पाद की सेवा 10 नवंबर, 2020 को समाप्त होचुकी है. समर्थन में बने रहने के लिए, कृपया [IoT Core सेवाओं](https://docs.microsoft.com/windows-hardware/manufacture/iot/iotcoreservicesoverview?tabs=azure-portal) में माईग्रेट करें.
+  > इस उत्पाद की सेवा 10 नवंबर, 2020 को समाप्त होचुकी है. समर्थन में बने रहने के लिए, कृपया [Windows IoT कोर सेवाओं](http://aka.ms/IoTCoreServices) में माइग्रेट करें।
 
 products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 04/29/2015
-  end: 11/10/2020
+  start: 2015-04-29T00:00:00.000-08:00
+  end: 2020-11-10T22:59:59.999-08:00
 releases:
 - version: Version 1809
-  startDate: 11/13/2018
-  endDate: 11/10/2020
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2020-11-10T22:59:59.999-08:00
 - version: Version 1803
-  startDate: 04/30/2018
-  endDate: 11/12/2019
+  startDate: 2018-04-30T00:00:00.000-08:00
+  endDate: 2019-11-12T22:59:59.999-08:00
 - version: Version 1709
-  startDate: 10/17/2017
-  endDate: 04/09/2019
+  startDate: 2017-10-17T00:00:00.000-08:00
+  endDate: 2019-04-09T22:59:59.999-08:00
 - version: Version 1703
-  startDate: 04/11/2017
-  endDate: 10/09/2018
+  startDate: 2017-04-11T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
 - version: Version 1607
-  startDate: 08/02/2016
-  endDate: 04/10/2018
+  startDate: 2016-08-02T00:00:00.000-08:00
+  endDate: 2018-04-10T22:59:59.999-08:00
 - version: Version 1511
-  startDate: 11/10/2015
-  endDate: 10/10/2017
+  startDate: 2015-11-10T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 04/29/2015
-  endDate: 11/10/2020
+  startDate: 2015-04-29T00:00:00.000-08:00
+  endDate: 2020-11-10T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows का जीवनचक्र तथ्य पत्रक](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)"

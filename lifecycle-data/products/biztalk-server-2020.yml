@@ -2,30 +2,33 @@
 metadata:
   title: BizTalk Server 2020
   description: BizTalk Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 09/01/2020
-  keywords: Branch,Developer,Enterprise,Standard
-  ms.openlocfilehash: 02c759d9484cd99a8eda33273268c1109018c771ac2e6d64ed8971edc1897203
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 01/26/2022
+  keywords: HIS,Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 27b623ebdf7fa216212a407fd06248fb6b837aaf
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495776"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4128838"
 name: BizTalk Server 2020
 summary: >+
   BizTalk Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   यह निम्नलिखित संस्करणों पर लागू होता है: शाखा, डेवलपर, एंटरप्राइज, स्टैंडर्ड
+
+
 
 products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 02/01/2020
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2020-02-01T00:00:00.000-08:00
+  end: 2028-04-11T22:59:59.999-08:00
+  extendedEnd: 2030-04-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 02/01/2020
-  endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Standard"
+  startDate: 2020-02-01T00:00:00.000-08:00
+  endDate: 2030-04-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n> [!NOTE]\n> मुख्यधारा का समर्थन 9 जनवरी, 2024 से 11 अप्रैल, 2028 तक बढ़ा दिया गया है। अधिक जानकारी के लिए [यहाँ](https://aka.ms/Biztalk2020roadmap) जाएँ.\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Standard"

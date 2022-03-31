@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP
   description: Dynamics GP आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: be3ce8322964037fbbec9ca7eeff8e7645310159bb018e45001abc5e2637859b
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 0291cbe4396cc2b6322e88f710cdfb5b6727bce8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2491632"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156034"
 name: Dynamics GP
 summary: >+
   Dynamics GP [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,9 +18,9 @@ products:
 - dynamics
 policyType: modern-on-prem
 supportDates:
-  start: 10/07/2019
+  start: 2019-10-07T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 10/07/2019
-  endDate: 01/11/2028
+  startDate: 2019-10-07T00:00:00.000-08:00
+  endDate: 2028-01-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics-gp/terms/lifecycle)"

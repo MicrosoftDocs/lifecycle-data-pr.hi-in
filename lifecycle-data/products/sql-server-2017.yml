@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2017 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: on Linux (all editions),on Windows (all editions)
-  ms.openlocfilehash: 2d87d142eca39e5e07c8bfc0518bcadc2f237a586db1d635e065d8060c4ac57a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: e024649ff8e1beda5a4ba7a6677872f2ac2aee02
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2494259"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136128"
 name: SQL Server 2017
 summary: >+
   SQL Server 2017 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - sql-server
 policyType: fixed
 supportDates:
-  start: 09/29/2017
-  end: 10/11/2022
-  extendedEnd: 10/12/2027
+  start: 2017-09-29T00:00:00.000-08:00
+  end: 2022-10-11T22:59:59.999-08:00
+  extendedEnd: 2027-10-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/29/2017
-  endDate: 10/12/2027
+  startDate: 2017-09-29T00:00:00.000-08:00
+  endDate: 2027-10-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://blogs.msdn.microsoft.com/sqlreleaseservices/announcing-the-modern-servicing-model-for-sql-server/)\n\n> [!NOTE]\n> SQL Server 2017 से शुरू होकर, कोई सर्विस पैक रिलीज़ नहीं किया जाएगा.\n\n## <a name=\"editions\"></a>संस्करण \n* Linux पर  (सभी संस्करण)\n* Windows पर (सभी संस्करण)"

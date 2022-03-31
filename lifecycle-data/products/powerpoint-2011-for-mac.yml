@@ -3,23 +3,25 @@ metadata:
   title: Mac के लिए PowerPoint 2011
   description: Mac के लिए PowerPoint 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: bc02acb59f2cb02d276173d6d77e467608d4c5a8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143417"
 name: Mac के लिए PowerPoint 2011
-summary: |+
+summary: >+
   Mac के लिए PowerPoint 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 12/09/2010
-  end: 10/10/2017
+  start: 2010-12-09T00:00:00.000-08:00
+  end: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/09/2010
-    endDate: 10/10/2017
-content: |+
-
-
-  > [!NOTE]
-  > सभी ग्राहकों को स्टैंडर्ड जीवनचक्र अवस्थांतर समयरेखा प्रदान करने के लिए Mac 2011 के लिए Microsoft Office का मेनस्ट्रीम समर्थन बढ़ा दिया गया है, जैसा कि दिखाया गया है.
+- version: Original Release
+  startDate: 2010-12-09T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> सभी ग्राहकों को स्टैंडर्ड जीवनचक्र अवस्थांतर समयरेखा प्रदान करने के लिए Mac 2011 के लिए Microsoft Office का मेनस्ट्रीम समर्थन बढ़ा दिया गया है, जैसा कि दिखाया गया है."

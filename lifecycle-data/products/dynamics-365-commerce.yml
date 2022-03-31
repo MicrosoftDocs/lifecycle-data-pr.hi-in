@@ -3,12 +3,12 @@ metadata:
   title: Dynamics 365 Commerce
   description: Dynamics 365 Commerce आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 659b602b922a40942b19ecb309d5307d32ff2865f0034e639baab047cc2b19dd
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 179c791c0fb3b68700a1c9343bdf34f714a8062f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2503953"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4133316"
 name: Dynamics 365 Commerce
 summary: >+
   Dynamics 365 Commerce [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,8 +18,8 @@ products:
 - dynamics
 policyType: modern-online
 supportDates:
-  start: 07/01/2017
+  start: 2017-07-01T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 07/01/2017
+  startDate: 2017-07-01T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://roadmap.dynamics.com/)\n* [नाम परिवर्तन के बारे में अधिक जानकारी के लिए](https://dynamics.microsoft.com/retail-to-commerce/)\n\n> [!NOTE]\n> Dynamics 365 Retail अब Dynamics 365 Commerce है"

@@ -4,12 +4,12 @@ metadata:
   description: Virtual Server 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Management Pack,Standard
-  ms.openlocfilehash: 324cd6e38b2ce49bb79215266757ccf6b301788a68f5452c1961dfd1ac2fdbf7
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: c20e055696a2fd690dd4421ea5dcc6e963b1bab4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487266"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130763"
 name: Virtual Server 2005
 summary: >+
   Virtual Server 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 10/29/2004
-  end: 01/12/2010
-  extendedEnd: 01/13/2015
+  start: 2004-10-29T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
+  extendedEnd: 2015-01-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/29/2004
-  endDate: 01/13/2015
+  startDate: 2004-10-29T00:00:00.000-08:00
+  endDate: 2015-01-13T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* प्रबंधन पैक\n* Standard"

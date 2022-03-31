@@ -4,23 +4,23 @@ metadata:
   description: एक्सप्रेशन 2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Blend,Design,Encoder,Studio,Web
-  ms.openlocfilehash: 46ea4c5fa473e68e88ebe30805d3ac5abfc95c5fa1b28b6c037a90dba11f24fd
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 3fc289f476e60d9845ade66ef83d2995c727b30b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510280"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4150780"
 name: एक्सप्रेशन 2
 summary: "एक्सप्रेशन 2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: ब्लेंड, डिज़ाइन, एन्कोडर, स्टूडियो, वेब\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - expression
 policyType: fixed
 supportDates:
-  start: 07/24/2008
-  end: 10/08/2013
-  extendedEnd: 10/09/2018
+  start: 2008-07-24T00:00:00.000-08:00
+  end: 2013-10-08T22:59:59.999-08:00
+  extendedEnd: 2018-10-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/24/2008
-  endDate: 10/09/2018
+  startDate: 2008-07-24T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Blend\n* Design\n* Encoder\n* Studio\n* वेब"

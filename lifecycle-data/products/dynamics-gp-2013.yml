@@ -3,12 +3,12 @@ metadata:
   title: Dynamics GP 2013
   description: Dynamics GP 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6593d285de10abd7e4f4360091fc9d8bf7f1a113c895ba21f2a0b63fd0483499
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: e3d039d3b7d35f5eabb2d15d81405ae5876fd09e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492224"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141160"
 name: Dynamics GP 2013
 summary: >+
   Dynamics GP 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,17 +18,17 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 03/12/2013
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  start: 2013-03-12T00:00:00.000-08:00
+  end: 2018-04-10T22:59:59.999-08:00
+  extendedEnd: 2023-04-11T22:59:59.999-08:00
 releases:
 - version: Service Pack 2
-  startDate: 08/28/2013
-  endDate: 04/11/2023
+  startDate: 2013-08-28T00:00:00.000-08:00
+  endDate: 2023-04-11T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 04/18/2013
-  endDate: 10/13/2015
+  startDate: 2013-04-18T00:00:00.000-08:00
+  endDate: 2015-10-13T22:59:59.999-08:00
 - version: Original Release
-  startDate: 03/12/2013
-  endDate: 07/14/2015
+  startDate: 2013-03-12T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [अतिरिक्त जानकारी और माइग्रेशन मार्गदर्शन](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [उत्पाद की जानकारी](/dynamics-gp/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

@@ -3,12 +3,12 @@ metadata:
   title: Internet Explorer 8
   description: Internet Explorer 8 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 074b27d8fdc9a2bfeb08e90c2ef9f6289cb32b5cf2dc8ae35795a79155aa9a43
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2e4cd348ae16bebac701129b9b5735a20b4f698f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519715"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155183"
 name: Internet Explorer 8
 summary: >+
   Internet Explorer 8 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,8 +18,8 @@ products:
 - internet-explorer
 policyType: component
 supportDates:
-  start: 06/17/2009
+  start: 2009-06-17T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 06/17/2009
+  startDate: 2009-06-17T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)\n* [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> 12 जनवरी, 2016 से केवल समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध Internet Explorer के सबसे वर्तमान संस्करण को ही तकनीकी सहायता और सुरक्षा अद्यतन प्राप्त होंगे."

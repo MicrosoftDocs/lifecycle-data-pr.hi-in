@@ -3,22 +3,22 @@ metadata:
   title: Lync मीटिंग रूम
   description: Lync मीटिंग रूम नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4acb3669325645b29b0509706a032c85f0ac5badd5863c7f2099f5b11c3cef77
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: efdc327073c62fdce252cffe79589c9a66353e73
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519567"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155072"
 name: Lync मीटिंग रूम
 summary: "Lync मीटिंग रूम [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/01/2013
-  end: 10/09/2018
+  start: 2013-09-01T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/01/2013
-  endDate: 10/09/2018
+  startDate: 2013-09-01T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/skypeforbusiness/deploy/deploy-clients/lrs-migration)"

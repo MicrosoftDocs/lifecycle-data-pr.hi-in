@@ -3,25 +3,25 @@ metadata:
   title: Microsoft Forefront Client Security
   description: Microsoft Forefront Client Security निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/28/2020
+  ms.openlocfilehash: d85aea21441458397839241e74939536051397d4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4113410"
 name: Microsoft Forefront Client Security
-summary: |+
+summary: >+
   Microsoft Forefront Client Security[निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 08/02/2007
-  extendedEnd: 07/14/2015
+  start: 2007-08-02T00:00:00.000-08:00
+  extendedEnd: 2015-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 08/02/2007
-    endDate: 07/14/2015
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)
-
-  > [!NOTE]
-  > Forefront Client Security को 14 जुलाई, 2015 से बंद कर दिया गया है. एंटीमैलवेयर और ऐंटी-स्पाइवेयर डेफिनिशन अपडेट अब उत्पाद संस्करण की समर्थन की समाप्ति के बाद उपलब्ध नहीं होंगे. कृपया प्रतिस्थापन के रूप में System Center Endpoint Protection का मूल्यांकन करें.
+- version: Original Release
+  startDate: 2007-08-02T00:00:00.000-08:00
+  endDate: 2015-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [System Center Endpoint Protection](/lifecycle/products/microsoft-system-center-2012-endpoint-protection)\n\n> [!NOTE]\n> Forefront Client Security को 14 जुलाई, 2015 से बंद कर दिया गया है. एंटीमैलवेयर और ऐंटी-स्पाइवेयर डेफिनिशन अपडेट अब उत्पाद संस्करण की समर्थन की समाप्ति के बाद उपलब्ध नहीं होंगे. कृपया प्रतिस्थापन के रूप में System Center Endpoint Protection का मूल्यांकन करें."

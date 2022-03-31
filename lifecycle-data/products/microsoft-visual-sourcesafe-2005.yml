@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Visual SourceSafe 2005 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 6936819a2ad5c6db08e932d89be6b6cb49d7a1b479ab855b3fc25040fe08ef1d
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8115c76ee7728d961a556e9a328cc2cf444da4bd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2511020"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4137016"
 name: Microsoft Visual SourceSafe 2005
 summary: >+
   Microsoft Visual SourceSafe 2005 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 01/27/2006
-  end: 07/10/2012
-  extendedEnd: 07/11/2017
+  start: 2006-01-27T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-07-11T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/27/2006
-  endDate: 07/11/2017
+  startDate: 2006-01-27T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

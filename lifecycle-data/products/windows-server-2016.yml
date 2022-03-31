@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134944"
 name: Windows Server 2016
-summary: |+
+summary: >+
   Windows Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
 
   यह निम्नलिखित संस्करणों पर लागू होता है: डेटासेंटर, Essentials, MultiPoint प्रीमियम, स्टैंडर्ड
@@ -14,31 +21,14 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-
-  ## <a name="links"></a>लिंक 
-  * [उत्पाद की जानकारी](/windows-server/get-started/server-basics)
-  * [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)
-  * [Windows कंटेनर बेस इमेज सर्विसिंग जीवनचक्र](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
-
-
-  > [!NOTE]
-  > Windows Server 2016 के साथ जारी किए गए कंटेनर समान जीवनचक्र तिथियों का पालन करते हैं.
-
-
-  ## <a name="editions"></a>संस्करण 
-  * डेटासेंटर
-  * Essentials
-  * MultiPoint Premium
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/windows-server/get-started/server-basics)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows कंटेनर बेस इमेज सर्विसिंग जीवनचक्र](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> Windows Server 2016 के साथ जारी किए गए कंटेनर समान जीवनचक्र तिथियों का पालन करते हैं.\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* MultiPoint Premium\n* Standard"

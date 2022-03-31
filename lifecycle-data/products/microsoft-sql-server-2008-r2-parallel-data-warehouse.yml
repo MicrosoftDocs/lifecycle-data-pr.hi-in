@@ -3,20 +3,26 @@ metadata:
   title: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस
   description: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 669de1fbeb603797f2808d4ee7f2367c1f170326
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4106750"
 name: Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस
-summary: |+
+summary: >+
   Microsoft SQL Server 2008 R2 समानांतर डेटा वेयरहाउस [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-  - sql-server
+- sql-server
 policyType: fixed
 supportDates:
-  start: 11/09/2010
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2010-11-09T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/09/2010
-    endDate: 07/09/2019
-content: |+
+- version: Original Release
+  startDate: 2010-11-09T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: ''

@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Office Word 2003 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 2e25270d5a4bfc6971d229a5bb315e15fa05aca7320fbd949f99ad54db83690c
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 0bb901dfae5339cbe76f19c3f7c2bc8ef8717c8d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2483829"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4138378"
 name: Microsoft Office Word 2003
 summary: >+
   Microsoft Office Word 2003 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 11/27/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-11-27T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/27/2003
-  endDate: 04/08/2014
+  startDate: 2003-11-27T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

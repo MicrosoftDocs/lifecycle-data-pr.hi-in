@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2030 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2030 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 08/11/2021
-ms.openlocfilehash: fc4571cb7bd8cfad504c5a3f2e677320c9a2fab6
-ms.sourcegitcommit: 0757165840b353e73bd33bcc287aec0d191c39cf
+ms.date: 01/26/2022
+ms.openlocfilehash: 15c0ded025a177c10f89e1839eb8c2da7c82daba
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "4028054"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116814"
 ---
 # <a name="products-ending-support-in-2030"></a>प्रोडक्ट के लिए 2030 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -29,6 +29,7 @@ ms.locfileid: "4028054"
 | उत्पाद | स्पोर्ट उपलब्ध नहीं है |
 | --- | --- |
 | [SQL Server 2019](/lifecycle/products/sql-server-2019?branch=live)<br> | 08 जनवरी 2030 |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 9 अप्रैल, 2030 |
 | [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 09 जुलाई 2030 |
 | [Azure DevOps Server 2020](/lifecycle/products/azure-devops-server-2020?branch=live)<br>[Microsoft रोबोटिक्स](/lifecycle/products/microsoft-robotics?branch=live)<br> | 08 अक्तूबर 2030 |
 

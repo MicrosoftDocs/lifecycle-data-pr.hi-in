@@ -3,19 +3,25 @@ metadata:
   title: Microsoft ActiveSync 4.5
   description: Microsoft ActiveSync 4.5 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
+  ms.openlocfilehash: 705ace720a91741944890d724eedecde5ae4f39e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154961"
 name: Microsoft ActiveSync 4.5
-summary: |+
+summary: >+
   Microsoft ActiveSync 4.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 05/12/2007
-  end: 07/10/2012
+  start: 2007-05-12T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/12/2007
-    endDate: 07/10/2012
-content: |+
+- version: Original Release
+  startDate: 2007-05-12T00:00:00.000-08:00
+  endDate: 2012-07-10T22:59:59.999-08:00
+content: ''

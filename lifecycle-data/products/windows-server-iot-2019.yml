@@ -4,12 +4,12 @@ metadata:
   description: Windows Server IoT 2019 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Datacenter,Essentials,Standard,Telecommunications
-  ms.openlocfilehash: 30349578fcb898b3def942e8e66fe4b77503ebd71b8009ee1f1f4dce94ad7a6a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a1be67d352fcce831d32e6ae9dcb30b5afb9f537
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504656"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141880"
 name: Windows Server IoT 2019
 summary: >+
   Windows Server IoT 2019 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -21,11 +21,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 03/04/2019
-  end: 01/09/2024
-  extendedEnd: 01/09/2029
+  start: 2019-03-04T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/04/2019
-  endDate: 01/09/2029
+  startDate: 2019-03-04T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server IoT 2019 के सभी संस्करण Windows Server 2019 जीवन चक्र का पालन करते हैं।\n\n## <a name=\"editions\"></a>संस्करण \n* डेटासेंटर\n* Essentials\n* Standard\n* टेलीकम्यूनिकेशन"

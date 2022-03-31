@@ -4,12 +4,12 @@ metadata:
   description: Microsoft रोबोटिक्स फ़िक्सड जीवनचक्र नीति का पालन करता है।
   ms.date: 11/06/2020
   keywords: 
-  ms.openlocfilehash: 5a47ce034228602c035407c7b4f56932f37f78126fc9cdf9885de237209a1dd0
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f925882a7cdcfdc44a479f27e3b888d8050c6938
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2523896"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4144416"
 name: Microsoft रोबोटिक्स
 summary: >+
   Microsoft रोबोटिक्स [फ़िक्सड](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है।
@@ -19,11 +19,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 09/07/2020
-  end: 10/14/2025
-  extendedEnd: 10/08/2030
+  start: 2020-09-07T00:00:00.000-08:00
+  end: 2025-10-14T22:59:59.999-08:00
+  extendedEnd: 2030-10-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/07/2020
-  endDate: 10/08/2030
+  startDate: 2020-09-07T00:00:00.000-08:00
+  endDate: 2030-10-08T22:59:59.999-08:00
 content: ''

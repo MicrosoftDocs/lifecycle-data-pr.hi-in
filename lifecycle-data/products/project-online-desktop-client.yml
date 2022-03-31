@@ -4,12 +4,12 @@ metadata:
   description: Project Online Desktop Client आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 04/06/2021
   keywords: 
-  ms.openlocfilehash: 6116f94db2da052e9582f54ce2868b24797d57b342aeef34a84da3365fbd2291
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 976a304cc601d80b1b86b9f535ca07f13fa24589
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497663"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143343"
 name: Project Online Desktop Client
 summary: >+
   Project Online Desktop Client [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,8 +19,8 @@ products:
 - office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 09/22/2015
+  startDate: 2015-09-22T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [सर्विसिंग जानकारी](/officeupdates/update-history-microsoft365-apps-by-date)"

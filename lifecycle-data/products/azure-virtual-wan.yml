@@ -3,12 +3,12 @@ metadata:
   title: Azure वर्चुअल WAN
   description: Azure वर्चुअल WAN आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: e87e5384641c9073b78afa47702285e367076fbad1d19e7c267c0cd3626295f5
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 3b3c5b0312e102ff76036bcc28f458b950191d0f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2496257"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4133908"
 name: Azure वर्चुअल WAN
 summary: >+
   Azure वर्चुअल WAN [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,8 +18,8 @@ products:
 - azure
 policyType: modern-online
 supportDates:
-  start: 09/03/2018
+  start: 2018-09-03T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 09/03/2018
+  startDate: 2018-09-03T00:00:00.000-08:00
 content: ''

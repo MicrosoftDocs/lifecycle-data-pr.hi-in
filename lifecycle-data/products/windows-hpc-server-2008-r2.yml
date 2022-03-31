@@ -3,12 +3,12 @@ metadata:
   title: Windows HPC Server 2008 R2
   description: Windows HPC Server 2008 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: c4177b6f1be2a42cbf4b980b4a5e1a37bd2b923dd6f08754a2f8ab7c874a17d2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: f52d678ac0825af8c2fec4690bbc76c10a8783b1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2483963"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129949"
 name: Windows HPC Server 2008 R2
 summary: >
   Windows HPC Server 2008 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,14 +22,14 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 10/17/2010
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2010-10-17T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 02/22/2011
-  endDate: 01/14/2020
+  startDate: 2011-02-22T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 10/17/2010
-  endDate: 04/09/2013
+  startDate: 2010-10-17T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)"

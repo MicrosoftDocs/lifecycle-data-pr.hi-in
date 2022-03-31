@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Edge आधुनिक जीवनचक्र नीति का पालन करता है
   ms.date: 11/03/2021
   keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: aeeec6371116d5551ed604a7c3cd5ccefc46117d
-  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 11/04/2021
-  ms.locfileid: "3560059"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147746"
 name: Microsoft Edge
 summary: >+
   Microsoft Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है
@@ -26,8 +26,8 @@ products:
 - microsoft-edge
 policyType: modern-on-prem
 supportDates:
-  start: 01/15/2020
+  start: 2020-01-15T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 01/15/2020
+  startDate: 2020-01-15T00:00:00.000-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge की ओर बढ़ने में तेज़ी लाने के लिए नए संसाधन](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [जीवनचक्र FAQ - Internet Explorer और Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n*  [Microsoft Edge की जीवनचक्र नीति](/deployedge/microsoft-edge-support-lifecycle)"

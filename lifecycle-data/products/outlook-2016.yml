@@ -4,12 +4,12 @@ metadata:
   description: Outlook 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: dfe2a91a63d41527cd8b78ffb5878ccfed46de00ccb3284db0abac875365dbdc
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 639a25b0946028c80b02864590dd5f0a375ca7de
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2502036"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120070"
 name: Outlook 2016
 summary: >+
   Outlook 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 09/22/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-09-22T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/22/2015
-  endDate: 10/14/2025
+  startDate: 2015-09-22T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

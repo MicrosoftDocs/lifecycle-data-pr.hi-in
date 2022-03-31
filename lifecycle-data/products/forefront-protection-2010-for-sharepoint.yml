@@ -3,19 +3,25 @@ metadata:
   title: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010
   description: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है|
   ms.date: 08/21/2020
+  ms.openlocfilehash: 472871969739002bffdf18ce156f6f76e1e31907
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140087"
 name: SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010
-summary: |+
+summary: >+
   SharePoint के लिए फ़ोरफ़्रंट सुरक्षा 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है|
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 07/15/2010
-  extendedEnd: 12/31/2015
+  start: 2010-07-15T00:00:00.000-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/15/2010
-    endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है. \_यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n\n"
+- version: Original Release
+  startDate: 2010-07-15T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है.  यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है.\n\n\n"

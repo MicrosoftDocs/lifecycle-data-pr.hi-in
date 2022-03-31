@@ -3,50 +3,45 @@ metadata:
   title: Windows XP
   description: Windows XP नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 'Home,Professional,Professional for Embedded Systems,Professional x64,Starter'
+  keywords: Home,Professional,Professional for Embedded Systems,Professional x64,Starter
+  ms.openlocfilehash: f1277c7351757a1e2b115c8f7a8f71f8fe2e4b8c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129764"
 name: Windows XP
-summary: |
+summary: >
   Windows XP [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Home, Professional, एम्बेडेड सिस्टम के लिए Professional, Professional x64, Starter
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 12/31/2001
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2001-12-31T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 04/21/2008
-    endDate: 04/08/2014
-  - version: Service Pack 2
-    startDate: 09/17/2004
-    endDate: 07/13/2010
-  - version: Service Pack 1a
-    startDate: 02/03/2003
-    endDate: 10/10/2006
-  - version: Service Pack 1
-    startDate: 08/30/2002
-    endDate: 10/10/2006
-  - version: Original Release
-    startDate: 12/31/2001
-    endDate: 08/30/2005
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > Microsoft Windows XP Professional x64 संपादन की आरंभ तिथि 24, अप्रैल 2005 थी.
-
-  ## <a name="editions"></a>संस्करण 
-  * होम
-  * Professional
-  * एम्बेडेड सिस्टम के लिए Professional
-  * Professional x64
-  * Starter
+- version: Service Pack 3
+  startDate: 2008-04-21T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2004-09-17T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
+- version: Service Pack 1a
+  startDate: 2003-02-03T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2002-08-30T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2001-12-31T00:00:00.000-08:00
+  endDate: 2005-08-30T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft Windows XP Professional x64 संपादन की आरंभ तिथि 24, अप्रैल 2005 थी.\n\n## <a name=\"editions\"></a>संस्करण \n* होम\n* Professional\n* एम्बेडेड सिस्टम के लिए Professional\n* Professional x64\n* Starter"

@@ -4,12 +4,12 @@ metadata:
   description: Azure Active Directory (AD) कनेक्ट आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 11/02/2021
   keywords: AD Connect,AD Sync
-  ms.openlocfilehash: ab854d18a930222cbf10394b623b57c7b660c2b4
-  ms.sourcegitcommit: 5d340ff7cb048f68bd696227129860e72fd3c1cb
+  ms.openlocfilehash: 1a1db8fb2b62f5c03100322f1ed4d13d7c32170a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 11/04/2021
-  ms.locfileid: "3560241"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129445"
 name: Azure Active Directory (AD) कनेक्ट
 summary: >+
   Azure Active Directory (AD) कनेक्ट [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -26,11 +26,11 @@ products:
 - azure
 policyType: modern-online
 supportDates:
-  start: 09/01/2014
+  start: 2014-09-01T00:00:00.000-08:00
 releases:
 - version: Version 2.x
-  startDate: 09/30/2021
+  startDate: 2021-09-30T00:00:00.000-08:00
 - version: Version 1.x
-  startDate: 09/01/2014
-  endDate: 08/31/2022
+  startDate: 2014-09-01T00:00:00.000-08:00
+  endDate: 2022-08-31T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/active-directory/hybrid/reference-connect-version-history)\n* [Azure AD कनेक्ट क्लाउड सिंक](/azure/active-directory/cloud-sync/what-is-cloud-sync)\n* [Azure AD कनेक्ट v2.0](/azure/active-directory/hybrid/whatis-azure-ad-connect-v2)\n\n\n> [!NOTE]\n> प्रारंभ में सितंबर 2014 में जारी, Azure AD सिंक ने जून 2015 में अपना नाम बदलकर Azure AD कनेक्ट कर दिया, जो संस्करण 1.0.8641.0 से शुरू हुआ।"

@@ -3,12 +3,12 @@ metadata:
   title: Dynamics 365 Human Resources
   description: Dynamics 365 Human Resources मआधुनिक जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 26c03b389f94137d0691d0411a446d40adb4d2c32e768fa518f24a43346492c2
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 5e2425cbcd0bbbd79ccd6df8d47150537360318f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2503657"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4115963"
 name: Dynamics 365 Human Resources
 summary: >+
   Dynamics 365 Human Resources [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है.
@@ -18,8 +18,8 @@ products:
 - dynamics
 policyType: modern-online
 supportDates:
-  start: 03/27/2020
+  start: 2020-03-27T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 03/27/2020
+  startDate: 2020-03-27T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/D365HRpost)\n\n> [!NOTE]\n> कोर HR ऐप (पहले Dynamics 365 Talent के साथ शामिल) को Dynamics 365 मानव संसाधन के रूप में फिर से किया गया है।"

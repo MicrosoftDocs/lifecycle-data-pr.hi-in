@@ -4,12 +4,12 @@ metadata:
   description: StorSimple डेटा प्रबंधक, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/27/2021
   keywords: 
-  ms.openlocfilehash: d10d78cc65128af453ec9198919283af9b95453c
-  ms.sourcegitcommit: b4f6d220b5256bde883db79fa5cd7bb1292ff87d
+  ms.openlocfilehash: cf88a3964c4887af0960b939e705946274a7ac1e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "3255309"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4105418"
 name: StorSimple डेटा प्रबंधक
 summary: >+
   StorSimple डेटा प्रबंधक, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -26,11 +26,11 @@ products:
 - azure
 policyType: fixed
 supportDates:
-  start: 01/18/2018
-  end: 07/01/2020
-  extendedEnd: 12/31/2022
+  start: 2018-01-18T00:00:00.000-08:00
+  end: 2020-07-01T22:59:59.999-08:00
+  extendedEnd: 2022-12-31T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/18/2018
-  endDate: 12/31/2022
+  startDate: 2018-01-18T00:00:00.000-08:00
+  endDate: 2022-12-31T22:59:59.999-08:00
 content: ''

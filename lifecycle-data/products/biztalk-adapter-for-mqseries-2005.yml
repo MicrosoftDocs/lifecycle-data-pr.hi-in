@@ -3,12 +3,12 @@ metadata:
   title: MQSeries 2005 के लिए BizTalk एडाप्टर
   description: MQSeries 2005 के लिए BizTalk एडाप्टर नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 842ac35e5ea72580a4b499bb6fa629387b7210ae2696a4a4896b2a67b701f9c4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: ec2ecb6ffd64e9d91226a575ebe4f06d7913c653
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504249"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155516"
 name: MQSeries 2005 के लिए BizTalk एडाप्टर
 summary: >+
   MQSeries 2005 के लिए BizTalk एडाप्टर [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,11 +18,11 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 12/10/2004
-  end: 12/31/2009
-  extendedEnd: 12/31/2014
+  start: 2004-12-10T00:00:00.000-08:00
+  end: 2009-12-31T22:59:59.999-08:00
+  extendedEnd: 2014-12-31T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/10/2004
-  endDate: 12/31/2014
+  startDate: 2004-12-10T00:00:00.000-08:00
+  endDate: 2014-12-31T22:59:59.999-08:00
 content: ''

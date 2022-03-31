@@ -3,12 +3,12 @@ metadata:
   title: व्हेल कम्युनिकेशन इंटेलीजेंट एप्लीकेशन गेटवे
   description: व्हेल कम्युनिकेशन इंटेलीजेंट एप्लीकेशन गेटवे निश्चित जीवनचक्र नीति का पालन करता है|
   ms.date: 08/21/2020
-  ms.openlocfilehash: cf0130d95e2aab2376e52b13e8f565c37c0087a8745ce07c06dfa67bb141e577
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 24af584653eafe614a9dd064d02e63f59ef5665a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2510724"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4105270"
 name: व्हेल कम्युनिकेशन इंटेलीजेंट एप्लीकेशन गेटवे
 summary: >+
   व्हेल कम्युनिकेशन इंटेलीजेंट एप्लीकेशन गेटवे [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -18,13 +18,13 @@ products:
 - windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 10/10/2007
-  end: 07/13/2010
+  start: 2007-10-10T00:00:00.000-08:00
+  end: 2010-07-13T22:59:59.999-08:00
 releases:
 - version: "3.1"
-  startDate: 10/10/2007
-  endDate: 07/08/2008
+  startDate: 2007-10-10T00:00:00.000-08:00
+  endDate: 2008-07-08T22:59:59.999-08:00
 - version: "3.6"
-  startDate: 10/10/2007
-  endDate: 07/13/2010
+  startDate: 2007-10-10T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"

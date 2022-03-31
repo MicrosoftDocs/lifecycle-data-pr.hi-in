@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Dynamics 365 फ़ील्ड सर्विस
+  description: Dynamics 365 Field Service आधुनिक जीवनचक्र नीति का अनुसरण करती है।
+  ms.date: 2022/03/11
+  keywords: Xamarin, field service mobile, mobile
+  ms.openlocfilehash: 76b0b6832ddeb85a55d84e377c8d26482e7eb87d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156770"
+name: Dynamics 365 फ़ील्ड सर्विस
+summary: >+
+  Dynamics 365 Field Service [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करती है।
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > कृपया ध्यान दें कि लीगेसी Field Service Mobile (Xamarin) ऐप 30 जून, 2022 को बंद हो जाएगा। ग्राहकों को उस तिथि से पहले [Field Service (Dynamics 365)](https://docs.microsoft.com/dynamics365/field-service/mobile-2020-power-platform) मोबाइल ऐप पर माइग्रेट कर लेना चाहिए। अधिक जानकारी के लिए, [Field Service Mobile Xamarin समर्थन की समाप्ति FAQ](https://docs.microsoft.com/dynamics365/field-service/activate-fs-mobile-app-license#faqs) देखें।
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 2016-05-02T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2016-05-02T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/dynamics365/field-service/overview)\n* [Dynamics 365 Field Service मोबाइल ऐप माइग्रेशन संबंधी जानकारी](https://aka.ms/fsmobile-adoption)"

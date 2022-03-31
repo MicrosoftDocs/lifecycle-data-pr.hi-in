@@ -3,12 +3,12 @@ metadata:
   title: Microsoft BitLocker Administration and Monitoring 2.5
   description: Microsoft BitLocker Administration and Monitoring 2.5 फनिश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 3dd975863cfd0b42b78e77f4da9e1ee48b2d009ff8bcc7d6bcbe9e5a5478677a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: e61ede58378dd7883b27bb76397f5fc88e18e653
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2502547"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153814"
 name: Microsoft BitLocker Administration and Monitoring 2.5
 summary: >+
   Microsoft BitLocker Administration and Monitoring 2.5 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -18,14 +18,14 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 05/01/2014
-  end: 07/09/2019
-  extendedEnd: 04/14/2026
+  start: 2014-05-01T00:00:00.000-08:00
+  end: 2019-07-09T22:59:59.999-08:00
+  extendedEnd: 2026-04-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 08/03/2015
-  endDate: 04/14/2026
+  startDate: 2015-08-03T00:00:00.000-08:00
+  endDate: 2026-04-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 05/01/2014
-  endDate: 10/11/2016
+  startDate: 2014-05-01T00:00:00.000-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

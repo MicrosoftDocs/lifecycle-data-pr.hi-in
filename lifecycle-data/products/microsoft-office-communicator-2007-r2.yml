@@ -3,32 +3,24 @@ metadata:
   title: Microsoft Office Communicator 2007 R2
   description: Microsoft Office Communicator 2007 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: 'All applicable,Phone'
+  keywords: All applicable,Phone
+  ms.openlocfilehash: 3e8e0bc6043f077f71573138351d8d4c54bd6a0b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4150558"
 name: Microsoft Office Communicator 2007 R2
-summary: |
-  Microsoft Office Communicator 2007 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, फ़ोन
-
-  > [!IMPORTANT]
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. 
+summary: "Microsoft Office Communicator 2007 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: सभी लागू, फ़ोन\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन देखें. \n"
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 03/19/2009
-  end: 01/08/2013
-  extendedEnd: 01/09/2018
+  start: 2009-03-19T00:00:00.000-08:00
+  end: 2013-01-08T22:59:59.999-08:00
+  extendedEnd: 2018-01-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 03/19/2009
-    endDate: 01/09/2018
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * सभी लागू
-  * फ़ोन
+- version: Original Release
+  startDate: 2009-03-19T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी लागू\n* फ़ोन"

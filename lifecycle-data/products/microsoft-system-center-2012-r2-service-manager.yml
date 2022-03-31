@@ -3,12 +3,12 @@ metadata:
   title: Microsoft System Center 2012 R2 Service Manager
   description: Microsoft System Center 2012 R2 Service Manager, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: f5102e0e32d4a61b40859c81e98d6378bc76a79f6d9045521af53ee6c0547b4f
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 96086867888f60f1caebef2dabd2b0f26da10f44
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2498271"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131873"
 name: Microsoft System Center 2012 R2 Service Manager
 summary: >+
   Microsoft System Center 2012 R2 Service Manager, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - msc
 policyType: fixed
 supportDates:
-  start: 01/16/2014
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2014-01-16T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/16/2014
-  endDate: 07/12/2022
+  startDate: 2014-01-16T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [System Center संसाधन](https://www.microsoft.com/system-center/resources)"

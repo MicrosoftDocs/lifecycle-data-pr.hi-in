@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 10 पर Internet Explorer 11
+  description: Windows 10 पर Internet Explorer 11 घटक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 01/26/2022
+  keywords: IE11
+  ms.openlocfilehash: dcb7e8ea01f42d7b05b02e62b9ca48ab769ab27d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156313"
+name: Windows 10 पर Internet Explorer 11
+summary: >+
+  Windows 10 पर Internet Explorer 11 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+  > [!IMPORTANT]
+
+  > Internet Explorer (IE) 11 डेस्कटॉप एप्लिकेशन 15 जून, 2022 से Windows 10 अर्ध-वार्षिक चैनल के लिए समर्थन समाप्त कर देगा। ग्राहकों को IE मोड के साथ Microsoft Edge में जाने के लिए प्रोत्साहित किया जाता है. IE मोड बैकवार्ड संगतता को सक्षम बनाता है और कम से कम 2029 तक समर्थित रहेगा. इसके अतिरिक्त, Microsoft IE मोड को समाप्त करने से एक वर्ष पहले नोटिस प्रदान करेगा. इस घोषणा से प्रभावित संस्करणों सहित Internet Explorer के लिए समर्थित ऑपरेटिंग सिस्टम की सूची के लिए [यहां](https://docs.microsoft.com/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer) जाएँ.
+
+products:
+- internet-explorer
+policyType: component
+supportDates:
+  start: 2013-11-13T00:00:00.000-08:00
+  end: 2022-06-14T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2013-11-13T00:00:00.000-08:00
+  endDate: 2022-06-14T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [Internet Explorer/Edge जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n* [Internet Explorer समर्थित ऑपरेटिंग सिस्टम](/lifecycle/faq/internet-explorer-microsoft-edge#what-is-the-lifecycle-policy-for-internet-explorer-)\n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)"

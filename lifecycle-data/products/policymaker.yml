@@ -3,36 +3,28 @@ metadata:
   title: पॉलिसीमेकर
   description: पॉलिसीमेकर निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 'Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0'
+  keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
+  ms.openlocfilehash: 307264fcfdac79d1c51781adc90eb63899fe3542
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143602"
 name: पॉलिसीमेकर
-summary: |+
+summary: >+
   पॉलिसीमेकर [ निश्चित ](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 01/01/2007
-  end: 01/12/2010
+  start: 2007-01-01T00:00:00.000-08:00
+  end: 2010-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/01/2007
-    endDate: 01/12/2010
-content: |
-
-
-  > [!NOTE]
-  > इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।
-
-  ## <a name="editions"></a>संस्करण 
-  * एप्लीकेशन सिक्योरिटी
-  * आउटलुक एडिशन
-  * प्रोफेशनल 9.0
-  * रजिस्ट्री एक्सटेंशन 2.0
-  * शेयर मैनेजर 1.0
-  * सॉफ्टवेयर अपडेट 1.0
-  * सॉफ्टवेयर अपडेट 2.0
-  * स्टैण्डर्ड 1.0
-  * स्टैण्डर्ड 2.0
+- version: Original Release
+  startDate: 2007-01-01T00:00:00.000-08:00
+  endDate: 2010-01-12T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* एप्लीकेशन सिक्योरिटी\n* आउटलुक एडिशन\n* प्रोफेशनल 9.0\n* रजिस्ट्री एक्सटेंशन 2.0\n* शेयर मैनेजर 1.0\n* सॉफ्टवेयर अपडेट 1.0\n* सॉफ्टवेयर अपडेट 2.0\n* स्टैण्डर्ड 1.0\n* स्टैण्डर्ड 2.0"

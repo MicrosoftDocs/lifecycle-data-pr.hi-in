@@ -3,33 +3,33 @@ metadata:
   title: Microsoft Commerce Server 2009
   description: Microsoft Commerce Server 2009 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 'Enterprise,Standard'
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 800f010a34d63367b74a854b3c14b40b5701ae00
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139532"
 name: Microsoft Commerce Server 2009
-summary: |
+summary: >
   Microsoft Commerce Server 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 04/23/2009
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2009-04-23T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 04/23/2009
-    endDate: 07/09/2019
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [Dynamics 365 Commerce की संरचना का अवलोकन](/dynamics365/commerce/commerce-architecture)
-  * [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Enterprise
-  * Standard
+- version: Original Release
+  startDate: 2009-04-23T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [Dynamics 365 Commerce की संरचना का अवलोकन](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

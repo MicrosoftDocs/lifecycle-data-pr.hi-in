@@ -3,23 +3,25 @@ metadata:
   title: Silverlight 4
   description: Silverlight 4 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/19/2020
+  ms.openlocfilehash: 436f3903622f5f4b04958da9f0a55befaf32639a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4111264"
 name: Silverlight 4
-summary: |+
+summary: >+
   Silverlight 4 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - silverlight
+- silverlight
 policyType: fixed-mainstream-only
 supportDates:
-  start: 04/15/2010
-  end: 01/08/2013
+  start: 2010-04-15T00:00:00.000-08:00
+  end: 2013-01-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 04/15/2010
-    endDate: 01/08/2013
-content: |+
-
-
-  > [!NOTE]
-  > Microsoft, टूल्स के लिए समर्थन समाप्त होने से पहले कम से कम 12 महीने का नोटिफ़िकेशन देगा।
+- version: Original Release
+  startDate: 2010-04-15T00:00:00.000-08:00
+  endDate: 2013-01-08T22:59:59.999-08:00
+content: "\n\n> [!NOTE]\n> Microsoft, टूल्स के लिए समर्थन समाप्त होने से पहले कम से कम 12 महीने का नोटिफ़िकेशन देगा।"

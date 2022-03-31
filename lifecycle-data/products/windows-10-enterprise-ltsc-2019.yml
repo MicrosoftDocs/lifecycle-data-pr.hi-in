@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Windows 10 एंटरप्राइज़ LTSC 2019 '
+  description: Windows 10 एंटरप्राइज़ LTSC 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 11/15/2021
+  keywords: 
+  ms.openlocfilehash: ba06aad99fed1eb2ff61cfb492d0e848120bb578
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156741"
+name: 'Windows 10 एंटरप्राइज़ LTSC 2019 '
+summary: >+
+  Windows 10 एंटरप्राइज़ LTSC 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 2018-11-13T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2029-01-09T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2018-11-13T00:00:00.000-08:00
+  endDate: 2029-01-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Windows 10 अक्टूबर अपडेट (संस्करण 1809) पुनः रिलीज़](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [Windows 10 LTSC FAQ](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n\n\n\n\n\n"

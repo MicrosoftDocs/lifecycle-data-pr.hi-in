@@ -4,12 +4,12 @@ metadata:
   description: Office 2021 आधुनिक जीवनचक्र नीति का पालन करता है।
   ms.date: 09/27/2021
   keywords: 
-  ms.openlocfilehash: e75efd2c07eba99b0979450d0505cd7c5bddadbe
-  ms.sourcegitcommit: e5d59c39c897b10be431516305a87c93e41433af
+  ms.openlocfilehash: b21d9996cf276718a48c96219a2e67af2a28e997
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/05/2021
-  ms.locfileid: "3509877"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4112145"
 name: Office 2021
 summary: >+
   Office 2021 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है।
@@ -24,10 +24,10 @@ products:
 - office
 policyType: modern-on-prem
 supportDates:
-  start: 10/05/2021
-  end: 10/13/2026
+  start: 2021-10-05T00:00:00.000-08:00
+  end: 2026-10-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/05/2021
-  endDate: 10/13/2026
+  startDate: 2021-10-05T00:00:00.000-08:00
+  endDate: 2026-10-13T22:59:59.999-08:00
 content: "\n\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Business\n* Mac के लिए Home and Business\n* Home and Student\n* Mac के लिए Home and Student\n* Professional"

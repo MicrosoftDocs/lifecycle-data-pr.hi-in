@@ -1,41 +1,37 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FAST Search Server 2010 (SharePoint इंटरनेट साइट्स के लिए)
-  description: 'FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए) फिक्स्ड लाइफसाइकल नीति का पालन करता है.'
+  description: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए) फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/01/2020
-  keywords: 'for SharePoint,for SharePoint Internet Sites'
-name: 'FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए)'
-summary: |+
+  keywords: for SharePoint,for SharePoint Internet Sites
+  ms.openlocfilehash: 467753754341355c10a1800749953f416fbb278d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140198"
+name: FAST Search Server 2010 (SharePoint के लिए, SharePoint इंटरनेट साइट्स के लिए)
+summary: >+
   FAST Search Server 2010 (SharePoint के लिए, SharePoint Internet Sites के लिए) [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
+
 
   यह निम्न संस्करणों पर लागू होता है: SharePoint, SharePoint इंटरनेट साइट्स
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 06/16/2010
-  end: 10/13/2015
-  extendedEnd: 10/13/2020
+  start: 2010-06-16T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2020-10-13T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 07/23/2013
-    endDate: 10/13/2020
-  - version: Service Pack 1
-    startDate: 06/24/2011
-    endDate: 07/23/2014
-  - version: Original Release
-    startDate: 06/16/2010
-    endDate: 07/10/2012
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-  > [!NOTE]
-  > पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।
-
-  ## <a name="editions"></a>संस्करण 
-  * SharePoint के लिए
-  * SharePoint Internet Sites के लिए
+- version: Service Pack 2
+  startDate: 2013-07-23T00:00:00.000-08:00
+  endDate: 2020-10-13T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2011-06-24T00:00:00.000-08:00
+  endDate: 2014-07-23T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2010-06-16T00:00:00.000-08:00
+  endDate: 2012-07-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> पहले से डी-समर्थित संस्करणों को शामिल नहीं करता है. इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।\n\n## <a name=\"editions\"></a>संस्करण \n* SharePoint के लिए\n* SharePoint Internet Sites के लिए"

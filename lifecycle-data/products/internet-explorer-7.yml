@@ -3,30 +3,25 @@ metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 10/05/2020
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: e24db5a054e0b478b88f53da6b56d5c37110ef6e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155220"
 name: Internet Explorer 7
-summary: |+
+summary: >+
   Internet Explorer 7 [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - internet-explorer
+- internet-explorer
 policyType: component
 supportDates:
-  start: 10/18/2006
-  end: 10/10/2023
+  start: 2006-10-18T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/18/2006
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)
-  * [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)
-  * [Windows एम्बेडेड कॉम्पैक्ट 2013](/lifecycle/products/windows-embedded-compact-2013)
-  * [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)
-
-  > [!NOTE]
-  > Internet Explorer 7, Windows Embedded Compact 7 और Windows Embedded Compact 2013 का एक घटक है और उसी के जीवनचक्र का अनुसरण करता है. 
-  > [!NOTE]
-  > 12 जनवरी, 2016 से केवल समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध Internet Explorer के सबसे वर्तमान संस्करण को ही तकनीकी सहायता और सुरक्षा अद्यतन प्राप्त होंगे.
+- version: Original Release
+  startDate: 2006-10-18T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows एम्बेडेड कॉम्पैक्ट 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [Internet Explorer जीवनचक्र नीति FAQ](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7, Windows Embedded Compact 7 और Windows Embedded Compact 2013 का एक घटक है और उसी के जीवनचक्र का अनुसरण करता है. \n> [!NOTE]\n> 12 जनवरी, 2016 से केवल समर्थित ऑपरेटिंग सिस्टम के लिए उपलब्ध Internet Explorer के सबसे वर्तमान संस्करण को ही तकनीकी सहायता और सुरक्षा अद्यतन प्राप्त होंगे."

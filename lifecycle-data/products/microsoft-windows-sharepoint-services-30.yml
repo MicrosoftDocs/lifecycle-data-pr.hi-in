@@ -4,37 +4,32 @@ metadata:
   description: Microsoft Windows SharePoint Services 3.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: ''
+  ms.openlocfilehash: 4c3e5b8b10d6f82ab3b64a289c80003584affb0e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136905"
 name: Microsoft Windows SharePoint Services 3.0
-summary: |
-  Microsoft Windows SharePoint Services 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
-
-  > [!IMPORTANT]
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें. 
+summary: "Microsoft Windows SharePoint Services 3.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. माइग्रेशन मार्गदर्शन के लिए नीचे देखें. \n"
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 11/13/2006
-  end: 10/09/2012
-  extendedEnd: 10/10/2017
+  start: 2006-11-13T00:00:00.000-08:00
+  end: 2012-10-09T22:59:59.999-08:00
+  extendedEnd: 2017-10-10T22:59:59.999-08:00
 releases:
-  - version: Service Pack 3
-    startDate: 10/24/2011
-    endDate: 10/10/2017
-  - version: Service Pack 2
-    startDate: 04/24/2009
-    endDate: 01/08/2013
-  - version: Service Pack 1
-    startDate: 12/11/2007
-    endDate: 07/13/2010
-  - version: Original Release
-    startDate: 11/13/2006
-    endDate: 01/13/2009
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-  * [माइग्रेशन मार्गदर्शन](/office365/enterprise/sharepoint-2007-end-of-support)
-  * [Windows SharePoint Services 3.0 डेवलपर दस्तावेज़ीकरण](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))
-  * [Windows SharePoint Services 3.0 उत्पाद दस्तावेज़ीकरण](/previous-versions/office/sharepoint-2007-products-and-technologies/cc288070(v=office.12))
+- version: Service Pack 3
+  startDate: 2011-10-24T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2009-04-24T00:00:00.000-08:00
+  endDate: 2013-01-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2007-12-11T00:00:00.000-08:00
+  endDate: 2010-07-13T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2006-11-13T00:00:00.000-08:00
+  endDate: 2009-01-13T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [माइग्रेशन मार्गदर्शन](/office365/enterprise/sharepoint-2007-end-of-support)\n* [Windows SharePoint Services 3.0 डेवलपर दस्तावेज़ीकरण](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [Windows SharePoint Services 3.0 उत्पाद दस्तावेज़ीकरण](/previous-versions/office/sharepoint-2007-products-and-technologies/cc288070(v=office.12))"

@@ -3,22 +3,22 @@ metadata:
   title: Exchange Server के लिए Forefront Protection 2010
   description: Exchange Server के लिए Forefront Protection 2010 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 347858e96c4f8eeb392d7d0b66fcda92286a21b729a95c6e80f9c045a66002f7
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 15b311a8212543f94d440716844d39c252454996
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507986"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155812"
 name: Exchange Server के लिए Forefront Protection 2010
 summary: "Exchange Server के लिए Forefront Protection 2010 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> Forefront ब्रांड के सुरक्षा उत्पादों का रोडमैप बदल गया है. यह उत्पाद 31 दिसंबर, 2015 से बंद कर दिया गया है. कृपया माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - office
 policyType: fixed
 supportDates:
-  start: 11/01/2009
-  extendedEnd: 12/31/2015
+  start: 2009-11-01T00:00:00.000-08:00
+  extendedEnd: 2015-12-31T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/01/2009
-  endDate: 12/31/2015
+  startDate: 2009-11-01T00:00:00.000-08:00
+  endDate: 2015-12-31T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"

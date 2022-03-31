@@ -3,12 +3,12 @@ metadata:
   title: व्यवसाय के लिए Skype 2015
   description: Skype for Business 2015 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: ac263ed151281046996c15ae783549f3ba558204033e37c88aa1dd28f764bc5c
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 3ea178ed1d136483965f62902c352a77662ad6ac
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2516126"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147561"
 name: व्यवसाय के लिए Skype 2015
 summary: >+
   Skype for Business 2015 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 04/10/2018
-  extendedEnd: 04/11/2023
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2018-04-10T22:59:59.999-08:00
+  extendedEnd: 2023-04-11T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/09/2013
-  endDate: 04/11/2023
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2023-04-11T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> क्लायंट: Skype for Business 2015 Client रिलीज Lync 2013 Client के लिए एक अपडेट है और समान उत्पाद जीवनचक्र का पालन करेगा."

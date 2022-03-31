@@ -3,33 +3,33 @@ metadata:
   title: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
   description: SoftGrid Application Virtualizationनिश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/10/2020
-  keywords: '4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1'
+  keywords: 4.1 for Desktops,4.2 for Desktops,for Terminal Services 4.1
+  ms.openlocfilehash: 6b63a556c63bca08045d0335bd9233a0ae07a878
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119848"
 name: सॉफ़्टग्रिड एप्लिकेशन वर्चुअलाइज़ेशन
-summary: |
+summary: >
   SoftGrid Application Virtualization [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Desktops के लिए 4.1, Desktops के लिए 4.2, अंतक सेवाएँ 4.1 के लिए
 
+
   > [!IMPORTANT]
+
   > समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 05/25/2007
-  end: 07/10/2012
-  extendedEnd: 07/11/2017
+  start: 2007-05-25T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-07-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/25/2007
-    endDate: 07/11/2017
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Desktops के लिए 4.1
-  * Desktops के लिए 4.2
-  * अंतक सेवाओं 4.1 के लिए
+- version: Original Release
+  startDate: 2007-05-25T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://technet.microsoft.com/en-us/windows/bb899442)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Desktops के लिए 4.1\n* Desktops के लिए 4.2\n* अंतक सेवाओं 4.1 के लिए"

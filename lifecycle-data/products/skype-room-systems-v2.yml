@@ -3,12 +3,12 @@ metadata:
   title: Skype रूम सिस्टम v2
   description: Skype रूम सिस्टम v2 आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 4f9abcbcf4bc6ce1368373d4fa095a3daef33dee845e9a2dda16c02ba1d58cce
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 7b139cff984a905c206b210ce44523f90320e20a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2501585"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4150484"
 name: Skype रूम सिस्टम v2
 summary: >+
   Skype रूम सिस्टम v2 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,8 +18,8 @@ products:
 - office
 policyType: modern-online
 supportDates:
-  start: 11/18/2016
+  start: 2016-11-18T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/18/2016
+  startDate: 2016-11-18T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://support.office.com/article/support-for-skype-room-systems-v2-current-branch-versions-e915d5f4-7b70-47ca-94b7-d7153048ba38)"

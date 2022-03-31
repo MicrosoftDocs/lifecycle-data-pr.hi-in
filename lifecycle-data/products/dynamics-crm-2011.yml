@@ -3,12 +3,12 @@ metadata:
   title: Dynamics CRM 2011
   description: Dynamics CRM 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 8d0e896a92cd9cf470414be675981cbecee17d6459eec67b4829fab6651396f1
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 91cc24e50fc8348a7e418c329d78503719a1dbdb
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2503028"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4156147"
 name: Dynamics CRM 2011
 summary: >+
   Dynamics CRM 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 05/18/2011
-  end: 07/12/2016
-  extendedEnd: 07/13/2021
+  start: 2011-05-18T00:00:00.000-08:00
+  end: 2016-07-12T22:59:59.999-08:00
+  extendedEnd: 2021-07-13T22:59:59.999-08:00
 releases:
 - version: Original Release (ver 5.0)
-  startDate: 05/18/2011
-  endDate: 07/13/2021
+  startDate: 2011-05-18T00:00:00.000-08:00
+  endDate: 2021-07-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/previous-versions/dynamicscrm-2013/implementation-guide/hh699716(v=crm.6)#in-this-topic)\n* [समर्थन जानकारी](https://support.microsoft.com/help/2555051/microsoft-dynamics-crm-2011-updates-and-hotfixes)"

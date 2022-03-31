@@ -3,24 +3,24 @@ metadata:
   title: Windows Server 2016 के लिए Windows डिफेंडर
   description: Windows Server 2016 के लिए Windows डिफेंडर घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3992f1f969d284aba0a93f24e60716aac8e2f0f0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118294"
 name: Windows Server 2016 के लिए Windows डिफेंडर
-summary: |+
+summary: >+
   Windows Server 2016 के लिए Windows डिफेंडर [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - windows
+- windows
 policyType: component
 supportDates:
-  start: 10/15/2016
+  start: 2016-10-15T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [Windows Server 2016](/lifecycle/products/windows-server-2016)
-
-  > [!NOTE]
-  > यह घटक अपने पैरेंट उत्पाद, Windows Server 2016 के जीवनचक्र का अनुसरण करता है.
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> यह घटक अपने पैरेंट उत्पाद, Windows Server 2016 के जीवनचक्र का अनुसरण करता है."

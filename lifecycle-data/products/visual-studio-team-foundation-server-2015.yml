@@ -4,35 +4,34 @@ metadata:
   description: Visual Studio Team Foundation Server 2015 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: All
+  ms.openlocfilehash: ccb7e275603af0a2b2e0629dd496ec8f26d6db34
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130541"
 name: Visual Studio Team Foundation Server 2015
-summary: |+
+summary: >+
   Visual Studio Team Foundation Server 2015 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: सभी
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 07/20/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-07-20T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Update 4
-    startDate: 04/11/2017
-    endDate: 10/14/2025
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 07/10/2018
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 04/10/2018
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-  * [उत्पाद की जानकारी - Azure Dev संचालन](/azure/devops/server/whats-new?view=azure-devops)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * सभी
+- version: Update 4
+  startDate: 2017-04-11T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+- version: Update 3
+  startDate: 2016-06-27T00:00:00.000-08:00
+  endDate: 2018-07-10T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2015-07-20T00:00:00.000-08:00
+  endDate: 2018-04-10T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [उत्पाद की जानकारी - Azure Dev संचालन](/azure/devops/server/whats-new?view=azure-devops)\n\n\n## <a name=\"editions\"></a>संस्करण \n* सभी"

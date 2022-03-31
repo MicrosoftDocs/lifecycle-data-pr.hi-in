@@ -3,27 +3,26 @@ metadata:
   title: Windows 10 के लिए Windows Defender.
   description: Windows 10 के लिए Windows Defender घटक जीवनचक्र नीति का अनुसरण करता है
   ms.date: 04/28/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 5bfc8d1203eee797bd6bc6146a64725cdcb7b061
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4118331"
 name: Windows 10 के लिए Windows Defender.
-summary: |+
+summary: >+
   Windows 10 के लिए Windows Defender [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है
 
 
 products:
-  - windows
+- windows
 policyType: component
 supportDates:
-  start: 07/29/2015
-  end: 10/14/2025
+  start: 2015-07-29T00:00:00.000-08:00
+  end: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/29/2015
-    endDate: 10/14/2025
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [Windows 10](/lifecycle/products/?terms=windows%2010)
-  * [सर्विसिंग दिशानिर्देश](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)
-
-  > [!NOTE]
-  > इस रिलीज़ को एक ऐसे कम्पोनेंट के रूप में जाना जाता है, जो अपने पैरेंट उत्पाद, Windows 10 के जीवनचक्र का अनुसरण करता है.
+- version: Original Release
+  startDate: 2015-07-29T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [Windows 10](/lifecycle/products/?terms=windows%2010)\n* [सर्विसिंग दिशानिर्देश](/microsoft-365/security/defender-endpoint/manage-updates-baselines-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-platform-support)\n\n> [!NOTE]\n> इस रिलीज़ को एक ऐसे कम्पोनेंट के रूप में जाना जाता है, जो अपने पैरेंट उत्पाद, Windows 10 के जीवनचक्र का अनुसरण करता है."

@@ -4,12 +4,12 @@ metadata:
   description: Visual Studio 2012 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 10/11/2021
   keywords: 
-  ms.openlocfilehash: 68a9d61205020193274f000d8aac5983e94b0b5d
-  ms.sourcegitcommit: e5d80ad2e1e33e12fda006a76248ec3fb74c7af6
+  ms.openlocfilehash: 8ad751563c111c367d1ad790679919a02a9e5a73
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 10/11/2021
-  ms.locfileid: "3514190"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4135610"
 name: Visual Studio 2012
 summary: >+
   Visual Studio 2012 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -24,17 +24,17 @@ products:
 - vs
 policyType: fixed
 supportDates:
-  start: 10/31/2012
-  end: 01/09/2018
-  extendedEnd: 01/10/2023
+  start: 2012-10-31T00:00:00.000-08:00
+  end: 2018-01-09T22:59:59.999-08:00
+  extendedEnd: 2023-01-10T22:59:59.999-08:00
 releases:
 - version: Update 5
-  startDate: 08/21/2015
-  endDate: 01/10/2023
+  startDate: 2015-08-21T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
 - version: Update 4
-  startDate: 11/12/2013
-  endDate: 10/08/2019
+  startDate: 2013-11-12T00:00:00.000-08:00
+  endDate: 2019-10-08T22:59:59.999-08:00
 - version: Original Release
-  startDate: 10/31/2012
-  endDate: 01/10/2023
+  startDate: 2012-10-31T00:00:00.000-08:00
+  endDate: 2023-01-10T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio के पुराने संस्करणों के लिए सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2012 संस्करणों को Visual Studio 2012 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, Microsoft Azure टूल्स, रिमोट टूल्स, SDK, Shell (एकीकृत), शैल (अलग), SQL Server डेटा टूल्स, टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन।\n\n\n## <a name=\"editions\"></a>संस्करण \n* वेब के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* टीम एक्सप्लोरर\n* Ultimate"

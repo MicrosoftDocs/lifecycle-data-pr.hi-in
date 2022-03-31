@@ -3,37 +3,36 @@ metadata:
   title: Virtual PC 2004
   description: Virtual PC 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: 'Express,Standard'
+  keywords: Express,Standard
+  ms.openlocfilehash: 4027313ce7dbc3076b8d685788907957957261c8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4135721"
 name: Virtual PC 2004
-summary: |
+summary: >
   Virtual PC 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Express, Standard
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 01/20/2004
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2004-01-20T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 1
-    startDate: 08/30/2006
-    endDate: 04/08/2014
-  - version: Original Release
-    startDate: 01/20/2004
-    endDate: 10/09/2007
-content: |
-  > [!TIP]
-  > Microsoft Virtual PC 2004 Express, 13 अप्रैल, 2006 को रिलीज़ हुआ था.
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * एक्सप्रेस
-  * Standard
+- version: Service Pack 1
+  startDate: 2006-08-30T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2004-01-20T00:00:00.000-08:00
+  endDate: 2007-10-09T22:59:59.999-08:00
+content: "> [!TIP]\n> Microsoft Virtual PC 2004 Express, 13 अप्रैल, 2006 को रिलीज़ हुआ था.\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एक्सप्रेस\n* Standard"

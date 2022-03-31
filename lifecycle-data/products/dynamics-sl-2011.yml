@@ -3,12 +3,12 @@ metadata:
   title: Dynamics SL 2011
   description: Dynamics SL 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 5cf71bbf21997933caf9c3f3f1492a88491d1d2e9d90e7728b70d7f7551c9092
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 5b628d5c96ea80d9e832ecdb5553e6a99a41ad5a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2490300"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140532"
 name: Dynamics SL 2011
 summary: >+
   Dynamics SL 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,20 +18,20 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 06/15/2011
-  end: 07/12/2016
-  extendedEnd: 07/13/2021
+  start: 2011-06-15T00:00:00.000-08:00
+  end: 2016-07-12T22:59:59.999-08:00
+  extendedEnd: 2021-07-13T22:59:59.999-08:00
 releases:
 - version: Service Pack 3
-  startDate: 06/02/2015
-  endDate: 07/13/2021
+  startDate: 2015-06-02T00:00:00.000-08:00
+  endDate: 2021-07-13T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 09/04/2013
-  endDate: 07/12/2016
+  startDate: 2013-09-04T00:00:00.000-08:00
+  endDate: 2016-07-12T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 11/11/2011
-  endDate: 10/13/2015
+  startDate: 2011-11-11T00:00:00.000-08:00
+  endDate: 2015-10-13T22:59:59.999-08:00
 - version: Original Release
-  startDate: 06/15/2011
-  endDate: 01/14/2014
+  startDate: 2011-06-15T00:00:00.000-08:00
+  endDate: 2014-01-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

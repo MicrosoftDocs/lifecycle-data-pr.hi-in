@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office Audit and Control Management Server 2013
   description: Microsoft Office Audit and Control Management Server 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/21/2020
-  ms.openlocfilehash: 44a1283374fe99309a0fdd4a69216b31593094a04ca9148d82281dad457f63e4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 49b0b54b08007b6cfbce84091c049d308b2ab37c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2524414"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145526"
 name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
   Microsoft Office Audit and Control Management Server 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 07/16/2013
-  end: 10/09/2018
-  extendedEnd: 10/10/2023
+  start: 2013-07-16T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/16/2013
-  endDate: 10/10/2023
+  startDate: 2013-07-16T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
 content: ''

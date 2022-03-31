@@ -3,22 +3,22 @@ metadata:
   title: Azure Power BI कार्यस्थान संकलन
   description: Azure Power BI कार्यस्थान संकलन आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 749fc9a4bd74a4a219b50f45aa6a6c50e0d45e436ac0a17915e9c9b789891adb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 16b014d2366ae2fe8253d183e1c71ddcfc8d45bb
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2496368"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108785"
 name: Azure Power BI कार्यस्थान संकलन
 summary: "Azure Power BI कार्यस्थान संकलन [मआधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.  \n\n\n> [!IMPORTANT]\n> समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.\n"
 products:
 - sql-server
 policyType: modern-online
 supportDates:
-  start: 03/31/2016
-  end: 07/30/2018
+  start: 2016-03-31T00:00:00.000-08:00
+  end: 2018-07-30T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/31/2016
-  endDate: 07/30/2018
+  startDate: 2016-03-31T00:00:00.000-08:00
+  endDate: 2018-07-30T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/power-bi/developer/embedded/migrate-from-powerbi-embedded)"

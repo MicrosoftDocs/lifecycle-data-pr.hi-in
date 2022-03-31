@@ -3,36 +3,23 @@ metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: 'Premium,Standard'
+  keywords: Premium,Standard
+  ms.openlocfilehash: 1f482af63ad9c63c40e628fba82ca5dbaf330e82
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123030"
 name: Windows Small Business Server 2008
-summary: |
-  Windows Small Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड
-
-  > [!IMPORTANT]
-  > इस उत्पाद के लिए समर्थन समाप्त हो गया है. 
-
-  इस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.
+summary: "Windows Small Business Server 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\nयह निम्नलिखित संस्करणों पर लागू होता है: प्रीमियम, स्टैंडर्ड\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n\nइस उत्पाद पैकेज के लिए समर्थन तिथि इसके व्यक्तिगत घटक उत्पाद के संबंधित जीवनचक्र द्वारा निर्धारित की जाती है. कृपया उत्पाद की समर्थन की लंबाई निर्धारित करने के लिए व्यक्तिगत घटक उत्पाद के जीवनचक्र की समीक्षा करें.\n"
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 11/21/2008
-  extendedEnd: 01/14/2020
+  start: 2008-11-21T00:00:00.000-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/21/2008
-    endDate: 01/14/2020
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)
-  * [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)
-  * [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)
-  * [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Premium
-  * Standard
+- version: Original Release
+  startDate: 2008-11-21T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://aka.ms/AA1ovn4)\n* [Windows Server 2008](/lifecycle/browse/listings/windows-server-2008)\n* [Exchange Server 2007](/lifecycle/browse/listings/exchange-server-2007)\n* [Microsoft Windows SharePoint Services 3.0](/lifecycle/browse/listings/microsoft-windows-sharepoint-services-30)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"

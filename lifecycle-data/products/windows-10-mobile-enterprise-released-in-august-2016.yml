@@ -1,27 +1,31 @@
 ### YamlMime:Lifecycle
 metadata:
   title: अगस्त 2016 में रिलीज़ आ  Windows 10 Mobile Enterprise
-  description: 'अगस्त 2016 में रिलीज़ आ  Windows 10 Mobile Enterprise, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
+  description: अगस्त 2016 में रिलीज़ आ  Windows 10 Mobile Enterprise, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 2f3de949f2384b2eb3c2be98152491ea6e9d3fba
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119034"
 name: अगस्त 2016 में रिलीज़ आ  Windows 10 Mobile Enterprise
-summary: |
+summary: >
   अगस्त 2016 में रिलीज़ होने वाला Windows 10 Mobile Enterprise, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
 products:
-  - windows
+- windows
 policyType: fixed-mainstream-only
 supportDates:
-  start: 08/16/2016
-  end: 10/09/2018
+  start: 2016-08-16T00:00:00.000-08:00
+  end: 2018-10-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 08/16/2016
-    endDate: 10/09/2018
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [डिवाइस OS जीवनचक्र FAQ](/lifecycle/faq/device-operating-systems)
-  * [Windows 10 Mobile का समर्थन 10 दिसंबर, 2019 को समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)
+- version: Original Release
+  startDate: 2016-08-16T00:00:00.000-08:00
+  endDate: 2018-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [डिवाइस OS जीवनचक्र FAQ](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile का समर्थन 10 दिसंबर, 2019 को समाप्त हो गया](/lifecycle/announcements/windows-10-mobile-end-of-support)"

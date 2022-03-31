@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Azure वर्चुअल मशीन (क्लासिक) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 01/21/2021
   keywords: 
-  ms.openlocfilehash: c3cf6794f777dfe3a8f70af5a87d0ba9701962fdd70b7e71ea755fe70ead9edc
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: c52804d73cc235cbe0920612f093ac4226b59f26
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2490004"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4154813"
 name: Microsoft Azure वर्चुअल मशीन (क्लासिक)
 summary: >+
   Microsoft Azure वर्चुअल मशीन (क्लासिक) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,10 +19,10 @@ products:
 - azure
 policyType: modern-online
 supportDates:
-  start: 06/07/2012
-  end: 03/01/2023
+  start: 2012-06-07T00:00:00.000-08:00
+  end: 2023-03-01T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 06/07/2012
-  endDate: 03/01/2023
+  startDate: 2012-06-07T00:00:00.000-08:00
+  endDate: 2023-03-01T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/azure/virtual-machines/classic-vm-deprecation)"

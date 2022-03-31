@@ -4,12 +4,12 @@ metadata:
   description: एडवांस्ड थ्रेट एनालिटिक्स 1.X निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: 
-  ms.openlocfilehash: 3ae7471e6ba237d415f65d196d06c4d68258e369b36d6c1840705458eb78df66
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 08bf85fe738d08221b9370b35b7a42090a08c004
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2496997"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4133612"
 name: एडवांस्ड थ्रेट एनालिटिक्स 1.X
 summary: >+
   एडवांस्ड थ्रेट एनालिटिक्स 1.X [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,11 +19,11 @@ products:
 - m365
 policyType: fixed
 supportDates:
-  start: 11/25/2015
-  end: 01/12/2021
-  extendedEnd: 01/13/2026
+  start: 2015-11-25T00:00:00.000-08:00
+  end: 2021-01-12T22:59:59.999-08:00
+  extendedEnd: 2026-01-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/25/2015
-  endDate: 01/13/2026
+  startDate: 2015-11-25T00:00:00.000-08:00
+  endDate: 2026-01-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [एडवांस्ड थ्रेट एनालिटिक्स सर्विसिंग दिशानिर्देश](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> अपडेट संचयी होते हैं, प्रत्येक अपडेट के साथ अपडेट किया जाता है जो इसके पहले था। समर्थित बने रहने के लिए एक डिवाइस को नवीनतम अपडेट इंस्टॉल करना होगा।"

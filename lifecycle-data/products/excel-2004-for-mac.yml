@@ -3,22 +3,22 @@ metadata:
   title: Mac के लिए Microsoft Excel 2004
   description: Mac के लिए Microsoft Excel 2004 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: a624c5d06200a9febe86cbb57d3e25083c88357e6185b774df8a5ac35f071b43
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 77067f7fb4d13968fa566a2b8f4c3eebae0771fa
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2490041"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4121957"
 name: Mac के लिए Microsoft Excel 2004
 summary: "Mac के लिए Microsoft Excel 2004 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 07/29/2004
-  end: 01/10/2012
+  start: 2004-07-29T00:00:00.000-08:00
+  end: 2012-01-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 07/29/2004
-  endDate: 01/10/2012
+  startDate: 2004-07-29T00:00:00.000-08:00
+  endDate: 2012-01-10T22:59:59.999-08:00
 content: ''

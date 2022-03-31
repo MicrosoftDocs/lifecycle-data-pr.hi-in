@@ -3,12 +3,12 @@ metadata:
   title: एनहांस्ड मिटिगेशन एक्सपीरियंस टूलकिट (EMET)
   description: एनहांस्ड मिटिगेशन एक्सपीरियंस टूलकिट (EMET) निश्चित जीवनचक्र नीति का पालन करता है.
   ms.date: 08/20/2020
-  ms.openlocfilehash: b9a07fcc58b48802de5d8492d7ff7d827c83631d3de618b24b5bdbfef415cfb8
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a6287b5d0deef6f4f81823a2253a8c5b4fa8a44b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2495221"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4109007"
 name: एनहांस्ड मिटिगेशन एक्सपीरियंस टूलकिट (EMET)
 summary: >+
   एनहांस्ड मिटिगेशन एक्सपीरियंस टूलकिट (EMET) [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -18,11 +18,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 12/30/2016
-  end: 12/30/2016
-  extendedEnd: 07/31/2018
+  start: 2016-12-30T00:00:00.000-08:00
+  end: 2016-12-30T22:59:59.999-08:00
+  extendedEnd: 2018-07-31T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/30/2016
-  endDate: 07/31/2018
+  startDate: 2016-12-30T00:00:00.000-08:00
+  endDate: 2018-07-31T22:59:59.999-08:00
 content: ''

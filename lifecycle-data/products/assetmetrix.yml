@@ -3,12 +3,12 @@ metadata:
   title: AssetMetrix
   description: AssetMetrix आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 25e55004e1c9f0815ed4d9e51376e74970b353a527b33b2b1679f4b1f683aefb
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 4adeedb8828c75aadd637fc185fe5eb0d458c266
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493112"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122586"
 name: AssetMetrix
 summary: >+
   AssetMetrix [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,10 +18,10 @@ products:
 - msc
 policyType: modern-online
 supportDates:
-  start: 12/01/2007
-  end: 07/08/2008
+  start: 2007-12-01T00:00:00.000-08:00
+  end: 2008-07-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/01/2007
-  endDate: 07/08/2008
+  startDate: 2007-12-01T00:00:00.000-08:00
+  endDate: 2008-07-08T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र FAQ - सामान्य](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> इस उत्पाद के लिए समर्थन इसके अधिग्रहण की शर्तों के अधीन है।"

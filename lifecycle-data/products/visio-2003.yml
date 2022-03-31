@@ -4,12 +4,12 @@ metadata:
   description: Visio 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Professional,Standard
-  ms.openlocfilehash: 3a2a18295d5a737249107eff63db71cb0378fbe7035dbb35f6b3d25b345b52cf
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: af90242b87e9932b9e40e87c1bbeeb2399347704
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487229"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149055"
 name: Visio 2003
 summary: >+
   Visio 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,20 +21,20 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 11/17/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-11-17T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
 - version: Service Pack 3
-  startDate: 09/17/2007
-  endDate: 04/08/2014
+  startDate: 2007-09-17T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 09/27/2005
-  endDate: 10/14/2008
+  startDate: 2005-09-27T00:00:00.000-08:00
+  endDate: 2008-10-14T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 07/28/2004
-  endDate: 10/10/2006
+  startDate: 2004-07-28T00:00:00.000-08:00
+  endDate: 2006-10-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 11/17/2003
-  endDate: 07/27/2005
+  startDate: 2003-11-17T00:00:00.000-08:00
+  endDate: 2005-07-27T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Professional\n* Standard"

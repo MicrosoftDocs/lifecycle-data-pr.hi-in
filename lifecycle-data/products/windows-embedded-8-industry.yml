@@ -1,35 +1,35 @@
 ### YamlMime:Lifecycle
 metadata:
   title: 'Windows Embedded 8 Industry '
-  description: 'Windows Embedded 8 Industry, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
+  description: Windows Embedded 8 Industry, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: 'Enterprise,Pro'
+  keywords: Enterprise,Pro
+  ms.openlocfilehash: 00406af359d7b8e8bab75482039aef4b97a591b0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123525"
 name: 'Windows Embedded 8 Industry '
-summary: |
+summary: >
   Windows Embedded 8 Industry, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Pro
 
+
   > [!IMPORTANT]
+
   > ग्राहकों को समर्थित रहने के लिए Windows 8.1 में माइग्रेट करना होगा.
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 06/24/2013
-  end: 01/12/2016
-  extendedEnd: 01/12/2016
+  start: 2013-06-24T00:00:00.000-08:00
+  end: 2016-01-12T22:59:59.999-08:00
+  extendedEnd: 2016-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/24/2013
-    endDate: 01/12/2016
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेट मार्गदर्शन](https://www.microsoft.com/download/details.aspx?id=40279)
-  * [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Enterprise
-  * Pro
+- version: Original Release
+  startDate: 2013-06-24T00:00:00.000-08:00
+  endDate: 2016-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेट मार्गदर्शन](https://www.microsoft.com/download/details.aspx?id=40279)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Pro"

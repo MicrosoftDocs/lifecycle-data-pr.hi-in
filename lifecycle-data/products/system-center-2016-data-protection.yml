@@ -3,23 +3,26 @@ metadata:
   title: सिस्टम सेंटर 2016 डेटा संरक्षण
   description: सिस्टम सेंटर 2016 डेटा संरक्षण नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
+  ms.openlocfilehash: 3d2b8a55d7bb4513a428d4077be336d5df36ff30
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4124473"
 name: सिस्टम सेंटर 2016 डेटा संरक्षण
-summary: |+
+summary: >+
   सिस्टम सेंटर 2016 डेटा संरक्षण [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 10/28/2016
-  end: 01/11/2022
-  extendedEnd: 01/11/2027
+  start: 2016-10-28T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-11T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/28/2016
-    endDate: 01/11/2027
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [उत्पाद की जानकारी](/system-center/)
+- version: Original Release
+  startDate: 2016-10-28T00:00:00.000-08:00
+  endDate: 2027-01-11T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"

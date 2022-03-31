@@ -3,12 +3,12 @@ metadata:
   title: Azure Stack Hub
   description: Azure Stack Hub आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 34c5f24ba75049d2624417d15a92bb249efb45300971da09f82e65f6c1c5308e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 75f9a4de443eb25c0acf0874faa50d641dfa57c1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492557"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4141604"
 name: Azure Stack Hub
 summary: >+
   Azure Stack Hub [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,8 +18,8 @@ products:
 - azure
 policyType: modern-online
 supportDates:
-  start: 08/31/2017
+  start: 2017-08-31T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 08/31/2017
+  startDate: 2017-08-31T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी और टाइमलाइन](/azure/azure-stack/azure-stack-servicing-policy)"

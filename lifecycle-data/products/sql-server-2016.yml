@@ -4,12 +4,12 @@ metadata:
   description: SQL Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/15/2021
   keywords: 
-  ms.openlocfilehash: 3dd378c66d76eea0f281a540605901cb87fd7fac
-  ms.sourcegitcommit: 0781dcb4d5ec6b12507ddd053fd623ead137ca28
+  ms.openlocfilehash: 9d60ae1de0ddde3592e589694e9c6b57a237be9c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/16/2021
-  ms.locfileid: "3456209"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4136202"
 name: SQL Server 2016
 summary: >+
   SQL Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -24,20 +24,20 @@ products:
 - sql-server
 policyType: fixed
 supportDates:
-  start: 06/01/2016
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2016-06-01T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 3
-  startDate: 09/15/2021
-  endDate: 07/14/2026
+  startDate: 2021-09-15T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 04/24/2018
-  endDate: 10/11/2022
+  startDate: 2018-04-24T00:00:00.000-08:00
+  endDate: 2022-10-11T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 11/16/2016
-  endDate: 07/09/2019
+  startDate: 2016-11-16T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
 - version: Original Release
-  startDate: 06/01/2016
-  endDate: 01/09/2018
+  startDate: 2016-06-01T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n\n\n## <a name=\"editions\"></a>संस्करण \n* डेवलपर\n* Enterprise\n* एंटरप्राइज कोर\n* एक्सप्रेस\n* Standard\n* वेब"

@@ -3,26 +3,26 @@ metadata:
   title: System Center Operations Manager 2007
   description: System Center Operations Manager 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 70aade7383cd432c6fc6a867f43992bc535ee36e2a1b36c69f78eea5fdef5368
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 32d95a2b24e204f316b54ac0b552ac7b7eafbf39
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2515941"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149448"
 name: System Center Operations Manager 2007
 summary: "System Center Operations Manager 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - msc
 policyType: fixed
 supportDates:
-  start: 06/23/2007
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2007-06-23T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 02/22/2008
-  endDate: 07/09/2019
+  startDate: 2008-02-22T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
 - version: Original Release
-  startDate: 06/23/2007
-  endDate: 04/14/2009
+  startDate: 2007-06-23T00:00:00.000-08:00
+  endDate: 2009-04-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/system-center/scom/deploy-upgrade-overview?view=sc-om-2019)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

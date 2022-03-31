@@ -4,30 +4,28 @@ metadata:
   description: Infopath 2013 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Standard
+  ms.openlocfilehash: 809eeab7d95bf084c4392825aac93cf82151f317
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146895"
 name: Infopath 2013
-summary: |+
+summary: >+
   Infopath 2013 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 01/09/2013
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2013-01-09T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/09/2013
-    endDate: 07/14/2026
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [समर्थन विवरण](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)
-
-  > [!NOTE]
-  > SharePoint Server 2016 के साथ संगतता सुनिश्चित करने के लिए Microsoft InfoPath 2013 के लिए समर्थन को बढ़ा दिया गया है, जैसा कि दिखाया गया है.
-
-  ## <a name="editions"></a>संस्करण 
-  * Standard
+- version: Original Release
+  startDate: 2013-01-09T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [समर्थन विवरण](https://blogs.office.com/2016/01/20/sharepoint-server-2016-and-project-server-2016-release-candidate-available)\n\n> [!NOTE]\n> SharePoint Server 2016 के साथ संगतता सुनिश्चित करने के लिए Microsoft InfoPath 2013 के लिए समर्थन को बढ़ा दिया गया है, जैसा कि दिखाया गया है.\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

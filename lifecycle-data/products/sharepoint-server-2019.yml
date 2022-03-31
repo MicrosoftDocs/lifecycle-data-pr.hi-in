@@ -4,26 +4,26 @@ metadata:
   description: SharePoint Server 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: ''
+  ms.openlocfilehash: eee333c1b4ca554fd5bf5a17eae8acdf74ec31c1
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143084"
 name: SharePoint Server 2019
-summary: |+
+summary: >+
   SharePoint Server 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 10/22/2018
-  end: 01/09/2024
-  extendedEnd: 07/14/2026
+  start: 2018-10-22T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/22/2018
-    endDate: 07/14/2026
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विसिंग जानकारी](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)
-
-  > [!NOTE]
-  > [उत्पाद](https://docs.microsoft.com/sharepoint/sharepoint-server) और [डेवलपर](https://developer.microsoft.com/sharepoint/docs) दस्तावेज़ देखें.
+- version: Original Release
+  startDate: 2018-10-22T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/sharepoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2019)\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/sharepoint/sharepoint-server) और [डेवलपर](https://developer.microsoft.com/sharepoint/docs) दस्तावेज़ देखें."

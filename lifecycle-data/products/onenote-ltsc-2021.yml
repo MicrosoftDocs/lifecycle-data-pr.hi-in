@@ -4,12 +4,12 @@ metadata:
   description: OneNote LTSC 2021 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है।
   ms.date: 09/15/2021
   keywords: Office
-  ms.openlocfilehash: f09df4c6c194ee2c5d297065c4c47a0bdca1ceb6
-  ms.sourcegitcommit: 17be92666405b75359d58e4487bda40de53b13a7
+  ms.openlocfilehash: 6345246dd3b22f21063bf800a14454e13b7be081
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/17/2021
-  ms.locfileid: "3457687"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143824"
 name: OneNote LTSC 2021
 summary: >+
   OneNote 2021 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल पॉलिसी का पालन करता है।
@@ -22,10 +22,10 @@ products:
 - office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/16/2021
-  end: 10/13/2026
+  start: 2021-09-16T00:00:00.000-08:00
+  end: 2026-10-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/16/2021
-  endDate: 10/13/2026
+  startDate: 2021-09-16T00:00:00.000-08:00
+  endDate: 2026-10-13T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)"

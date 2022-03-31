@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Office InfoPath 2003
   description: Microsoft Office InfoPath 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: bd7b8bcf16e5bdbb5579236ea66fd4e4ff2470b2d93c631d00cc044b962b0500
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 57ce33d47425bff39a56a5a771658bbeb20c9092
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2518494"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4138570"
 name: Microsoft Office InfoPath 2003
 summary: >+
   Microsoft Office InfoPath 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 11/19/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-11-19T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/19/2003
-  endDate: 04/08/2014
+  startDate: 2003-11-19T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
 content: ''

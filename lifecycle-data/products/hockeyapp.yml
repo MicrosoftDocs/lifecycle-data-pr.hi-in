@@ -4,12 +4,12 @@ metadata:
   description: हॉकीऐप आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 09/29/2020
   keywords: 
-  ms.openlocfilehash: 497e9b2e7fd312532dd47cb164d9ed88206320e4e6b2dc6333bf3124573bf60a
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: c132dd70d5ea15e717c9b0f45def73a0cf98f433
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2485934"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155294"
 name: हॉकीऐप
 summary: >+
   हॉकीऐप [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -19,10 +19,10 @@ products:
 - vs
 policyType: modern-online
 supportDates:
-  start: 12/31/2015
-  end: 11/16/2019
+  start: 2015-12-31T00:00:00.000-08:00
+  end: 2019-11-16T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 12/31/2015
-  endDate: 11/16/2019
+  startDate: 2015-12-31T00:00:00.000-08:00
+  endDate: 2019-11-16T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/appcenter/transition/)"

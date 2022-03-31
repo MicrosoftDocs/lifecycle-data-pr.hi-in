@@ -3,23 +3,23 @@ metadata:
   title: Microsoft Office Groove 2007
   description: Microsoft Office Groove 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 246a4b4ad9c221753ecaf70132b5b9a883f6eb49c8a417b5181b45f3f4db8778
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: bb49f4b67c9c98b62b100ace507e4314713d693a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2484602"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145193"
 name: Microsoft Office Groove 2007
 summary: "Microsoft Office Groove 2007 [फनिश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. \n"
 products:
 - office
 policyType: fixed
 supportDates:
-  start: 01/27/2007
-  end: 07/10/2012
-  extendedEnd: 10/10/2017
+  start: 2007-01-27T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-10-10T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 01/27/2007
-  endDate: 10/10/2017
+  startDate: 2007-01-27T00:00:00.000-08:00
+  endDate: 2017-10-10T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/office/troubleshoot/support/office-2007-not-support)"

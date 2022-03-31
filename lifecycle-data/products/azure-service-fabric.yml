@@ -3,12 +3,12 @@ metadata:
   title: Azure सर्विस फेब्रिक
   description: Azure सर्विस फेब्रिक आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 1f76ddf5422943717739fb69be7d687aaa2f9156e21ace4de5f55b62aae66334
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: fd078214299cf6a6358fe9b3b95da44027be78d0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2492927"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4108637"
 name: Azure सर्विस फेब्रिक
 summary: >+
   Azure सर्विस फेब्रिक [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,8 +18,8 @@ products:
 - azure
 policyType: modern-online
 supportDates:
-  start: 09/26/2016
+  start: 2016-09-26T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 09/26/2016
+  startDate: 2016-09-26T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/azure/service-fabric/service-fabric-support)\n* [समर्थित संस्करण](/azure/service-fabric/service-fabric-versions)"

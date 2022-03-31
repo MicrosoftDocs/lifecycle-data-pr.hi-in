@@ -3,12 +3,12 @@ metadata:
   title: Dynamics NAV 2009
   description: Dynamics NAV 2009 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 618380b4c910cb3b4f286894df1faea083c7449022444bee7a414ecbf28def14
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: a7a31535b34dd70a415b75d66562bad6cc9bec95
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2491521"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4115482"
 name: Dynamics NAV 2009
 summary: >+
   Dynamics NAV 2009 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,14 +18,14 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 02/12/2009
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2009-02-12T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 08/28/2009
-  endDate: 01/14/2020
+  startDate: 2009-08-28T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
 - version: Original Release
-  startDate: 02/12/2009
-  endDate: 10/11/2011
+  startDate: 2009-02-12T00:00:00.000-08:00
+  endDate: 2011-10-11T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n* [अधिक जानकारी](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/pricing-ordering-news/MicrosoftForecasterDiscontinuation)\n\n> [!NOTE]\n> NAV 2009 के लिए समर्थन तिथियों की समाप्ति को बढ़ा दिया गया है, जैसा कि दिखाया गया है."

@@ -3,12 +3,12 @@ metadata:
   title: Mac के लिए Microsoft Word 2008
   description: Mac के लिए Microsoft Word 2008 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 9d67bb2db7ac0810ae3a64ef6ac919a6d98a0421450a7561b773e85ffafab667
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 28a550ff26ec1b8f84c3af687f17665c94bd8357
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507468"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120181"
 name: Mac के लिए Microsoft Word 2008
 summary: >+
   Mac के लिए Microsoft Word 2008 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,10 +18,10 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 03/12/2008
-  end: 04/09/2013
+  start: 2008-03-12T00:00:00.000-08:00
+  end: 2013-04-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/12/2008
-  endDate: 04/09/2013
+  startDate: 2008-03-12T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
 content: ''

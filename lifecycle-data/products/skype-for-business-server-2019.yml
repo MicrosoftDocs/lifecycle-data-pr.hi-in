@@ -3,12 +3,12 @@ metadata:
   title: व्यवसाय के लिए Skype सर्वर 2019
   description: व्यवसाय के लिए Skype सर्वर 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 00abb6f297652b36ee9ce4b3ee3e5c6fd5f6383b3e4aaf87c9949c478706d060
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 026d59d294b844572dc199a8c6b856f2fc2a6eec
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2501733"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131297"
 name: व्यवसाय के लिए Skype सर्वर 2019
 summary: >+
   व्यवसाय के लिए Skype सर्वर 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 10/22/2018
-  end: 01/09/2024
-  extendedEnd: 10/14/2025
+  start: 2018-10-22T00:00:00.000-08:00
+  end: 2024-01-09T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/22/2018
-  endDate: 10/14/2025
+  startDate: 2018-10-22T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 content: ''

@@ -4,12 +4,12 @@ metadata:
   description: BizTalk Server 2009 फिक्स्ड लाइफसाइकल नीति का पालन करता है.
   ms.date: 09/23/2020
   keywords: 
-  ms.openlocfilehash: 5d9ec3bf2d5703c8cb846037b2898a46617a129238e3d5c05042dbd5dc3ae976
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: b4b03faaaa85bb92cb389eb2ce093cf11b1a0cf6
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2496146"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146932"
 name: BizTalk Server 2009
 summary: >
   BizTalk Server 2009 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का पालन करता है.
@@ -25,11 +25,11 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/21/2009
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2009-06-21T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 06/21/2009
-  endDate: 07/09/2019
+  startDate: 2009-06-21T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [संस्करण की जानकारी](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* शाखा\n* डेवलपर\n* Enterprise\n* Enterprise RFID\n* Standard"

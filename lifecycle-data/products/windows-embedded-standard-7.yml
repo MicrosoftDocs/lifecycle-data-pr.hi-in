@@ -4,12 +4,12 @@ metadata:
   description: Windows Embedded Standard 7 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 13fbf58fb063641119850be6f18788dfe2e82a2279e6d1623eb9d84f38616aaa
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2d6f8b3ed45dc589904dce8ae7011ec6bb16a187
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2487081"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4148079"
 name: Windows एम्बेडेड स्टैंडर्ड 7
 summary: >+
   Windows Embedded Standard 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
@@ -21,23 +21,23 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 07/29/2010
-  end: 10/13/2015
-  extendedEnd: 10/13/2020
+  start: 2010-07-29T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2020-10-13T22:59:59.999-08:00
 releases:
 - version: Extended Security Update Year 3*
-  startDate: 10/11/2022
-  endDate: 10/10/2023
+  startDate: 2022-10-11T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
 - version: Extended Security Update Year 2*
-  startDate: 10/12/2021
-  endDate: 10/11/2022
+  startDate: 2021-10-12T00:00:00.000-08:00
+  endDate: 2022-10-11T22:59:59.999-08:00
 - version: Extended Security Update Year 1*
-  startDate: 10/13/2020
-  endDate: 10/12/2021
+  startDate: 2020-10-13T00:00:00.000-08:00
+  endDate: 2021-10-12T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 02/28/2011
-  endDate: 10/13/2020
+  startDate: 2011-02-28T00:00:00.000-08:00
+  endDate: 2020-10-13T22:59:59.999-08:00
 - version: Original Release
-  startDate: 07/29/2010
-  endDate: 04/09/2013
+  startDate: 2010-07-29T00:00:00.000-08:00
+  endDate: 2013-04-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [* विस्तारित सुरक्षा अद्यतन कार्यक्रम (ESU) - चुनिंदा एम्बेडेड उत्पादों के लिए विस्तारित सुरक्षा अद्यतन OEM के माध्यम से उपलब्ध हैं](/lifecycle/faq/extended-security-updates)\n* [माइग्रेशन मार्गदर्शन](https://support.microsoft.com/help/4057281)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> समर्थन समाप्त होने की तिथि के पश्चात अतिरिक्त तीन वर्ष तक, Windows Embedded Standard 7 के लिए विस्तारित सुरक्षा अद्यतन (ESU) OEM के माध्यम से उपलब्ध हैं. अधिक जानने के लिए अपने Microsoft पार्टनर या खाता टीम से संपर्क करें.\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

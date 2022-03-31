@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Windows 10 IoT कोर सेवाएं
-  description: Windows 10 IoT Core सेवाएं आधुनिक जीवनचक्र नीति का पालन करती हैं.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  description: Windows 10 IoT कोर सेवाएं आधुनिक जीवनचक्र नीति का अनुसरण करती हैं।
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497478"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130430"
 name: Windows 10 IoT कोर सेवाएं
 summary: >+
-  Windows 10 IoT Core सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं.
+  Windows 10 IoT कोर सेवाएं [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करती हैं।
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>लिंक \n* [Windows 10 IoT कोर सेवाएं](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core सेवाएं, एक सेवा के रूप में सॉफ्टवेयर समर्थन प्रदान करने वाली सदस्यता है, जिसमें डिवाइस अपडेट सेंटर के साथ अपडेट नियंत्रण और डिवाइस हेल्थ सत्यापन के साथ बेहतर सुरक्षा शामिल है, ये Windows 10 IoT Core सॉफ्टवेयर के समर्थित संस्करण के साथ उपलब्ध हैं."
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> यह उत्पाद [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc) द्वारा समर्थित है।\n\n\n## <a name=\"links\"></a>लिंक \n* [Windows 10 IoT कोर सेवाओं का अवलोकन](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Windows 10 IoT कोर सर्विसेज एक समर्थन सदस्यता है जो [Windows 10 IoT कोर](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core) के समर्थित संस्करणों के साथ उपलब्ध है।"

@@ -3,37 +3,38 @@ metadata:
   title: Dynamics GP 2010
   description: Dynamics GP 2010 नियत जीवनचक्र नीति का पालन करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 53a043f0635546e34df556c7ef460006f18c452f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4122216"
 name: Dynamics GP 2010
-summary: |+
+summary: >+
   Dynamics GP 2010 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का पालन करता है.
 
 
 products:
-  - dynamics
+- dynamics
 policyType: fixed
 supportDates:
-  start: 06/15/2010
-  end: 10/13/2015
-  extendedEnd: 10/13/2020
+  start: 2010-06-15T00:00:00.000-08:00
+  end: 2015-10-13T22:59:59.999-08:00
+  extendedEnd: 2020-10-13T22:59:59.999-08:00
 releases:
-  - version: Service Pack 4
-    startDate: 09/18/2013
-    endDate: 10/13/2020
-  - version: Service Pack 3
-    startDate: 06/27/2012
-    endDate: 10/13/2015
-  - version: Service Pack 2
-    startDate: 04/15/2011
-    endDate: 07/08/2014
-  - version: Service Pack 1
-    startDate: 12/16/2010
-    endDate: 07/14/2013
-  - version: Original Release
-    startDate: 06/15/2010
-    endDate: 10/09/2012
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [अतिरिक्त जानकारी और माइग्रेशन मार्गदर्शन](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)
-  * [उत्पाद की जानकारी](/dynamics-gp/)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+- version: Service Pack 4
+  startDate: 2013-09-18T00:00:00.000-08:00
+  endDate: 2020-10-13T22:59:59.999-08:00
+- version: Service Pack 3
+  startDate: 2012-06-27T00:00:00.000-08:00
+  endDate: 2015-10-13T22:59:59.999-08:00
+- version: Service Pack 2
+  startDate: 2011-04-15T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2010-12-16T00:00:00.000-08:00
+  endDate: 2013-07-14T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2010-06-15T00:00:00.000-08:00
+  endDate: 2012-10-09T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [अतिरिक्त जानकारी और माइग्रेशन मार्गदर्शन](https://community.dynamics.com/gp/b/dynamicsgp/posts/microsoft-dynamics-gp-2016-r2-and-year-end-update-lifecycle-and-upgrade-services)\n* [उत्पाद की जानकारी](/dynamics-gp/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

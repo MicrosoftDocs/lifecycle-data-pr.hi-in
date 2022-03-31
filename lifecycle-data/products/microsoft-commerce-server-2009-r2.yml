@@ -4,12 +4,12 @@ metadata:
   description: Microsoft Commerce Server 2009 R2 फिक्स्ड लाइफसाइकल पॉलिसी का पालन करता है.
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
-  ms.openlocfilehash: 96171848b16af4e6f461e2b9884e011e389a162a4c3418a47ed225745e2c965e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 2463e6200115f99c27d21d063c5e2a44dfdf095a
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2502473"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146000"
 name: Microsoft Commerce Server 2009 R2
 summary: >+
   Microsoft Commerce Server 2009 R2 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकिल पॉलिसी  का पालन करता है.
@@ -21,11 +21,11 @@ products:
 - microsoft-servers
 policyType: fixed
 supportDates:
-  start: 11/13/2011
-  end: 07/08/2014
-  extendedEnd: 07/09/2019
+  start: 2011-11-13T00:00:00.000-08:00
+  end: 2014-07-08T22:59:59.999-08:00
+  extendedEnd: 2019-07-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2011
-  endDate: 07/09/2019
+  startDate: 2011-11-13T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n* [Dynamics 365 Commerce की संरचना का अवलोकन](/dynamics365/commerce/commerce-architecture)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

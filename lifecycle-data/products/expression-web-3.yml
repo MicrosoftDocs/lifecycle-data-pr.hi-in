@@ -4,12 +4,12 @@ metadata:
   description: एक्सप्रेशन 3 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio,Web
-  ms.openlocfilehash: 226495fc971595dcb8206e9d99b155b2f4b9e6d4e42d40bd8655259ac0f7984e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 49454544b8f24204111beeb6ed40fbe51e5180b0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2502695"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140309"
 name: एक्सप्रेशन 3
 summary: >+
   एक्सप्रेशन 3 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - expression
 policyType: fixed
 supportDates:
-  start: 10/19/2009
-  end: 01/13/2015
-  extendedEnd: 01/14/2020
+  start: 2009-10-19T00:00:00.000-08:00
+  end: 2015-01-13T22:59:59.999-08:00
+  extendedEnd: 2020-01-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/19/2009
-  endDate: 01/14/2020
+  startDate: 2009-10-19T00:00:00.000-08:00
+  endDate: 2020-01-14T22:59:59.999-08:00
 content: "\n\n> [!NOTE]\n> एक्सप्रेशन डिज़ाइन 3 की आरंभ तिथि 19 नवंबर, 2009 है. \n\n## <a name=\"editions\"></a>संस्करण \n* Design\n* Encoder\n* Studio\n* वेब"

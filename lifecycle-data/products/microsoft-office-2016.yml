@@ -3,32 +3,29 @@ metadata:
   title: Microsoft Office 2016
   description: Microsoft Office 2016 फनिश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: 'Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard'
+  keywords: Home and Business,Home and Student,Personal,Professional,Professional Plus,Standard
+  ms.openlocfilehash: e466e2d4c5e25c1d07a67f136e861ad2b2271291
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107120"
 name: Microsoft Office 2016
-summary: |+
+summary: >+
   Microsoft Office 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू है:Home and Business, Home and Student, Personal, Professional, Professional Plus, Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/22/2015
-  end: 10/13/2020
-  extendedEnd: 10/14/2025
+  start: 2015-09-22T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-    endDate: 10/14/2025
-content: |
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Home and Business
-  * Home and Student
-  * Personal
-  * Professional
-  * Professional Plus
-  * Standard
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Plus\n* Standard"

@@ -3,21 +3,23 @@ metadata:
   title: Microsoft Teams
   description: Microsoft Teams आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: ec78df4084e37e8750325361d6a3f578e7781b6d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4131725"
 name: Microsoft Teams
-summary: |+
+summary: >+
   Microsoft Teams [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 11/01/2016
+  start: 2016-11-01T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 11/01/2016
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)
-  * [सर्विसिंग जानकारी](/microsoftteams/teams-client-update)
+- version: Original Release
+  startDate: 2016-11-01T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [सर्विसिंग जानकारी](/microsoftteams/teams-client-update)"

@@ -3,12 +3,12 @@ metadata:
   title: Mac के लिए Word 2016
   description: Mac के लिए Word 2016 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 07/28/2020
-  ms.openlocfilehash: 7b7f5a53b01b174fef18d3b41db7bb4a4a85d4e14333e63007457d8b66a6ab70
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 8d9ba93791005a233061c40474a2cd5af1226a8b
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519900"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4109821"
 name: Mac के लिए Word 2016
 summary: >+
   Mac के लिए Word 2016 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -18,10 +18,10 @@ products:
 - office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/27/2015
-  end: 10/13/2020
+  start: 2015-09-27T00:00:00.000-08:00
+  end: 2020-10-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 09/27/2015
-  endDate: 10/13/2020
+  startDate: 2015-09-27T00:00:00.000-08:00
+  endDate: 2020-10-13T22:59:59.999-08:00
 content: ''

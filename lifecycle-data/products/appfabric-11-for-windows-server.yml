@@ -2,28 +2,31 @@
 metadata:
   title: Windows Server के लिए AppFabric 1.1
   description: Windows Server के लिए AppFabric 1.1 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 10/23/2020
+  ms.date: 01/27/2022
   keywords: 
-  ms.openlocfilehash: 7a3c21bc66446efcd027666121bfbc91161befb2a6eae6d9e784936ad52680ea
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 54b84c87718d9ca0b793e5194869402ab17ab3b5
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493149"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129579"
 name: Windows Server के लिए AppFabric 1.1
 summary: >+
   Windows Server के लिए AppFabric 1.1 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
 
 
 products:
 - windows
 policyType: fixed
 supportDates:
-  start: 02/11/2012
-  end: 04/11/2017
-  extendedEnd: 04/12/2022
+  start: 2012-02-11T00:00:00.000-08:00
+  end: 2017-04-11T22:59:59.999-08:00
+  extendedEnd: 2022-04-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 02/11/2012
-  endDate: 04/12/2022
-content: "\n## <a name=\"links\"></a>लिंक \n* [जीवनचक्र विस्तार](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)\n\n> [!NOTE]\n> Windows Server के लिए AppFabric 1.1 का समर्थन दिखाए गए दिनांक को समाप्त होता है, जब तक कि उसे SharePoint Server 2013, 2016, और 2019 के घटक के रूप में वितरित न किया जाए. घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"
+  startDate: 2012-02-11T00:00:00.000-08:00
+  endDate: 2022-04-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/archive/blogs/msdn/appfabric/microsoft-appfabric-1-1-for-windows-server-support-lifecycle-extension-4112017)\n\n\n> [!NOTE]\n> Windows Server के लिए AppFabric 1.1 का समर्थन दिखाए गए दिनांक को समाप्त होता है, जब तक कि उसे SharePoint Server 2013, 2016, और 2019 के घटक के रूप में वितरित न किया जाए. घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"

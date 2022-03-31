@@ -3,29 +3,33 @@ metadata:
   title: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007
   description: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: c80919b111fef821b3b45830ca9caf69e1e01021
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4106047"
 name: Microsoft सिस्टम सेंटर डेटा सुरक्षा प्रबंधक 2007
-summary: |
+summary: >
   Microsoft सिस्टम केंद्र डेटा सुरक्षा प्रबंधक 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   > [!IMPORTANT]
+
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें.
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 12/15/2007
-  end: 01/08/2013
-  extendedEnd: 01/09/2018
+  start: 2007-12-15T00:00:00.000-08:00
+  end: 2013-01-08T22:59:59.999-08:00
+  extendedEnd: 2018-01-09T22:59:59.999-08:00
 releases:
-  - version: Service Pack 1
-    startDate: 12/19/2008
-    endDate: 01/09/2018
-  - version: Original Release
-    startDate: 12/15/2007
-    endDate: 01/12/2010
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
+- version: Service Pack 1
+  startDate: 2008-12-19T00:00:00.000-08:00
+  endDate: 2018-01-09T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2007-12-15T00:00:00.000-08:00
+  endDate: 2010-01-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

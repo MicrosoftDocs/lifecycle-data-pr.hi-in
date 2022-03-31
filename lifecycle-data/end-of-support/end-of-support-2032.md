@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2032 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2032 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 10/15/2021
-ms.openlocfilehash: ce028d97a7d8ba133cf639d3556d6dbd11728431
-ms.sourcegitcommit: 25d74b15f53636fd58822f99f8525489382b6d23
+ms.date: 11/16/2021
+ms.openlocfilehash: f2689d6e4647835f474d719889f30caa4cbb0d2a
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/15/2021
-ms.locfileid: "4028292"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116740"
 ---
 # <a name="products-ending-support-in-2032"></a>प्रोडक्ट के लिए 2032 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -22,5 +22,12 @@ ms.locfileid: "4028292"
 
 
 
+## <a name="products-reaching-end-of-support"></a>प्रोडक्ट के लिए अब स्पोर्ट उपलब्ध नहीं होगा
+
+[निश्चित नीति](/lifecycle/policies/fixed) द्वारा शासित निम्नलिखित उत्पाद और रिलीज़ 2032 में समर्थन समाप्त कर देंगे।
+
+| उत्पाद | स्पोर्ट उपलब्ध नहीं है |
+| --- | --- |
+| [Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 13 जनवरी, 2032 |
 
 

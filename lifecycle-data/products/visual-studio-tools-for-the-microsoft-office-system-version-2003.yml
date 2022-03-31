@@ -1,22 +1,28 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Office System संस्करण 2003 के लिए Visual Studio Tools
-  description: 'Microsoft Office System संस्करण 2003 के लिए Visual Studio Tools, निश्चित जीवनचक्र नीति का अनुसरण करता है.'
+  description: Microsoft Office System संस्करण 2003 के लिए Visual Studio Tools, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 53598cf2f8dc9a924e67b57882df13c904f16b88
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4119293"
 name: Microsoft Office System संस्करण 2003 के लिए Visual Studio Tools
-summary: |+
+summary: >+
   Microsoft Office System संस्करण 2003 के लिए Visual Studio Tools, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
-  start: 12/04/2003
-  end: 01/13/2009
-  extendedEnd: 01/14/2014
+  start: 2003-12-04T00:00:00.000-08:00
+  end: 2009-01-13T22:59:59.999-08:00
+  extendedEnd: 2014-01-14T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 12/04/2003
-    endDate: 01/14/2014
-content: |+
+- version: Original Release
+  startDate: 2003-12-04T00:00:00.000-08:00
+  endDate: 2014-01-14T22:59:59.999-08:00
+content: ''

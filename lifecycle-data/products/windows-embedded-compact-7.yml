@@ -4,12 +4,12 @@ metadata:
   description: Windows एम्बेडेड कॉम्पैक्ट 7 नियत जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 03/31/2021
   keywords: 
-  ms.openlocfilehash: 977ff5b50f3b9010deac8292ec6023c09fcaff0b17f09ae0bbf87611b65feb98
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 601a140ee1412768c0ab7cce39701a7ea2d86cb9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2493704"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4110561"
 name: Windows एम्बेडेड कॉम्पैक्ट 7
 summary: >+
   Windows एम्बेडेड कॉम्पैक्ट 7 [नियत](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
@@ -19,11 +19,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 03/15/2011
-  end: 04/12/2016
-  extendedEnd: 04/13/2021
+  start: 2011-03-15T00:00:00.000-08:00
+  end: 2016-04-12T22:59:59.999-08:00
+  extendedEnd: 2021-04-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 03/15/2011
-  endDate: 04/13/2021
+  startDate: 2011-03-15T00:00:00.000-08:00
+  endDate: 2021-04-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन विकल्प - Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [माइग्रेशन विकल्प - Windows CE App Container](/windows/iot/windows_ce/windows-ce-app-container-overview)"

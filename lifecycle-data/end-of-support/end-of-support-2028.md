@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2028 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2028 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 08/11/2021
-ms.openlocfilehash: d9483ab57d5626bb7db3be75fd915951aa68adf1
-ms.sourcegitcommit: 5e9349227c409d98c77eb151f27be486fb55a00c
+ms.date: 01/26/2022
+ms.openlocfilehash: a8b3c4f4e6e462fa015bad7b2c1b609d44d9838b
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "4027974"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4116962"
 ---
 # <a name="products-ending-support-in-2028"></a>प्रोडक्ट के लिए 2028 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -39,3 +39,11 @@ ms.locfileid: "4027974"
 | [Dynamics SL 2018](/lifecycle/products/dynamics-sl-2018?branch=live)<br> | 11 जुलाई 2028 |
 
 
+## <a name="products-moving-to-extended-support"></a>प्रोडक्ट, एक्सटेंडेड स्पोर्ट पर जा रहे हैं
+
+निम्नलिखित उत्पाद 2028 में मुख्यधारा से विस्तारित समर्थन में चले जाएंगे। एक्सटेंडेड स्पोर्ट में बिना किसी लागत के सुरक्षा अद्यतन और भुगतान किए गए गैर-सुरक्षा अद्यतन और स्पोर्ट शामिल हैं। इसके अलावा, Microsoft एक्सटेंडेड स्पोर्ट फेज़ के दौरान डिज़ाइन परिवर्तन या नए फ़ीचर के लिए अनुरोध स्वीकार नहीं करेगा।
+
+| उत्पाद | मेनस्ट्रिम स्पोर्ट उपलब्ध नहीं है |
+| --- | --- |
+| [BizTalk Server 2020](/lifecycle/products/biztalk-server-2020?branch=live)<br> | 11 अप्रैल, 2028 |
+| [Microsoft Host Integration Server 2020](/lifecycle/products/microsoft-host-integration-server-2020?branch=live)<br> | 11 जुलाई 2028 |

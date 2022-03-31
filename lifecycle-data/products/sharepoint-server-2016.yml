@@ -4,12 +4,12 @@ metadata:
   description: SharePoint Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: ''
-  ms.openlocfilehash: 95096676ed57c124c76345b633a6761a718de0571bacbd64aba59041640845ac
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: bbd68c9ef43cbdb7956b2157a360faa053df40ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2499661"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4143158"
 name: SharePoint Server 2016
 summary: >+
   SharePoint Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,11 +19,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 05/01/2016
-  end: 07/13/2021
-  extendedEnd: 07/14/2026
+  start: 2016-05-01T00:00:00.000-08:00
+  end: 2021-07-13T22:59:59.999-08:00
+  extendedEnd: 2026-07-14T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 05/01/2016
-  endDate: 07/14/2026
+  startDate: 2016-05-01T00:00:00.000-08:00
+  endDate: 2026-07-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग की जानकारी](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> [उत्पाद](https://docs.microsoft.com/sharepoint/sharepoint-server) और [डेवलपर](https://developer.microsoft.com/sharepoint/docs) दस्तावेज़ देखें."

@@ -3,12 +3,12 @@ metadata:
   title: SQL Server मैनेजमेंट स्टूडियो
   description: SQL Server मैनेजमेंट स्टूडियो, आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b7b8d8356c01edba21428a525784694e2731f8d09244aadb6f5ee9162cb90729
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: b5a0aacf80c788301f9d514dd175341bd0395768
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506876"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4150854"
 name: SQL Server मैनेजमेंट स्टूडियो
 summary: >+
   SQL Server मैनेजमेंट स्टूडियो, [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,8 +18,8 @@ products:
 - sql-server
 policyType: modern-online
 supportDates:
-  start: 05/27/2016
+  start: 2016-05-27T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 05/27/2016
+  startDate: 2016-05-27T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/sql/ssms/support-policy?view)"

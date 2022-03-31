@@ -4,12 +4,12 @@ metadata:
   description: HPC Pack 2019 आधुनिक जीवनचक्र नीति का अनुसरण करता है।
   ms.date: 08/04/2021
   keywords: 
-  ms.openlocfilehash: 18abaa2de07356456b2a262ee4ea85179541f4f0eff53c68f55c567ddead8137
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 5def215ed19ff959892d1e470d9f2cb0fe539dae
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2485749"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4147857"
 name: HPC Pack 2019
 summary: >+
   HPC Pack 2019 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
@@ -22,8 +22,8 @@ products:
 - windows
 policyType: modern-on-prem
 supportDates:
-  start: 06/10/2020
+  start: 2020-06-10T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 06/10/2020
+  startDate: 2020-06-10T00:00:00.000-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/powershell/high-performance-computing/overview?view=hpc19-ps)"

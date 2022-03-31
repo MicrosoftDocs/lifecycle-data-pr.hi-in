@@ -3,12 +3,12 @@ metadata:
   title: Microsoft Diagnostics and Recovery Toolset 7.0
   description: Microsoft Diagnostics and Recovery Toolset 7.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 2063f241e16f2b4e9cb06572bd089a6ad329cd814b1afb187b22cb9ba38615c4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 787764949a46cc1b9baf52a968ad1029b9b6a664
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2511686"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4121735"
 name: Microsoft Diagnostics and Recovery Toolset 7.0
 summary: >+
   Microsoft Diagnostics and Recovery Toolset 7.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 08/01/2011
-  end: 10/11/2016
-  extendedEnd: 10/12/2021
+  start: 2011-08-01T00:00:00.000-08:00
+  end: 2016-10-11T22:59:59.999-08:00
+  extendedEnd: 2021-10-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 08/01/2011
-  endDate: 10/12/2021
+  startDate: 2011-08-01T00:00:00.000-08:00
+  endDate: 2021-10-12T22:59:59.999-08:00
 content: ''

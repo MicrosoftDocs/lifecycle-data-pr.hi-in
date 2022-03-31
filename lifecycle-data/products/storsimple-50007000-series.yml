@@ -3,22 +3,22 @@ metadata:
   title: StorSimple 5000/7000 श्रृंखला
   description: StorSimple 5000/7000 श्रृंखला, निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dc5e08aff9ae928dd92a4d54067135bb727c9b803c7eb3217246bbc28d414d32
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: d628e77e2bd2c43ae79aaf63d38af918b66067b9
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2506839"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155479"
 name: StorSimple 5000/7000 श्रृंखला
 summary: "StorSimple 5000/7000 श्रृंखला, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.\n\n\n> [!IMPORTANT]\n> इस उत्पाद के लिए समर्थन समाप्त हो गया है. नीचे माइग्रेशन मार्गदर्शन देखें. \n"
 products:
 - azure
 policyType: fixed-mainstream-only
 supportDates:
-  start: 11/15/2012
-  end: 07/09/2019
+  start: 2012-11-15T00:00:00.000-08:00
+  end: 2019-07-09T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 11/15/2012
-  endDate: 07/09/2019
+  startDate: 2012-11-15T00:00:00.000-08:00
+  endDate: 2019-07-09T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](https://azure.microsoft.com/updates/azure-storsimple-5000-7000-series-will-no-longer-be-supported-starting-july-9-2019/)"

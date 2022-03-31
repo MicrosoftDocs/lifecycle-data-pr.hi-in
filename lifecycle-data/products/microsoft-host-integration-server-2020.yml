@@ -2,24 +2,31 @@
 metadata:
   title: Microsoft Host Integration Server 2020
   description: Microsoft Host Integration Server 2020 निश्चित जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 11/02/2020
-  keywords: null
+  ms.date: 01/25/2022
+  keywords: HIS, BizTalk
+  ms.openlocfilehash: 2a2ac23b20a12566a10314c94062dc0d83c55cd4
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107675"
 name: Microsoft Host Integration Server 2020
-summary: |+
+summary: >+
   Microsoft Host Integration Server 2020 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
+
+
+
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 06/01/2020
-  end: 07/08/2025
-  extendedEnd: 07/09/2030
+  start: 2020-06-01T00:00:00.000-08:00
+  end: 2028-07-11T22:59:59.999-08:00
+  extendedEnd: 2030-07-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 06/01/2020
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [उत्पाद की जानकारी](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)
+- version: Original Release
+  startDate: 2020-06-01T00:00:00.000-08:00
+  endDate: 2030-07-09T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](https://techcommunity.microsoft.com/t5/host-integration-blog/bg-p/HostIntegrationBlog)\n\n\n> [!NOTE]\n> मुख्यधारा के समर्थन को 8 जुलाई 2025 से 11 जुलाई 2028 तक बढ़ा दिया गया है। अधिक जानकारी के लिए [यहाँ](https://aka.ms/Biztalk2020roadmap) जाएँ।"

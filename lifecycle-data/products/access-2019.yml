@@ -4,12 +4,12 @@ metadata:
   description: Access 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
-  ms.openlocfilehash: 955ae332b87e3bb72bddea8da6434cbc190a4d03be156198022a4a8a51dd3de4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 86c58f68c2d438f323ae7baf9ca369967e5406bb
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2501474"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4116481"
 name: Access 2019
 summary: >+
   Access 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - office
 policyType: fixed
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
-  extendedEnd: 10/14/2025
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
+  extendedEnd: 2025-10-14T22:59:59.999-08:00
 releases:
 - version: RTM
-  startDate: 09/24/2018
-  endDate: 10/14/2025
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2025-10-14T22:59:59.999-08:00
 content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

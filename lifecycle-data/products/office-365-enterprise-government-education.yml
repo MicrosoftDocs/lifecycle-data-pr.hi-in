@@ -1,23 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 'Office 365 (एंटरप्राइज़, सरकार, शिक्षा)'
-  description: 'Office 365 (एंटरप्राइज़, सरकार, शिक्षा) आधुनिक जीवनचक्र नीति का अनुसरण करता है.'
+  title: Office 365 (एंटरप्राइज़, सरकार, शिक्षा)
+  description: Office 365 (एंटरप्राइज़, सरकार, शिक्षा) आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-name: 'Office 365 (एंटरप्राइज़, सरकार, शिक्षा)'
-summary: |+
+  ms.openlocfilehash: cdc44a3bb6c607ce1583bc1a14afaead8c3ae395
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4152297"
+name: Office 365 (एंटरप्राइज़, सरकार, शिक्षा)
+summary: >+
   Office 365 (एंटरप्राइज़, सरकार, शिक्षा) [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
-  - version: Original Release
-    startDate: 09/22/2015
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सिस्टम आवश्यकताएँ](https://products.office.com/office-system-requirements)
-  * [सर्विसिंग जानकारी](https://technet.microsoft.com/library/mt584223.aspx)
+- version: Original Release
+  startDate: 2015-09-22T00:00:00.000-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://products.office.com/office-system-requirements)\n* [सर्विसिंग जानकारी](https://technet.microsoft.com/library/mt584223.aspx)"

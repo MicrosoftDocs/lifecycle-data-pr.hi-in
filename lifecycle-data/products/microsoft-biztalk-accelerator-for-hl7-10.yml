@@ -4,26 +4,23 @@ metadata:
   description: HL7 1.0 के लिए Microsoft BizTalk Accelerator निश्चित जीवनचक्र नीति  का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Standard
+  ms.openlocfilehash: 021cdd5e12ee8437fffdc7d1bf90a021cd7a8be0
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4153777"
 name: 'HL7 1.0 के लिए Microsoft BizTalk Accelerator '
-summary: |+
-  HL7 1.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है. 
-
-  यह निम्नलिखित संस्करणों पर लागू होता है: Standard
-
+summary: "HL7 1.0 के लिए Microsoft BizTalk Accelerator [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है. \n\nयह निम्नलिखित संस्करणों पर लागू होता है: Standard\n\n"
 products:
-  - microsoft-servers
+- microsoft-servers
 policyType: fixed
 supportDates:
-  start: 05/27/2004
-  end: 07/14/2009
-  extendedEnd: 07/08/2014
+  start: 2004-05-27T00:00:00.000-08:00
+  end: 2009-07-14T22:59:59.999-08:00
+  extendedEnd: 2014-07-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 05/27/2004
-    endDate: 07/08/2014
-content: |
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Standard
+- version: Original Release
+  startDate: 2004-05-27T00:00:00.000-08:00
+  endDate: 2014-07-08T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* Standard"

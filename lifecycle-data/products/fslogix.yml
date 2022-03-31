@@ -4,12 +4,12 @@ metadata:
   description: FSLogix आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 12/07/2020
   keywords: 
-  ms.openlocfilehash: f4475befb1b116ac69ef08320d4b0a04ebae7aa4e90af22bcb28e2cd3e9103ae
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 53dfde79a834aa238bcf765a5c83852974eca99d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2507838"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4155331"
 name: FSLogix
 summary: >+
   FSLogix [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -19,8 +19,8 @@ products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 06/05/2020
+  start: 2020-06-05T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 06/05/2020
+  startDate: 2020-06-05T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [FSLogix डाउनलोड और स्थापित करें](/fslogix/install-ht)\n* [FSLogix सहायता अनुरोध खोलने का तरीका](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)"

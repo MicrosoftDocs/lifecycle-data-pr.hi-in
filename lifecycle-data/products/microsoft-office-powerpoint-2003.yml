@@ -3,20 +3,26 @@ metadata:
   title: Microsoft Office PowerPoint 2003
   description: Microsoft Office PowerPoint 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: c4280152f6f436c65de5e0511babdcc90885ed63
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4145045"
 name: Microsoft Office PowerPoint 2003
-summary: |+
+summary: >+
   Microsoft Office PowerPoint 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 11/27/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-11-27T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 11/27/2003
-    endDate: 04/08/2014
-content: |+
+- version: Original Release
+  startDate: 2003-11-27T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+content: ''

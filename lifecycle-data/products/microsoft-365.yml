@@ -4,12 +4,12 @@ metadata:
   description: Microsoft 365 आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Business,Education,Enterprise,Government
-  ms.openlocfilehash: 980dbd60f13118d05f4e9b602158b7b225049fe59fb09bd94fb321babe4a4763
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: b1092b78653035a6a018bf1622cfc6e3436b163e
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519493"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4139828"
 name: Microsoft 365
 summary: >+
   Microsoft 365 [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,8 +21,8 @@ products:
 - office
 policyType: modern-online
 supportDates:
-  start: 09/22/2015
+  start: 2015-09-22T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 09/22/2015
+  startDate: 2015-09-22T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft 365 रोडमैप](https://www.microsoft.com/microsoft-365/roadmap)\n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Business\n* शिक्षा\n* Enterprise\n* सरकार"

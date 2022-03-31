@@ -4,12 +4,12 @@ metadata:
   description: SharePoint (Microsoft 365 में) Visio सर्विसेज़ आधुनिक जीवनचक्र नीति का पालन करती हैं।
   ms.date: 09/24/2021
   keywords: visio web access
-  ms.openlocfilehash: 401d637ba61c4199dc7f2bf41bcb94f12cc8f505
-  ms.sourcegitcommit: 13c3f073f42c3ad6cb7096505d92851fb7872182
+  ms.openlocfilehash: dd445abab3acafaced06633ee01b83dac5b819a7
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 09/29/2021
-  ms.locfileid: "3506803"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4110783"
 name: SharePoint (Microsoft 365 में) Visio सर्विसेज़
 summary: >+
   SharePoint (Microsoft 365 में) Visio सर्विसेज़ [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती हैं।
@@ -22,9 +22,9 @@ products:
 - office
 policyType: modern-online
 supportDates:
-  start: 04/16/2010
+  start: 2010-04-16T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 04/16/2010
-  endDate: 09/30/2020
+  startDate: 2010-04-16T00:00:00.000-08:00
+  endDate: 2020-09-30T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visio Web Access (उर्फ Visio Services) अपडेट](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541)"

@@ -4,12 +4,12 @@ metadata:
   description: Windows MultiPoint Server 2011 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
   keywords: Premium,Standard
-  ms.openlocfilehash: c33907e126af99dafe25ad8c1926fd69c02e082c9192eb99242e2e6714a3c1c7
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 3343cc459dcb1c3b8f862149299a1b07cf711a33
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2486674"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4123252"
 name: Windows MultiPoint Server 2011
 summary: >+
   Windows MultiPoint Server 2011 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -21,11 +21,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 05/12/2011
-  end: 07/12/2016
-  extendedEnd: 07/13/2021
+  start: 2011-05-12T00:00:00.000-08:00
+  end: 2016-07-12T22:59:59.999-08:00
+  extendedEnd: 2021-07-13T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 05/12/2011
-  endDate: 07/13/2021
+  startDate: 2011-05-12T00:00:00.000-08:00
+  endDate: 2021-07-13T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [माइग्रेशन मार्गदर्शन](/windows-server/get-started/installation-and-upgrade)\n* [उत्पाद की जानकारी](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Premium\n* Standard"

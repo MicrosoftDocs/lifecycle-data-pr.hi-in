@@ -3,24 +3,26 @@ metadata:
   title: Microsoft System Center 2012 R2 App Controller
   description: Microsoft System Center 2012 R2 App Controller निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
+  ms.openlocfilehash: 211c27d338d19044790631967ef48339c5ac61fd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4120477"
 name: Microsoft System Center 2012 R2 App Controller
-summary: |+
+summary: >+
   Microsoft System Center 2012 R2 App Controller [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
 
 
 products:
-  - msc
+- msc
 policyType: fixed
 supportDates:
-  start: 01/16/2014
-  end: 07/11/2017
-  extendedEnd: 07/12/2022
+  start: 2014-01-16T00:00:00.000-08:00
+  end: 2017-07-11T22:59:59.999-08:00
+  extendedEnd: 2022-07-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 01/16/2014
-    endDate: 07/12/2022
-content: |+
-
-  ## <a name="links"></a>लिंक 
-  * [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)
-  * [System Center संसाधन](https://www.microsoft.com/system-center/resources)
+- version: Original Release
+  startDate: 2014-01-16T00:00:00.000-08:00
+  endDate: 2022-07-12T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सिस्टम सेंटर दस्तावेज](/system-center/#pivot=components&panel=components-all)\n* [System Center संसाधन](https://www.microsoft.com/system-center/resources)"

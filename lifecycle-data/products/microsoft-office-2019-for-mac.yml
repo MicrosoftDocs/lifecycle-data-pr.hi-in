@@ -3,29 +3,28 @@ metadata:
   title: Microsoft Office 2019 for Mac
   description: Mac के लिए Microsoft Office 2019 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
-  keywords: 'Academic,Home and Business,Home and Student,Standard'
+  keywords: Academic,Home and Business,Home and Student,Standard
+  ms.openlocfilehash: c48992e8a23900c03aa26c28630031eb1fbf3954
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4107083"
 name: Microsoft Office 2019 for Mac
-summary: |+
+summary: >+
   Mac के लिए Microsoft Office 2019 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू है: Academic, Home and Business, Home and Student, Standard
 
 products:
-  - office
+- office
 policyType: fixed-mainstream-only
 supportDates:
-  start: 09/24/2018
-  end: 10/10/2023
+  start: 2018-09-24T00:00:00.000-08:00
+  end: 2023-10-10T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 09/24/2018
-    endDate: 10/10/2023
-content: |
-
-
-
-  ## <a name="editions"></a>संस्करण 
-  * अकादमिक
-  * Home and Business
-  * Home and Student
-  * Standard
+- version: Original Release
+  startDate: 2018-09-24T00:00:00.000-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
+content: "\n\n\n## <a name=\"editions\"></a>संस्करण \n* अकादमिक\n* Home and Business\n* Home and Student\n* Standard"

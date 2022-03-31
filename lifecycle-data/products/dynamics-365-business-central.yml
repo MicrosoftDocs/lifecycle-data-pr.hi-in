@@ -3,12 +3,12 @@ metadata:
   title: Dynamics 365 Business Central
   description: Dynamics 365 Business Central आधुनिक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: b545be7b0c646955eb883a8a05a49ce89e28b976aaccd99a37fa1d9ecc4c6019
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 7e89668e668bbf7a287aaf062fdbee96e515ef9f
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2504027"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4128728"
 name: Dynamics 365 Business Central
 summary: >+
   Dynamics 365 Business Central [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,8 +18,8 @@ products:
 - dynamics
 policyType: modern-online
 supportDates:
-  start: 11/01/2016
+  start: 2016-11-01T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/01/2016
+  startDate: 2016-11-01T00:00:00.000-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सर्विसिंग जानकारी](/dynamics365/business-central/dev-itpro/faq)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)"

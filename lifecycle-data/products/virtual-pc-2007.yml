@@ -3,12 +3,12 @@ metadata:
   title: Virtual PC 2007
   description: Virtual PC 2007निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: e906fb8098fd7229adf325a3f60541e02898066f822aaecc789224a7e1aee81e
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 422e3aed62a810e7ec3b6aad852c63179fa1ee13
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2489264"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4149240"
 name: Virtual PC 2007
 summary: >
   Virtual PC 2007 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,14 +22,14 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 05/05/2007
-  end: 07/10/2012
-  extendedEnd: 07/11/2017
+  start: 2007-05-05T00:00:00.000-08:00
+  end: 2012-07-10T22:59:59.999-08:00
+  extendedEnd: 2017-07-11T22:59:59.999-08:00
 releases:
 - version: Service Pack 1
-  startDate: 07/03/2008
-  endDate: 07/11/2017
+  startDate: 2008-07-03T00:00:00.000-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 - version: Original Release
-  startDate: 05/05/2007
-  endDate: 07/14/2009
+  startDate: 2007-05-05T00:00:00.000-08:00
+  endDate: 2009-07-14T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)"

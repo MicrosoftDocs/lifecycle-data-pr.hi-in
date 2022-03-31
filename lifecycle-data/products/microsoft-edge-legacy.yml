@@ -3,21 +3,29 @@ metadata:
   title: Microsoft Edge Legacy
   description: Microsoft Edge Legacy घटक जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 08/24/2020
+  ms.openlocfilehash: f30630664ffd8edc82ac2ad45d23efa776c7c089
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4113558"
 name: Microsoft Edge Legacy
-summary: |
+summary: >
   Microsoft Edge Legacy [घटक](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy) जीवनचक्र नीति का अनुसरण करता है.
 
 
+
   > [!IMPORTANT]
+
   > कृपया ध्यान दें कि इस उत्पाद के लिए समर्थन 9 मार्च 2021 को समाप्त हो जाएगा. अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएँ।
 products:
-  - microsoft-edge
+- microsoft-edge
 policyType: component
 supportDates:
-  start: 07/29/2015
-  end: 03/09/2021
+  start: 2015-07-29T00:00:00.000-08:00
+  end: 2021-03-09T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 07/29/2015
-    endDate: 03/09/2021
-content: |+
+- version: Original Release
+  startDate: 2015-07-29T00:00:00.000-08:00
+  endDate: 2021-03-09T22:59:59.999-08:00
+content: ''

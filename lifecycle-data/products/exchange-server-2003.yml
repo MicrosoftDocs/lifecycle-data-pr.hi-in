@@ -3,36 +3,35 @@ metadata:
   title: Exchange Server 2003
   description: Exchange Server 2003 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/10/2020
-  keywords: 'Enterprise,Standard'
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 4a7913fe3830ce420bc39ab275e2b368a0307069
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4140346"
 name: Exchange Server 2003
-summary: |+
+summary: >+
   Exchange Server 2003 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
 
   यह निम्नलिखित संस्करणों पर लागू होता है: Enterprise, Standard
 
 products:
-  - office
+- office
 policyType: fixed
 supportDates:
-  start: 09/28/2003
-  end: 04/14/2009
-  extendedEnd: 04/08/2014
+  start: 2003-09-28T00:00:00.000-08:00
+  end: 2009-04-14T22:59:59.999-08:00
+  extendedEnd: 2014-04-08T22:59:59.999-08:00
 releases:
-  - version: Service Pack 2
-    startDate: 10/19/2005
-    endDate: 04/08/2014
-  - version: Service Pack 1
-    startDate: 05/25/2004
-    endDate: 01/08/2008
-  - version: Original Release
-    startDate: 09/28/2003
-    endDate: 05/25/2005
-content: |
-
-  ## <a name="links"></a>लिंक 
-  * [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)
-
-
-  ## <a name="editions"></a>संस्करण 
-  * Enterprise
-  * Standard
+- version: Service Pack 2
+  startDate: 2005-10-19T00:00:00.000-08:00
+  endDate: 2014-04-08T22:59:59.999-08:00
+- version: Service Pack 1
+  startDate: 2004-05-25T00:00:00.000-08:00
+  endDate: 2008-01-08T22:59:59.999-08:00
+- version: Original Release
+  startDate: 2003-09-28T00:00:00.000-08:00
+  endDate: 2005-05-25T22:59:59.999-08:00
+content: "\n## <a name=\"links\"></a>लिंक \n* [सर्विस पैक पॉलिसी](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>संस्करण \n* Enterprise\n* Standard"

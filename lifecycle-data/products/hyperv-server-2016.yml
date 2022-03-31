@@ -3,12 +3,12 @@ metadata:
   title: Hyper-V Server 2016
   description: Hyper-V Server 2016 निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: 6142c472e464d810bf0600a3005fd410f63162f734d8cfd1b314c817012907c4
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: b4067e97dbe8266a94bff78c76a063f6b3eca66d
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2519863"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4146747"
 name: Hyper-V Server 2016
 summary: >+
   Hyper-V Server 2016 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -18,11 +18,11 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
 - version: Original Release
-  startDate: 10/15/2016
-  endDate: 01/12/2027
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
 content: ''

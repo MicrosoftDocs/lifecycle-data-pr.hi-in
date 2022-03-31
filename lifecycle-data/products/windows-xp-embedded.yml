@@ -4,12 +4,12 @@ metadata:
   description: Windows XP एम्बेडेड निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 09/01/2020
   keywords: Embedded
-  ms.openlocfilehash: 2d2f2aca6231f8180654434446c2b88c44854e1abd90888a9f12414aa9f938fe
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 789a41fa84c49a08fe69a34c86e018986138b81c
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2508134"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4129727"
 name: Windows XP एम्बेडेड
 summary: >
   Windows XP एम्बेडेड [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -25,20 +25,20 @@ products:
 - windows
 policyType: fixed
 supportDates:
-  start: 01/30/2002
-  end: 01/11/2011
-  extendedEnd: 01/12/2016
+  start: 2002-01-30T00:00:00.000-08:00
+  end: 2011-01-11T22:59:59.999-08:00
+  extendedEnd: 2016-01-12T22:59:59.999-08:00
 releases:
 - version: Service Pack 3
-  startDate: 11/14/2008
-  endDate: 01/12/2016
+  startDate: 2008-11-14T00:00:00.000-08:00
+  endDate: 2016-01-12T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 01/18/2005
-  endDate: 01/11/2011
+  startDate: 2005-01-18T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 10/22/2002
-  endDate: 04/10/2007
+  startDate: 2002-10-22T00:00:00.000-08:00
+  endDate: 2007-04-10T22:59:59.999-08:00
 - version: Original Release
-  startDate: 01/30/2002
-  endDate: 01/12/2016
+  startDate: 2002-01-30T00:00:00.000-08:00
+  endDate: 2016-01-12T22:59:59.999-08:00
 content: "\n## <a name=\"links\"></a>लिंक \n* [Windows XP एम्बेडेड समर्थन](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>संस्करण \n* एम्बेडेड"

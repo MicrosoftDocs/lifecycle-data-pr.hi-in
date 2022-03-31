@@ -3,12 +3,12 @@ metadata:
   title: Dynamics 9.0 GreatPlains
   description: Dynamics 9.0 GreatPlains निश्चित जीवनचक्र नीति का अनुसरण करता है.
   ms.date: 07/28/2020
-  ms.openlocfilehash: dfcd9c165dcdfc78408a8b5124e5579fd9a989c0d2b0ab38fe5082483091c355
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.openlocfilehash: 1ab1b7a512b938575d97faa9eac023d9ff40ddab
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2488635"
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4109266"
 name: Dynamics 9.0 GreatPlains
 summary: >
   Dynamics 9.0 GreatPlains [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -22,23 +22,23 @@ products:
 - dynamics
 policyType: fixed
 supportDates:
-  start: 12/19/2005
-  end: 01/11/2011
-  extendedEnd: 01/11/2011
+  start: 2005-12-19T00:00:00.000-08:00
+  end: 2011-01-11T22:59:59.999-08:00
+  extendedEnd: 2011-01-11T22:59:59.999-08:00
 releases:
 - version: Service Pack 4
-  startDate: 10/09/2008
-  endDate: 01/11/2011
+  startDate: 2008-10-09T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
 - version: Service Pack 3
-  startDate: 10/03/2007
-  endDate: 10/12/2010
+  startDate: 2007-10-03T00:00:00.000-08:00
+  endDate: 2010-10-12T22:59:59.999-08:00
 - version: Service Pack 2
-  startDate: 12/01/2006
-  endDate: 10/13/2009
+  startDate: 2006-12-01T00:00:00.000-08:00
+  endDate: 2009-10-13T22:59:59.999-08:00
 - version: Service Pack 1
-  startDate: 05/26/2006
-  endDate: 01/08/2008
+  startDate: 2006-05-26T00:00:00.000-08:00
+  endDate: 2008-01-08T22:59:59.999-08:00
 - version: Original Release
-  startDate: 12/19/2005
-  endDate: 01/11/2011
+  startDate: 2005-12-19T00:00:00.000-08:00
+  endDate: 2011-01-11T22:59:59.999-08:00
 content: ''
