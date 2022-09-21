@@ -14,6 +14,21 @@
       "source_path": "lifecycle-data/export/products.md",
       "redirect_url": "/lifecycle/products/export",
       "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "lifecycle-data/products/windows-11-home-and-pro-version-21h2.yml",
+      "redirect_url": "/lifecycle/products/windows-11-home-and-pro",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "lifecycle-data/products/windows-11-iot-enterprise-version-21h2.yml",
+      "redirect_url": "/lifecycle/products/windows-11-iot-enterprise",
+      "redirect_document_id⁯": false
+    },
+    {
+      "source_path": "lifecycle-data/products/windows-11-enterprise-and-education-version-21h2.yml",
+      "redirect_url": "/lifecycle/products/windows-11-enterprise-and-education",
+      "redirect_document_id⁯": false
     }
   ]
 }
