@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Azure IoT Edge
+  description: Azure IoT Edge आधुनिक जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 09/09/2022
+  keywords: 
+  ms.openlocfilehash: c6c9f5f2df89785d9b8c8da4bc55b11f35fd36dc
+  ms.sourcegitcommit: eb85e92de9c8ae5d55d80f025a75c08095bc855d
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4520045"
+name: Azure IoT Edge
+summary: >+
+  Azure IoT Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 2018-06-28T00:00:00.000-08:00
+releases:
+- version: Version 1.4 (LTS)
+  startDate: 2022-08-30T00:00:00.000-08:00
+  endDate: 2024-11-12T22:59:59.999-08:00
+- version: Version 1.3
+  startDate: 2022-06-30T00:00:00.000-08:00
+  endDate: 2022-08-29T22:59:59.999-08:00
+- version: Version 1.2
+  startDate: 2021-04-06T00:00:00.000-08:00
+  endDate: 2022-06-27T22:59:59.999-08:00
+- version: Version 1.1 (LTS)
+  startDate: 2021-02-01T00:00:00.000-08:00
+  endDate: 2022-12-13T22:59:59.999-08:00
+- version: Version 1.0
+  startDate: 2018-06-28T00:00:00.000-08:00
+  endDate: 2021-02-01T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Azure IoT Edge के संस्करण और रिलीज़ नोट्स](/azure/iot-edge/version-history?view=iotedge-2020-11)\n* [Azure IoT Edge रिलीज़ शेड्यूल](https://github.com/Azure/azure-iotedge/releases)\n* [Azure IoT Edge समर्थित सिस्टम](/azure/iot-edge/support?view=iotedge-2020-11)"

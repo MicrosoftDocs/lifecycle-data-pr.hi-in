@@ -2,22 +2,26 @@
 metadata:
   title: Microsoft Sync Framework 1.0
   description: Microsoft Sync Framework 1.0 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 2c667592166693fbf1c698aed74ef9cd429ef119
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/06/30
+  keywords: 
+  ms.openlocfilehash: ed71af826e8b68a99c84d6dda7de758c39ac22de
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4137571"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518676"
 name: Microsoft Sync Framework 1.0
-summary: >
+summary: >+
   Microsoft Sync फ़्रेमवर्क 1.0 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
 
 
 
   > [!IMPORTANT]
 
   > इस उत्पाद के लिए समर्थन समाप्त हो गया है.
+
 products:
 - vs
 policyType: fixed
@@ -32,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 2008-11-04T00:00:00.000-08:00
   endDate: 2011-07-12T22:59:59.999-08:00
-content: "\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> Sync Framework 1.0 SP1 समर्थन दिखाए गए दिनांक को समाप्त होता है, जब तक कि SharePoint Server 2010, 2013, 2016, या 2019 के घटक के रूप में वितरित न किया जाए. घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n\n> [!NOTE]\n> Sync Framework 1.0 SP1 समर्थन 8 जनवरी, 2019 को समाप्त हो गया है जब तक कि इसे SharePoint सर्वर 2013, 2016, या 2019 के एक घटक के रूप में वितरित नहीं किया गया। घटकों को वही समर्थन प्राप्त होता है, जो उनके पेरेंट उत्पाद या प्लेटफ़ॉर्म को प्राप्त होता है।"

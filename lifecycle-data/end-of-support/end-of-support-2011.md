@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2011 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2011 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028144"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518417"
 ---
 # <a name="products-ending-support-in-2011"></a>प्रोडक्ट के लिए 2011 में स्पोर्ट उपलब्ध नहीं होगा
 

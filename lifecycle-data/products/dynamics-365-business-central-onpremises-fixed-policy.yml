@@ -1,17 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 Business Central on-premises ( (निश्चित नीति))
+  title: Dynamics 365 Business Central on-premises (निश्चित नीति)
   description: Dynamics 365 Business Central on-premises (निश्चित नीति), निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1d109b983f3b77360e49e62883fb1b4a7c85ba38
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/07/21
+  keywords: 
+  ms.openlocfilehash: 83e077a284c67a0f8a0d4b113179fa9ee265fe02
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4108563"
-name: Dynamics 365 Business Central on-premises ( (निश्चित नीति))
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516530"
+name: Dynamics 365 Business Central on-premises (निश्चित नीति)
 summary: >+
   Dynamics 365 Business Central on-premises (निश्चित नीति), [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
 
 
 products:
@@ -28,4 +32,4 @@ releases:
 - version: Fall 2018 Update, version 13.x
   startDate: 2018-10-01T00:00:00.000-08:00
   endDate: 2020-04-14T22:59:59.999-08:00
-content: ''
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/dynamics365/business-central/dev-itpro/terms/lifecycle-policy-on-premises)\n* [Microsoft Dynamics 365 रोडमैप](https://aka.ms/businessappsreleasenotes)\n* [सिस्टम आवश्यकताएँ](/dynamics365/business-central/product-requirements)\n* [अक्सर पूछे जाने वाले प्रश्न](/dynamics365/business-central/dev-itpro/faq)"

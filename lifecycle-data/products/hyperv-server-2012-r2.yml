@@ -2,16 +2,20 @@
 metadata:
   title: Hyper-V Server 2012 R2
   description: Hyper-V Server 2012 R2 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 07/28/2020
-  ms.openlocfilehash: bd49e3a9f7643a9021542e099c9ab5462164ff49
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 2022/04/28
+  keywords: 
+  ms.openlocfilehash: 6267039cf2ccbd6f532327db392ded3eaadfd2d6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4149855"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516493"
 name: Hyper-V Server 2012 R2
 summary: >+
   Hyper-V Server 2012 R2 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
 
 
 products:
@@ -20,9 +24,9 @@ policyType: fixed
 supportDates:
   start: 2013-11-25T00:00:00.000-08:00
   end: 2018-01-09T22:59:59.999-08:00
-  extendedEnd: 2023-01-10T22:59:59.999-08:00
+  extendedEnd: 2023-10-10T22:59:59.999-08:00
 releases:
 - version: Original Release
   startDate: 2013-11-25T00:00:00.000-08:00
-  endDate: 2023-01-10T22:59:59.999-08:00
+  endDate: 2023-10-10T22:59:59.999-08:00
 content: ''

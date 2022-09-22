@@ -2,19 +2,21 @@
 metadata:
   title: 'Visual Studio 2022 '
   description: Visual Studio 2022 निश्चित जीवनचक्र नीति का अनुसरण करता है।
-  ms.date: 11/05/2021
+  ms.date: 2022/05/11
   keywords: 
-  ms.openlocfilehash: 4c4a28cfa9ed1963deb6afc84c17c4003b8e65a8
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 0b35faaba3b6e2d2d3b3f7711d84292c7f63c94d
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4156874"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516308"
 name: 'Visual Studio 2022 '
 summary: >+
   Visual Studio 2022 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
 
 
+
+  यह निम्नलिखित संस्करणों पर लागू होता है: कम्यूनिटी, एंटरप्राइज, प्रोफेशनल
 
 
 
@@ -26,10 +28,13 @@ supportDates:
   end: 2027-01-12T22:59:59.999-08:00
   extendedEnd: 2032-01-13T22:59:59.999-08:00
 releases:
+- version: Version 17.2 (LTSC channel)
+  startDate: 2022-05-10T00:00:00.000-08:00
+  endDate: 2024-01-09T22:59:59.999-08:00
 - version: Version 17.0 (LTSC channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2023-07-11T22:59:59.999-08:00
 - version: Visual Studio 2022 (Current channel)
   startDate: 2021-11-08T00:00:00.000-08:00
   endDate: 2032-01-13T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [समर्थन और जीवनचक्र की जानकारी](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio डाउनलोड पेज](https://visualstudio.microsoft.com/)\n* [Visual Studio रिलीज़ नोट्स](/visualstudio/releases/2022/release-notes)\n* [सिस्टम आवश्यकताएँ](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2022 संस्करणों को Visual Studio 2022 जीवनचक्र के हिस्से के रूप में शिप और समर्थित किया जाता है: एजेंट, बिल्ड टूल्स, IntelliTrace स्टैंडअलोन कलेक्टर, प्रदर्शन उपकरण, रिमोट टूल्स, Team एक्सप्लोरर, और Visual C++ Redistributable।\n> [!NOTE]\n> Visual Studio समुदाय संस्करण केवल वर्तमान चैनल पर समर्थित है, जिसमें Visual Studio के नवीनतम लघु संस्करण की नवीनतम सर्विसिंग रिलीज़ है। अधिक जानकारी के लिए [यहाँ](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022) जाएँ।"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio ब्लॉग घोषणाएँ](https://devblogs.microsoft.com/visualstudio/)\n* [समर्थन और जीवनचक्र की जानकारी](/visualstudio/releases/2022/servicing-vs2022)\n* [Visual Studio डाउनलोड पेज](https://visualstudio.microsoft.com/)\n* [Visual Studio रिलीज़ नोट्स](/visualstudio/releases/2022/release-notes)\n* [सिस्टम आवश्यकताएँ](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2022 संस्करणों को Visual Studio 2022 जीवनचक्र के हिस्से के रूप में शिप और समर्थित किया जाता है: एजेंट, बिल्ड टूल्स, IntelliTrace स्टैंडअलोन कलेक्टर, प्रदर्शन उपकरण, रिमोट टूल्स, Team एक्सप्लोरर, और Visual C++ Redistributable।\n> [!NOTE]\n> Visual Studio समुदाय संस्करण केवल वर्तमान चैनल पर समर्थित है, जिसमें Visual Studio के नवीनतम लघु संस्करण की नवीनतम सर्विसिंग रिलीज़ है। अधिक जानकारी के लिए [यहाँ](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022) जाएँ। \n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* Enterprise\n* Professional"

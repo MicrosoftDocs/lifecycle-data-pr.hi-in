@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2019 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2019 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 10/18/2021
-ms.openlocfilehash: 8897f8ee06e300688a7ed3680a67f28727d9be00
-ms.sourcegitcommit: dac122fba5780fbedce4e9575efe921fffde28c3
+ms.date: 07/26/2022
+ms.openlocfilehash: 22b7432a5180f392bf343c5fae25f83da39a9753
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 10/19/2021
-ms.locfileid: "4028308"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518232"
 ---
 # <a name="products-ending-support-in-2019"></a>प्रोडक्ट के लिए 2019 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -24,7 +24,6 @@ ms.locfileid: "4028308"
 
 | उत्पाद | रिटायरमेंट |
 | --- | --- |
-| [Azure शेड्यूलर](/lifecycle/products/azure-scheduler?branch=live)<br> | 30 सितम्बर 2019 |
 | [हॉकीऐप](/lifecycle/products/hockeyapp?branch=live)<br> | 16 नवम्बर 2019 |
 
 
@@ -34,6 +33,7 @@ ms.locfileid: "4028308"
 
 | उत्पाद | सर्विस की समाप्ति |
 | --- | --- |
+| [PowerShell, PowerShell कोर 6.0](/lifecycle/products/powershell?branch=live)<br> | 13 फरवरी 2019 |
 | [Mac के लिए Visual Studio, Mac के लिए Visual Studio 2017](/lifecycle/products/visual-studio-for-mac?branch=live)<br> | 08 मार्च 2019 |
 | [Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 1607](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, वर्ज़न 1709](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Core, वर्ज़न 1709](/lifecycle/products/windows-10-iot-core?branch=live)<br>[Windows 10 IoT Enterprise, वर्ज़न 1607](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, वर्ज़न 1709](/lifecycle/products/windows-server?branch=live)<br> | 09 अप्रैल 2019 |
 | [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 1710](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 20 मई 2019 |

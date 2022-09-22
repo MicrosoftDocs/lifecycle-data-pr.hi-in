@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: सिस्टम सेंटर 2022 ऑपरेशन्स मैनेजर
+  description: सिस्टम सेंटर 2022 ऑपरेशन्स मैनेजर नियत जीवनचक्र नीति का अनुसरण करता है।
+  ms.date: 2022/05/05
+  keywords: 
+  ms.openlocfilehash: 5884f0dee8f0cfe35d1934097662ba8bc714dc19
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519823"
+name: सिस्टम सेंटर 2022 ऑपरेशन्स मैनेजर
+summary: >+
+  सिस्टम सेंटर 2022 ऑपरेशन्स मैनेजर [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है।
+
+
+
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 2022-04-01T00:00:00.000-08:00
+  end: 2027-04-13T22:59:59.999-08:00
+  extendedEnd: 2032-04-13T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2022-04-01T00:00:00.000-08:00
+  endDate: 2032-04-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"

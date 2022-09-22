@@ -2,14 +2,14 @@
 metadata:
   title: Azure Dev Spaces
   description: Azure Dev Spaces आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 05/25/2021
+  ms.date: 2022/06/28
   keywords: 
-  ms.openlocfilehash: 7c49314780cad379b977145dc5823929c4f3c2d3
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 843e08fa86f0f95cb5e9ba7f7ebe113c4067421f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4109761"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516641"
 name: Azure Dev Spaces
 summary: >+
   Azure Dev Spaces [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
@@ -27,5 +27,5 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2019-04-25T00:00:00.000-08:00
-  endDate: 2023-10-31T22:59:59.999-08:00
+  endDate: 2021-05-15T22:59:59.999-08:00
 content: "\n\n\n\n> [!NOTE]\n> ग्राहकों को [Bridge to Kubernetes](https://docs.microsoft.com/azure/dev-spaces/migrate-to-bridge-to-kubernetes), एक क्लायंट डेवलपर टूल, पर माईग्रेट करना चाहिए."

@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: वेब के लिए परियोजना
+  description: वेब के लिए परियोजना आधुनिक जीवनचक्र नीति का पालन करती है।
+  ms.date: 2022/07/15
+  keywords: 
+  ms.openlocfilehash: 76c65c5af2e2fcfbb8a6af6b74d76cbeaf0244bc
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519527"
+name: वेब के लिए परियोजना
+summary: >+
+  वेब के लिए परियोजना [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करती है।
+
+
+
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 2019-10-29T00:00:00.000-08:00
+releases:
+- version: Original Release
+  startDate: 2019-10-29T00:00:00.000-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [सिस्टम आवश्यकताएँ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources?rtc=1)\n* [सर्विसिंग जानकारी](/officeupdates/update-history-microsoft365-apps-by-date)\n* [उत्पाद दस्तावेज](/projectonline/project-online)\n* [वेब सेवा विवरण के लिए परियोजना](/office365/servicedescriptions/project-online-service-description/project-web-service-description)"

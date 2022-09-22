@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2025 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2025 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 03/09/2022
-ms.openlocfilehash: 0ef5be1ee8667f218c76bc4c219b19db879ec365
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117184"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517914"
 ---
 # <a name="products-ending-support-in-2025"></a>प्रोडक्ट के लिए 2025 में स्पोर्ट उपलब्ध नहीं होगा
 

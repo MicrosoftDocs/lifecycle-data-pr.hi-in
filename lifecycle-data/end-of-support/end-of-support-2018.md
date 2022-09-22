@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2018 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2018 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 09/17/2021
-ms.openlocfilehash: ef79682a4e68c31ab569281f438557d6d71b11ea
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 657bdb28ba9fa0c5151cb9a394d9ade3af39a2b3
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4028090"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518269"
 ---
 # <a name="products-ending-support-in-2018"></a>प्रोडक्ट के लिए 2018 में स्पोर्ट उपलब्ध नहीं होगा
 

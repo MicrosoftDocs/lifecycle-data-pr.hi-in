@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: System Center 2022 वर्चुअल मशीन प्रबंधक
+  description: System Center 2022 वर्चुअल मशीन प्रबंधक, निश्चित जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 2022/05/05
+  keywords: VMM
+  ms.openlocfilehash: 020e74bc8abfa7d22ccaa00ae4444b43bcc96e5f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519601"
+name: System Center 2022 वर्चुअल मशीन प्रबंधक
+summary: >+
+  System Center 2022 वर्चुअल मशीन प्रबंधक, [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 2022-04-01T00:00:00.000-08:00
+  end: 2027-04-13T22:59:59.999-08:00
+  extendedEnd: 2032-04-13T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2022-04-01T00:00:00.000-08:00
+  endDate: 2032-04-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [उत्पाद की जानकारी](/system-center/)"

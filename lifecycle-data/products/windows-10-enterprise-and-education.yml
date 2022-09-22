@@ -2,21 +2,21 @@
 metadata:
   title: Windows 10 Enterprise and Education
   description: Windows 10 Enterprise and Education आधुनिक जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 11/15/2021
+  ms.date: 09/09/2022
   keywords: 
-  ms.openlocfilehash: 753111f48f91c6e725fc0804de60cf4d0a9b23db
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: bc2a6f89cc2cdaaa6da73110ff83d37e6ede9bf6
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4130504"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519083"
 name: Windows 10 Enterprise and Education
 summary: >+
   Windows 10 Enterprise and Education [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
 
 
 
-  यह निम्नलिखित संस्करणों पर लागू होता है: शिक्षा, एंटरप्राइज़
+  यह निम्नलिखित संस्करणों पर लागू होता है: Education, Enterprise, Enterprise multi-session
 
 
 
@@ -70,4 +70,4 @@ releases:
 - version: Version 1507
   startDate: 2015-07-29T00:00:00.000-08:00
   endDate: 2017-05-09T22:59:59.999-08:00
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [उत्पाद की जानकारी](/windows/windows-10/)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home और Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> अस्थगित न होने तक, आगामी Windows 10 फ़ीचर अपडेट को मुख्यधारा समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है।\n\n\n## <a name=\"editions\"></a>संस्करण \n* शिक्षा\n* Enterprise"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [एक सेवा के रूप में Windows (WaaS)](/windows/deployment/update/waas-quick-start)\n* [उत्पाद की जानकारी](/windows/windows-10/)\n* [लाइफसाइकल FAQ - Windows उत्पाद](/lifecycle/faq/windows)\n* [Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise)\n* [Windows 10 Home और Pro](/lifecycle/products/windows-10-home-and-pro)\n\n\n> [!NOTE]\n> अस्थगित न होने तक, आगामी Windows 10 फ़ीचर अपडेट को मुख्यधारा समर्थन दिनांक की सूचीबद्ध समाप्ति से पहले स्थापित किया जा सकता है।\n\n\n## <a name=\"editions\"></a>संस्करण \n* शिक्षा\n* Enterprise\n* एंटरप्राइज़ बहु-सत्र"

@@ -2,26 +2,16 @@
 metadata:
   title: Microsoft Edge
   description: Microsoft Edge आधुनिक जीवनचक्र नीति का पालन करता है
-  ms.date: 11/03/2021
-  keywords: IE; browser; Internet Explorer
-  ms.openlocfilehash: cba75253b99e6f2c40c3f38da3b808578facaa2e
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.date: 08/08/2022
+  keywords: अर्थात; ब्राउज़र; इंटरनेट एक्स्प्लोरर
+  ms.openlocfilehash: eee90516a33aedeb20b404db7362088a5f1031d3
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4147746"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4518491"
 name: Microsoft Edge
-summary: >+
-  Microsoft Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है
-
-
-
-
-
-  > [!IMPORTANT]
-
-  > कृपया ध्यान दें कि इस उत्पाद के लीगेसी संस्करण का समर्थन 9 मार्च, 2021 को समाप्त होता है। अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएँ.
-
+summary: "Microsoft Edge [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का पालन करता है\n\n\n\n\n> [!IMPORTANT]\n> 15 जनवरी, 2023 तक Windows 7 और Windows Server 2008 R2 पर Microsoft Edge का समर्थन जारी रहेगा। Microsoft अनुशंसा करता है कि ग्राहक किसी समर्थित ऑपरेटिंग सिस्टम जैसे Windows 10 में चले जाएँ। अधिक जानकारी के लिए [यहाँ](https://docs.microsoft.com/deployedge/microsoft-edge-supported-operating-systems) जाएँ. \n\n"
 products:
 - microsoft-edge
 policyType: modern-on-prem
@@ -30,4 +20,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 2020-01-15T00:00:00.000-08:00
-content: "\n\n## <a name=\"links\"></a>लिंक \n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge की ओर बढ़ने में तेज़ी लाने के लिए नए संसाधन](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [जीवनचक्र FAQ - Internet Explorer और Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n*  [Microsoft Edge की जीवनचक्र नीति](/deployedge/microsoft-edge-support-lifecycle)"
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Microsoft Edge सर्विसिंग चैनल का अवलोकन](/deployedge/microsoft-edge-channels)\n* [Microsoft Edge सपोर्टेड ऑपरेटिंग सिस्टम](/deployedge/microsoft-edge-supported-operating-systems)\n* [Edge की ओर बढ़ने में तेज़ी लाने के लिए नए संसाधन](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/proven-tools-to-accelerate-your-move-to-microsoft-edge/ba-p/2504818)\n* [जीवनचक्र FAQ - Internet Explorer और Edge](/lifecycle/faq/internet-explorer-microsoft-edge)\n*  [Microsoft Edge की जीवनचक्र नीति](/deployedge/microsoft-edge-support-lifecycle)\n\n\n> [!NOTE]\n> कृपया ध्यान दें कि इस उत्पाद के लीगेसी संस्करण का समर्थन 9 मार्च, 2021 को समाप्त होता है। अधिक जानकारी के लिए [यहाँ](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) जाएँ।"

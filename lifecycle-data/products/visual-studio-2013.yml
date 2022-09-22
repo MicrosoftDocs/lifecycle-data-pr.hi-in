@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2013
   description: Visual Studio 2013 फिक्स्ड लाइफसाइकल नीति का अनुसरण करता है.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: 74908b552844ac27651393960fa567b4971842b6
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 26531cc6c88e5781b92affe65d38caf6f78b63d4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142788"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4516449"
 name: Visual Studio 2013
 summary: >+
   Visual Studio 2013 [फिक्स्ड](/lifecycle/policies/fixed) लाइफसाइकल नीति का अनुसरण करता है.
@@ -33,5 +33,5 @@ releases:
   endDate: 2024-04-09T22:59:59.999-08:00
 - version: Original Release
   startDate: 2014-01-15T00:00:00.000-08:00
-  endDate: 2024-04-09T22:59:59.999-08:00
+  endDate: 2016-10-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2013 संस्करणों को Visual Studio 2013 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, IntelliTrace कलेक्टर, मॉडलिंग SDK, मल्टीबाइट MFC लाइब्रेरी, रिमोट टूल्स, SDK, Shell (एकीकृत), Shell (अलग), टीम एक्सप्लोरर, Visual C++ पुनर्वितरण योग्य, वेब टूल्स एक्सटेंशन\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* वेब के लिए एक्सप्रेस\n* Windows के लिए एक्सप्रेस\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Premium\n* Professional\n* रिलीज प्रबंधन\n* परीक्षण प्रोफेशनल\n* Ultimate"

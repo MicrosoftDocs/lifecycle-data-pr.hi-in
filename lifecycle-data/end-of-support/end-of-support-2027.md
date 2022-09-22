@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2027 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2027 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 03/09/2022
-ms.openlocfilehash: c9c996d5f6ea11d9d413b309dd3bb4e673b02a14
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 05/05/2022
+ms.openlocfilehash: 49ef75f723bc4d89465d14bfd395b860123516fe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117036"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4517915"
 ---
 # <a name="products-ending-support-in-2027"></a>प्रोडक्ट के लिए 2027 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -40,4 +40,5 @@ ms.locfileid: "4117036"
 
 | उत्पाद | मेनस्ट्रिम स्पोर्ट उपलब्ध नहीं है |
 | --- | --- |
-| [Dynamics 365 for Customer Engagement Apps, संस्करण 9 (ऑन-प्रिमाइसेस अद्यतन)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022 ](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12 जनवरी 2027 |
+| [Dynamics 365 for Customer Engagement Apps, संस्करण 9 (ऑन-प्रिमाइसेस अद्यतन)](/lifecycle/products/dynamics-365-for-customer-engagement-apps-version-9-onpremises-update?branch=live)<br>[Visual Studio 2022](/lifecycle/products/visual-studio-2022?branch=live)<br>[Windows 10 IoT Enterprise LTSC 2021](/lifecycle/products/windows-10-iot-enterprise-ltsc-2021?branch=live)<br> | 12 जनवरी 2027 |
+| [सिस्टम केंद्र 2022 डेटा सुरक्षा प्रबंधक](/lifecycle/products/system-center-2022-data-protection-manager?branch=live)<br>[सिस्टम केंद्र 2022 संचालन प्रबंधक](/lifecycle/products/system-center-2022-operations-manager?branch=live)<br>[सिस्टम सेंटर 2022 ऑर्केस्ट्रेटर](/lifecycle/products/system-center-2022-orchestrator?branch=live)<br>[सिस्टम केंद्र 2022 सेवा प्रबंधक](/lifecycle/products/system-center-2022-service-manager?branch=live)<br>[सिस्टम केंद्र 2022 वर्चुअल मशीन प्रबंधक](/lifecycle/products/system-center-2022-virtual-machine-manager?branch=live)<br> | 13 अप्रैल 2027 |

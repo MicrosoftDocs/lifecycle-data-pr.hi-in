@@ -2,14 +2,14 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 निश्चित जीवनचक्र नीति का अनुसरण करता है.
-  ms.date: 10/11/2021
+  ms.date: 2022/04/14
   keywords: 
-  ms.openlocfilehash: b6e8222fe770516c85dab8108e9652b57c22a1c4
-  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.openlocfilehash: 6b8c57a8c0f8f15e75c9c7aa3fab0b49c84f03f4
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
   ms.translationtype: HT
   ms.contentlocale: hi-IN
-  ms.lasthandoff: 03/18/2022
-  ms.locfileid: "4142603"
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519009"
 name: Visual Studio 2015
 summary: >+
   Visual Studio 2015 [निश्चित](/lifecycle/policies/fixed) जीवनचक्र नीति का अनुसरण करता है.
@@ -33,5 +33,5 @@ releases:
   endDate: 2025-10-14T22:59:59.999-08:00
 - version: Original Release
   startDate: 2015-07-20T00:00:00.000-08:00
-  endDate: 2025-10-14T22:59:59.999-08:00
+  endDate: 2017-07-11T22:59:59.999-08:00
 content: "\n\n## <a name=\"links\"></a>लिंक \n* [Visual Studio के पुराने संस्करणों के लिए सर्विसिंग जानकारी](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n\n\n> [!NOTE]\n> निम्नलिखित घटकों के Visual Studio 2015 संस्करणों को Visual Studio 2015 जीवनचक्र के हिस्से के रूप में भेजा और समर्थित किया जाता है: एजेंट, ESM, मॉडलिंग SDK, PSM, रिमोट टूल्स, SDK, Shell(एकीकृत), Shell (अलग), TPS, Visual C++ पुनर्वितरण योग्य।\n\n\n## <a name=\"editions\"></a>संस्करण \n* कम्यूनिटी\n* Enterprise\n* वेब के लिए एक्सप्रेस\n* Windows 10 के लिए Express\n* Windows डेस्कटॉप के लिए एक्सप्रेस\n* Professional\n* रिलीज प्रबंधन\n* परीक्षण प्रोफेशनल"

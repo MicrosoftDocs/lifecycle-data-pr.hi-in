@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Kaizala
+  description: Kaizala आधुनिक जीवनचक्र नीति का अनुसरण करता है.
+  ms.date: 08/23/2022
+  keywords: Teams
+  ms.openlocfilehash: 21024c9d539037e54700d27eca6ede8ffd763f1f
+  ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+  ms.translationtype: HT
+  ms.contentlocale: hi-IN
+  ms.lasthandoff: 09/09/2022
+  ms.locfileid: "4519490"
+name: Kaizala
+summary: >+
+  Kaizala [आधुनिक](/lifecycle/policies/modern) जीवनचक्र नीति का अनुसरण करता है.
+
+
+
+
+
+products:
+- m365
+policyType: modern-online
+supportDates:
+  start: 2017-07-26T00:00:00.000-08:00
+  end: 2023-08-31T22:59:59.999-08:00
+releases:
+- version: Original Release
+  startDate: 2017-07-26T00:00:00.000-08:00
+  endDate: 2023-08-31T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>लिंक \n* [Teams में माइग्रेट करें](/microsoftteams/get-started-kaizala-teams)"
