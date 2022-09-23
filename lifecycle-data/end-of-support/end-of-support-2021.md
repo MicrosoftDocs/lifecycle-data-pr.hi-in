@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2021 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2021 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 01/14/2022
-ms.openlocfilehash: e0be3c1d9300e53c4eb912b0f9347902948fb0f8
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 09/13/2022
+ms.openlocfilehash: d92c5d932bd58716fea6238162788a45d0dced00
+ms.sourcegitcommit: 83c4bec3ec265ce0fb67fc5dc6b134f8e011dfff
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117480"
+ms.lasthandoff: 09/13/2022
+ms.locfileid: "4520834"
 ---
 # <a name="products-ending-support-in-2021"></a>प्रोडक्ट के लिए 2021 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -37,12 +37,12 @@ ms.locfileid: "4117480"
 | उत्पाद | सर्विस की समाप्ति |
 | --- | --- |
 | [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 1906](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 26 जनवरी 2021 |
+| [Azure IoT Edge, संस्करण 1.0](/lifecycle/products/azure-iot-edge?branch=live)<br> | 1 फरवरी 2021 |
 | [Dynamics 365 Business Central ऑन-प्रेमिसेस (मॉडर्न पॉलिसी), 2019 रिलीज वेव 2, version 15.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 13 अप्रैल 2021 |
 | [Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 1803](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 1809](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, वर्ज़न 1909](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, वर्ज़न 1803](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows 10 IoT Enterprise, वर्ज़न 1809](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, वर्ज़न 1909](/lifecycle/products/windows-server?branch=live)<br> | 11 मई 2021 |
-| [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br>[Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 मई 2021 |
+| [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 1910](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 29 मई 2021 |
 | [.NET Core 2.1 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 21 अगस्त 2021 |
 | [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 2002](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 01 अक्तूबर 2021 |
-| [Dynamics 365 Business Central ऑन-प्रेमिसेस (मॉडर्न पॉलिसी), 2020 रिलीज वेव 1, version 16.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 अक्तूबर 2021 |
 | [Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 2004](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home and Pro, वर्ज़न 2004](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise, वर्ज़न 2004](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br>[Windows Server, वर्ज़न 2004](/lifecycle/products/windows-server?branch=live)<br> | 14 दिसम्बर 2021 |
 
 
