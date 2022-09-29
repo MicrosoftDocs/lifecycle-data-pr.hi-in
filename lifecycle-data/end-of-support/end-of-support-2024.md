@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2024 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2024 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 08/31/2022
-ms.openlocfilehash: 810bb5ce124705b8100cfc934d14e8ebf5343554
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/21/2022
+ms.openlocfilehash: a4bd0494685a8d220747b0f76b3e1ba3ea68f78a
+ms.sourcegitcommit: 56d443d7c51462b98387364440f5064d3b61139e
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4518108"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526942"
 ---
 # <a name="products-ending-support-in-2024"></a>प्रोडक्ट के लिए 2024 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -34,8 +34,10 @@ ms.locfileid: "4518108"
 
 | उत्पाद | सर्विस की समाप्ति |
 | --- | --- |
+| [Microsoft Endpoint Configuration Manager, संस्करण 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 फरवरी 2024 |
 | [Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 21H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise, वर्ज़न 21H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 11 जून 2024 |
-| [Windows 11 Enterprise and Education (संस्करण 21H2)](/lifecycle/products/windows-11-enterprise-and-education-version-21h2?branch=live)<br>[Windows 11 IoT Enterprise (Version 21H2), मूल रिलीज़ (संस्करण 21H2)](/lifecycle/products/windows-11-iot-enterprise-version-21h2?branch=live)<br> | 08 अक्तूबर 2024 |
+| [Windows 11 Enterprise and Education, संस्करण 21H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, संस्करण 21H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 08 अक्तूबर 2024 |
+| [Windows 11 Home and Pro, संस्करण 22H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 14 अक्तूबर 2024 |
 | [PowerShell, PowerShell 7.2 (LTS-वर्तमान)](/lifecycle/products/powershell?branch=live)<br> | 8 नवंबर, 2024 |
 | [Azure IoT Edge, संस्करण 1.4 (LTS)](/lifecycle/products/azure-iot-edge?branch=live)<br>[.NET 6.0 (LTS)](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | 12 नवंबर, 2024 |
 

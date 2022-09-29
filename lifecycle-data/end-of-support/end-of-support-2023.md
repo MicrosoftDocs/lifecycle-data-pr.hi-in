@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2023 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2023 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521060"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526868"
 ---
 # <a name="products-ending-support-in-2023"></a>प्रोडक्ट के लिए 2023 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521060"
 | उत्पाद | सर्विस की समाप्ति |
 | --- | --- |
 | [Microsoft एंडपॉइंट कॉन्फ़िगरेशन मैनेजर, वर्ज़न 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 02 फरवरी 2023 |
-| [Microsoft Endpoint Configuration Manager, संस्करण 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 फरवरी 2023 |
 | [Dynamics 365 Business Central ऑन-प्रेमिसेस (मॉडर्न पॉलिसी), 2021 रिलीज वेव 2, version 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 अप्रैल 2023 |
 | [Windows 10 एंटरप्राइज और एजुकेशन, वर्ज़न 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT एंटरप्राइज वर्ज़न 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 09 मई 2023 |
 | [Microsoft समापन बिंदु कॉन्फ़िगरेशन प्रबंधक, संस्करण 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 1 जून 2023 |
 | [Windows 10 Home and Pro, वर्ज़न 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | 13 जून, 2023 |
 | [Microsoft Endpoint Configuration Manager, संस्करण 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 6 अक्टूबर 2023 |
-| [Dynamics 365 Business Central ऑन-प्रिमाइसेस (मॉडर्न पॉलिसी), 2022 रिलीज वेव 1, संस्करण 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro (संस्करण 21H2), मूल रिलीज़ (संस्करण 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 अक्तूबर 2023 |
+| [Dynamics 365 Business Central ऑन-प्रिमाइसेस (मॉडर्न पॉलिसी), 2022 रिलीज वेव 1, संस्करण 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home and Pro, संस्करण 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 अक्तूबर 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>प्रोडक्ट के लिए अब स्पोर्ट उपलब्ध नहीं होगा

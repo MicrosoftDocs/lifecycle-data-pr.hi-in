@@ -1,13 +1,13 @@
 ---
 title: प्रोडक्ट का 2025 के लिए स्पोर्ट खत्म
 description: पता लगाएं कि कौन से प्रोडक्ट बंद होंगे, जिनके लिए स्पोर्ट उपलब्ध नहीं होगी या 2025 में मेनस्ट्रिम स्पोर्ट से एक्सटेंडेड स्पोर्ट में आगे बढ़ेंगे।
-ms.date: 07/26/2022
-ms.openlocfilehash: e8838567dcbd55799be4036be1031dcb5181caab
-ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
+ms.date: 09/20/2022
+ms.openlocfilehash: f4b77006c5c2f23c9f624de090a371da2fceeb2c
+ms.sourcegitcommit: 271be77bfed364b789251cdc113296e7e7842cbb
 ms.translationtype: HT
 ms.contentlocale: hi-IN
-ms.lasthandoff: 09/09/2022
-ms.locfileid: "4517914"
+ms.lasthandoff: 09/20/2022
+ms.locfileid: "4526157"
 ---
 # <a name="products-ending-support-in-2025"></a>प्रोडक्ट के लिए 2025 में स्पोर्ट उपलब्ध नहीं होगा
 
@@ -27,6 +27,13 @@ ms.locfileid: "4517914"
 | [Windows 10 Enterprise and Education](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 Home और Pro](/lifecycle/products/windows-10-home-and-pro?branch=live)<br>[Windows 10 IoT Enterprise](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 14 अक्तूबर 2025 |
 
 
+## <a name="release-end-of-servicing"></a>रिलीज की सर्विस समाप्ति
+
+निम्न प्रोडक्ट रिलीज को [मॉडर्न पॉलिसी](/lifecycle/policies/modern) के अधीन 2025 में स्पोर्ट उपलब्ध नहीं होगा.
+
+| उत्पाद | सर्विस की समाप्ति |
+| --- | --- |
+| [Windows 11 Enterprise and Education, संस्करण 22H2](/lifecycle/products/windows-11-enterprise-and-education?branch=live)<br>[Windows 11 IoT Enterprise, संस्करण 22H2](/lifecycle/products/windows-11-iot-enterprise?branch=live)<br> | 14 अक्तूबर 2025 |
 
 
 ## <a name="products-reaching-end-of-support"></a>प्रोडक्ट के लिए अब स्पोर्ट उपलब्ध नहीं होगा
